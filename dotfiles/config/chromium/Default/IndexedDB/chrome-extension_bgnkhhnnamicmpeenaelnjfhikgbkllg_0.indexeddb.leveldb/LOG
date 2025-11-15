@@ -1,0 +1,20 @@
+2025/11/15-14:41:06.498 6f5d Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/15-14:41:06.498 6f5d Recovering log #65
+2025/11/15-14:41:06.498 6f5d Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000065.log 
+2025/11/15-14:41:06.499 6f5d Delete type=2 #60
+2025/11/15-14:41:06.499 6f5d Delete type=2 #61
+2025/11/15-14:41:06.499 6f5d Delete type=2 #62
+2025/11/15-14:41:06.499 6f5d Delete type=2 #63
+2025/11/15-14:41:06.516 6f5d Level-0 table #73: started
+2025/11/15-14:41:06.517 6f5d Level-0 table #73: 623 bytes OK
+2025/11/15-14:41:06.518 6f5d Delete type=0 #65
+2025/11/15-14:41:06.518 6f5d Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 13362 : 1
+2025/11/15-14:41:06.518 6f5d Compacting 1@0 + 4@1 files
+2025/11/15-14:41:06.525 6f5d Generated table #74@0: 3829 keys, 2113373 bytes
+2025/11/15-14:41:06.539 6f5d Generated table #75@0: 576 keys, 2126314 bytes
+2025/11/15-14:41:06.546 6f5d Generated table #76@0: 479 keys, 2116026 bytes
+2025/11/15-14:41:06.549 6f5d Generated table #77@0: 335 keys, 139113 bytes
+2025/11/15-14:41:06.549 6f5d Compacted 1@0 + 4@1 files => 6494826 bytes
+2025/11/15-14:41:06.550 6f5d compacted to: files[ 0 4 1 0 0 0 0 ]
+2025/11/15-14:41:06.550 6f5d Delete type=2 #73
+2025/11/15-14:41:06.550 6f5d Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 13362 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)

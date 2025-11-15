@@ -1,0 +1,12 @@
+2025-11-12 09:56:16.115 [info] Started local extension host with pid 11230.
+2025-11-12 09:56:16.743 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-12 09:56:18.801 [info] [perf] Render performance baseline is 13ms
+2025-11-12 09:56:21.448 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-12 09:56:39.405 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2025-11-12 09:56:42.624 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/peaches/.config/ghostty/themes/nord.conf 
+2025-11-12 09:56:42.870 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-12 09:56:42.935 [info] Started local extension host with pid 17297.
+2025-11-12 09:56:43.359 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-12 09:56:43.596 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-12 09:56:45.499 [info] [perf] Render performance baseline is 15ms
+2025-11-12 09:57:54.353 [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,54 @@
+#!/usr/bin/env bash
+# ------------------------------------------------------------
+# webapp-launch
+# Universal Chromium web app launcher for Hyprland
+# ------------------------------------------------------------
+# Features:
+# - Uses your main Chromium profile (~/.config/chromium)
+# - Works with Wayland (ozone-platform flags)
+# - Focuses the app if already open, otherwise launches it
+# ------------------------------------------------------------
+# Usage:
+#   webapp-launch "https://chat.openai.com"
+# ------------------------------------------------------------
+
+url="$1"
+shift
+
+if [[ -z "$url" ]]; then
+    echo "Usage: webapp-launch <url>"
+    exit 1
+fi
+
+# Normalize class name (used for window matching)
+app_class="webapp-$(echo "$url" | sed 's#https\?://##; s#[^a-zA-Z0-9]#_#g')"
+
+# Detect browser binary (Chromium preferred, fallback to Chrome or Brave)
+browser=$(command -v chromium || command -v google-chrome || command -v brave-browser)
+if [[ -z "$browser" ]]; then
+    echo "No Chromium-compatible browser found."
+    exit 1
+fi
+
+# Check if a window with this class already exists (via Hyprland)
+if hyprctl clients | grep -q "$app_class"; then
+    hyprctl dispatch focuswindow "$app_class"
+    exit 0
+fi
+
+# Launch new window using your main Chromium profile
+exec setsid "$browser" \
+    --user-data-dir="$HOME/.config/chromium" \
+    --class="$app_class" \
+    --app="$url" \
+    --window-size=1280,800 \
+    --app-auto-launched \
+    --no-first-run \
+    --no-default-browser-check \
+    --disable-translate \
+    --disable-features=TranslateUI,SidePanel,AutofillKeyboardAccessoryView,PasswordManagerOnboarding,GlobalMediaControls \
+    --hide-crash-restore-bubble \
+    --ozone-platform=wayland \
+    --enable-features=UseOzonePlatform \
+    --enable-wayland-ime \
+    "$@" >/dev/null 2>&1 &

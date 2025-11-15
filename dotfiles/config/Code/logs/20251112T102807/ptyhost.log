@@ -1,0 +1,1 @@
+2025-11-12 10:28:08.563 [error] Failed to set sticky bit on /tmp/peaches-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/peaches-code-zsh'

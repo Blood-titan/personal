@@ -1,0 +1,16 @@
+[Unit]
+Description=Wayland clipboard manager (cliphist)
+After=graphical-session.target
+
+[Service]
+Type=simple
+Environment=WAYLAND_DISPLAY=%EWAYLAND_DISPLAY%
+Environment=XDG_RUNTIME_DIR=%EXDG_RUNTIME_DIR%
+ExecStart=/usr/bin/cliphist store
+Restart=always
+RestartSec=2
+StandardOutput=null
+StandardError=null
+
+[Install]
+WantedBy=default.target

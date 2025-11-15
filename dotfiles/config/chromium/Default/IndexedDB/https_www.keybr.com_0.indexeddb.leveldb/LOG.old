@@ -1,0 +1,6 @@
+2025/11/14-20:04:27.973 b24 Creating DB /home/peaches/.config/chromium/Default/IndexedDB/https_www.keybr.com_0.indexeddb.leveldb since it was missing.
+2025/11/14-20:04:27.974 b24 Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_www.keybr.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/14-20:04:29.993 b26 Level-0 table #5: started
+2025/11/14-20:04:29.994 b26 Level-0 table #5: 820 bytes OK
+2025/11/14-20:04:29.995 b26 Delete type=0 #3
+2025/11/14-20:04:29.996 b26 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

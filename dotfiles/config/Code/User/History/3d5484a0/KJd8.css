@@ -1,0 +1,158 @@
+* {
+  font-family: "JetBrainsMono NFP", "Segoe UI", monospace;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+window {
+  --base: #1e1e2e;
+  --mantle: #181825;
+  --surface: #313244;
+  --text: #cdd6f4;
+  --subtext: #a6adc8;
+  --blue: #89b4fa;
+  --lavender: #b4befe;
+  --green: #a6e3a1;
+  --yellow: #f9e2af;
+  --peach: #fab387;
+  --red: #f38ba8;
+  --mauve: #cba6f7;
+  --flamingo: #f2cdcd;
+  --pink: #f5c2e7;
+  --radius: 6px;
+  --height: 26px;
+}
+
+
+#waybar {
+  background-color: rgba(30, 30, 46, 0.85);
+  border-bottom: 1px solid var(--surface);
+  padding: 3px 8px;
+  min-height: var(--height);
+}
+
+/* generic modules */
+.modules-left > *,
+.modules-center > *,
+.modules-right > * {
+  background-color: transparent;
+  padding: 2px 6px;
+  margin: 0 2px;
+  border-radius: var(--radius);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.modules-left > *:hover,
+.modules-center > *:hover,
+.modules-right > *:hover {
+  background-color: rgba(205, 214, 244, 0.08);
+}
+
+/* ────────────────────────────────
+   Clock
+   ──────────────────────────────── */
+#clock {
+  background-color: var(--blue);
+  color: var(--base);
+  font-weight: 700;
+  padding: 0 10px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+/* ────────────────────────────────
+   CPU
+   ──────────────────────────────── */
+#cpu { color: var(--blue); }
+
+/* ────────────────────────────────
+   Battery
+   ──────────────────────────────── */
+#battery { color: var(--green); }
+#battery.charging { color: var(--yellow); }
+#battery.critical { color: var(--red); }
+
+/* ────────────────────────────────
+   Volume / Audio
+   ──────────────────────────────── */
+#pulseaudio {
+  color: var(--lavender);
+  font-weight: 700;
+}
+#pulseaudio.muted { color: var(--red); }
+
+/* ────────────────────────────────
+   Workspaces
+   ──────────────────────────────── */
+#workspaces button {
+  background-color: var(--surface);
+  border: none;
+  border-radius: 5px;
+  margin: 0 4px;
+  padding: 0;
+  min-width: 10px;
+  height: 10px;
+}
+#workspaces button.focused {
+  background-color: var(--mauve);
+  width: 36px;
+}
+#workspaces button:hover { background-color: var(--blue); }
+#workspaces button.urgent { background-color: var(--red); }
+
+/* ────────────────────────────────
+   Media
+   ──────────────────────────────── */
+#playerctl { color: var(--pink); }
+
+/* ────────────────────────────────
+   Pomodoro
+   ──────────────────────────────── */
+#custom-pomodoro.work { color: var(--green); }
+#custom-pomodoro.break { color: var(--blue); }
+#custom-pomodoro.paused { color: var(--subtext); }
+
+/* ────────────────────────────────
+   Weather
+   ──────────────────────────────── */
+#custom-weather { color: var(--yellow); }
+
+/* ────────────────────────────────
+   Power & Theme
+   ──────────────────────────────── */
+#custom-power {
+  color: var(--red);
+  font-weight: bold;
+}
+#custom-theme { color: var(--mauve); }
+
+/* ────────────────────────────────
+   Tray
+   ──────────────────────────────── */
+#tray > * { margin: 0 4px; }
+
+/* ────────────────────────────────
+   Window title
+   ──────────────────────────────── */
+#window {
+  background-color: var(--surface);
+  color: var(--text);
+  padding: 0 8px;
+  border-radius: var(--radius);
+}
+
+/* ────────────────────────────────
+   Tooltip
+   ──────────────────────────────── */
+tooltip {
+  background-color: var(--mantle);
+  border: 1px solid var(--surface);
+  color: var(--text);
+  border-radius: 6px;
+  padding: 6px;
+  font-size: 12px;
+}

@@ -1,0 +1,106 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "bd35ddc1e4bf49e7dd9f3f668f15a7e8bdaa71dc06ba6b6144fb4e69dc56b76e",
+    "telemetry.devDeviceId": "f7103d7b-fd6e-44ae-84f4-60656bf5793b",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/peaches"
+            },
+            {
+                "folderUri": "file:///home/peaches/.config/waybar"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 60,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/peaches": "__default__profile__",
+            "file:///home/peaches/.config/.sddm-themes/catppuccin-mocha": "__default__profile__",
+            "file:///home/peaches/.config/hypr": "__default__profile__",
+            "file:///run/media/peaches/Ventoy/user/config/hypr": "__default__profile__",
+            "file:///home/peaches/.config/ghostty": "__default__profile__",
+            "file:///home/peaches/.config/waybar": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/peaches/.config/waybar",
+            "backupPath": "/home/peaches/.config/Code/Backups/6503fa781920d5046a264391ec20f87b",
+            "uiState": {
+                "mode": 1,
+                "x": 967,
+                "y": 12,
+                "width": 941,
+                "height": 1056,
+                "zoomLevel": 3
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "8357c2a0c4e6ec474ff9a70f16c88ada": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7fd24fcd4f823f76728001852930f92a": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                },
+                "7f0c209595871f2884d93ac29a242d3f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c244b13ea239ca935d6a0d3836444c0a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6d8783d92d5fd6fc96e4927592ac18bb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "449aeecebd5c47ea2e93d70a2aa7a0ed": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

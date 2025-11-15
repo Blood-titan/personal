@@ -1,0 +1,126 @@
+{
+  // ────────────────────────────────
+  // 🌙 Catppuccin Mocha Waybar Config
+  // ────────────────────────────────
+  "layer": "top",
+  "position": "top",
+  "height": 26,
+  "spacing": 4,
+  "margin": 0,
+
+  "modules-left": [
+    "workspaces",
+    "window"
+  ],
+
+  "modules-center": [
+    "clock"
+  ],
+
+  "modules-right": [
+    "cpu",
+    "battery",
+    "pulseaudio",
+    "playerctl",
+    "custom/weather",
+    "custom/pomodoro",
+    "custom/theme",
+    "custom/power",
+    "tray"
+  ],
+
+  // ────────────────────────────────
+  // Modules
+  // ────────────────────────────────
+
+  "workspaces": {
+    "disable-scroll": false,
+    "format": "{icon}",
+    "on-click": "activate",
+    "on-scroll-up": "hyprctl dispatch workspace e+1",
+    "on-scroll-down": "hyprctl dispatch workspace e-1"
+  },
+
+  "window": {
+    "format": "{}",
+    "max-length": 60,
+    "separate-outputs": true
+  },
+
+  "clock": {
+    "format": "  {:%H:%M}",
+    "tooltip-format": "📅  {:%A, %d %B %Y}",
+    "interval": 60
+  },
+
+  "cpu": {
+    "format": "󰍛 {usage:2}%",
+    "tooltip": true,
+    "interval": 5
+  },
+
+  "battery": {
+    "format": "{icon} {capacity:2}%",
+    "format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+    "interval": 30,
+    "tooltip-format": "{timeTo}",
+    "critical-threshold": 15,
+    "on-click": "notify-send 'Battery Info' $(acpi -b)"
+  },
+
+  "pulseaudio": {
+    "format": "{icon} {volume:2}%",
+    "format-icons": {
+      "default": ["", "", ""]
+    },
+    "tooltip-format": "🎧  {desc}\n🔊  {volume}%\n🎙️  {source_desc}",
+    "scroll-step": 2,
+    "on-click": "pavucontrol"
+  },
+
+  "playerctl": {
+    "player": "spotify,firefox,chromium,mpv",
+    "format": "{status_icon} {artist} - {title}",
+    "format-icons": {
+      "Playing": "",
+      "Paused": "",
+      "Stopped": ""
+    },
+    "max-length": 40,
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl next",
+    "on-scroll-down": "playerctl previous"
+  },
+
+  "tray": {
+    "icon-size": 14,
+    "spacing": 8
+  },
+
+  "custom/weather": {
+    "format": "󰖕  {output}",
+    "exec": "~/.config/waybar/scripts/weather.sh",
+    "interval": 900,
+    "return-type": "json",
+    "tooltip": true
+  },
+
+  "custom/pomodoro": {
+    "format": "󰄉  {output}",
+    "exec": "~/.config/waybar/scripts/pomodoro.sh",
+    "interval": 60,
+    "return-type": "json",
+    "tooltip": true
+  },
+
+  "custom/power": {
+    "format": "",
+    "on-click": "wlogout"
+  },
+
+  "custom/theme": {
+    "format": "󰔎",
+    "tooltip": "Switch Theme",
+    "on-click": "~/.config/waybar/scripts/theme-toggle.sh"
+  }
+}

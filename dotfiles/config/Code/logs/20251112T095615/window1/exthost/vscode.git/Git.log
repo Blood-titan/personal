@@ -1,0 +1,122 @@
+2025-11-12 09:56:16.679 [info] [main] Log level: Info
+2025-11-12 09:56:16.679 [info] [main] Validating found git in: "git"
+2025-11-12 09:56:16.679 [info] [main] Using git "2.51.2" from "git"
+2025-11-12 09:56:16.679 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-12 09:56:16.679 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-12 09:56:16.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:16.679 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:16.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:16.679 [info] > git rev-parse --show-toplevel [0ms]
+2025-11-12 09:56:16.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:16.679 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-12 09:56:16.699 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:16.699 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:16.797 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-12 09:56:16.797 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:16.801 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:16.801 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:16.845 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:16.845 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:18.714 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-12 09:56:18.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:43.418 [info] [main] Log level: Info
+2025-11-12 09:56:43.418 [info] [main] Validating found git in: "git"
+2025-11-12 09:56:43.418 [info] [main] Using git "2.51.2" from "git"
+2025-11-12 09:56:43.418 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-12 09:56:43.418 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-12 09:56:43.418 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:43.422 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:43.422 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:43.425 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:43.425 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:43.427 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-12 09:56:43.579 [info] > git rev-parse --show-toplevel [28ms]
+2025-11-12 09:56:43.579 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:43.584 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-12 09:56:43.584 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:45.399 [info] > git rev-parse --show-toplevel [0ms]
+2025-11-12 09:56:45.400 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:46.814 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:46.814 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:47.596 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:47.596 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:52.831 [info] > git rev-parse --show-toplevel [0ms]
+2025-11-12 09:56:52.831 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:56:53.687 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:56:53.687 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:57:00.283 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:57:00.283 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:57:19.892 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:57:19.892 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:57:21.240 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:57:21.240 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-12 09:57:36.900 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 09:57:36.907 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [3ms]
+2025-11-12 09:57:36.912 [info] [Model][openRepository] Opened repository (path): /home/peaches/.config/waybar/gdots
+2025-11-12 09:57:36.912 [info] [Model][openRepository] Opened repository (real path): /home/peaches/.config/waybar/gdots
+2025-11-12 09:57:36.912 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-12 09:57:36.917 [info] > git config --get commit.template [0ms]
+2025-11-12 09:57:36.920 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2025-11-12 09:57:36.921 [info] > git symbolic-ref --short HEAD [1ms]
+2025-11-12 09:57:36.921 [info] fatal: No such ref: HEAD
+2025-11-12 09:57:36.924 [info] > git rev-parse HEAD [1ms]
+2025-11-12 09:57:36.924 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-11-12 09:57:36.933 [info] > git status -z -uall [6ms]
+2025-11-12 09:57:36.935 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-11-12 09:57:36.944 [info] > git config --get commit.template [1ms]
+2025-11-12 09:57:36.945 [info] > git symbolic-ref --short HEAD [3ms]
+2025-11-12 09:57:36.945 [info] fatal: No such ref: HEAD
+2025-11-12 09:57:36.949 [info] > git rev-parse HEAD [1ms]
+2025-11-12 09:57:36.949 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-11-12 09:57:36.955 [info] > git status -z -uall [4ms]
+2025-11-12 09:57:36.956 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-12 09:57:37.431 [info] > git check-ignore -v -z --stdin [1ms]
+2025-11-12 09:57:38.247 [info] > git config --get commit.template [1ms]
+2025-11-12 09:57:38.247 [info] > git symbolic-ref --short HEAD [5ms]
+2025-11-12 09:57:38.247 [info] fatal: No such ref: HEAD
+2025-11-12 09:57:38.252 [info] > git rev-parse HEAD [1ms]
+2025-11-12 09:57:38.252 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2025-11-12 09:57:38.257 [info] > git status -z -uall [3ms]
+2025-11-12 09:57:38.258 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-12 09:57:41.375 [info] > git check-ignore -v -z --stdin [1ms]
+2025-11-12 09:57:42.543 [info] > git check-ignore -v -z --stdin [2ms]
+2025-11-12 09:57:43.268 [info] > git symbolic-ref --short HEAD [4ms]
+2025-11-12 09:57:43.272 [info] > git config --get commit.template [4ms]
+2025-11-12 09:57:43.272 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-12 09:57:43.275 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/peaches/.config/waybar/gdots/.git/refs/remotes/origin/master'
+2025-11-12 09:57:43.276 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-12 09:57:43.282 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-12 09:57:43.286 [info] > git status -z -uall [7ms]
+2025-11-12 09:57:43.292 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-12 09:57:43.297 [info] > git config --get --local branch.master.vscode-merge-base [1ms]
+2025-11-12 09:57:43.297 [warning] [Git][config] git config failed: Failed to execute git
+2025-11-12 09:57:43.302 [info] > git reflog master --grep-reflog=branch: Created from *. [1ms]
+2025-11-12 09:57:43.305 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2025-11-12 09:57:43.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [1ms]
+2025-11-12 09:57:43.314 [info] > git config --add --local branch.master.vscode-merge-base origin/master [2ms]
+2025-11-12 09:57:43.320 [info] > git symbolic-ref --short HEAD [4ms]
+2025-11-12 09:57:43.323 [info] > git config --get commit.template [4ms]
+2025-11-12 09:57:43.323 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-12 09:57:43.325 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/peaches/.config/waybar/gdots/.git/refs/remotes/origin/master'
+2025-11-12 09:57:43.326 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-12 09:57:43.333 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-12 09:57:43.336 [info] > git status -z -uall [8ms]
+2025-11-12 09:57:43.343 [info] > git merge-base refs/heads/master refs/remotes/origin/master [3ms]
+2025-11-12 09:57:43.347 [info] > git merge-base refs/heads/master refs/remotes/origin/master [4ms]
+2025-11-12 09:57:43.349 [info] > git diff --name-status -z --diff-filter=ADMR cf65b513045aff7ddf32a2cf488202cedcff5c06...refs/remotes/origin/master [3ms]
+2025-11-12 09:57:43.350 [info] > git diff --name-status -z --diff-filter=ADMR cf65b513045aff7ddf32a2cf488202cedcff5c06...refs/remotes/origin/master [1ms]
+2025-11-12 09:57:48.300 [info] > git config --get commit.template [1ms]
+2025-11-12 09:57:48.301 [info] > git symbolic-ref --short HEAD [4ms]
+2025-11-12 09:57:48.304 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-12 09:57:48.306 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/peaches/.config/waybar/gdots/.git/refs/remotes/origin/master'
+2025-11-12 09:57:48.307 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-12 09:57:48.315 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-12 09:57:48.319 [info] > git status -z -uall [7ms]
+2025-11-12 09:57:53.337 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/peaches/.config/waybar/gdots/.git/config'
+2025-11-12 09:57:53.349 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/peaches/.config/waybar/gdots/.git/config'

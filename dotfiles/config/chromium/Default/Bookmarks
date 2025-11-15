@@ -1,0 +1,47 @@
+{
+   "checksum": "402e50c97080d00e683972716fd224b7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13407590488038137",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13407591568877462",
+            "date_last_used": "0",
+            "guid": "5e9c020a-2c39-4de2-8421-3f1d123c96eb",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Neuronal Fluctuations: Learning Rates vs Participating Neurons",
+            "type": "url",
+            "url": "https://arxiv.org/pdf/2511.10435"
+         } ],
+         "date_added": "13407590488038137",
+         "date_last_used": "0",
+         "date_modified": "13407591568877462",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13407590488038137",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

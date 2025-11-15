@@ -1,0 +1,10 @@
+file:///home/peaches/.config/themes/nord/hyprland.conf {"mtime":1762832891253,"ctime":1762836667427,"size":152,"etag":"3f5i32ngk4s","orphaned":false,"typeId":""}
+$activeBorderColor = 
+
+general {
+    col.active_border = $activeBorderColor
+}
+
+group {
+    col.border_active = $activeBorderColor
+}

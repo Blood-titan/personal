@@ -1,0 +1,143 @@
+/*------------------
+    window count
+------------------*/
+
+#windowcount {
+  margin-right: 12px;
+}
+#windowcount label {
+  color: var(--hover-fg);
+}
+
+/*-----------------
+    temperature
+-----------------*/
+
+#custom-left_div\.2 {
+  color: var(--temperature);
+}
+#temperature {
+  background-color: var(--temperature);
+  color: var(--main-bg);
+  padding: 0 8px;
+  border-radius: 6px;
+}
+
+/*------------
+    memory
+------------*/
+
+#custom-left_div\.3 {
+  background-color: var(--temperature);
+  color: var(--memory);
+}
+#memory {
+  background-color: var(--memory);
+  color: var(--main-bg);
+  padding: 0 8px;
+  border-radius: 6px;
+}
+
+/*---------
+    cpu
+---------*/
+
+#custom-left_div\.4 {
+  background-color: var(--memory);
+  color: var(--cpu);
+}
+#cpu {
+  background-color: var(--cpu);
+  color: var(--main-bg);
+  padding: 0 8px;
+  border-radius: 6px;
+}
+
+#custom-left_inv\.1 {
+  color: var(--cpu);
+}
+
+/*-----------------
+    distro icon
+-----------------*/
+
+#custom-left_div\.5,
+#custom-right_div\.2 {
+  color: var(--accent);
+}
+#custom-distro {
+  padding: 0 10px 0 5px;
+  background-color: var(--accent);
+  color: var(--main-bg);
+  border-radius: 6px;
+}
+
+/*--------------------
+    idle inhibitor
+--------------------*/
+
+#custom-right_inv\.1 {
+  color: var(--time);
+}
+#idle_inhibitor {
+  background-color: var(--time);
+  color: var(--main-bg);
+  padding: 0 6px;
+  border-radius: 6px;
+}
+
+/*----------
+    time
+----------*/
+
+#clock.time {
+  padding-right: 6px;
+  background-color: var(--time);
+  color: var(--main-bg);
+  border-radius: 6px 0 0 6px;
+}
+#custom-right_div\.3 {
+  background-color: var(--date);
+  color: var(--time);
+}
+
+/*----------
+    date
+----------*/
+
+#clock.date {
+  padding-left: 6px;
+  background-color: var(--date);
+  color: var(--main-bg);
+  border-radius: 0 6px 6px 0;
+}
+#custom-right_div\.4 {
+  background-color: var(--tray);
+  color: var(--date);
+}
+
+/*-----------------
+    system tray
+-----------------*/
+
+#network {
+  background-color: var(--tray);
+  padding: 0 6px 0 4px;
+  color: var(--main-bg);
+  border-radius: 6px;
+}
+#bluetooth {
+  background-color: var(--tray);
+  padding: 0 5px;
+  color: var(--main-bg);
+  border-radius: 6px;
+}
+#custom-system_update {
+  background-color: var(--tray);
+  padding: 0 8px 0 2px;
+  color: var(--main-bg);
+  border-radius: 6px;
+}
+#custom-right_div\.5 {
+  color: var(--tray);
+}
