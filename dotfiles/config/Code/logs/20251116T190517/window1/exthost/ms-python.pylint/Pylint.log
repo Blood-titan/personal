@@ -1,0 +1,494 @@
+2025-11-16 19:05:22.965 [info] Name: Pylint
+2025-11-16 19:05:22.965 [info] Module: pylint
+2025-11-16 19:05:22.965 [info] Python extension loading
+2025-11-16 19:05:22.965 [info] Waiting for interpreter from Python extension.
+2025-11-16 19:05:23.055 [info] No interpreter found from setting pylint.interpreter
+2025-11-16 19:05:23.055 [info] Getting interpreter from ms-python.python extension for workspace /home/peaches/basic-movie-recommendation
+2025-11-16 19:05:23.055 [info] Python extension loaded
+2025-11-16 19:05:23.060 [info] Interpreter from ms-python.python extension for /home/peaches/basic-movie-recommendation: /home/peaches/basic-movie-recommendation/.venv/bin/python
+2025-11-16 19:05:23.061 [info] No interpreter found from setting pylint.interpreter
+2025-11-16 19:05:23.061 [info] Getting interpreter from ms-python.python extension for workspace /home/peaches/basic-movie-recommendation
+2025-11-16 19:05:23.069 [info] Interpreter from ms-python.python extension for /home/peaches/basic-movie-recommendation: /home/peaches/basic-movie-recommendation/.venv/bin/python
+2025-11-16 19:05:23.102 [info] Server run command: /home/peaches/basic-movie-recommendation/.venv/bin/python /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/tool/lsp_server.py
+2025-11-16 19:05:23.103 [info] Server: Start requested.
+2025-11-16 19:05:23.564 [info] CWD Server: /home/peaches/basic-movie-recommendation
+2025-11-16 19:05:23.564 [info] Settings used to run Server:
+[
+    {
+        "enabled": true,
+        "cwd": "/home/peaches/basic-movie-recommendation",
+        "workspace": "file:///home/peaches/basic-movie-recommendation",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2025-11-16 19:05:23.564 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "enabled": true,
+    "workspace": "/home/peaches",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2025-11-16 19:05:23.564 [info] sys.path used to run Server:
+   /home/peaches/basic-movie-recommendation
+   /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/tool
+   /home/peaches/anaconda3/lib/python313.zip
+   /home/peaches/anaconda3/lib/python3.13
+   /home/peaches/anaconda3/lib/python3.13/lib-dynload
+   /home/peaches/basic-movie-recommendation/.venv/lib/python3.13/site-packages
+2025-11-16 19:05:23.565 [info] /home/peaches/basic-movie-recommendation/.venv/bin/python -m pylint --version
+2025-11-16 19:05:23.565 [info] CWD Linter: /home/peaches/basic-movie-recommendation
+2025-11-16 19:05:23.670 [info] 
+pylint 3.3.4
+astroid 3.3.8
+Python 3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:09:02) [GCC 11.2.0]
+
+
+2025-11-16 19:05:23.670 [info] Version info for linter running for /home/peaches/basic-movie-recommendation:
+pylint 3.3.4
+astroid 3.3.8
+Python 3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:09:02) [GCC 11.2.0]
+
+2025-11-16 19:05:23.670 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==3.3.4
+
+2025-11-16 19:05:23.684 [info] [Trace - 7:05:23 PM] Sending request 'textDocument/codeAction - (1)'.
+2025-11-16 19:05:23.687 [info] [Trace - 7:05:23 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:23.687 [info] /home/peaches/basic-movie-recommendation/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/peaches/basic-movie-recommendation/test.py
+2025-11-16 19:05:23.688 [info] [Trace - 7:05:23 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:23.688 [info] CWD Linter: /home/peaches/basic-movie-recommendation
+2025-11-16 19:05:24.051 [info] [Trace - 7:05:24 PM] Sending notification '$/cancelRequest'.
+2025-11-16 19:05:24.052 [info] [Trace - 7:05:24 PM] Sending request 'textDocument/codeAction - (2)'.
+2025-11-16 19:05:25.918 [info] [Trace - 7:05:25 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:25.918 [info] file:///home/peaches/basic-movie-recommendation/test.py :
+[
+    {
+        "type": "convention",
+        "module": "test",
+        "obj": "",
+        "line": 20,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "test.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (145/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "test",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "test.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "test",
+        "obj": "get_genre",
+        "line": 16,
+        "column": 0,
+        "endLine": 16,
+        "endColumn": 13,
+        "path": "test.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "test",
+        "obj": "",
+        "line": 5,
+        "column": 0,
+        "endLine": 5,
+        "endColumn": 9,
+        "path": "test.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"os\" should be placed before third party imports \"fastapi.FastAPI\", \"pydantic.BaseModel\", \"joblib\", \"requests\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "test",
+        "obj": "",
+        "line": 8,
+        "column": 0,
+        "endLine": 8,
+        "endColumn": 13,
+        "path": "test.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"random\" should be placed before third party imports \"fastapi.FastAPI\", \"pydantic.BaseModel\", \"joblib\", \"requests\", \"fastapi.middleware.cors.CORSMiddleware\", \"dotenv.load_dotenv\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "test",
+        "obj": "",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 50,
+        "path": "test.py",
+        "symbol": "ungrouped-imports",
+        "message": "Imports from package fastapi are not grouped",
+        "message-id": "C0412"
+    },
+    {
+        "type": "warning",
+        "module": "test",
+        "obj": "",
+        "line": 2,
+        "column": 0,
+        "endLine": 2,
+        "endColumn": 30,
+        "path": "test.py",
+        "symbol": "unused-import",
+        "message": "Unused BaseModel imported from pydantic",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "test",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 15,
+        "path": "test.py",
+        "symbol": "unused-import",
+        "message": "Unused import requests",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "test",
+        "obj": "",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 50,
+        "path": "test.py",
+        "symbol": "unused-import",
+        "message": "Unused CORSMiddleware imported from fastapi.middleware.cors",
+        "message-id": "W0611"
+    }
+]
+
+2025-11-16 19:05:25.920 [info] [Trace - 7:05:25 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:25.922 [info] [Trace - 7:05:25 PM] Received response 'textDocument/codeAction - (1)' in 2238ms.
+2025-11-16 19:05:25.923 [info] [Trace - 7:05:25 PM] Received response 'textDocument/codeAction - (2)' in 1871ms.
+2025-11-16 19:05:26.291 [info] [Trace - 7:05:26 PM] Sending request 'textDocument/codeAction - (3)'.
+2025-11-16 19:05:26.294 [info] [Trace - 7:05:26 PM] Received response 'textDocument/codeAction - (3)' in 3ms.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.840 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.841 [info] [Trace - 7:05:26 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:05:26.878 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.878 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W0sZmlsZQ%3D%3D
+2025-11-16 19:05:26.880 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.882 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.882 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W1sZmlsZQ%3D%3D
+2025-11-16 19:05:26.892 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.893 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.893 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W2sZmlsZQ%3D%3D
+2025-11-16 19:05:26.894 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.894 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.894 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W3sZmlsZQ%3D%3D
+2025-11-16 19:05:26.895 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.897 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.897 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W4sZmlsZQ%3D%3D
+2025-11-16 19:05:26.897 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.898 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.898 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W5sZmlsZQ%3D%3D
+2025-11-16 19:05:26.898 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.898 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.898 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W6sZmlsZQ%3D%3D
+2025-11-16 19:05:26.899 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.899 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.899 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X10sZmlsZQ%3D%3D
+2025-11-16 19:05:26.899 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.900 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.900 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X11sZmlsZQ%3D%3D
+2025-11-16 19:05:26.900 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.901 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.901 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X12sZmlsZQ%3D%3D
+2025-11-16 19:05:26.901 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.902 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.902 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X13sZmlsZQ%3D%3D
+2025-11-16 19:05:26.904 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.904 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.904 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X14sZmlsZQ%3D%3D
+2025-11-16 19:05:26.904 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.905 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.905 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X15sZmlsZQ%3D%3D
+2025-11-16 19:05:26.905 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.905 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.905 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X16sZmlsZQ%3D%3D
+2025-11-16 19:05:26.906 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.906 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.906 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X20sZmlsZQ%3D%3D
+2025-11-16 19:05:26.906 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.906 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.906 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X21sZmlsZQ%3D%3D
+2025-11-16 19:05:26.907 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.907 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.907 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X22sZmlsZQ%3D%3D
+2025-11-16 19:05:26.907 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.907 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.907 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X23sZmlsZQ%3D%3D
+2025-11-16 19:05:26.907 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.907 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.907 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X24sZmlsZQ%3D%3D
+2025-11-16 19:05:26.907 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:26.908 [info] [Trace - 7:05:26 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:26.908 [info] [Warn  - 7:05:26 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X25sZmlsZQ%3D%3D
+2025-11-16 19:05:26.908 [info] [Trace - 7:05:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:05:27.205 [info] [Trace - 7:05:27 PM] Sending request 'textDocument/codeAction - (4)'.
+2025-11-16 19:05:27.207 [info] [Trace - 7:05:27 PM] Received response 'textDocument/codeAction - (4)' in 2ms.
+2025-11-16 19:05:27.209 [info] [Trace - 7:05:27 PM] Sending request 'textDocument/codeAction - (5)'.
+2025-11-16 19:05:27.212 [info] [Trace - 7:05:27 PM] Received response 'textDocument/codeAction - (5)' in 3ms.
+2025-11-16 19:05:28.256 [info] [Trace - 7:05:28 PM] Sending request 'textDocument/codeAction - (6)'.
+2025-11-16 19:05:28.260 [info] [Trace - 7:05:28 PM] Received response 'textDocument/codeAction - (6)' in 3ms.
+2025-11-16 19:05:28.908 [info] [Trace - 7:05:28 PM] Sending request 'textDocument/codeAction - (7)'.
+2025-11-16 19:05:28.910 [info] [Trace - 7:05:28 PM] Received response 'textDocument/codeAction - (7)' in 2ms.
+2025-11-16 19:05:29.365 [info] [Trace - 7:05:29 PM] Sending request 'textDocument/codeAction - (8)'.
+2025-11-16 19:05:29.366 [info] [Trace - 7:05:29 PM] Received response 'textDocument/codeAction - (8)' in 1ms.
+2025-11-16 19:05:29.619 [info] [Trace - 7:05:29 PM] Sending request 'textDocument/codeAction - (9)'.
+2025-11-16 19:05:29.621 [info] [Trace - 7:05:29 PM] Received response 'textDocument/codeAction - (9)' in 2ms.
+2025-11-16 19:05:29.729 [info] [Trace - 7:05:29 PM] Sending request 'textDocument/codeAction - (10)'.
+2025-11-16 19:05:29.731 [info] [Trace - 7:05:29 PM] Received response 'textDocument/codeAction - (10)' in 2ms.
+2025-11-16 19:05:30.087 [info] [Trace - 7:05:30 PM] Sending request 'textDocument/codeAction - (11)'.
+2025-11-16 19:05:30.088 [info] [Trace - 7:05:30 PM] Received response 'textDocument/codeAction - (11)' in 1ms.
+2025-11-16 19:05:31.562 [info] [Trace - 7:05:31 PM] Sending request 'textDocument/codeAction - (12)'.
+2025-11-16 19:05:31.563 [info] [Trace - 7:05:31 PM] Received response 'textDocument/codeAction - (12)' in 1ms.
+2025-11-16 19:05:35.025 [info] [Trace - 7:05:35 PM] Sending request 'textDocument/codeAction - (13)'.
+2025-11-16 19:05:35.027 [info] [Trace - 7:05:35 PM] Received response 'textDocument/codeAction - (13)' in 2ms.
+2025-11-16 19:05:37.505 [info] [Trace - 7:05:37 PM] Sending request 'textDocument/codeAction - (14)'.
+2025-11-16 19:05:37.506 [info] [Trace - 7:05:37 PM] Received response 'textDocument/codeAction - (14)' in 1ms.
+2025-11-16 19:05:41.834 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (15)'.
+2025-11-16 19:05:41.835 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (15)' in 1ms.
+2025-11-16 19:05:41.871 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (16)'.
+2025-11-16 19:05:41.872 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (16)' in 1ms.
+2025-11-16 19:05:41.885 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (17)'.
+2025-11-16 19:05:41.886 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (17)' in 1ms.
+2025-11-16 19:05:41.911 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (18)'.
+2025-11-16 19:05:41.913 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (18)' in 2ms.
+2025-11-16 19:05:41.930 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (19)'.
+2025-11-16 19:05:41.931 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (19)' in 1ms.
+2025-11-16 19:05:41.932 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (20)'.
+2025-11-16 19:05:41.934 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (20)' in 2ms.
+2025-11-16 19:05:41.960 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (21)'.
+2025-11-16 19:05:41.961 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (21)' in 1ms.
+2025-11-16 19:05:41.989 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (22)'.
+2025-11-16 19:05:41.990 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (22)' in 1ms.
+2025-11-16 19:05:41.995 [info] [Trace - 7:05:41 PM] Sending request 'textDocument/codeAction - (23)'.
+2025-11-16 19:05:41.997 [info] [Trace - 7:05:41 PM] Received response 'textDocument/codeAction - (23)' in 2ms.
+2025-11-16 19:05:42.246 [info] [Trace - 7:05:42 PM] Sending request 'textDocument/codeAction - (24)'.
+2025-11-16 19:05:42.248 [info] [Trace - 7:05:42 PM] Received response 'textDocument/codeAction - (24)' in 2ms.
+2025-11-16 19:05:42.269 [info] [Trace - 7:05:42 PM] Sending request 'textDocument/codeAction - (25)'.
+2025-11-16 19:05:42.271 [info] [Trace - 7:05:42 PM] Received response 'textDocument/codeAction - (25)' in 2ms.
+2025-11-16 19:05:44.220 [info] [Trace - 7:05:44 PM] Sending request 'textDocument/codeAction - (26)'.
+2025-11-16 19:05:44.222 [info] [Trace - 7:05:44 PM] Received response 'textDocument/codeAction - (26)' in 2ms.
+2025-11-16 19:05:45.813 [info] [Trace - 7:05:45 PM] Sending request 'textDocument/codeAction - (27)'.
+2025-11-16 19:05:45.815 [info] [Trace - 7:05:45 PM] Received response 'textDocument/codeAction - (27)' in 2ms.
+2025-11-16 19:05:46.221 [info] [Trace - 7:05:46 PM] Sending request 'textDocument/codeAction - (28)'.
+2025-11-16 19:05:46.222 [info] [Trace - 7:05:46 PM] Received response 'textDocument/codeAction - (28)' in 1ms.
+2025-11-16 19:05:48.438 [info] [Trace - 7:05:48 PM] Sending request 'textDocument/codeAction - (29)'.
+2025-11-16 19:05:48.439 [info] [Trace - 7:05:48 PM] Received response 'textDocument/codeAction - (29)' in 1ms.
+2025-11-16 19:05:50.024 [info] [Trace - 7:05:50 PM] Sending request 'textDocument/codeAction - (30)'.
+2025-11-16 19:05:50.026 [info] [Trace - 7:05:50 PM] Received response 'textDocument/codeAction - (30)' in 2ms.
+2025-11-16 19:05:51.105 [info] [Trace - 7:05:51 PM] Sending request 'textDocument/codeAction - (31)'.
+2025-11-16 19:05:51.107 [info] [Trace - 7:05:51 PM] Received response 'textDocument/codeAction - (31)' in 2ms.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.179 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didOpen'.
+2025-11-16 19:16:36.188 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.190 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.191 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.192 [info] [Trace - 7:16:36 PM] Sending notification 'textDocument/didClose'.
+2025-11-16 19:16:36.194 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (32)'.
+2025-11-16 19:16:36.196 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (33)'.
+2025-11-16 19:16:36.197 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (34)'.
+2025-11-16 19:16:36.200 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (35)'.
+2025-11-16 19:16:36.201 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.202 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.202 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.202 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.202 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.203 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.203 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.203 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.203 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.203 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.203 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.204 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.204 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.204 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.204 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.204 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.204 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X26sZmlsZQ%3D%3D
+2025-11-16 19:16:36.204 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.204 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.204 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X30sZmlsZQ%3D%3D
+2025-11-16 19:16:36.204 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.205 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.205 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X31sZmlsZQ%3D%3D
+2025-11-16 19:16:36.207 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.208 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.208 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X32sZmlsZQ%3D%3D
+2025-11-16 19:16:36.208 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.208 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.208 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X33sZmlsZQ%3D%3D
+2025-11-16 19:16:36.209 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.209 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.209 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X34sZmlsZQ%3D%3D
+2025-11-16 19:16:36.209 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.209 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.209 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X35sZmlsZQ%3D%3D
+2025-11-16 19:16:36.210 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.210 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.210 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X36sZmlsZQ%3D%3D
+2025-11-16 19:16:36.210 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.210 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.210 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X40sZmlsZQ%3D%3D
+2025-11-16 19:16:36.214 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.215 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.215 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X41sZmlsZQ%3D%3D
+2025-11-16 19:16:36.215 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.216 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.216 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X42sZmlsZQ%3D%3D
+2025-11-16 19:16:36.216 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.217 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.217 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X43sZmlsZQ%3D%3D
+2025-11-16 19:16:36.218 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.218 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.218 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X44sZmlsZQ%3D%3D
+2025-11-16 19:16:36.219 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.219 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.219 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X45sZmlsZQ%3D%3D
+2025-11-16 19:16:36.219 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.220 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.220 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X46sZmlsZQ%3D%3D
+2025-11-16 19:16:36.220 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.220 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.220 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X50sZmlsZQ%3D%3D
+2025-11-16 19:16:36.221 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.222 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.222 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X51sZmlsZQ%3D%3D
+2025-11-16 19:16:36.223 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.223 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.223 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X52sZmlsZQ%3D%3D
+2025-11-16 19:16:36.223 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.224 [info] [Trace - 7:16:36 PM] Received notification 'window/logMessage'.
+2025-11-16 19:16:36.224 [info] [Warn  - 7:16:36 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X53sZmlsZQ%3D%3D
+2025-11-16 19:16:36.224 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.225 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.225 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.226 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.228 [info] [Trace - 7:16:36 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 19:16:36.229 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (32)' in 35ms.
+2025-11-16 19:16:36.229 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (33)' in 33ms.
+2025-11-16 19:16:36.231 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (34)' in 34ms.
+2025-11-16 19:16:36.232 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (35)' in 32ms.
+2025-11-16 19:16:36.306 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (36)'.
+2025-11-16 19:16:36.307 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (37)'.
+2025-11-16 19:16:36.308 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (38)'.
+2025-11-16 19:16:36.312 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (36)' in 6ms.
+2025-11-16 19:16:36.313 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (37)' in 6ms.
+2025-11-16 19:16:36.314 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (38)' in 6ms.
+2025-11-16 19:16:36.354 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (39)'.
+2025-11-16 19:16:36.355 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (40)'.
+2025-11-16 19:16:36.356 [info] [Trace - 7:16:36 PM] Sending request 'textDocument/codeAction - (41)'.
+2025-11-16 19:16:36.357 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (39)' in 3ms.
+2025-11-16 19:16:36.358 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (40)' in 2ms.
+2025-11-16 19:16:36.358 [info] [Trace - 7:16:36 PM] Received response 'textDocument/codeAction - (41)' in 2ms.
+2025-11-16 19:27:56.692 [info] [Trace - 7:27:56 PM] Sending request 'textDocument/codeAction - (42)'.
+2025-11-16 19:27:56.695 [info] [Trace - 7:27:56 PM] Received response 'textDocument/codeAction - (42)' in 3ms.
+2025-11-16 19:31:41.721 [info] [Trace - 7:31:41 PM] Sending request 'textDocument/codeAction - (43)'.
+2025-11-16 19:31:41.723 [info] [Trace - 7:31:41 PM] Received response 'textDocument/codeAction - (43)' in 2ms.

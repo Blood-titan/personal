@@ -1,0 +1,309 @@
+Visual Studio Code (1.105.1, undefined, desktop)
+Jupyter Extension Version: 2025.9.1.
+Python Extension Version: 2025.18.0.
+Python Environment Extension Version: 1.12.0.
+Pylance Extension Version: 2025.9.1.
+Platform: linux (x64).
+Home = /home/peaches
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2025.9.1
+Workspace folder ~/mllearn/movie-recc
+12:40:48.198 [warn] No interpreter with path ~/.local/share/mamba/envs/jupyter/bin/python found in Python API, will convert Uri path to string as Id ~/.local/share/mamba/envs/jupyter/bin/python
+12:40:48.829 [info] Starting Kernel (Python Path: ~/anaconda3/bin/python, Conda, 3.13.5) for '~/mllearn/movie-recc/train.ipynb' (disableUI=true)
+12:40:48.984 [warn] Kernel Spec for 'Conda (jupyter)' (~/.local/share/jupyter/kernels/jupyter/kernel.json) hidden, as we cannot find a matching interpreter argv = '~/.local/share/mamba/envs/jupyter/bin/python'. To resolve this, please change '~/.local/share/mamba/envs/jupyter/bin/python' to point to the fully qualified Python executable.
+12:40:57.382 [info] Process Execution: ~/anaconda3/bin/python -m pip list
+12:40:57.486 [info] Process Execution: ~/anaconda3/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:40:57.492 [info] Process Execution: ~/anaconda3/bin/python -m ipykernel_launcher --f=/run/user/1000/jupyter/runtime/kernel-v3642cab64fb51633c6e18322e1f1442eeefcf7f9c.json
+    > cwd: ~/mllearn/movie-recc
+12:40:57.960 [info] Kernel successfully started
+12:40:57.967 [info] Process Execution: ~/anaconda3/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/pythonFiles/printJupyterDataDir.py
+12:40:58.701 [error] Widget Error: Failed to access CDN https://unpkg.com/ after 0 attempt(s), TypeError: Failed to fetch
+12:43:32.494 [warn] Cell completed with errors [Iu [Error]: name 'movies' is not defined
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'NameError',
+  evalue: "name 'movies' is not defined",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mNameError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[2], line 2\x1B[0m\n' +
+      "\x1B[1;32m      1\x1B[0m vectorizer \x1B[38;5;241m=\x1B[39m TfidfVectorizer(max_features\x1B[38;5;241m=\x1B[39m\x1B[38;5;241m5000\x1B[39m,stop_words\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124menglish\x1B[39m\x1B[38;5;124m'\x1B[39m)\n" +
+      "\x1B[0;32m----> 2\x1B[0m vectors \x1B[38;5;241m=\x1B[39m vectorizer\x1B[38;5;241m.\x1B[39mfit_transform(movies[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtags\x1B[39m\x1B[38;5;124m'\x1B[39m])\x1B[38;5;241m.\x1B[39mtoarray()\n",
+    "\x1B[0;31mNameError\x1B[0m: name 'movies' is not defined"
+  ]
+}
+12:49:28.909 [warn] Cell completed with errors [Iu [Error]: index 0 is out of bounds for axis 0 with size 0
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'IndexError',
+  evalue: 'index 0 is out of bounds for axis 0 with size 0',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mIndexError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[16], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m recommend(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124minterstellar\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    'Cell \x1B[0;32mIn[15], line 2\x1B[0m, in \x1B[0;36mrecommend\x1B[0;34m(movie)\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m\x1B[38;5;250m \x1B[39m\x1B[38;5;21mrecommend\x1B[39m(movie):\n' +
+      "\x1B[0;32m----> 2\x1B[0m     movie_index \x1B[38;5;241m=\x1B[39m movies[movies[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtitle\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m movie]\x1B[38;5;241m.\x1B[39mindex[\x1B[38;5;241m0\x1B[39m]\n" +
+      '\x1B[1;32m      3\x1B[0m     distance \x1B[38;5;241m=\x1B[39m similarty(movie_index)\n' +
+      '\x1B[1;32m      4\x1B[0m     movie_list \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msorted\x1B[39m(\x1B[38;5;28mlist\x1B[39m(\x1B[38;5;28menumerate\x1B[39m(distance)),reverse\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mTrue\x1B[39;00m,key\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mlambda\x1B[39;00m x: x[\x1B[38;5;241m1\x1B[39m])[\x1B[38;5;241m1\x1B[39m:\x1B[38;5;241m6\x1B[39m]\n',
+    'File \x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:5389\x1B[0m, in \x1B[0;36mIndex.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   5386\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(key) \x1B[38;5;129;01mor\x1B[39;00m is_float(key):\n' +
+      '\x1B[1;32m   5387\x1B[0m     \x1B[38;5;66;03m# GH#44051 exclude bool, which would return a 2d ndarray\x1B[39;00m\n' +
+      '\x1B[1;32m   5388\x1B[0m     key \x1B[38;5;241m=\x1B[39m com\x1B[38;5;241m.\x1B[39mcast_scalar_indexer(key)\n' +
+      '\x1B[0;32m-> 5389\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m getitem(key)\n' +
+      '\x1B[1;32m   5391\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(key, \x1B[38;5;28mslice\x1B[39m):\n' +
+      '\x1B[1;32m   5392\x1B[0m     \x1B[38;5;66;03m# This case is separated from the conditional above to avoid\x1B[39;00m\n' +
+      '\x1B[1;32m   5393\x1B[0m     \x1B[38;5;66;03m# pessimization com.is_bool_indexer and ndim checks.\x1B[39;00m\n' +
+      '\x1B[1;32m   5394\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_slice(key)\n',
+    '\x1B[0;31mIndexError\x1B[0m: index 0 is out of bounds for axis 0 with size 0'
+  ]
+}
+12:50:04.362 [warn] Cell completed with errors [Iu [Error]: index 0 is out of bounds for axis 0 with size 0
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'IndexError',
+  evalue: 'index 0 is out of bounds for axis 0 with size 0',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mIndexError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[18], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m recommend(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124minterstellar\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    'Cell \x1B[0;32mIn[17], line 2\x1B[0m, in \x1B[0;36mrecommend\x1B[0;34m(movie)\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m\x1B[38;5;250m \x1B[39m\x1B[38;5;21mrecommend\x1B[39m(movie):\n' +
+      "\x1B[0;32m----> 2\x1B[0m     movie_index \x1B[38;5;241m=\x1B[39m movies[movies[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtitle\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m movie]\x1B[38;5;241m.\x1B[39mindex[\x1B[38;5;241m0\x1B[39m]\n" +
+      '\x1B[1;32m      3\x1B[0m     distance \x1B[38;5;241m=\x1B[39m similarty[movie_index]\n' +
+      '\x1B[1;32m      4\x1B[0m     movie_list \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msorted\x1B[39m(\x1B[38;5;28mlist\x1B[39m(\x1B[38;5;28menumerate\x1B[39m(distance)),reverse\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mTrue\x1B[39;00m,key\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mlambda\x1B[39;00m x: x[\x1B[38;5;241m1\x1B[39m])[\x1B[38;5;241m1\x1B[39m:\x1B[38;5;241m6\x1B[39m]\n',
+    'File \x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:5389\x1B[0m, in \x1B[0;36mIndex.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   5386\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(key) \x1B[38;5;129;01mor\x1B[39;00m is_float(key):\n' +
+      '\x1B[1;32m   5387\x1B[0m     \x1B[38;5;66;03m# GH#44051 exclude bool, which would return a 2d ndarray\x1B[39;00m\n' +
+      '\x1B[1;32m   5388\x1B[0m     key \x1B[38;5;241m=\x1B[39m com\x1B[38;5;241m.\x1B[39mcast_scalar_indexer(key)\n' +
+      '\x1B[0;32m-> 5389\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m getitem(key)\n' +
+      '\x1B[1;32m   5391\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(key, \x1B[38;5;28mslice\x1B[39m):\n' +
+      '\x1B[1;32m   5392\x1B[0m     \x1B[38;5;66;03m# This case is separated from the conditional above to avoid\x1B[39;00m\n' +
+      '\x1B[1;32m   5393\x1B[0m     \x1B[38;5;66;03m# pessimization com.is_bool_indexer and ndim checks.\x1B[39;00m\n' +
+      '\x1B[1;32m   5394\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_slice(key)\n',
+    '\x1B[0;31mIndexError\x1B[0m: index 0 is out of bounds for axis 0 with size 0'
+  ]
+}
+12:50:07.832 [warn] Cell completed with errors [Iu [Error]: index 0 is out of bounds for axis 0 with size 0
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'IndexError',
+  evalue: 'index 0 is out of bounds for axis 0 with size 0',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mIndexError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[19], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m recommend(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124minterstellar\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    'Cell \x1B[0;32mIn[17], line 2\x1B[0m, in \x1B[0;36mrecommend\x1B[0;34m(movie)\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m\x1B[38;5;250m \x1B[39m\x1B[38;5;21mrecommend\x1B[39m(movie):\n' +
+      "\x1B[0;32m----> 2\x1B[0m     movie_index \x1B[38;5;241m=\x1B[39m movies[movies[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtitle\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m movie]\x1B[38;5;241m.\x1B[39mindex[\x1B[38;5;241m0\x1B[39m]\n" +
+      '\x1B[1;32m      3\x1B[0m     distance \x1B[38;5;241m=\x1B[39m similarty[movie_index]\n' +
+      '\x1B[1;32m      4\x1B[0m     movie_list \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msorted\x1B[39m(\x1B[38;5;28mlist\x1B[39m(\x1B[38;5;28menumerate\x1B[39m(distance)),reverse\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mTrue\x1B[39;00m,key\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mlambda\x1B[39;00m x: x[\x1B[38;5;241m1\x1B[39m])[\x1B[38;5;241m1\x1B[39m:\x1B[38;5;241m6\x1B[39m]\n',
+    'File \x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:5389\x1B[0m, in \x1B[0;36mIndex.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   5386\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(key) \x1B[38;5;129;01mor\x1B[39;00m is_float(key):\n' +
+      '\x1B[1;32m   5387\x1B[0m     \x1B[38;5;66;03m# GH#44051 exclude bool, which would return a 2d ndarray\x1B[39;00m\n' +
+      '\x1B[1;32m   5388\x1B[0m     key \x1B[38;5;241m=\x1B[39m com\x1B[38;5;241m.\x1B[39mcast_scalar_indexer(key)\n' +
+      '\x1B[0;32m-> 5389\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m getitem(key)\n' +
+      '\x1B[1;32m   5391\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(key, \x1B[38;5;28mslice\x1B[39m):\n' +
+      '\x1B[1;32m   5392\x1B[0m     \x1B[38;5;66;03m# This case is separated from the conditional above to avoid\x1B[39;00m\n' +
+      '\x1B[1;32m   5393\x1B[0m     \x1B[38;5;66;03m# pessimization com.is_bool_indexer and ndim checks.\x1B[39;00m\n' +
+      '\x1B[1;32m   5394\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_slice(key)\n',
+    '\x1B[0;31mIndexError\x1B[0m: index 0 is out of bounds for axis 0 with size 0'
+  ]
+}
+12:51:00.856 [warn] Cell completed with errors [Iu [Error]: index 1 is out of bounds for axis 0 with size 0
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'IndexError',
+  evalue: 'index 1 is out of bounds for axis 0 with size 0',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mIndexError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[21], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m recommend(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124minterstellar\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    'Cell \x1B[0;32mIn[20], line 2\x1B[0m, in \x1B[0;36mrecommend\x1B[0;34m(movie)\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m\x1B[38;5;250m \x1B[39m\x1B[38;5;21mrecommend\x1B[39m(movie):\n' +
+      "\x1B[0;32m----> 2\x1B[0m     movie_index \x1B[38;5;241m=\x1B[39m movies[movies[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtitle\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m movie]\x1B[38;5;241m.\x1B[39mindex[\x1B[38;5;241m1\x1B[39m]\n" +
+      '\x1B[1;32m      3\x1B[0m     distance \x1B[38;5;241m=\x1B[39m similarty[movie_index]\n' +
+      '\x1B[1;32m      4\x1B[0m     movie_list \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msorted\x1B[39m(\x1B[38;5;28mlist\x1B[39m(\x1B[38;5;28menumerate\x1B[39m(distance)),reverse\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mTrue\x1B[39;00m,key\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mlambda\x1B[39;00m x: x[\x1B[38;5;241m1\x1B[39m])[\x1B[38;5;241m1\x1B[39m:\x1B[38;5;241m6\x1B[39m]\n',
+    'File \x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:5389\x1B[0m, in \x1B[0;36mIndex.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   5386\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(key) \x1B[38;5;129;01mor\x1B[39;00m is_float(key):\n' +
+      '\x1B[1;32m   5387\x1B[0m     \x1B[38;5;66;03m# GH#44051 exclude bool, which would return a 2d ndarray\x1B[39;00m\n' +
+      '\x1B[1;32m   5388\x1B[0m     key \x1B[38;5;241m=\x1B[39m com\x1B[38;5;241m.\x1B[39mcast_scalar_indexer(key)\n' +
+      '\x1B[0;32m-> 5389\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m getitem(key)\n' +
+      '\x1B[1;32m   5391\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(key, \x1B[38;5;28mslice\x1B[39m):\n' +
+      '\x1B[1;32m   5392\x1B[0m     \x1B[38;5;66;03m# This case is separated from the conditional above to avoid\x1B[39;00m\n' +
+      '\x1B[1;32m   5393\x1B[0m     \x1B[38;5;66;03m# pessimization com.is_bool_indexer and ndim checks.\x1B[39;00m\n' +
+      '\x1B[1;32m   5394\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_slice(key)\n',
+    '\x1B[0;31mIndexError\x1B[0m: index 1 is out of bounds for axis 0 with size 0'
+  ]
+}
+12:51:59.724 [warn] Cell completed with errors [Iu [Error]: index 1 is out of bounds for axis 0 with size 1
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'IndexError',
+  evalue: 'index 1 is out of bounds for axis 0 with size 1',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mIndexError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[22], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m recommend(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124mInterstellar\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    'Cell \x1B[0;32mIn[20], line 2\x1B[0m, in \x1B[0;36mrecommend\x1B[0;34m(movie)\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m\x1B[38;5;250m \x1B[39m\x1B[38;5;21mrecommend\x1B[39m(movie):\n' +
+      "\x1B[0;32m----> 2\x1B[0m     movie_index \x1B[38;5;241m=\x1B[39m movies[movies[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtitle\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m movie]\x1B[38;5;241m.\x1B[39mindex[\x1B[38;5;241m1\x1B[39m]\n" +
+      '\x1B[1;32m      3\x1B[0m     distance \x1B[38;5;241m=\x1B[39m similarty[movie_index]\n' +
+      '\x1B[1;32m      4\x1B[0m     movie_list \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msorted\x1B[39m(\x1B[38;5;28mlist\x1B[39m(\x1B[38;5;28menumerate\x1B[39m(distance)),reverse\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mTrue\x1B[39;00m,key\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mlambda\x1B[39;00m x: x[\x1B[38;5;241m1\x1B[39m])[\x1B[38;5;241m1\x1B[39m:\x1B[38;5;241m6\x1B[39m]\n',
+    'File \x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:5389\x1B[0m, in \x1B[0;36mIndex.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   5386\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(key) \x1B[38;5;129;01mor\x1B[39;00m is_float(key):\n' +
+      '\x1B[1;32m   5387\x1B[0m     \x1B[38;5;66;03m# GH#44051 exclude bool, which would return a 2d ndarray\x1B[39;00m\n' +
+      '\x1B[1;32m   5388\x1B[0m     key \x1B[38;5;241m=\x1B[39m com\x1B[38;5;241m.\x1B[39mcast_scalar_indexer(key)\n' +
+      '\x1B[0;32m-> 5389\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m getitem(key)\n' +
+      '\x1B[1;32m   5391\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(key, \x1B[38;5;28mslice\x1B[39m):\n' +
+      '\x1B[1;32m   5392\x1B[0m     \x1B[38;5;66;03m# This case is separated from the conditional above to avoid\x1B[39;00m\n' +
+      '\x1B[1;32m   5393\x1B[0m     \x1B[38;5;66;03m# pessimization com.is_bool_indexer and ndim checks.\x1B[39;00m\n' +
+      '\x1B[1;32m   5394\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_slice(key)\n',
+    '\x1B[0;31mIndexError\x1B[0m: index 1 is out of bounds for axis 0 with size 1'
+  ]
+}
+12:52:11.020 [warn] Cell completed with errors [Iu [Error]: index 0 is out of bounds for axis 0 with size 0
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'IndexError',
+  evalue: 'index 0 is out of bounds for axis 0 with size 0',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mIndexError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[25], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m recommend(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124minterstellar\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    'Cell \x1B[0;32mIn[23], line 5\x1B[0m, in \x1B[0;36mrecommend\x1B[0;34m(movie)\x1B[0m\n' +
+      '\x1B[1;32m      4\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m\x1B[38;5;250m \x1B[39m\x1B[38;5;21mrecommend\x1B[39m(movie) \x1B[38;5;241m-\x1B[39m\x1B[38;5;241m>\x1B[39m \x1B[38;5;28mlist\x1B[39m[Any]:\n' +
+      "\x1B[0;32m----> 5\x1B[0m     movie_index \x1B[38;5;241m=\x1B[39m movies[movies[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtitle\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m movie]\x1B[38;5;241m.\x1B[39mindex[\x1B[38;5;241m0\x1B[39m]\n" +
+      '\x1B[1;32m      6\x1B[0m     distance \x1B[38;5;241m=\x1B[39m similarty[movie_index]\n' +
+      '\x1B[1;32m      7\x1B[0m     movie_list \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msorted\x1B[39m(\x1B[38;5;28mlist\x1B[39m(\x1B[38;5;28menumerate\x1B[39m(distance)),reverse\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mTrue\x1B[39;00m,key\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mlambda\x1B[39;00m x: x[\x1B[38;5;241m1\x1B[39m])[\x1B[38;5;241m1\x1B[39m:\x1B[38;5;241m6\x1B[39m]\n',
+    'File \x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:5389\x1B[0m, in \x1B[0;36mIndex.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   5386\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(key) \x1B[38;5;129;01mor\x1B[39;00m is_float(key):\n' +
+      '\x1B[1;32m   5387\x1B[0m     \x1B[38;5;66;03m# GH#44051 exclude bool, which would return a 2d ndarray\x1B[39;00m\n' +
+      '\x1B[1;32m   5388\x1B[0m     key \x1B[38;5;241m=\x1B[39m com\x1B[38;5;241m.\x1B[39mcast_scalar_indexer(key)\n' +
+      '\x1B[0;32m-> 5389\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m getitem(key)\n' +
+      '\x1B[1;32m   5391\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(key, \x1B[38;5;28mslice\x1B[39m):\n' +
+      '\x1B[1;32m   5392\x1B[0m     \x1B[38;5;66;03m# This case is separated from the conditional above to avoid\x1B[39;00m\n' +
+      '\x1B[1;32m   5393\x1B[0m     \x1B[38;5;66;03m# pessimization com.is_bool_indexer and ndim checks.\x1B[39;00m\n' +
+      '\x1B[1;32m   5394\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_slice(key)\n',
+    '\x1B[0;31mIndexError\x1B[0m: index 0 is out of bounds for axis 0 with size 0'
+  ]
+}
+12:58:16.651 [warn] Cell completed with errors [Iu [Error]: 'Series' object has no attribute 'genres'
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'AttributeError',
+  evalue: "'Series' object has no attribute 'genres'",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mAttributeError\x1B[0m                            Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipykernel_15674/2436585157.py\x1B[0m in \x1B[0;36m?\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0;31m \x1B[0mrecommend\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m"Avatar"\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m',
+    '\x1B[0;32m/tmp/ipykernel_15674/4026171238.py\x1B[0m in \x1B[0;36m?\x1B[0;34m(movie)\x1B[0m\n' +
+      "\x1B[1;32m      6\x1B[0m     \x1B[0mmovie_index\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mmovies\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mmovies\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m'title'\x1B[0m\x1B[0;34m]\x1B[0m \x1B[0;34m==\x1B[0m \x1B[0mmovie\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mindex\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n" +
+      '\x1B[1;32m      7\x1B[0m     \x1B[0mdistance\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0msimilarty\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mmovie_index\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      8\x1B[0m     \x1B[0mmovie_list\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0msorted\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mlist\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0menumerate\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mdistance\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0mreverse\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mTrue\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mlambda\x1B[0m \x1B[0mx\x1B[0m\x1B[0;34m:\x1B[0m \x1B[0mx\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;36m6\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      9\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m---> 10\x1B[0;31m     \x1B[0mtarget_gener\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mmovies\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0miloc\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mmovie_index\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mgenres\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0msplit\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m     11\x1B[0m     recommendations = [\n' +
+      '\x1B[1;32m     12\x1B[0m         \x1B[0mmovies\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0miloc\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mi\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mtitle\x1B[0m \x1B[0;32mfor\x1B[0m \x1B[0mi\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mmovie_list\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m     13\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0mtarget_gener\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mmovies\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0miloc\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mi\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mgeners\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/generic.py\x1B[0m in \x1B[0;36m?\x1B[0;34m(self, name)\x1B[0m\n' +
+      '\x1B[1;32m   6295\x1B[0m             \x1B[0;32mand\x1B[0m \x1B[0mname\x1B[0m \x1B[0;32mnot\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_accessors\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   6296\x1B[0m             \x1B[0;32mand\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_info_axis\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_can_hold_identifiers_and_holds_name\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mname\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   6297\x1B[0m         \x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   6298\x1B[0m             \x1B[0;32mreturn\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mname\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 6299\x1B[0;31m         \x1B[0;32mreturn\x1B[0m \x1B[0mobject\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m__getattribute__\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mname\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m',
+    "\x1B[0;31mAttributeError\x1B[0m: 'Series' object has no attribute 'genres'"
+  ]
+}
+12:58:34.609 [info] Starting Kernel (Python Path: ~/anaconda3/bin/python, Conda, 3.13.5) for 'kernel-service56c5aaa1-ff3c-4675-9e58-3a39a30a9444' (disableUI=false)
+12:58:34.658 [error] stat() failed for "vscode-data-wrangler:kernel-service56c5aaa1-ff3c-4675-9e58-3a39a30a9444" [Error (FileSystemError): Unable to resolve filesystem provider with relative file path 'vscode-data-wrangler:kernel-service56c5aaa1-ff3c-4675-9e58-3a39a30a9444'
+	at ws.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:18860)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+	at async ou.exists (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:236:15233)
+	at async Fme (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:32039)
+	at async Promise.all (index 1)
+	at async Ib.computeWorkingDirectory (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:31694)
+	at async Promise.all (index 0)
+	at async fb.create (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:23460)
+	at async uT.createJupyterSession (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:282:37907)
+	at async uT.startJupyterSession (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:282:35559)
+	at async uT.start (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:282:31032)
+	at async n.wrapKernelMethodImpl (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:84556)] {
+  code: 'Unknown'
+}
+12:58:39.826 [info] Process Execution: ~/anaconda3/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+12:58:39.833 [info] Process Execution: ~/anaconda3/bin/python -m ipykernel_launcher --f=/run/user/1000/jupyter/runtime/kernel-v39e624de1e19ffd6ef11e5b5086fb5fcbb1c88bc2.json
+    > cwd: ~/mllearn/movie-recc
+12:58:40.274 [info] Kernel successfully started
+12:59:21.975 [warn] Cell completed with errors [Iu [Error]: 'Series' object has no attribute 'genres'
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'AttributeError',
+  evalue: "'Series' object has no attribute 'genres'",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mAttributeError\x1B[0m                            Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipykernel_15674/2436585157.py\x1B[0m in \x1B[0;36m?\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0;31m \x1B[0mrecommend\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m"Avatar"\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m',
+    '\x1B[0;32m/tmp/ipykernel_15674/4026171238.py\x1B[0m in \x1B[0;36m?\x1B[0;34m(movie)\x1B[0m\n' +
+      "\x1B[1;32m      6\x1B[0m     \x1B[0mmovie_index\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mmovies\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mmovies\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m'title'\x1B[0m\x1B[0;34m]\x1B[0m \x1B[0;34m==\x1B[0m \x1B[0mmovie\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mindex\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n" +
+      '\x1B[1;32m      7\x1B[0m     \x1B[0mdistance\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0msimilarty\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mmovie_index\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      8\x1B[0m     \x1B[0mmovie_list\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0msorted\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mlist\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0menumerate\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mdistance\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0mreverse\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mTrue\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mlambda\x1B[0m \x1B[0mx\x1B[0m\x1B[0;34m:\x1B[0m \x1B[0mx\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;36m6\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      9\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m---> 10\x1B[0;31m     \x1B[0mtarget_gener\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mmovies\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0miloc\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mmovie_index\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mgenres\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0msplit\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m     11\x1B[0m     recommendations = [\n' +
+      '\x1B[1;32m     12\x1B[0m         \x1B[0mmovies\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0miloc\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mi\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mtitle\x1B[0m \x1B[0;32mfor\x1B[0m \x1B[0mi\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mmovie_list\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m     13\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0mtarget_gener\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mmovies\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0miloc\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mi\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mgeners\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/generic.py\x1B[0m in \x1B[0;36m?\x1B[0;34m(self, name)\x1B[0m\n' +
+      '\x1B[1;32m   6295\x1B[0m             \x1B[0;32mand\x1B[0m \x1B[0mname\x1B[0m \x1B[0;32mnot\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_accessors\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   6296\x1B[0m             \x1B[0;32mand\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_info_axis\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_can_hold_identifiers_and_holds_name\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mname\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   6297\x1B[0m         \x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   6298\x1B[0m             \x1B[0;32mreturn\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0mname\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 6299\x1B[0;31m         \x1B[0;32mreturn\x1B[0m \x1B[0mobject\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m__getattribute__\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mname\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m',
+    "\x1B[0;31mAttributeError\x1B[0m: 'Series' object has no attribute 'genres'"
+  ]
+}
+13:02:16.155 [warn] Cell completed with errors [Iu [Error]: index 0 is out of bounds for axis 0 with size 0
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)] {
+  ename: 'IndexError',
+  evalue: 'index 0 is out of bounds for axis 0 with size 0',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mIndexError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[56], line 1\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0m recommend(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124mThe Darkest Hour\x1B[39m\x1B[38;5;124m"\x1B[39m)\n',
+    'Cell \x1B[0;32mIn[53], line 6\x1B[0m, in \x1B[0;36mrecommend\x1B[0;34m(movie)\x1B[0m\n' +
+      '\x1B[1;32m      4\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m\x1B[38;5;250m \x1B[39m\x1B[38;5;21mrecommend\x1B[39m(movie:\x1B[38;5;28mstr\x1B[39m) \x1B[38;5;241m-\x1B[39m\x1B[38;5;241m>\x1B[39m \x1B[38;5;28mlist\x1B[39m[Any]:\n' +
+      '\x1B[1;32m      5\x1B[0m     movie \x1B[38;5;241m=\x1B[39m movie\x1B[38;5;241m.\x1B[39mcapitalize()\n' +
+      "\x1B[0;32m----> 6\x1B[0m     movie_index \x1B[38;5;241m=\x1B[39m movies[movies[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtitle\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m movie]\x1B[38;5;241m.\x1B[39mindex[\x1B[38;5;241m0\x1B[39m]\n" +
+      '\x1B[1;32m      7\x1B[0m     distance \x1B[38;5;241m=\x1B[39m similarty[movie_index]\n' +
+      '\x1B[1;32m      8\x1B[0m     movie_list \x1B[38;5;241m=\x1B[39m \x1B[38;5;28msorted\x1B[39m(\x1B[38;5;28mlist\x1B[39m(\x1B[38;5;28menumerate\x1B[39m(distance)),reverse\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mTrue\x1B[39;00m,key\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mlambda\x1B[39;00m x: x[\x1B[38;5;241m1\x1B[39m])[\x1B[38;5;241m1\x1B[39m:\x1B[38;5;241m6\x1B[39m]\n',
+    'File \x1B[0;32m~/anaconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py:5389\x1B[0m, in \x1B[0;36mIndex.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   5386\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(key) \x1B[38;5;129;01mor\x1B[39;00m is_float(key):\n' +
+      '\x1B[1;32m   5387\x1B[0m     \x1B[38;5;66;03m# GH#44051 exclude bool, which would return a 2d ndarray\x1B[39;00m\n' +
+      '\x1B[1;32m   5388\x1B[0m     key \x1B[38;5;241m=\x1B[39m com\x1B[38;5;241m.\x1B[39mcast_scalar_indexer(key)\n' +
+      '\x1B[0;32m-> 5389\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m getitem(key)\n' +
+      '\x1B[1;32m   5391\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(key, \x1B[38;5;28mslice\x1B[39m):\n' +
+      '\x1B[1;32m   5392\x1B[0m     \x1B[38;5;66;03m# This case is separated from the conditional above to avoid\x1B[39;00m\n' +
+      '\x1B[1;32m   5393\x1B[0m     \x1B[38;5;66;03m# pessimization com.is_bool_indexer and ndim checks.\x1B[39;00m\n' +
+      '\x1B[1;32m   5394\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_slice(key)\n',
+    '\x1B[0;31mIndexError\x1B[0m: index 0 is out of bounds for axis 0 with size 0'
+  ]
+}
+13:23:48.781 [info] Dispose Kernel '~/mllearn/movie-recc/train.ipynb' associated with '~/mllearn/movie-recc/train.ipynb'
+13:23:48.789 [info] Dispose Kernel 'kernel-service56c5aaa1-ff3c-4675-9e58-3a39a30a9444' associated with 'kernel-service56c5aaa1-ff3c-4675-9e58-3a39a30a9444'
+13:23:48.832 [warn] Failed to delete connection file file:///run/user/1000/jupyter/runtime/kernel-v39e624de1e19ffd6ef11e5b5086fb5fcbb1c88bc2.json for pid 19673 [Canceled (FileSystemError): Canceled
+	at ws.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:18860)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+	at async ou.delete (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:236:16320)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:308:469] {
+  code: 'Unknown'
+}
+13:23:48.833 [warn] Failed to delete connection file file:///run/user/1000/jupyter/runtime/kernel-v3642cab64fb51633c6e18322e1f1442eeefcf7f9c.json for pid 15674 [Canceled (FileSystemError): Canceled
+	at ws.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:18860)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+	at async ou.delete (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:236:16320)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:308:469] {
+  code: 'Unknown'
+}

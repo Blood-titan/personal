@@ -1,0 +1,106 @@
+2025-11-17 12:40:48.930 [info] Name: Mypy Type Checker
+2025-11-17 12:40:48.930 [info] Module: mypy
+2025-11-17 12:40:48.930 [info] Python extension loading
+2025-11-17 12:40:48.930 [info] Waiting for interpreter from Python extension.
+2025-11-17 12:40:48.989 [info] Python extension loaded
+2025-11-17 12:40:49.033 [info] Server run command: /bin/python /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py
+2025-11-17 12:40:49.034 [info] Server: Start requested.
+2025-11-17 12:40:49.468 [info] CWD Server: /home/peaches/mllearn/movie-recc
+2025-11-17 12:40:49.468 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/peaches/mllearn/movie-recc",
+        "workspace": "file:///home/peaches/mllearn/movie-recc",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false,
+        "daemonStatusFile": ""
+    }
+]
+
+2025-11-17 12:40:49.468 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/peaches",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false,
+    "daemonStatusFile": ""
+}
+
+2025-11-17 12:40:49.468 [info] sys.path used to run Server:
+   /home/peaches/mllearn/movie-recc
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /usr/lib/python3.13/site-packages
+2025-11-17 12:40:49.468 [info] /bin/python -m mypy --version
+2025-11-17 12:40:49.468 [info] CWD Server: /home/peaches/mllearn/movie-recc
+2025-11-17 12:40:49.676 [info] 
+mypy 1.15.0 (compiled: no)
+
+
+2025-11-17 12:40:49.677 [info] Version info for linter running for /home/peaches/mllearn/movie-recc:
+mypy 1.15.0 (compiled: no)
+
+2025-11-17 12:40:49.678 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.15.0
+
+2025-11-17 12:41:56.222 [info] [Trace - 12:41:56 PM] Sending notification 'textDocument/didOpen'.
+2025-11-17 12:41:56.226 [info] /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py:165: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2025-11-17 12:41:56.226 [info] [Trace - 12:41:56 PM] Received notification 'window/logMessage'.
+2025-11-17 12:41:56.226 [info] /bin/python -m mypy --version
+2025-11-17 12:41:56.226 [info] [Trace - 12:41:56 PM] Received notification 'window/logMessage'.
+2025-11-17 12:41:56.227 [info] CWD Server: /home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction
+2025-11-17 12:41:56.380 [info] [Trace - 12:41:56 PM] Received notification 'window/logMessage'.
+2025-11-17 12:41:56.380 [info] 
+mypy 1.15.0 (compiled: no)
+
+
+2025-11-17 12:41:56.380 [info] [Trace - 12:41:56 PM] Received notification 'window/logMessage'.
+2025-11-17 12:41:56.380 [info] Version info for linter running for /home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction:
+mypy 1.15.0 (compiled: no)
+
+2025-11-17 12:41:56.381 [info] [Trace - 12:41:56 PM] Received notification 'window/logMessage'.
+2025-11-17 12:41:56.381 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py
+2025-11-17 12:41:56.381 [info] [Trace - 12:41:56 PM] Received notification 'window/logMessage'.
+2025-11-17 12:41:56.381 [info] CWD Server: /home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction
+2025-11-17 12:41:56.494 [info] [Trace - 12:41:56 PM] Received notification 'window/logMessage'.
+2025-11-17 12:41:56.494 [info] mypy: "../../typing_extensions.py" shadows library module "typing_extensions"
+note: A user-defined top-level module with name "typing_extensions" is not supported
+
+2025-11-17 12:41:56.494 [info] [Trace - 12:41:56 PM] Received notification 'window/logMessage'.
+2025-11-17 12:41:56.494 [info] file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py :
+
+2025-11-17 12:41:56.496 [info] [Trace - 12:41:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-17 12:42:01.704 [info] [Trace - 12:42:01 PM] Sending notification 'textDocument/didClose'.
+2025-11-17 12:42:01.706 [info] /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py:179: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2025-11-17 12:42:01.706 [info] [Trace - 12:42:01 PM] Received notification 'textDocument/publishDiagnostics'.

@@ -20,6 +20,6 @@ configuration {
 }
 
 
-@theme "~/.config/rofi/gruvbox-material.rasi"
+@theme "~/.config/rofi/theme.rasi"
 
 

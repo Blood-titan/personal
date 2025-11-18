@@ -9,12 +9,12 @@
                 "folderUri": "file:///home/peaches"
             },
             {
-                "folderUri": "file:///home/peaches/.config/waybar"
+                "folderUri": "file:///home/peaches/mllearn/movie-recc"
             }
         ],
         "emptyWindows": []
     },
-    "windowControlHeight": 60,
+    "windowControlHeight": 43,
     "profileAssociations": {
         "workspaces": {
             "file:///home/peaches": "__default__profile__",
@@ -22,51 +22,50 @@
             "file:///home/peaches/.config/hypr": "__default__profile__",
             "file:///run/media/peaches/Ventoy/user/config/hypr": "__default__profile__",
             "file:///home/peaches/.config/ghostty": "__default__profile__",
-            "file:///home/peaches/.config/waybar": "__default__profile__"
+            "file:///home/peaches/.config/waybar": "__default__profile__",
+            "file:///home/peaches/basic-movie-recommendation": "__default__profile__",
+            "file:///home/peaches/mllearn": "__default__profile__",
+            "file:///home/peaches/mllearn/movie-recc": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/peaches/.config/waybar",
-            "backupPath": "/home/peaches/.config/Code/Backups/6503fa781920d5046a264391ec20f87b",
+            "folder": "file:///home/peaches/mllearn/movie-recc",
+            "backupPath": "/home/peaches/.config/Code/Backups/d87fc4278fd1aea66f12941f3148f4ea",
             "uiState": {
                 "mode": 1,
                 "x": 967,
-                "y": 12,
+                "y": 62,
                 "width": 941,
-                "height": 1056,
-                "zoomLevel": 3
+                "height": 1006,
+                "zoomLevel": 2
             }
         },
         "openedWindows": []
     },
     "theme": "vs-dark",
-    "themeBackground": "#1f1f1f",
+    "themeBackground": "#282c34",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
-            "background": "#1f1f1f",
-            "editorBackground": "#1f1f1f",
-            "titleBarBackground": "#181818",
-            "titleBarBorder": "#2b2b2b",
-            "activityBarBackground": "#181818",
-            "activityBarBorder": "#2b2b2b",
-            "sideBarBackground": "#181818",
-            "sideBarBorder": "#2b2b2b",
-            "statusBarBackground": "#181818",
-            "statusBarBorder": "#2b2b2b",
-            "statusBarNoFolderBackground": "#1f1f1f"
+            "background": "#282c34",
+            "editorBackground": "#282c34",
+            "titleBarBackground": "#21252b",
+            "activityBarBackground": "#333842",
+            "sideBarBackground": "#21252b",
+            "statusBarBackground": "#21252b",
+            "statusBarNoFolderBackground": "#21252b"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 35,
-            "activityBarWidth": 48,
+            "titleBarHeight": 30,
+            "activityBarWidth": 0,
             "sideBarWidth": 170,
-            "auxiliaryBarWidth": 170,
+            "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -74,7 +73,7 @@
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
             "sideBarWidth": 170,
-            "auxiliaryBarWidth": 170,
+            "auxiliaryBarWidth": 251,
             "workspaces": {
                 "8357c2a0c4e6ec474ff9a70f16c88ada": {
                     "sideBarVisible": true,
@@ -99,6 +98,18 @@
                 "449aeecebd5c47ea2e93d70a2aa7a0ed": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": true
+                },
+                "cf4a0faaf01c62a1ce438d2cfd8ad3a9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6e1872cdf52cb2a73d8ac9092c525cf0": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e16b1d9906c54abd4f5bfa5839537ec0": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
                 }
             }
         }

@@ -1,0 +1,88 @@
+2025-11-17 12:21:47.032 [info] Name: Ruff
+2025-11-17 12:21:47.032 [info] Module: ruff
+2025-11-17 12:21:47.032 [info] Python extension loading
+2025-11-17 12:21:47.032 [info] Waiting for interpreter from python extension.
+2025-11-17 12:21:47.032 [info] Python extension loaded
+2025-11-17 12:21:47.032 [info] Using interpreter: /bin/python
+2025-11-17 12:21:47.032 [info] Workspace settings for /home/peaches/mllearn/movie-recc: {
+    "nativeServer": "auto",
+    "cwd": "/home/peaches/mllearn/movie-recc",
+    "workspace": "file:///home/peaches/mllearn/movie-recc",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-11-17 12:21:47.032 [info] Global settings: {
+    "nativeServer": "auto",
+    "cwd": "/home/peaches/mllearn/movie-recc",
+    "workspace": "/home/peaches/mllearn/movie-recc",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-11-17 12:21:47.032 [info] Using environment executable: /home/peaches/anaconda3/bin/ruff
+2025-11-17 12:21:47.032 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2025-11-17 12:21:47.032 [info] Found Ruff 0.14.5 at /home/peaches/anaconda3/bin/ruff
+2025-11-17 12:21:47.032 [info] Server run command: /home/peaches/anaconda3/bin/ruff server
+2025-11-17 12:21:47.032 [info] Server: Start requested.

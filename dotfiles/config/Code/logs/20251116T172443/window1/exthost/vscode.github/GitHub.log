@@ -1,0 +1,4 @@
+2025-11-16 17:24:45.350 [info] Log level: Info
+2025-11-16 17:25:00.348 [info] Log level: Info
+2025-11-16 17:25:00.397 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-11-16 17:34:40.442 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for Blood-titan/basic-movie-recommendation: Error: No GitHub authentication session available.

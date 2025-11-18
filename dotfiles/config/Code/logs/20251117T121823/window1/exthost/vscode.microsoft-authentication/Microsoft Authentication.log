@@ -1,0 +1,17 @@
+2025-11-17 12:18:25.239 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows and macOS
+2025-11-17 12:18:25.239 [info] [getSessions] [all] starting
+2025-11-17 12:18:25.239 [info] [getSessions] [all] returned 1 session(s)
+2025-11-17 12:18:25.239 [info] [getSessions] [all] starting
+2025-11-17 12:18:25.239 [info] [getSessions] [all] returned 1 session(s)
+2025-11-17 12:18:25.239 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-17 12:18:27.009 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-11-17 12:18:27.009 [info] [getSessions] [all] starting
+2025-11-17 12:18:27.009 [info] [getSessions] [all] returned 1 session(s)
+2025-11-17 12:18:27.009 [info] [getSessions] [all] starting
+2025-11-17 12:18:27.009 [info] [getSessions] [all] returned 1 session(s)
+2025-11-17 12:18:27.009 [info] [getSessions] [all] starting
+2025-11-17 12:18:27.009 [info] [getSessions] [all] returned 1 session(s)
+2025-11-17 12:18:27.507 [info] [getSessions] [all] starting
+2025-11-17 12:18:27.507 [info] [getSessions] [all] returned 1 session(s)
+2025-11-17 12:18:28.104 [info] [getSessions] [all] starting
+2025-11-17 12:18:28.104 [info] [getSessions] [all] returned 1 session(s)

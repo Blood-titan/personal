@@ -1,0 +1,17 @@
+2025-11-17 12:18:24.321 [info] Started local extension host with pid 5417.
+2025-11-17 12:18:24.372 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-17 12:18:24.456 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-11-17 12:18:24.478 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-11-17 12:18:24.478 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-11-17 12:18:24.478 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-11-17 12:18:24.824 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-17 12:18:25.087 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2025-11-17 12:18:25.087 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2025-11-17 12:18:25.733 [error] [Extension Host] (node:5417) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-11-17 12:18:26.912 [info] [perf] Render performance baseline is 14ms
+2025-11-17 12:18:27.011 [info] Settings Sync: Account status changed from uninitialized to available
+2025-11-17 12:18:27.765 [info] Auto updating outdated extensions. vscjava.vscode-java-pack
+2025-11-17 12:18:28.096 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.

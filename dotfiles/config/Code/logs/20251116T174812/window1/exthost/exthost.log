@@ -1,0 +1,131 @@
+2025-11-16 17:48:14.064 [info] Extension host with pid 100184 started
+2025-11-16 17:48:14.064 [info] Skipping acquiring lock for /home/peaches/.config/Code/User/workspaceStorage/cf4a0faaf01c62a1ce438d2cfd8ad3a9.
+2025-11-16 17:48:14.244 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-16 17:48:14.271 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-11-16 17:48:14.280 [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-11-16 17:48:14.284 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-16 17:48:14.295 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editingSession'
+2025-11-16 17:48:14.715 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-11-16 17:48:14.735 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-11-16 17:48:14.766 [info] ExtensionService#_doActivateExtension ms-toolsai.datawrangler, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-11-16 17:48:14.831 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-11-16 17:48:14.832 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-11-16 17:48:15.136 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-11-16 17:48:15.259 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-11-16 17:48:15.281 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:15.577 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:15.617 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:15.708 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:15.785 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-16 17:48:15.785 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-11-16 17:48:15.793 [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+2025-11-16 17:48:15.865 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-11-16 17:48:15.874 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2025-11-16 17:48:15.906 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-16 17:48:16.071 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2025-11-16 17:48:16.232 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2025-11-16 17:48:16.248 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: true, activationEvent: '*'
+2025-11-16 17:48:16.250 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-pg, startup: true, activationEvent: '*'
+2025-11-16 17:48:16.275 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-11-16 17:48:17.350 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at sqt.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:509:5906)
+2025-11-16 17:48:17.351 [info] ExtensionService#_doActivateExtension iterative.dvc, startup: true, activationEvent: 'workspaceContains:**/*dvc*'
+2025-11-16 17:48:17.828 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:17.845 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:17.872 [info] ExtensionService#_doActivateExtension ms-python.mypy-type-checker, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:17.889 [info] ExtensionService#_doActivateExtension ms-python.pylint, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:18.020 [info] Eager extensions activated
+2025-11-16 17:48:18.196 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.197 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.207 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.210 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.527 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.560 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.572 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.592 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.653 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.736 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.798 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.820 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.874 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:18.882 [info] ExtensionService#_doActivateExtension vsls-contrib.codetour, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:19.230 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:48:19.235 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:48:19.265 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:48:20.691 [error] Error: GitHubLoginFailed
+    at n9._authShowWarnings (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:935:18344)
+    at n9.getCopilotToken (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:935:16221)
+    at oH.getCopilotToken (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:472:26116)
+    at Ty._fetchModels (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:2949:4781)
+    at Ty.getAllChatModels (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:2949:2686)
+    at YG.getAllChatEndpoints (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:2949:16238)
+2025-11-16 17:48:21.559 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 17:48:21.573 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 17:50:35.001 [info] ExtensionService#_doActivateExtension ms-ossdata.vscode-pgsql, startup: false, activationEvent: 'onView:pg-objectExplorer'
+2025-11-16 17:50:42.996 [error] ConnectError: [invalid_argument] /exa.language_server_pb.LanguageServerService/RecordChatPanelSession: validation error:
+ - metadata.api_key: value length must be at least 1 characters [string.min_len]: /exa.language_server_pb.LanguageServerService/RecordChatPanelSession: validation error:
+ - metadata.api_key: value length must be at least 1 characters [string.min_len]
+    at u (/home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/extension.js:2:5839348)
+    at n.errorFromJsonBytes (/home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/extension.js:2:5840250)
+    at next (/home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/extension.js:2:5859335)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-16 17:50:51.152 [error] ConnectError: [invalid_argument] /exa.language_server_pb.LanguageServerService/RecordChatPanelSession: validation error:
+ - metadata.api_key: value length must be at least 1 characters [string.min_len]: /exa.language_server_pb.LanguageServerService/RecordChatPanelSession: validation error:
+ - metadata.api_key: value length must be at least 1 characters [string.min_len]
+    at u (/home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/extension.js:2:5839348)
+    at n.errorFromJsonBytes (/home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/extension.js:2:5840250)
+    at next (/home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/extension.js:2:5859335)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-11-16 17:50:56.789 [info] ExtensionService#_doActivateExtension bruno-api-client.bruno, startup: false, activationEvent: 'onView:bruno.sidebarView'
+2025-11-16 17:53:35.993 [info] ExtensionService#_doActivateExtension tamasfe.even-better-toml, startup: false, activationEvent: 'onLanguage:toml'
+2025-11-16 17:53:53.113 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2025-11-16 18:20:28.342 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-16 18:20:28.426 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.G [as deactivate] (/home/peaches/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64/dist/extension.js:2:681672)
+    at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+    at Array.map (<anonymous>)
+    at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+    at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+    at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 18:20:28.443 [error] Error: Channel has been closed
+    at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+    at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+    at T.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600486)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 18:20:28.448 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.append (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2528)
+    at Socket.<anonymous> (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/webpack:/ruff/node_modules/vscode-languageclient/lib/node/main.js:430:80)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+2025-11-16 18:20:28.449 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+    at b.logOutputMessage (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/webpack:/ruff/node_modules/vscode-languageclient/lib/common/client.js:592:28)
+    at b.error (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/webpack:/ruff/node_modules/vscode-languageclient/lib/common/client.js:589:14)
+    at ChildProcess.<anonymous> (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/webpack:/ruff/node_modules/vscode-languageclient/lib/node/main.js:471:30)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 18:20:28.484 [error] Error: Channel has been closed
+    at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+    at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+    at g.info (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:1052200)
+    at ChildProcess.<anonymous> (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:9247)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 18:20:33.420 [info] Extension host with pid 100184 exiting with code 0

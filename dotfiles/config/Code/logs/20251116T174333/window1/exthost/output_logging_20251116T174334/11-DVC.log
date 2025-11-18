@@ -1,0 +1,8 @@
+[version: 1.2.29, 2025-11-16T12:18:08.541Z, pid: 99980] > /home/peaches/basic-movie-recommendation/.venv/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-16T12:18:08.653Z, pid: 99980] > /home/peaches/basic-movie-recommendation/.venv/bin/python -m dvc --version - FAILED with code 1 (120ms)
+/home/peaches/basic-movie-recommendation/.venv/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-16T12:18:08.661Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-16T12:18:08.664Z, pid: 0] > dvc --version - FAILED (10ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT

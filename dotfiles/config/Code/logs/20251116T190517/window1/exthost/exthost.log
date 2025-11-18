@@ -1,0 +1,253 @@
+2025-11-16 19:05:18.812 [info] Extension host with pid 137709 started
+2025-11-16 19:05:18.812 [info] Skipping acquiring lock for /home/peaches/.config/Code/User/workspaceStorage/cf4a0faaf01c62a1ce438d2cfd8ad3a9.
+2025-11-16 19:05:19.217 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-16 19:05:19.235 [info] ExtensionService#_doActivateExtension bruno-api-client.bruno, startup: false, activationEvent: 'onView:bruno.sidebarView'
+2025-11-16 19:05:19.762 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-16 19:05:19.775 [info] ExtensionService#_doActivateExtension tamasfe.even-better-toml, startup: false, activationEvent: 'onLanguage:toml'
+2025-11-16 19:05:19.855 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-16 19:05:19.911 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-11-16 19:05:20.116 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-16 19:05:20.118 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-11-16 19:05:20.125 [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+2025-11-16 19:05:20.203 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-11-16 19:05:20.213 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2025-11-16 19:05:20.248 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:pyproject.toml'
+2025-11-16 19:05:20.355 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: true, activationEvent: 'workspaceContains:pyproject.toml'
+2025-11-16 19:05:20.615 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2025-11-16 19:05:20.800 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2025-11-16 19:05:20.845 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-16 19:05:20.883 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-16 19:05:20.900 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: true, activationEvent: '*'
+2025-11-16 19:05:20.902 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-pg, startup: true, activationEvent: '*'
+2025-11-16 19:05:20.905 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:20.935 [info] ExtensionService#_doActivateExtension ms-toolsai.datawrangler, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:21.001 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:21.002 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:21.073 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:21.416 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-11-16 19:05:21.495 [info] ExtensionService#_doActivateExtension iterative.dvc, startup: true, activationEvent: 'workspaceContains:**/*dvc*'
+2025-11-16 19:05:21.695 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:21.716 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:21.745 [info] ExtensionService#_doActivateExtension ms-python.mypy-type-checker, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:21.766 [info] ExtensionService#_doActivateExtension ms-python.pylint, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 19:05:21.838 [info] Eager extensions activated
+2025-11-16 19:05:21.857 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:21.859 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:21.870 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:21.874 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:22.200 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:22.224 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:22.235 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:22.259 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:22.354 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:22.420 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:22.429 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:22.493 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 19:05:23.275 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 19:05:23.283 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 19:05:23.337 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 19:05:23.418 [warning] DiagnosticCollection with name 'eslint' does already exist.
+2025-11-16 19:05:24.195 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 19:05:24.209 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 19:05:26.792 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-11-16 19:05:41.837 [error] ExtensionError: Error in extension mtxr.sqltools: FAILED to handle event
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:103146)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at zG.$acceptEditorPropertiesChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:64661)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 19:05:41.873 [error] ExtensionError: Error in extension mtxr.sqltools: FAILED to handle event
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:103146)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at zG.$acceptEditorPropertiesChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:64661)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 19:05:41.992 [error] ExtensionError: Error in extension mtxr.sqltools: FAILED to handle event
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:103146)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at zG.$acceptEditorPropertiesChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:64661)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 19:05:41.996 [error] ExtensionError: Error in extension mtxr.sqltools: FAILED to handle event
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:103146)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at zG.$acceptEditorPropertiesChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:64661)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 19:05:45.780 [error] ExtensionError: Error in extension mtxr.sqltools: FAILED to handle event
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:103146)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at zG.$acceptEditorPropertiesChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:64661)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 19:33:03.876 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-16 19:33:03.946 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (/home/peaches/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64/dist/extension.js:2:681672)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 19:33:03.961 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at b.logTrace (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:133853)
+	at Object.log (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:127503)
+	at /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:84476
+	at /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:84671
+	at ie (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:85036)
+	at /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:79820
+	at Immediate.<anonymous> (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:79840)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-16 19:33:03.961 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at w.logTrace (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:136379)
+	at Object.log (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:130029)
+	at /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:87002
+	at /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:87197
+	at ie (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:87562)
+	at /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:82346
+	at Immediate.<anonymous> (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:82366)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-11-16 19:33:03.963 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.append (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2528)
+	at Socket.<anonymous> (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/extension.js:1:7963)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+2025-11-16 19:33:03.964 [error] Error: Channel has been closed
+	at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+	at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+	at T.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600486)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 19:33:03.964 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at b.logOutputMessage (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/extension.js:1:370891)
+	at b.error (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/extension.js:1:370782)
+	at ChildProcess.<anonymous> (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/extension.js:1:9309)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 19:33:04.007 [error] Error: Channel has been closed
+	at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+	at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+	at g.info (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:1052200)
+	at ChildProcess.<anonymous> (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:9247)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 19:33:05.913 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at w.error (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:135791)
+	at /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:144009
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at listOnTimeout (node:internal/timers:549:9)
+	at process.processTimers (node:internal/timers:523:7)
+	at async t.deactivate (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/extension.js:1:68064)
+	at async Promise.all (index 26)
+	at async SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9961)
+2025-11-16 19:33:05.914 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at b.error (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:133265)
+	at /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:141483
+	at async t.deactivate (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/extension.js:1:65538)
+	at async Promise.all (index 27)
+	at async SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9961)
+2025-11-16 19:33:05.914 [info] Extension host with pid 137709 exiting with code 0

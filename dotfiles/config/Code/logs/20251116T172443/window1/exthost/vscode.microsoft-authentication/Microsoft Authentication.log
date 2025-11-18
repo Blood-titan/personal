@@ -1,0 +1,47 @@
+2025-11-16 17:24:45.439 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows and macOS
+2025-11-16 17:24:45.455 [info] [getSessions] [all] starting
+2025-11-16 17:24:45.455 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:24:45.455 [info] [getSessions] [all] starting
+2025-11-16 17:24:45.455 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:24:45.455 [info] [getSessions] [all] starting
+2025-11-16 17:24:45.455 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:24:45.456 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:24:45.456 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows and macOS
+2025-11-16 17:24:45.458 [info] [getSessions] [email offline_access openid profile] returned 0 session(s)
+2025-11-16 17:24:46.804 [info] [getSessions] [all] starting
+2025-11-16 17:24:46.804 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:24:46.804 [info] [getSessions] [all] starting
+2025-11-16 17:24:46.804 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:24:46.811 [info] [getSessions] [all] starting
+2025-11-16 17:24:46.811 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:25:00.294 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows and macOS
+2025-11-16 17:25:00.347 [info] [getSessions] [all] starting
+2025-11-16 17:25:00.347 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:25:00.347 [info] [getSessions] [all] starting
+2025-11-16 17:25:00.347 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:25:00.347 [info] [getSessions] [all] starting
+2025-11-16 17:25:00.347 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:25:00.348 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:25:00.348 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows and macOS
+2025-11-16 17:25:00.364 [info] [getSessions] [email offline_access openid profile] returned 0 session(s)
+2025-11-16 17:25:01.831 [info] [getSessions] [all] starting
+2025-11-16 17:25:01.831 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:25:01.831 [info] [getSessions] [all] starting
+2025-11-16 17:25:01.831 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:25:01.836 [info] [getSessions] [all] starting
+2025-11-16 17:25:01.836 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:42:39.113 [info] [createSession] [email offline_access openid profile] starting
+2025-11-16 17:42:39.113 [info] Trying default msal flow...
+2025-11-16 17:42:51.588 [info] [createSession] [email offline_access openid profile] returned session
+2025-11-16 17:42:51.588 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:42:51.591 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-11-16 17:42:51.591 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:42:51.593 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-11-16 17:43:00.977 [info] [getSessions] [all] starting
+2025-11-16 17:43:00.977 [info] [getSessions] [all] returned 1 session(s)
+2025-11-16 17:43:02.475 [info] [removeSession] 00000000-0000-0000-fc2c-2e976c820261.9188040d-6c67-4c5b-b112-36a304b66dad starting
+2025-11-16 17:43:02.475 [info] [removeSession] [00000000-0000-0000-fc2c-2e976c820261.9188040d-6c67-4c5b-b112-36a304b66dad] [aebc6443-996d-45c2-90f0-388ff96faa56] removing session...
+2025-11-16 17:43:02.481 [info] [removeSession] 00000000-0000-0000-fc2c-2e976c820261.9188040d-6c67-4c5b-b112-36a304b66dad attempted to remove 1 sessions
+2025-11-16 17:43:02.481 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:43:02.483 [info] [getAllSessionsForPca] [email offline_access openid profile] [praveen33105@gmail.com] failed to acquire token silently, skipping account {"errorCode":"no_tokens_found","errorMessage":"No refresh token found in the cache. Please sign-in.","subError":"","name":"InteractionRequiredAuthError","timestamp":"","traceId":"","correlationId":"","claims":""}
+2025-11-16 17:43:02.483 [info] [getSessions] [email offline_access openid profile] returned 0 session(s)

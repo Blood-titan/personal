@@ -1,0 +1,38 @@
+2025-11-16 17:50:37,617 INFO Azure Monitor telemetry initialized successfully.
+2025-11-16 17:50:37,617 INFO                        _       _              _ 
+2025-11-16 17:50:37,617 INFO  _ __   __ _ ___  __ _| |     | |_ ___   ___ | |___ 
+2025-11-16 17:50:37,617 INFO | '_ \ / _` / __|/ _` | |_____| __/ _ \ / _ \| / __| 
+2025-11-16 17:50:37,617 INFO | |_) | (_| \__ \ (_| | |_____| || (_) | (_) | \__ \ 
+2025-11-16 17:50:37,617 INFO | .__/ \__, |___/\__, |_|      \__\___/ \___/|_|___/ 
+2025-11-16 17:50:37,617 INFO |_|    |___/        |_| 
+2025-11-16 17:50:37,619 INFO Initialized ConnectionManager
+2025-11-16 17:50:37,619 INFO Admin service successfully initialized
+2025-11-16 17:50:37,619 INFO Language Service Operations Queue starting...
+2025-11-16 17:50:37,619 INFO Metadata service successfully initialized
+2025-11-16 17:50:37,619 INFO Object Explorer service successfully initialized
+2025-11-16 17:50:37,619 INFO Query execution service successfully initialized
+2025-11-16 17:50:37,619 INFO Scripting service successfully initialized
+2025-11-16 17:50:37,620 INFO Edit data service successfully initialized
+2025-11-16 17:50:37,620 INFO Chat service successfully initialized
+2025-11-16 17:50:37,620 INFO tools successfully initialized
+2025-11-16 17:50:37,620 INFO Schema Editor service successfully initialized
+2025-11-16 17:50:37,620 INFO Migration service registered successfully
+2025-11-16 17:50:37,620 INFO Metrics service successfully initialized
+2025-11-16 17:50:37,620 INFO Starting JSONRPC message server.
+2025-11-16 17:50:37,620 INFO JSONRPC input thread started.
+2025-11-16 17:50:37,620 INFO JSONRPC output thread started.
+2025-11-16 17:50:37,620 INFO Received request id=0 method=initialize
+2025-11-16 17:50:37,625 INFO Received notification method=workspace/didChangeConfiguration
+2025-11-16 17:51:06,881 INFO Received notification method=$/setTraceNotification
+2025-11-16 17:51:44,956 INFO Received notification method=$/setTraceNotification
+2025-11-16 17:52:05,888 INFO Received notification method=$/setTraceNotification
+2025-11-16 17:53:53,071 INFO Received notification method=$/setTraceNotification
+2025-11-16 18:20:28,421 INFO Received request id=1 method=shutdown
+2025-11-16 18:20:28,422 INFO Received shutdown request
+2025-11-16 18:20:30,422 INFO Language Service Operations Queue stopping...
+2025-11-16 18:20:30,423 INFO Closing all the Schema Designer sessions
+2025-11-16 18:20:30,423 INFO Closing all metrics subscriptions
+2025-11-16 18:20:30,423 INFO Stopping JSONRPC message server.
+2025-11-16 18:20:30,423 INFO Input and output threads have completed
+2025-11-16 18:20:30,423 INFO Stopping JSONRPC message server.
+2025-11-16 18:20:30,424 INFO Closing all connection pools

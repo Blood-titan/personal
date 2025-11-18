@@ -1,0 +1,53 @@
+(VSCode) 2025-11-16 19:05:22.539 [INFO]: No proxy settings found
+(VSCode) 2025-11-16 19:05:24.676 [INFO]: Checking network connection...
+(VSCode) 2025-11-16 19:05:24.752 [INFO]: Creating manager directory: /tmp/a365f89e-5e04-4f17-86eb-45856bda649a/codeium/manager
+(VSCode) 2025-11-16 19:05:25.481 [INFO]: Using cached LS with valid crc32: /home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/e03af6ebc40b844314d448f947c80b636d093049/language_server_linux_x64
+(VSCode) 2025-11-16 19:05:25.492 [INFO]: Language server started
+2025/11/16 19:05:25 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+(VSCode) 2025-11-16 19:05:25.697 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+I1116 19:05:25.698885 138679 main.go:604] [Language Server Manager] Setting GOMAXPROCS to 4
+I1116 19:05:25.698989 138679 main.go:750] [Language Server Manager] Release 1.48.2 (e03af6ebc40b844314d448f947c80b636d093049)
+I1116 19:05:25.699004 138679 main.go:829] [Language Server Manager] Starting language server manager with pid 138679
+I1116 19:05:25.699076 138679 main.go:138] [Language Server Manager] Manager acquired its lock file /tmp/a365f89e-5e04-4f17-86eb-45856bda649a/codeium/manager/locks/manager.lock
+I1116 19:05:25.699468 138679 main.go:283] [Language Server Manager] Waiting for random port file in /tmp/a365f89e-5e04-4f17-86eb-45856bda649a/codeium/manager/child_random_port_1763300125699132054_3674642083165072017 to be created
+2025/11/16 19:05:25 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+I1116 19:05:25.878770 138702 main.go:604] Setting GOMAXPROCS to 4
+I1116 19:05:25.879221 138702 main.go:823] Starting language server process with pid 138702
+I1116 19:05:25.879254 138702 server.go:296] Language server will attempt to listen on host 127.0.0.1
+I1116 19:05:25.879436 138702 server.go:303] Language server listening on random port at 46261
+I1116 19:05:27.773378 138702 web_server.go:256] Chat Web Server listening at ws://127.0.0.1:44553
+I1116 19:05:28.029648 138702 server.go:955] Local search is enabled, will index local files.
+I1116 19:05:28.029664 138702 server.go:959] Using 4 indexer workers
+I1116 19:05:28.973033 138702 server.go:1196] Child process attempting to acquire lock file /tmp/a365f89e-5e04-4f17-86eb-45856bda649a/codeium/manager/locks/child_lock_1763300125699150268_856050117688520394
+I1116 19:05:28.973082 138702 server.go:1204] Child process acquired lock file /tmp/a365f89e-5e04-4f17-86eb-45856bda649a/codeium/manager/locks/child_lock_1763300125699150268_856050117688520394
+37243
+I1116 19:05:29.010317 138679 main.go:319] [Language Server Manager] Found random server port 46261
+I1116 19:05:29.010347 138679 main.go:320] [Language Server Manager] Found random lsp port 37243
+I1116 19:05:29.010364 138679 main.go:327] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:46261
+I1116 19:05:29.022106 138679 main.go:192] [Language Server Manager] Fixing language server port at 46261
+I1116 19:05:29.022133 138679 main.go:381] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:46261
+(VSCode) 2025-11-16 19:05:29.117 [INFO]: Found language server running on port 46261
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+(VSCode) 2025-11-16 19:05:29.376 [ERROR]: Invalid LSP port: BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+(VSCode) 2025-11-16 19:05:29.377 [ERROR]: Invalid LSP port: BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+(VSCode) 2025-11-16 19:05:29.436 [INFO]: openAllTextDocuments took 2.4465309999995952ms
+(VSCode) 2025-11-16 19:33:03.906 [INFO]: Disposing language server process
+(VSCode) 2025-11-16 19:33:03.906 [INFO]: Deleting manager directory: /tmp/a365f89e-5e04-4f17-86eb-45856bda649a/codeium/manager
+(VSCode) 2025-11-16 19:33:03.907 [INFO]: Successfully disposed language server
+W1116 19:33:03.906936 138679 main.go:142] [Language Server Manager] Got signal terminated, shutting down
+I1116 19:33:03.963917 138702 server.go:1422] Exit requested on language server process 138702
+I1116 19:33:03.964017 138702 server.go:1395] Language server shutting down
+(VSCode) 2025-11-16 19:33:03.998 [INFO]: Language server exited with code 0
+(VSCode) 2025-11-16 19:33:04.074 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:46261
+(VSCode) 2025-11-16 19:33:04.573 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:46261
+(VSCode) 2025-11-16 19:33:04.991 [ERROR]: connect ECONNREFUSED 127.0.0.1:44553
+(VSCode) 2025-11-16 19:33:04.992 [ERROR]: connect ECONNREFUSED 127.0.0.1:44553
+(VSCode) 2025-11-16 19:33:05.074 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:46261
+(VSCode) 2025-11-16 19:33:05.558 [ERROR]: connect ECONNREFUSED 127.0.0.1:44553
+(VSCode) 2025-11-16 19:33:05.574 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:46261
+(VSCode) 2025-11-16 19:33:05.577 [ERROR]: connect ECONNREFUSED 127.0.0.1:44553

@@ -1,0 +1,7 @@
+2025/11/17-19:50:17.971 36459 Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/17-19:50:17.971 36459 Recovering log #3
+2025/11/17-19:50:17.971 36459 Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000003.log 
+2025/11/17-19:50:42.595 36459 Level-0 table #5: started
+2025/11/17-19:50:42.596 36459 Level-0 table #5: 1543 bytes OK
+2025/11/17-19:50:42.597 36459 Delete type=0 #3
+2025/11/17-19:50:42.598 36459 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

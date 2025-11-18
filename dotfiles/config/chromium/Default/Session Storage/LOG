@@ -1,3 +1,6 @@
-2025/11/15-14:41:07.189 5 Reusing MANIFEST /home/peaches/.config/chromium/Default/Session Storage/MANIFEST-000001
-2025/11/15-14:41:07.189 5 Recovering log #7
-2025/11/15-14:41:07.189 5 Reusing old log /home/peaches/.config/chromium/Default/Session Storage/000007.log 
+2025/11/18-17:34:44.375 5 Reusing MANIFEST /home/peaches/.config/chromium/Default/Session Storage/MANIFEST-000001
+2025/11/18-17:34:44.376 5 Recovering log #18
+2025/11/18-17:34:44.377 5 Reusing old log /home/peaches/.config/chromium/Default/Session Storage/000018.log 
+2025/11/18-18:48:24.126 7 Level-0 table #22: started
+2025/11/18-18:48:24.139 7 Level-0 table #22: 24270 bytes OK
+2025/11/18-18:48:24.142 7 Delete type=0 #18

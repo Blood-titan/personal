@@ -1,0 +1,194 @@
+Bruno extension activated
+StateManager initialized
+Collections updated. Count: 0
+StateManager updated with 0 total collections (0 workspace, 0 external)
+Initialized all collections in StateManager
+Bruno extension activation completed
+Requesting initial collection refresh for sidebar
+Executing bruno.refreshCollections command
+Got 0 collections from provider, updating StateManager and sidebar
+Collections updated. Count: 0
+StateManager updated with 0 total collections (0 workspace, 0 external)
+Updating sidebar with 0 total collections (0 workspace, 0 external)
+Sending collections to sidebar: 0 workspace (moved to Explorer), 0 external (including any that may also be in workspace)
+Sent collections update messages to sidebar webview
+All file watchers disposed
+Setting up file system watchers for 0 collections
+Set up 0 file system watchers
+Workspace Collections View updated with 0 workspace collections
+All workspace collections file watchers disposed
+Setting up file system watchers for 0 workspace collections
+Set up 0 file system watchers for workspace collections
+Received message from sidebar: debug
+[Sidebar Debug] Extracted VSCode theme: {"isDark":true,"foreground":"#cccccc","background":"#282c34","listActiveSelectionBackground":"#2c313a","listHoverBackground":"rgba(44, 49, 58, 0.4)","sideBarBackground":"#21252b","sideBarForeground":"#cccccc"}
+Received message from sidebar: debug
+[Sidebar Debug] Sidebar webview loaded, initializing React component
+Received message from sidebar: debug
+[Sidebar Debug] Rendering sidebar React component
+Received message from sidebar: debug
+[Sidebar Debug] Sidebar component initialized successfully
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:start-quit-flow"
+Received message from sidebar: debug
+[Sidebar Debug] Invoking method on channel: "renderer:ready"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:collection-tree-updated"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:collection-opened"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:collection-already-opened"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:display-error"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:script-environment-update"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:global-environment-variables-update"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:collection-renamed"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:run-folder-event"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:run-request-event"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:process-env-update"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:console-log"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:bruno-config-update"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:open-preferences"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:load-preferences"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:load-system-proxy-env"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:cookies-update"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:load-global-environments"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:hydrate-app-with-ui-state-snapshot"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:credentials-update"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:add-tab"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:security-config-updated"
+Received message from sidebar: debug
+[Sidebar Debug] Registering listener for channel: "main:collection-loading-state-updated"
+Received message from sidebar: debug
+[Sidebar Debug] Got collections update via command: {}
+Received message from sidebar: debug
+[Sidebar Debug] Got collections loaded via channel: {"count":0}
+Explicitly deactivating editor status
+Explicitly deactivating editor status
+Explicitly deactivating editor status
+Visible text editors changed
+Active text editor changed to: none
+Visible text editors changed
+Active text editor changed to: /home/peaches/basic-movie-recommendation/test.py
+Executing bruno.refreshCollections command
+Got 0 collections from provider, updating StateManager and sidebar
+Collections updated. Count: 0
+StateManager updated with 0 total collections (0 workspace, 0 external)
+Updating sidebar with 0 total collections (0 workspace, 0 external)
+Sending collections to sidebar: 0 workspace (moved to Explorer), 0 external (including any that may also be in workspace)
+Sent collections update messages to sidebar webview
+All file watchers disposed
+Setting up file system watchers for 0 collections
+Set up 0 file system watchers
+Workspace Collections View updated with 0 workspace collections
+All workspace collections file watchers disposed
+Setting up file system watchers for 0 workspace collections
+Set up 0 file system watchers for workspace collections
+Initial collection refresh completed
+Received message from sidebar: debug
+[Sidebar Debug] Refreshing collections initially
+Received message from sidebar: refreshCollections
+Refreshing collections from sidebar request
+Executing bruno.refreshCollections command
+Got 0 collections from provider, updating StateManager and sidebar
+Collections updated. Count: 0
+StateManager updated with 0 total collections (0 workspace, 0 external)
+Updating sidebar with 0 total collections (0 workspace, 0 external)
+Sending collections to sidebar: 0 workspace (moved to Explorer), 0 external (including any that may also be in workspace)
+Sent collections update messages to sidebar webview
+All file watchers disposed
+Setting up file system watchers for 0 collections
+Set up 0 file system watchers
+Workspace Collections View updated with 0 workspace collections
+All workspace collections file watchers disposed
+Setting up file system watchers for 0 workspace collections
+Set up 0 file system watchers for workspace collections
+Received message from sidebar: debug
+[Sidebar Debug] Got collections update via command: {}
+Received message from sidebar: debug
+[Sidebar Debug] Got collections loaded via channel: {"count":0}
+Received message from sidebar: debug
+[Sidebar Debug] Got collections update via command: {}
+Received message from sidebar: debug
+[Sidebar Debug] Got collections loaded via channel: {"count":0}
+Visible text editors changed
+Active text editor changed to: none
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Active text editor changed to: /home/peaches/basic-movie-recommendation/train.ipynb
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Active text editor changed to: /home/peaches/basic-movie-recommendation/train.ipynb
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Active text editor changed to: /home/peaches/basic-movie-recommendation/train.ipynb
+Visible text editors changed
+Active text editor changed to: none
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Active text editor changed to: /home/peaches/basic-movie-recommendation/train.ipynb
+Visible text editors changed
+Active text editor changed to: none
+Active text editor changed to: /home/peaches/basic-movie-recommendation/train.ipynb
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Active text editor changed to: none
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Visible text editors changed
+Bruno extension deactivated
+Disposing all watchers
+Bruno file watcher disposed

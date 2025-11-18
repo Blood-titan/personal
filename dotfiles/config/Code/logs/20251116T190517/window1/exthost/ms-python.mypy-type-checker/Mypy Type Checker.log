@@ -1,0 +1,96 @@
+2025-11-16 19:05:22.965 [info] Name: Mypy Type Checker
+2025-11-16 19:05:22.965 [info] Module: mypy
+2025-11-16 19:05:22.965 [info] Python extension loading
+2025-11-16 19:05:22.965 [info] Waiting for interpreter from Python extension.
+2025-11-16 19:05:23.055 [info] Python extension loaded
+2025-11-16 19:05:23.099 [info] Server run command: /home/peaches/basic-movie-recommendation/.venv/bin/python /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py
+2025-11-16 19:05:23.100 [info] Server: Start requested.
+2025-11-16 19:05:23.563 [info] CWD Server: /home/peaches/basic-movie-recommendation
+2025-11-16 19:05:23.563 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/peaches/basic-movie-recommendation",
+        "workspace": "file:///home/peaches/basic-movie-recommendation",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false,
+        "daemonStatusFile": ""
+    }
+]
+
+2025-11-16 19:05:23.564 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/peaches",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false,
+    "daemonStatusFile": ""
+}
+
+2025-11-16 19:05:23.564 [info] sys.path used to run Server:
+   /home/peaches/basic-movie-recommendation
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool
+   /home/peaches/anaconda3/lib/python313.zip
+   /home/peaches/anaconda3/lib/python3.13
+   /home/peaches/anaconda3/lib/python3.13/lib-dynload
+   /home/peaches/basic-movie-recommendation/.venv/lib/python3.13/site-packages
+2025-11-16 19:05:23.564 [info] /home/peaches/basic-movie-recommendation/.venv/bin/python -m mypy --version
+2025-11-16 19:05:23.564 [info] CWD Server: /home/peaches/basic-movie-recommendation
+2025-11-16 19:05:23.687 [info] 
+mypy 1.15.0 (compiled: no)
+
+
+2025-11-16 19:05:23.688 [info] Version info for linter running for /home/peaches/basic-movie-recommendation:
+mypy 1.15.0 (compiled: no)
+
+2025-11-16 19:05:23.688 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.15.0
+
+2025-11-16 19:05:23.692 [info] /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py:165: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2025-11-16 19:05:23.692 [info] [Trace - 7:05:23 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:23.692 [info] /home/peaches/basic-movie-recommendation/.venv/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/peaches/basic-movie-recommendation/test.py
+2025-11-16 19:05:23.692 [info] [Trace - 7:05:23 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:23.692 [info] CWD Server: /home/peaches/basic-movie-recommendation
+2025-11-16 19:05:37.499 [info] [Trace - 7:05:37 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:37.499 [info] file:///home/peaches/basic-movie-recommendation/test.py :
+/home/peaches/basic-movie-recommendation/test.py:3:1:3:1: error: Skipping analyzing "joblib": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/peaches/basic-movie-recommendation/test.py:3:1:3:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+/home/peaches/basic-movie-recommendation/test.py:4:1:4:1: error: Library stubs not installed for "requests"  [import-untyped]
+/home/peaches/basic-movie-recommendation/test.py:4:1:4:1: note: Hint: "python3 -m pip install types-requests"
+/home/peaches/basic-movie-recommendation/test.py:4:1:4:1: note: (or run "mypy --install-types" to install all missing stub packages)
+
+2025-11-16 19:05:37.499 [info] [Trace - 7:05:37 PM] Received notification 'window/logMessage'.
+2025-11-16 19:05:37.499 [info] file:///home/peaches/basic-movie-recommendation/test.py :
+/home/peaches/basic-movie-recommendation/test.py:3:1:3:1: error: Skipping analyzing "joblib": module is installed, but missing library stubs or py.typed marker  [import-untyped]
+/home/peaches/basic-movie-recommendation/test.py:3:1:3:1: note: See https://mypy.readthedocs.io/en/stable/running_mypy.html#missing-imports
+/home/peaches/basic-movie-recommendation/test.py:4:1:4:1: error: Library stubs not installed for "requests"  [import-untyped]
+/home/peaches/basic-movie-recommendation/test.py:4:1:4:1: note: Hint: "python3 -m pip install types-requests"
+/home/peaches/basic-movie-recommendation/test.py:4:1:4:1: note: (or run "mypy --install-types" to install all missing stub packages)
+
+2025-11-16 19:05:37.500 [info] [Trace - 7:05:37 PM] Received notification 'textDocument/publishDiagnostics'.

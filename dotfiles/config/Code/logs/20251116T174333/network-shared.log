@@ -1,0 +1,8 @@
+2025-11-16 17:45:07.295 [error] #109: https://mechatroner.gallerycdn.vsassets.io/extensions/mechatroner/rainbow-csv/3.23.0/1759542100703/Microsoft.VisualStudio.Code.Manifest - error GET Request timeout after 10000ms
+2025-11-16 17:45:07.295 [error] #120: https://Codeium.gallerycdn.vsassets.io/extensions/codeium/codeium/1.48.2/1750058305744/Microsoft.VisualStudio.Code.Manifest - error GET Request timeout after 10000ms
+2025-11-16 17:45:07.296 [error] #122: https://moyu.gallerycdn.vsassets.io/extensions/moyu/snapcode/1.1.0/1588576250840/Microsoft.VisualStudio.Code.Manifest - error GET Request timeout after 10000ms
+2025-11-16 17:45:07.296 [error] #126: https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/2.0.0/1748459272971/Microsoft.VisualStudio.Code.Manifest - error GET Request timeout after 10000ms
+2025-11-16 17:45:07.297 [error] #131: https://jeff-hykin.gallerycdn.vsassets.io/extensions/jeff-hykin/polacode-2019/0.6.2/1750079879450/Microsoft.VisualStudio.Code.Manifest - error GET Request timeout after 10000ms
+2025-11-16 17:45:07.297 [error] #141: https://bruno-api-client.gallerycdn.vsassets.io/extensions/bruno-api-client/bruno/4.4.0/1757677772450/Microsoft.VisualStudio.Code.Manifest - error GET Request timeout after 10000ms
+2025-11-16 17:45:07.297 [error] #150: https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-containers/2.3.0/1762798402707/Microsoft.VisualStudio.Code.Manifest - error GET Request timeout after 10000ms
+2025-11-16 17:45:22.702 [error] #210: https://GrapeCity.gallery.vsassets.io/_apis/public/gallery/publisher/GrapeCity/extension/gc-excelviewer/4.2.64/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?redirect=true&install=true - error GET Request timeout after 10000ms

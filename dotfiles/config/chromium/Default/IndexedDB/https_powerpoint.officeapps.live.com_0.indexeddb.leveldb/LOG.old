@@ -1,0 +1,6 @@
+2025/11/16-19:27:54.097 1be1c Creating DB /home/peaches/.config/chromium/Default/IndexedDB/https_powerpoint.officeapps.live.com_0.indexeddb.leveldb since it was missing.
+2025/11/16-19:27:54.099 1be1c Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_powerpoint.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/16-19:28:17.507 1be1e Level-0 table #5: started
+2025/11/16-19:28:17.508 1be1e Level-0 table #5: 2083 bytes OK
+2025/11/16-19:28:17.510 1be1e Delete type=0 #3
+2025/11/16-19:28:17.510 1be1e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

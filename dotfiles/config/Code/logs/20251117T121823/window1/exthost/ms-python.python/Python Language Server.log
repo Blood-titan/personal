@@ -1,0 +1,16 @@
+2025-11-17 12:18:28.106 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.18.0)
+2025-11-17 12:18:28.952 [info] (6010) Server root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:18:28.952 [info] (6010) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-17 12:18:28.955 [info] (6010) Starting service instance "mllearn" for workspace "/home/peaches/mllearn"
+2025-11-17 12:18:29.028 [info] (6010) Starting Mcp server id:4070 ...
+2025-11-17 12:18:29.060 [info] (6010) Setting environmentName for service "mllearn": "3.13.7 (global)"
+2025-11-17 12:18:29.060 [info] (6010) Setting pythonPath for service "mllearn": "/bin/python"
+2025-11-17 12:18:29.060 [info] (6010) No include entries specified; assuming /home/peaches/mllearn
+2025-11-17 12:18:29.060 [info] (6010) Auto-excluding **/node_modules
+2025-11-17 12:18:29.060 [info] (6010) Auto-excluding **/__pycache__
+2025-11-17 12:18:29.074 [info] (6010) Auto-excluding **/.*
+2025-11-17 12:18:29.082 [info] (6010) Assuming Python version 3.13.7.final.0
+2025-11-17 12:18:29.156 [info] (6010) Settings have not changed. Skipping update.
+2025-11-17 12:18:29.158 [info] (6010) Found 1 source file
+2025-11-17 12:18:29.558 [info] (6010) BG: Priority queue background worker(2) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:18:29.560 [info] (6010) BG: Priority queue background worker(2) started

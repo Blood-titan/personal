@@ -1,0 +1,72 @@
+2025-11-17 12:21:47.035 [info] Name: Mypy Type Checker
+2025-11-17 12:21:47.035 [info] Module: mypy
+2025-11-17 12:21:47.035 [info] Python extension loading
+2025-11-17 12:21:47.035 [info] Waiting for interpreter from Python extension.
+2025-11-17 12:21:47.035 [info] Python extension loaded
+2025-11-17 12:21:47.035 [info] Server run command: /bin/python /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py
+2025-11-17 12:21:47.035 [info] Server: Start requested.
+2025-11-17 12:21:47.700 [info] CWD Server: /home/peaches/mllearn/movie-recc
+2025-11-17 12:21:47.701 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/peaches/mllearn/movie-recc",
+        "workspace": "file:///home/peaches/mllearn/movie-recc",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false,
+        "daemonStatusFile": ""
+    }
+]
+
+2025-11-17 12:21:48.015 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/peaches/mllearn/movie-recc",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false,
+    "daemonStatusFile": ""
+}
+
+2025-11-17 12:21:48.075 [info] sys.path used to run Server:
+   /home/peaches/mllearn/movie-recc
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /usr/lib/python3.13/site-packages
+2025-11-17 12:21:48.076 [info] /bin/python -m mypy --version
+2025-11-17 12:21:48.077 [info] CWD Server: /home/peaches/mllearn/movie-recc
+2025-11-17 12:21:48.077 [info] 
+mypy 1.15.0 (compiled: no)
+
+
+2025-11-17 12:21:48.077 [info] Version info for linter running for /home/peaches/mllearn/movie-recc:
+mypy 1.15.0 (compiled: no)
+
+2025-11-17 12:21:48.077 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.15.0
+

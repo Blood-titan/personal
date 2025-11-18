@@ -1,0 +1,7 @@
+2025-11-17 12:18:28.769 [info] Getting Manifest... vscjava.vscode-java-pack
+2025-11-17 12:18:28.962 [info] Installing extension: vscjava.vscode-java-pack {"productVersion":{"version":"1.105.1","date":"2025-10-14T22:33:36.618Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-17 12:18:30.497 [info] Extension signature verification result for vscjava.vscode-java-pack: Success. Internal Code: 0. Executed: true. Duration: 424ms.
+2025-11-17 12:18:30.551 [info] Extracted extension to file:///home/peaches/.vscode/extensions/vscjava.vscode-java-pack-0.30.5: vscjava.vscode-java-pack
+2025-11-17 12:18:30.554 [info] Renamed to /home/peaches/.vscode/extensions/vscjava.vscode-java-pack-0.30.5
+2025-11-17 12:18:30.573 [info] Marked extension as removed vscjava.vscode-java-pack-0.30.4
+2025-11-17 12:18:30.578 [info] Extension installed successfully: vscjava.vscode-java-pack vscode-userdata:/home/peaches/.vscode/extensions/extensions.json

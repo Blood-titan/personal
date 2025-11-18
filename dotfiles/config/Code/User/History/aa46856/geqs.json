@@ -1,0 +1,5 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "python.analysis.typeCheckingMode": "standard"
+}

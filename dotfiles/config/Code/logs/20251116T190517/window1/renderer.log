@@ -1,0 +1,77 @@
+2025-11-16 19:05:18.247 [info] Started local extension host with pid 137709.
+2025-11-16 19:05:18.760 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-11-16 19:05:18.810 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-11-16 19:05:18.810 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-11-16 19:05:18.810 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-11-16 19:05:19.396 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2025-11-16 19:05:19.396 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2025-11-16 19:05:19.608 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-16 19:05:21.813 [info] [perf] Render performance baseline is 14ms
+2025-11-16 19:05:22.662 [info] Settings Sync: Account status changed from uninitialized to available
+2025-11-16 19:05:23.112 [error] Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server: Error: Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server
+    at qct.resolveConnection (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:2218)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:13693
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73168
+2025-11-16 19:05:23.597 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at z6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64302)
+    at new nd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67682)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69120)
+    at nd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68897)
+    at o5.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:105739)
+    at Lf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Lf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10776)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106370)
+    at Session.emit (node:events:519:28)
+2025-11-16 19:05:24.682 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-11-16 19:16:36.223 [error] Unable to resolve text model content for resource vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W0sZmlsZQ%3D%3D: Error: Unable to resolve text model content for resource vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W0sZmlsZQ%3D%3D
+    at QKe.u (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:22471)
+    at async QKe.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:21501)
+2025-11-16 19:27:57.452 [error] Maximum call stack size exceeded: RangeError: Maximum call stack size exceeded
+    at Jn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:36:567)
+    at fdn.oc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3770:82587)
+    at W5i.a (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3770:82562)
+    at W5i.onUnexpectedError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:7:249)
+    at bt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:7:429)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2410)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at BBe.h (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:42535)
+    at BBe.observe (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:42343)
+    at ice.observeContainer (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:136158)
+2025-11-16 19:27:58.175 [error] Maximum call stack size exceeded: RangeError: Maximum call stack size exceeded
+    at bt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:7:429)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2410)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at j2.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:33073)
+    at j2.setScrollDimensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:31811)
+    at sK.setScrollDimensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:37340)
+    at zVs.setScrollTop (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:290:20068)
+    at zVs.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:290:27575)
+    at zVs.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1703:17212)
+    at zVs.updateElementHeight (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:290:13594)
+2025-11-16 19:27:58.175 [error] Unable to resolve text model content for resource vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W0sZmlsZQ%3D%3D: Error: Unable to resolve text model content for resource vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W0sZmlsZQ%3D%3D
+    at QKe.u (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:22471)
+    at async QKe.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:21501)
+    at async jLt.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3390)
+    at async ZKe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:22967)
+    at async f6e.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:495:19808)
+2025-11-16 19:31:41.738 [error] Unable to resolve text model content for resource vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W0sZmlsZQ%3D%3D: Error: Unable to resolve text model content for resource vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W0sZmlsZQ%3D%3D
+    at QKe.u (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:22471)
+    at async QKe.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:21501)
+    at async jLt.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3390)
+    at async ZKe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:22967)
+    at async f6e.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:495:19808)

@@ -1,0 +1,49 @@
+[5:50:35 PM] [PgToolsService Initialization] ServiceDownloadProvider initialized
+[5:50:35 PM] [PgToolsService Initialization] [All]: Initializing PostgreSQL Tools Service for the pgsql extension.
+[5:50:35 PM] [PgToolsService Initialization] [All]: Note: pgsql commands will be available after installing the service.
+[5:50:35 PM] [PgToolsService Initialization] [All]: 
+[5:50:35 PM] [PgToolsService Initialization] Platform: linux, x86_64, name=arch, version=unknown[All]:  (Ubuntu16)
+[5:50:35 PM] [PgToolsService Initialization] [All]: 
+[5:50:35 PM] [PgToolsService Initialization] [All]: Checking server path for runtime ID: Ubuntu_16
+[5:50:35 PM] [PgToolsService Initialization] [All]: Tools Service path: /home/peaches/.vscode/extensions/ms-ossdata.vscode-pgsql-1.12.0-linux-x64/pgsqltoolsservice/v2.2.2/Linux_x64/pgsqltoolsservice/ossdbtoolsservice_main
+[5:50:35 PM] [PgToolsService Initialization] [All]: 
+**************************************************
+PG Tools Service log path can be found at:
+/home/peaches/.config/Code/logs/20251116T174812/window1/exthost/ms-ossdata.vscode-pgsql/pgsql-tools.log
+**************************************************
+
+[5:50:35 PM] [PgToolsService Initialization] [All]: Initializing language client
+[5:50:35 PM] [PgToolsService Initialization] [All]: Checking overrides for language client initialization
+[5:50:35 PM] [PgToolsService Initialization] [All]: Creating the language client with options: {"command":"/home/peaches/.vscode/extensions/ms-ossdata.vscode-pgsql-1.12.0-linux-x64/pgsqltoolsservice/v2.2.2/Linux_x64/pgsqltoolsservice/ossdbtoolsservice_main","args":["--log-file","/home/peaches/.config/Code/logs/20251116T174812/window1/exthost/ms-ossdata.vscode-pgsql/pgsql-tools.log","--parent-pid","100184","--application-name","Code","--data-path","/home/peaches/.config","--enable-sql-authentication-provider","--log-level","info","--instrumentation-key","9aaabc0a-066d-4fc5-93d7-54ef76768de1"],"transport":0}
+[5:50:35 PM] [PgToolsService Initialization] [All]: Language client created
+[5:50:35 PM] [PgToolsService Initialization] [All]: Starting language client
+[5:50:35 PM] [PgToolsService Initialization] [All]: Language client started
+[5:50:35 PM] [PgToolsService Initialization] [All]: Waiting for client to be ready
+[5:50:37 PM] [PgToolsService Initialization] [All]: Client is ready
+[5:50:37 PM] [MetricsService] [All]: MetricsService initialized
+[5:50:37 PM] [serverDashboard] [Verbose]: Azure metadata service initialized for Server Dashboard
+[5:50:37 PM] [ToolsService] [Information]: ToolsService: registerTools called
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_list_servers
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_connect
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_disconnect
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_open_script
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_visualize_schema
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_query
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_modify
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_db_context
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_list_databases
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_describe_csv
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_bulk_load_csv
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_get_dashboard_context
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_get_metric_data
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_migration_oracle_app
+[5:50:37 PM] [ToolsService] [Information]: Registering tool: pgsql_migration_show_report
+[5:50:37 PM] [MigrationProjectService] [Information]: No postgres-migrations folder found in basic-movie-recommendation: Error: ENOENT: no such file or directory, stat '/home/peaches/basic-movie-recommendation/.github/postgres-migrations/'
+[5:50:37 PM] [ObjectExplorerService] [All]: Getting root OE nodes
+[5:50:37 PM] [PgToolsService Initialization] [Verbose]: readAllConnections: 0 connections; excluded recent)
+[5:50:37 PM] [ObjectExplorerService] [Verbose]: No saved connections found; displaying 'Add Connection' node
+[5:50:37 PM] [MigrationProjectService] [Information]: No postgres-migrations folder found in basic-movie-recommendation: Error: ENOENT: no such file or directory, stat '/home/peaches/basic-movie-recommendation/.github/postgres-migrations/'
+[5:50:37 PM] [MigrationProjectService] [Information]: No postgres-migrations folder found in basic-movie-recommendation: Error: ENOENT: no such file or directory, stat '/home/peaches/basic-movie-recommendation/.github/postgres-migrations/'
+[5:50:37 PM] [MigrationProjectService] [Information]: No postgres-migrations folder found in basic-movie-recommendation: Error: ENOENT: no such file or directory, stat '/home/peaches/basic-movie-recommendation/.github/postgres-migrations/'
+[6:20:28 PM] [PgToolsService Initialization] [All]: Shutting down language client
+[6:20:28 PM] [PgToolsService Initialization] [All]: Shutting down language client

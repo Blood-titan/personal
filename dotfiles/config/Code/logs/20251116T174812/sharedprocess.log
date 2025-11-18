@@ -1,0 +1,33 @@
+2025-11-16 17:51:06.270 [info] Uninstalling extension from the profile: ms-vscode.azure-repos@0.40.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:06.303 [info] Marked extension as removed ms-vscode.azure-repos-0.40.0
+2025-11-16 17:51:06.846 [info] Successfully uninstalled extension from the profile ms-vscode.azure-repos@0.40.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:11.580 [info] Uninstalling extension from the profile: vsls-contrib.codetour@0.0.61 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:11.616 [info] Marked extension as removed vsls-contrib.codetour-0.0.61
+2025-11-16 17:51:11.922 [info] Successfully uninstalled extension from the profile vsls-contrib.codetour@0.0.61 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:22.780 [info] Uninstalling extension from the profile: grapecity.gc-excelviewer@4.2.64 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:22.814 [info] Marked extension as removed grapecity.gc-excelviewer-4.2.64
+2025-11-16 17:51:23.116 [info] Successfully uninstalled extension from the profile grapecity.gc-excelviewer@4.2.64 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:30.423 [info] Uninstalling extension from the profile: github.copilot@1.388.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:30.423 [info] Uninstalling extension from the profile: github.copilot-chat@0.32.5 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:30.445 [info] Extensions is already requested to uninstall github.copilot
+2025-11-16 17:51:30.446 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-11-16 17:51:30.446 [info] Extensions is already requested to uninstall github.copilot
+2025-11-16 17:51:30.446 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-11-16 17:51:30.446 [info] Extensions is already requested to uninstall github.copilot
+2025-11-16 17:51:30.446 [info] Extensions is already requested to uninstall github.copilot
+2025-11-16 17:51:30.446 [info] Extensions is already requested to uninstall github.copilot
+2025-11-16 17:51:30.446 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-11-16 17:51:30.446 [info] Extensions is already requested to uninstall github.copilot
+2025-11-16 17:51:30.452 [info] Marked extension as removed github.copilot-1.388.0
+2025-11-16 17:51:30.456 [info] Marked extension as removed github.copilot-chat-0.32.5
+2025-11-16 17:51:30.796 [info] Successfully uninstalled extension from the profile github.copilot@1.388.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:30.796 [info] Successfully uninstalled extension from the profile github.copilot-chat@0.32.5 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:39.364 [info] Uninstalling extension from the profile: ms-edgedevtools.vscode-edge-devtools@2.1.10 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:39.395 [info] Marked extension as removed ms-edgedevtools.vscode-edge-devtools-2.1.10
+2025-11-16 17:51:39.716 [info] Successfully uninstalled extension from the profile ms-edgedevtools.vscode-edge-devtools@2.1.10 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:44.508 [info] Uninstalling extension from the profile: ms-vscode.powershell@2025.4.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:51:44.534 [info] Marked extension as removed ms-vscode.powershell-2025.4.0
+2025-11-16 17:51:44.916 [info] Successfully uninstalled extension from the profile ms-vscode.powershell@2025.4.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:52:05.522 [info] Uninstalling extension from the profile: rangav.vscode-thunder-client@2.38.4 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-16 17:52:05.562 [info] Marked extension as removed rangav.vscode-thunder-client-2.38.4
+2025-11-16 17:52:05.849 [info] Successfully uninstalled extension from the profile rangav.vscode-thunder-client@2.38.4 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json

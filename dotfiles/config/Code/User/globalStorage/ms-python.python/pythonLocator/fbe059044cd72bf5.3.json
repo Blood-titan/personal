@@ -1,0 +1,15 @@
+{
+  "environment": {
+    "executable": "/home/peaches/anaconda3/bin/python",
+    "prefix": "/home/peaches/anaconda3",
+    "version": "3.13.5.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/peaches/anaconda3/bin/python",
+      "/home/peaches/anaconda3/bin/python3",
+      "/home/peaches/anaconda3/bin/python3.1",
+      "/home/peaches/anaconda3/bin/python3.13"
+    ]
+  },
+  "symlinks": []
+}

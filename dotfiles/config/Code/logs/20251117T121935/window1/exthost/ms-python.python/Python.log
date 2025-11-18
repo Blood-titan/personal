@@ -1,0 +1,40 @@
+2025-11-17 12:19:39.755 [info] Native locator: Refresh started
+2025-11-17 12:19:39.864 [info] Native locator: Refresh started
+2025-11-17 12:19:39.864 [info] Native locator: Refresh started
+2025-11-17 12:19:39.904 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:19:39.904 [info] Using conda: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:19:39.907 [info] Conda environment manager found at: /opt/anaconda/bin/conda
+2025-11-17 12:19:39.907 [info] Conda set to: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:19:39.909 [info] Native locator: Refresh finished in 1627 ms
+2025-11-17 12:19:39.916 [info] > pyenv which python
+2025-11-17 12:19:39.916 [info] cwd: .
+2025-11-17 12:19:39.928 [info] > ~/anaconda3/bin/conda info --json
+2025-11-17 12:19:40.671 [info] > ~/anaconda3/bin/conda config --get auto_activate_base
+2025-11-17 12:19:40.747 [info] Python interpreter path: /bin/python
+2025-11-17 12:19:42.409 [info] Starting Pylance language server.
+2025-11-17 12:21:34.714 [info] Native locator: Refresh started
+2025-11-17 12:21:34.756 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:21:34.756 [info] Conda set to: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:21:34.834 [info] Conda environment manager found at: /opt/anaconda/bin/conda
+2025-11-17 12:21:34.834 [info] Conda set to: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:21:34.865 [info] Native locator: Refresh finished in 150 ms
+2025-11-17 12:21:39.729 [info] Native locator: Refresh started
+2025-11-17 12:21:39.729 [info] Native locator: Refresh started
+2025-11-17 12:21:39.804 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:21:39.804 [info] Conda set to: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:21:39.901 [info] Conda environment manager found at: /opt/anaconda/bin/conda
+2025-11-17 12:21:39.901 [info] Conda set to: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:21:39.933 [info] Native locator: Refresh finished in 206 ms
+2025-11-17 12:21:40.952 [info] > ~/anaconda3/bin/conda run -p ~/anaconda3 --no-capture-output python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/printEnvVariables.py
+2025-11-17 12:21:40.952 [info] shell: bash
+2025-11-17 12:21:41.026 [info] Active interpreter [/home/peaches/mllearn/movie-recc/train.ipynb]:  /home/peaches/anaconda3/bin/python
+2025-11-17 12:21:41.051 [info] > ~/anaconda3/bin/conda run -p ~/anaconda3 --no-capture-output python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/printEnvVariables.py
+2025-11-17 12:21:41.051 [info] shell: bash
+2025-11-17 12:23:23.307 [info] Native locator: Refresh started
+2025-11-17 12:23:23.368 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:23:23.368 [info] Conda set to: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:23:23.501 [info] Conda environment manager found at: /opt/anaconda/bin/conda
+2025-11-17 12:23:23.501 [info] Conda set to: /home/peaches/anaconda3/bin/conda
+2025-11-17 12:23:23.549 [info] Native locator: Refresh finished in 242 ms
+2025-11-17 12:23:26.017 [info] > ~/anaconda3/bin/conda run -p ~/anaconda3 --no-capture-output python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/printEnvVariables.py
+2025-11-17 12:23:26.017 [info] shell: bash

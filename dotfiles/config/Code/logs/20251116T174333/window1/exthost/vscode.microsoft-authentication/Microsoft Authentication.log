@@ -1,0 +1,34 @@
+2025-11-16 17:43:38.915 [info] [getSessions] [all] starting
+2025-11-16 17:43:38.915 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:43:38.915 [info] [getSessions] [all] starting
+2025-11-16 17:43:38.915 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:43:38.915 [info] [getSessions] [all] starting
+2025-11-16 17:43:38.915 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:43:38.915 [info] [getSessions] [all] starting
+2025-11-16 17:43:38.915 [info] [getSessions] [all] returned 0 session(s)
+2025-11-16 17:43:38.915 [info] [createSession] [email offline_access openid profile] starting
+2025-11-16 17:43:38.915 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows and macOS
+2025-11-16 17:43:38.918 [info] Trying default msal flow...
+2025-11-16 17:44:29.528 [info] [createSession] [email offline_access openid profile] returned session
+2025-11-16 17:44:29.531 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:44:29.534 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-11-16 17:44:49.636 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:44:49.641 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-11-16 17:44:52.062 [info] [getSessions] [all] starting
+2025-11-16 17:44:52.062 [info] [getSessions] [all] returned 1 session(s)
+2025-11-16 17:44:52.697 [info] [getSessions] [all] starting
+2025-11-16 17:44:52.697 [info] [getSessions] [all] returned 1 session(s)
+2025-11-16 17:44:52.768 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:44:52.782 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-11-16 17:48:03.896 [info] [getSessions] [all] starting
+2025-11-16 17:48:03.896 [info] [getSessions] [all] returned 1 session(s)
+2025-11-16 17:48:04.206 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:48:07.299 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)
+2025-11-16 17:48:07.299 [info] [getSessions] [all] starting
+2025-11-16 17:48:07.299 [info] [getSessions] [all] returned 1 session(s)
+2025-11-16 17:48:08.215 [info] [getSessions] [all] starting
+2025-11-16 17:48:08.215 [info] [getSessions] [all] returned 1 session(s)
+2025-11-16 17:48:08.501 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2025-11-16 17:48:09.362 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 1 session(s)
+2025-11-16 17:48:09.363 [info] [getSessions] [email offline_access openid profile] starting
+2025-11-16 17:48:09.370 [info] [getSessions] [email offline_access openid profile] returned 1 session(s)

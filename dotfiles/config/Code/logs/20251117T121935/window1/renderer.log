@@ -1,0 +1,27 @@
+2025-11-17 12:19:36.323 [info] Started local extension host with pid 6617.
+2025-11-17 12:19:36.507 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-17 12:19:36.515 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-11-17 12:19:36.538 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-11-17 12:19:36.538 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-11-17 12:19:36.538 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-11-17 12:19:36.996 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-17 12:19:37.360 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2025-11-17 12:19:37.361 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2025-11-17 12:19:37.732 [error] [Extension Host] (node:6617) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-11-17 12:19:39.706 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 248ms.
+2025-11-17 12:19:39.959 [info] Settings Sync: Account status changed from uninitialized to available
+2025-11-17 12:19:39.983 [info] [perf] Render performance baseline is 20ms
+2025-11-17 12:19:40.664 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-11-17 12:21:46.114 [error] Error: Aborted onWillSaveNotebookDocument-event after 1750ms
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:595:55633
+2025-11-17 12:21:46.958 [info] Extension host (LocalProcess pid: 6617) is unresponsive.
+2025-11-17 12:21:46.965 [info] Extension host (LocalProcess pid: 6617) is responsive.
+2025-11-17 12:21:47.080 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-11-17 12:21:48.016 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-11-17 12:24:49.304 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-17 12:29:51.224 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-17 12:34:53.292 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-17 12:39:55.089 [error] An unknown error occurred. Please consult the log for more details.

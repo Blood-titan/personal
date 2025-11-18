@@ -1,0 +1,12 @@
+{
+  "environment": {
+    "executable": "/home/peaches/.local/bin/python3.13",
+    "prefix": "/home/peaches/.local/share/uv/python/cpython-3.13.5-linux-x86_64-gnu",
+    "version": "3.13.5.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/peaches/.local/bin/python3.13"
+    ]
+  },
+  "symlinks": []
+}

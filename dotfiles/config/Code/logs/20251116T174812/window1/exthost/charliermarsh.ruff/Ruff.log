@@ -1,0 +1,88 @@
+2025-11-16 17:48:19.620 [info] Name: Ruff
+2025-11-16 17:48:19.620 [info] Module: ruff
+2025-11-16 17:48:19.620 [info] Python extension loading
+2025-11-16 17:48:19.620 [info] Waiting for interpreter from python extension.
+2025-11-16 17:48:20.030 [info] Python extension loaded
+2025-11-16 17:48:20.036 [info] Using interpreter: /home/peaches/basic-movie-recommendation/.venv/bin/python
+2025-11-16 17:48:20.055 [info] Workspace settings for /home/peaches/basic-movie-recommendation: {
+    "nativeServer": "auto",
+    "cwd": "/home/peaches/basic-movie-recommendation",
+    "workspace": "file:///home/peaches/basic-movie-recommendation",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-11-16 17:48:20.063 [info] Global settings: {
+    "nativeServer": "auto",
+    "cwd": "/home/peaches",
+    "workspace": "/home/peaches",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-11-16 17:48:20.134 [info] Falling back to bundled executable: /home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-16 17:48:20.148 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2025-11-16 17:48:20.151 [info] Found Ruff 0.14.0 at /home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-16 17:48:20.151 [info] Server run command: /home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff server
+2025-11-16 17:48:20.152 [info] Server: Start requested.

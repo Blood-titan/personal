@@ -1,0 +1,20 @@
+Visual Studio Code (1.105.1, undefined, desktop)
+Jupyter Extension Version: 2025.9.1.
+Python Extension Version: 2025.18.0.
+Python Environment Extension Version: 1.12.0.
+Pylance Extension Version: 2025.9.1.
+Platform: linux (x64).
+Home = /home/peaches
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2025.9.1
+Workspace folder ~/basic-movie-recommendation
+17:25:21.087 [warn] No interpreter with path ~/.local/share/mamba/envs/jupyter/bin/python found in Python API, will convert Uri path to string as Id ~/.local/share/mamba/envs/jupyter/bin/python
+17:25:21.093 [warn] Kernel Spec for 'Conda (jupyter)' (~/.local/share/jupyter/kernels/jupyter/kernel.json) hidden, as we cannot find a matching interpreter argv = '~/.local/share/mamba/envs/jupyter/bin/python'. To resolve this, please change '~/.local/share/mamba/envs/jupyter/bin/python' to point to the fully qualified Python executable.
+17:25:28.828 [info] Starting Kernel (Python Path: /opt/anaconda/bin/python, Conda, 3.13.5) for '~/basic-movie-recommendation/train.ipynb' (disableUI=true)
+17:25:33.922 [info] Process Execution: /opt/anaconda/bin/python -m pip list
+17:25:33.961 [info] Process Execution: /opt/anaconda/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+17:25:33.965 [info] Process Execution: /opt/anaconda/bin/python -m ipykernel_launcher --f=/run/user/1000/jupyter/runtime/kernel-v313c189b7e9eacf9f355a94c10077ce727a9bf189.json
+    > cwd: ~/basic-movie-recommendation
+17:25:35.494 [info] Kernel successfully started
+17:25:35.500 [info] Process Execution: /opt/anaconda/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/pythonFiles/printJupyterDataDir.py
+17:25:36.270 [error] Widget Error: Failed to access CDN https://unpkg.com/ after 0 attempt(s), TypeError: Failed to fetch
+17:43:30.146 [info] Dispose Kernel '~/basic-movie-recommendation/train.ipynb' associated with '~/basic-movie-recommendation/train.ipynb'

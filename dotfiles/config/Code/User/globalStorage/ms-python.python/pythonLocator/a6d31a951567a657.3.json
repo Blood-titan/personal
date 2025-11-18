@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/peaches/basic-movie-recommendation/.venv/bin/python",
+    "prefix": "/home/peaches/basic-movie-recommendation/.venv",
+    "version": "3.13.5.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/peaches/basic-movie-recommendation/.venv/bin/python",
+      "/home/peaches/basic-movie-recommendation/.venv/bin/python3",
+      "/home/peaches/basic-movie-recommendation/.venv/bin/python3.13"
+    ]
+  },
+  "symlinks": []
+}

@@ -1,3 +1,3 @@
-2025/11/15-14:22:04.267 5acd Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/15-14:22:04.267 5acd Recovering log #4
-2025/11/15-14:22:04.267 5acd Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000004.log 
+2025/11/17-20:06:41.678 3f433 Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/17-20:06:41.678 3f433 Recovering log #7
+2025/11/17-20:06:41.678 3f433 Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000007.log 

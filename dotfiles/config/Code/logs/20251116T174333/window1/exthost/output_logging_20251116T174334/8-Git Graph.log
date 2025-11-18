@@ -1,0 +1,9 @@
+[2025-11-16 17:48:07.620] Starting Git Graph ...
+[2025-11-16 17:48:07.853] Using git (version: 2.51.2)
+[2025-11-16 17:48:07.855] Started Git Graph - Ready to use!
+[2025-11-16 17:48:07.855] Searching workspace for new repos ...
+[2025-11-16 17:48:07.862] > git rev-parse --show-toplevel
+[2025-11-16 17:48:08.389] Added new repo: /home/peaches/basic-movie-recommendation
+[2025-11-16 17:48:08.391] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2025-11-16 17:48:08.513] Completed searching workspace for new repos
+[2025-11-16 17:48:08.513] Showing "Git Graph" Status Bar Item

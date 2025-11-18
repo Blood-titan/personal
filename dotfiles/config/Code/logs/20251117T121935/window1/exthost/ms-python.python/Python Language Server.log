@@ -1,0 +1,28 @@
+2025-11-17 12:19:41.654 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.18.0)
+2025-11-17 12:19:42.393 [info] (7252) Server root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:19:42.393 [info] (7252) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-17 12:19:42.396 [info] (7252) Starting service instance "movie-recc" for workspace "/home/peaches/mllearn/movie-recc"
+2025-11-17 12:19:42.466 [info] (7252) Starting Mcp server id:3876 ...
+2025-11-17 12:19:42.481 [info] (7252) Setting environmentName for service "movie-recc": "3.13.7 (global)"
+2025-11-17 12:19:42.481 [info] (7252) Setting pythonPath for service "movie-recc": "/bin/python"
+2025-11-17 12:19:42.481 [info] (7252) No include entries specified; assuming /home/peaches/mllearn/movie-recc
+2025-11-17 12:19:42.481 [info] (7252) Auto-excluding **/node_modules
+2025-11-17 12:19:42.481 [info] (7252) Auto-excluding **/__pycache__
+2025-11-17 12:19:42.481 [info] (7252) Auto-excluding **/.*
+2025-11-17 12:19:42.499 [info] (7252) Assuming Python version 3.13.7.final.0
+2025-11-17 12:19:42.550 [info] (7252) Settings have not changed. Skipping update.
+2025-11-17 12:19:42.551 [info] (7252) No source files found.
+2025-11-17 12:19:42.951 [info] (7252) BG: Priority queue background worker(2) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:19:42.952 [info] (7252) BG: Priority queue background worker(2) started
+2025-11-17 12:21:46.694 [info] (7252) Starting service instance "<default>" for workspace ""
+2025-11-17 12:21:47.052 [info] (7252) Setting environmentName for service "<default>": "3.13.7 (global)"
+2025-11-17 12:21:47.054 [info] (7252) Setting pythonPath for service "<default>": "/bin/python"
+2025-11-17 12:21:47.054 [info] (7252) No include entries specified; assuming /<default workspace root>
+2025-11-17 12:21:47.054 [info] (7252) Auto-excluding **/node_modules
+2025-11-17 12:21:47.054 [info] (7252) Auto-excluding **/__pycache__
+2025-11-17 12:21:47.054 [info] (7252) Auto-excluding **/.*
+2025-11-17 12:21:47.078 [info] (7252) Assuming Python version 3.13.7.final.0
+2025-11-17 12:21:47.669 [error] (7252) File or directory "/<default workspace root>" does not exist.
+2025-11-17 12:21:47.700 [info] (7252) No source files found.
+2025-11-17 12:21:48.076 [info] (7252) BG: Priority queue background worker(4) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:21:48.077 [info] (7252) BG: Priority queue background worker(4) started

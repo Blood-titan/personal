@@ -1,0 +1,48 @@
+2025-11-17 12:40:49.547 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.18.0)
+2025-11-17 12:40:50.445 [info] (15436) Server root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:40:50.445 [info] (15436) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-17 12:40:50.450 [info] (15436) Starting service instance "movie-recc" for workspace "/home/peaches/mllearn/movie-recc"
+2025-11-17 12:40:50.561 [info] (15436) Starting Mcp server id:3932 ...
+2025-11-17 12:40:50.589 [info] (15436) Setting environmentName for service "movie-recc": "3.13.7 (global)"
+2025-11-17 12:40:50.589 [info] (15436) Setting pythonPath for service "movie-recc": "/bin/python"
+2025-11-17 12:40:50.589 [info] (15436) No include entries specified; assuming /home/peaches/mllearn/movie-recc
+2025-11-17 12:40:50.589 [info] (15436) Auto-excluding **/node_modules
+2025-11-17 12:40:50.590 [info] (15436) Auto-excluding **/__pycache__
+2025-11-17 12:40:50.590 [info] (15436) Auto-excluding **/.*
+2025-11-17 12:40:50.606 [info] (15436) Assuming Python version 3.13.7.final.0
+2025-11-17 12:40:50.656 [info] (15436) Settings have not changed. Skipping update.
+2025-11-17 12:40:50.657 [info] (15436) Starting service instance "<default>" for workspace ""
+2025-11-17 12:40:50.661 [info] (15436) No source files found.
+2025-11-17 12:40:50.710 [info] (15436) Setting environmentName for service "<default>": "3.13.7 (global)"
+2025-11-17 12:40:50.711 [info] (15436) Setting pythonPath for service "<default>": "/bin/python"
+2025-11-17 12:40:50.711 [info] (15436) No include entries specified; assuming /<default workspace root>
+2025-11-17 12:40:50.711 [info] (15436) Auto-excluding **/node_modules
+2025-11-17 12:40:50.712 [info] (15436) Auto-excluding **/__pycache__
+2025-11-17 12:40:50.712 [info] (15436) Auto-excluding **/.*
+2025-11-17 12:40:50.738 [info] (15436) Assuming Python version 3.13.7.final.0
+2025-11-17 12:40:50.804 [error] (15436) File or directory "/<default workspace root>" does not exist.
+2025-11-17 12:40:50.804 [info] (15436) No source files found.
+2025-11-17 12:40:51.269 [info] (15436) BG: Priority queue background worker(2) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:40:51.270 [info] (15436) BG: Priority queue background worker(2) started
+2025-11-17 12:40:51.431 [info] (15436) BG: Priority queue background worker(4) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:40:51.431 [info] (15436) BG: Priority queue background worker(4) started
+2025-11-17 12:40:51.723 [info] (15436) Starting service instance "movie-recc" for workspace "/home/peaches/mllearn/movie-recc"
+2025-11-17 12:40:51.747 [info] (15436) Setting environmentName for service "movie-recc": "3.13.7 (global)"
+2025-11-17 12:40:51.748 [info] (15436) Setting pythonPath for service "movie-recc": "/home/peaches/anaconda3/bin/python"
+2025-11-17 12:40:51.748 [info] (15436) No include entries specified; assuming /home/peaches/mllearn/movie-recc
+2025-11-17 12:40:51.748 [info] (15436) Auto-excluding **/node_modules
+2025-11-17 12:40:51.748 [info] (15436) Auto-excluding **/__pycache__
+2025-11-17 12:40:51.748 [info] (15436) Auto-excluding **/.*
+2025-11-17 12:40:51.773 [info] (15436) Assuming Python version 3.13.5.final.0
+2025-11-17 12:40:52.077 [info] (15436) No source files found.
+2025-11-17 12:40:52.331 [info] (15436) BG: Priority queue background worker(6) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-17 12:40:52.332 [info] (15436) BG: Priority queue background worker(6) started
+2025-11-17 12:40:52.419 [info] (15436) BG: Indexer background runner(7) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-17 12:40:52.419 [info] (15436) BG: Indexing(7) started
+2025-11-17 12:40:53.188 [info] (15436) BG: scanned(7) 564 files over 1 exec env
+2025-11-17 12:40:56.346 [info] (15436) BG: [IDX(7)] Long operation: index execution environment file:///home/peaches/mllearn/movie-recc (2965ms)
+2025-11-17 12:40:56.378 [info] (15436) BG: [IDX(7)] Long operation: index packages file:///home/peaches/mllearn/movie-recc (3012ms)
+2025-11-17 12:40:56.378 [info] (15436) BG: indexed(7) 564 files over 1 exec env
+2025-11-17 12:40:56.463 [info] (15436) BG: Indexing finished(7).
+2025-11-17 13:05:34.383 [info] (15436) Found 1 source file
+2025-11-17 13:05:34.402 [info] (15436) Found 1 source file

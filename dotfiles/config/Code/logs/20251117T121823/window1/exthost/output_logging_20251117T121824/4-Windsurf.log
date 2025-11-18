@@ -1,0 +1,28 @@
+(VSCode) 2025-11-17 12:18:25.999 [INFO]: No proxy settings found
+(VSCode) 2025-11-17 12:18:28.091 [INFO]: Checking network connection...
+(VSCode) 2025-11-17 12:18:28.134 [INFO]: Creating manager directory: /tmp/48207fea-01dd-4489-90b6-59e305079831/codeium/manager
+(VSCode) 2025-11-17 12:18:28.468 [INFO]: Using cached LS with valid crc32: /home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/e03af6ebc40b844314d448f947c80b636d093049/language_server_linux_x64
+(VSCode) 2025-11-17 12:18:28.473 [INFO]: Language server started
+2025/11/17 12:18:28 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+I1117 12:18:28.592909  6018 main.go:604] [Language Server Manager] Setting GOMAXPROCS to 4
+I1117 12:18:28.592987  6018 main.go:750] [Language Server Manager] Release 1.48.2 (e03af6ebc40b844314d448f947c80b636d093049)
+I1117 12:18:28.593000  6018 main.go:829] [Language Server Manager] Starting language server manager with pid 6018
+I1117 12:18:28.593074  6018 main.go:138] [Language Server Manager] Manager acquired its lock file /tmp/48207fea-01dd-4489-90b6-59e305079831/codeium/manager/locks/manager.lock
+I1117 12:18:28.593869  6018 main.go:283] [Language Server Manager] Waiting for random port file in /tmp/48207fea-01dd-4489-90b6-59e305079831/codeium/manager/child_random_port_1763362108593188709_2801068043621867578 to be created
+2025/11/17 12:18:28 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+I1117 12:18:28.716029  6043 main.go:604] Setting GOMAXPROCS to 4
+I1117 12:18:28.716196  6043 main.go:823] Starting language server process with pid 6043
+I1117 12:18:28.716220  6043 server.go:296] Language server will attempt to listen on host 127.0.0.1
+I1117 12:18:28.716446  6043 server.go:303] Language server listening on random port at 45561
+(VSCode) 2025-11-17 12:18:29.074 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+I1117 12:18:30.583670  6043 web_server.go:256] Chat Web Server listening at ws://127.0.0.1:43635
+I1117 12:18:30.732416  6043 server.go:955] Local search is enabled, will index local files.
+I1117 12:18:30.732429  6043 server.go:959] Using 4 indexer workers
+I1117 12:18:33.033541  6043 server.go:1196] Child process attempting to acquire lock file /tmp/48207fea-01dd-4489-90b6-59e305079831/codeium/manager/locks/child_lock_1763362108593233416_3015662227854475895
+I1117 12:18:33.033584  6043 server.go:1204] Child process acquired lock file /tmp/48207fea-01dd-4489-90b6-59e305079831/codeium/manager/locks/child_lock_1763362108593233416_3015662227854475895
+40849
+I1117 12:18:33.109827  6018 main.go:319] [Language Server Manager] Found random server port 45561
+I1117 12:18:33.109843  6018 main.go:320] [Language Server Manager] Found random lsp port 40849
+I1117 12:18:33.109853  6018 main.go:327] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:45561
+I1117 12:18:33.121393  6018 main.go:192] [Language Server Manager] Fixing language server port at 45561
+I1117 12:18:33.121418  6018 main.go:381] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:45561

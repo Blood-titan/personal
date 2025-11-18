@@ -1,0 +1,72 @@
+2025-11-16 17:48:08.946 [info] Name: Mypy Type Checker
+2025-11-16 17:48:08.946 [info] Module: mypy
+2025-11-16 17:48:08.946 [info] Python extension loading
+2025-11-16 17:48:08.946 [info] Waiting for interpreter from Python extension.
+2025-11-16 17:48:08.946 [info] Python extension loaded
+2025-11-16 17:48:08.946 [info] Server run command: /home/peaches/basic-movie-recommendation/.venv/bin/python /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py
+2025-11-16 17:48:08.946 [info] Server: Start requested.
+2025-11-16 17:48:08.981 [info] CWD Server: /home/peaches/basic-movie-recommendation
+2025-11-16 17:48:08.985 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/peaches/basic-movie-recommendation",
+        "workspace": "file:///home/peaches/basic-movie-recommendation",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false,
+        "daemonStatusFile": ""
+    }
+]
+
+2025-11-16 17:48:08.989 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/peaches",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false,
+    "daemonStatusFile": ""
+}
+
+2025-11-16 17:48:09.025 [info] sys.path used to run Server:
+   /home/peaches/basic-movie-recommendation
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool
+   /home/peaches/anaconda3/lib/python313.zip
+   /home/peaches/anaconda3/lib/python3.13
+   /home/peaches/anaconda3/lib/python3.13/lib-dynload
+   /home/peaches/basic-movie-recommendation/.venv/lib/python3.13/site-packages
+2025-11-16 17:48:09.034 [info] /home/peaches/basic-movie-recommendation/.venv/bin/python -m mypy --version
+2025-11-16 17:48:09.095 [info] CWD Server: /home/peaches/basic-movie-recommendation
+2025-11-16 17:48:09.396 [info] 
+mypy 1.15.0 (compiled: no)
+
+
+2025-11-16 17:48:09.396 [info] Version info for linter running for /home/peaches/basic-movie-recommendation:
+mypy 1.15.0 (compiled: no)
+
+2025-11-16 17:48:09.396 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.15.0
+

@@ -1,0 +1,11 @@
+[2025-11-17 12:40:33.634] Starting Git Graph ...
+[2025-11-17 12:40:33.660] Using git (version: 2.51.2)
+[2025-11-17 12:40:33.665] Started Git Graph - Ready to use!
+[2025-11-17 12:40:33.665] Searching workspace for new repos ...
+[2025-11-17 12:40:33.669] > git rev-parse --show-toplevel
+[2025-11-17 12:40:33.724] Completed searching workspace for new repos
+[2025-11-17 12:40:33.727] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2025-11-17 13:03:28.659] > git rev-parse --show-toplevel
+[2025-11-17 13:05:35.130] > git rev-parse --show-toplevel
+[2025-11-17 13:05:35.132] Added new repo: /home/peaches/mllearn/movie-recc
+[2025-11-17 13:05:35.133] Showing "Git Graph" Status Bar Item

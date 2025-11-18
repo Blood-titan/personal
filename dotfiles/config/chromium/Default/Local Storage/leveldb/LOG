@@ -1,18 +1,3 @@
-2025/11/15-14:41:06.319 5 Reusing MANIFEST /home/peaches/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2025/11/15-14:41:06.323 5 Recovering log #119
-2025/11/15-14:41:06.323 5 Reusing old log /home/peaches/.config/chromium/Default/Local Storage/leveldb/000119.log 
-2025/11/15-17:33:41.617 5 Level-0 table #123: started
-2025/11/15-17:33:41.630 5 Level-0 table #123: 15490 bytes OK
-2025/11/15-17:33:41.634 5 Delete type=0 #119
-2025/11/15-18:11:48.548 7 Level-0 table #125: started
-2025/11/15-18:11:48.552 7 Level-0 table #125: 15616 bytes OK
-2025/11/15-18:11:48.555 7 Delete type=0 #122
-2025/11/15-18:11:48.555 7 Compacting 4@0 + 1@1 files
-2025/11/15-18:11:48.559 7 Generated table #126@0: 222 keys, 48327 bytes
-2025/11/15-18:11:48.559 7 Compacted 4@0 + 1@1 files => 48327 bytes
-2025/11/15-18:11:48.561 7 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/11/15-18:11:48.561 7 Delete type=2 #114
-2025/11/15-18:11:48.561 7 Delete type=2 #117
-2025/11/15-18:11:48.561 7 Delete type=2 #120
-2025/11/15-18:11:48.561 7 Delete type=2 #123
-2025/11/15-18:11:48.561 7 Delete type=2 #125
+2025/11/18-17:34:44.326 5 Reusing MANIFEST /home/peaches/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/18-17:34:44.329 5 Recovering log #358
+2025/11/18-17:34:44.329 5 Reusing old log /home/peaches/.config/chromium/Default/Local Storage/leveldb/000358.log 

@@ -1,0 +1,16 @@
+2025-11-16 17:44:52.572 [info] Native locator: Refresh started
+2025-11-16 17:44:52.590 [info] Native locator: Refresh started
+2025-11-16 17:44:52.662 [info] > pyenv which python
+2025-11-16 17:44:52.662 [info] cwd: .
+2025-11-16 17:44:52.662 [info] Conda environment manager found at: /opt/anaconda/bin/conda
+2025-11-16 17:44:52.662 [info] Conda not found on PATH, skipping: /opt/anaconda/bin/conda
+2025-11-16 17:44:52.662 [info] You can set the path to conda using the setting: `python.condaPath` if you want to use a different conda binary
+2025-11-16 17:44:52.669 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-16 17:44:52.669 [info] Conda not found on PATH, skipping: /home/peaches/anaconda3/bin/conda
+2025-11-16 17:44:52.669 [info] You can set the path to conda using the setting: `python.condaPath` if you want to use a different conda binary
+2025-11-16 17:44:52.672 [info] Python interpreter path: ./.venv/bin/python
+2025-11-16 17:44:52.699 [info] Native locator: Refresh finished in 180 ms
+2025-11-16 17:44:53.955 [info] Starting Pylance language server.
+2025-11-16 17:44:57.861 [info] Discover tests for workspace name: undefined - uri: /home/peaches/.config/Code/User/settings.json
+2025-11-16 17:48:07.524 [info] > conda info --json
+2025-11-16 17:48:08.428 [info] > /opt/anaconda/bin/conda info --json

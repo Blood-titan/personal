@@ -1,0 +1,11 @@
+[Main View]
+ShowLeftPanel=false
+
+[Nav Panel]
+CurrentPageOnly=true
+
+[PageView]
+MouseMode=TextSelect
+
+[Reviews]
+AnnotationContinuousMode=false

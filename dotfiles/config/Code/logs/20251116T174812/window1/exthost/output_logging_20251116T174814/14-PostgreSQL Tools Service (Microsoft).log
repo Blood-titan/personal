@@ -1,0 +1,3 @@
+2025-11-16 17:50:37,615 WARNING azure.monitor.opentelemetry.exporter.statsbeat._manager Exporter is missing a valid region.
+2025-11-16 17:50:37,616 WARNING azure.monitor.opentelemetry.exporter.statsbeat._manager Exporter is missing a valid region.
+2025-11-16 17:50:51,043 WARNING azure.monitor.opentelemetry.exporter._configuration Version mismatch between change and config responses.No configurations updated.

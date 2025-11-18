@@ -1,0 +1,134 @@
+[1763362177124] INFO  (ext): SQLTools is starting
+[1763362177125] INFO  (ext): initializing language client...
+[1763362177128] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1763362177131] INFO  (ext): loading plugins...
+[1763362177131] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1763362177132] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1763362177132] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1763362177133] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1763362177134] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362177134] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1763362177134] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1763362177135] INFO  (ext): registering Authentication Provider Plugin.
+    plugin: {
+      "name": "Authentication Provider Plugin",
+      "isRegistered": false
+    }
+[1763362177135] INFO  (ext): registering Object Drop-in Provider (plugin).
+    plugin: {
+      "type": "plugin",
+      "name": "Object Drop-in Provider",
+      "isRegistered": false
+    }
+[1763362177136] INFO  (ext): SQLTools activation completed. 11.40864 ms
+[1763362177136] INFO  (ext): Formatter Plugin registered!
+[1763362177136] INFO  (ext): CodeLens Plugin registered!
+[1763362177136] INFO  (ext): Dependency Manager Plugin registered!
+[1763362177136] INFO  (ext): Connection Manager Plugin registered!
+[1763362177136] INFO  (ext): History Manager Plugin registered!
+[1763362177136] INFO  (ext): Bookmarks Manager Plugin registered!
+[1763362177136] INFO  (ext): Authentication Provider Plugin registered!
+[1763362177136] INFO  (ext): Object Drop-in Provider (plugin) registered!
+[1763362177244] INFO  (ext): registering MySQL/MariaDB/TiDB Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-mysql",
+      "name": "MySQL/MariaDB/TiDB Plugin",
+      "type": "driver"
+    }
+[1763362177245] INFO  (ext): registering PostgreSQL/Cockroach Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-pg",
+      "name": "PostgreSQL/Cockroach Plugin",
+      "type": "driver"
+    }
+[1763362177265] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: no
+ExecPath: /opt/visual-studio-code/code 
+===============================
+[1763362177273] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1763362177271] INFO  (ls): Initialized with node version:v22.19.0
+[1763362177274] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1763362177274] INFO  (ls): request to register plugin: "/home/peaches/.vscode/extensions/mtxr.sqltools-driver-mysql-0.6.6/out/ls/plugin.js"
+[1763362177362] INFO  (ls): Driver mysql registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1763362177362] INFO  (ls): Driver mariadb registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1763362177362] INFO  (ls): Driver tidb registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1763362177362] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1763362177363] INFO  (ls): request to register plugin: "/home/peaches/.vscode/extensions/mtxr.sqltools-driver-pg-0.5.7/out/ls/plugin.js"
+[1763362177399] INFO  (ls): Driver postgresql registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1763362177399] INFO  (ls): Driver aws redshift registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1763362177399] INFO  (ls): Driver cockroachdb registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1763362177993] INFO  (ext): MySQL/MariaDB/TiDB Plugin (driver) registered!
+[1763362178118] INFO  (ext): PostgreSQL/Cockroach Plugin (driver) registered!
+[1763362179646] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1763362179647] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362179706] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362180537] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362294217] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362295508] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362302554] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362319793] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362389441] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362625797] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362670617] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362765831] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362815958] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362823693] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763362970842] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763363188517] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763363198474] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763363255013] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1763363404787] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"

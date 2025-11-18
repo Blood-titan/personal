@@ -1,20 +1,20 @@
-2025/11/15-14:17:13.542 5acd Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/15-14:17:13.542 5acd Recovering log #58
-2025/11/15-14:17:13.543 5acd Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000058.log 
-2025/11/15-14:17:13.543 5acd Delete type=2 #53
-2025/11/15-14:17:13.543 5acd Delete type=2 #54
-2025/11/15-14:17:13.543 5acd Delete type=2 #55
-2025/11/15-14:17:13.543 5acd Delete type=2 #56
-2025/11/15-14:17:13.547 5acd Level-0 table #66: started
-2025/11/15-14:17:13.548 5acd Level-0 table #66: 622 bytes OK
-2025/11/15-14:17:13.549 5acd Delete type=0 #58
-2025/11/15-14:17:13.550 5acd Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 13343 : 1
-2025/11/15-14:17:13.550 5acd Compacting 1@0 + 4@1 files
-2025/11/15-14:17:13.557 5acd Generated table #67@0: 3828 keys, 2113328 bytes
-2025/11/15-14:17:13.567 5acd Generated table #68@0: 576 keys, 2126314 bytes
-2025/11/15-14:17:13.573 5acd Generated table #69@0: 479 keys, 2116026 bytes
-2025/11/15-14:17:13.575 5acd Generated table #70@0: 335 keys, 139113 bytes
-2025/11/15-14:17:13.575 5acd Compacted 1@0 + 4@1 files => 6494781 bytes
-2025/11/15-14:17:13.576 5acd compacted to: files[ 0 4 1 0 0 0 0 ]
-2025/11/15-14:17:13.576 5acd Delete type=2 #66
-2025/11/15-14:17:13.576 5acd Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 13343 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/17-20:06:40.216 3f435 Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/17-20:06:40.217 3f435 Recovering log #184
+2025/11/17-20:06:40.217 3f435 Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000184.log 
+2025/11/17-20:06:40.217 3f435 Delete type=2 #179
+2025/11/17-20:06:40.217 3f435 Delete type=2 #180
+2025/11/17-20:06:40.217 3f435 Delete type=2 #181
+2025/11/17-20:06:40.217 3f435 Delete type=2 #182
+2025/11/17-20:06:40.233 3f433 Level-0 table #192: started
+2025/11/17-20:06:40.234 3f433 Level-0 table #192: 624 bytes OK
+2025/11/17-20:06:40.235 3f433 Delete type=0 #184
+2025/11/17-20:06:40.235 3f433 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 13704 : 1
+2025/11/17-20:06:40.235 3f433 Compacting 1@0 + 4@1 files
+2025/11/17-20:06:40.242 3f433 Generated table #193@0: 3847 keys, 2114307 bytes
+2025/11/17-20:06:40.254 3f433 Generated table #194@0: 576 keys, 2126314 bytes
+2025/11/17-20:06:40.261 3f433 Generated table #195@0: 479 keys, 2116026 bytes
+2025/11/17-20:06:40.263 3f433 Generated table #196@0: 335 keys, 139113 bytes
+2025/11/17-20:06:40.263 3f433 Compacted 1@0 + 4@1 files => 6495760 bytes
+2025/11/17-20:06:40.264 3f433 compacted to: files[ 0 4 1 0 0 0 0 ]
+2025/11/17-20:06:40.264 3f433 Delete type=2 #192
+2025/11/17-20:06:40.265 3f433 Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 13704 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)

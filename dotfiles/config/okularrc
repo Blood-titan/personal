@@ -1,0 +1,15 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=false
+ShowSidebar=false
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/resume (1).pdf
+File2[$e]=$HOME/books/ml/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf
+Name1[$e]=resume (1).pdf
+Name2[$e]=Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf
+
+[UiSettings]
+ColorScheme=BreezeDark

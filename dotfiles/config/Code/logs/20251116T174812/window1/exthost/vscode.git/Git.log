@@ -1,0 +1,47 @@
+2025-11-16 17:48:17.764 [info] [main] Log level: Info
+2025-11-16 17:48:17.764 [info] [main] Validating found git in: "git"
+2025-11-16 17:48:17.764 [info] [main] Using git "2.51.2" from "git"
+2025-11-16 17:48:17.764 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-16 17:48:17.764 [info] > git rev-parse --show-toplevel [277ms]
+2025-11-16 17:48:17.764 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [1199ms]
+2025-11-16 17:48:17.764 [info] [Model][openRepository] Opened repository (path): /home/peaches/basic-movie-recommendation
+2025-11-16 17:48:17.764 [info] [Model][openRepository] Opened repository (real path): /home/peaches/basic-movie-recommendation
+2025-11-16 17:48:17.764 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-16 17:48:17.781 [info] > git rev-parse --show-toplevel [86ms]
+2025-11-16 17:48:17.782 [info] > git config --get commit.template [90ms]
+2025-11-16 17:48:17.995 [info] > git rev-parse --show-toplevel [181ms]
+2025-11-16 17:48:18.192 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [280ms]
+2025-11-16 17:48:19.062 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/peaches/basic-movie-recommendation/.git/refs/remotes/origin/main'
+2025-11-16 17:48:19.065 [info] > git rev-parse --show-toplevel [1037ms]
+2025-11-16 17:48:19.066 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-16 17:48:19.199 [info] > git rev-parse refs/remotes/origin/main [137ms]
+2025-11-16 17:48:19.311 [info] > git check-ignore -v -z --stdin [237ms]
+2025-11-16 17:48:19.311 [info] > git status -z -uall [104ms]
+2025-11-16 17:48:19.316 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [101ms]
+2025-11-16 17:48:19.383 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [56ms]
+2025-11-16 17:48:19.605 [info] > git config --get --local branch.main.vscode-merge-base [215ms]
+2025-11-16 17:48:19.612 [info] > git config --get commit.template [257ms]
+2025-11-16 17:48:19.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [15ms]
+2025-11-16 17:48:19.680 [info] > git merge-base refs/heads/main refs/remotes/origin/main [45ms]
+2025-11-16 17:48:19.716 [info] > git diff --name-status -z --diff-filter=ADMR 4e3ab79176ef58f2cafd509282e3bf0113d28cc6...refs/remotes/origin/main [28ms]
+2025-11-16 17:48:19.719 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [75ms]
+2025-11-16 17:48:19.745 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/peaches/basic-movie-recommendation/.git/refs/remotes/origin/main'
+2025-11-16 17:48:19.766 [info] > git rev-parse refs/remotes/origin/main [21ms]
+2025-11-16 17:48:19.798 [info] > git status -z -uall [20ms]
+2025-11-16 17:48:19.799 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2025-11-16 17:48:21.059 [info] > git config --get commit.template [10ms]
+2025-11-16 17:48:21.070 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-11-16 17:48:21.078 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/peaches/basic-movie-recommendation/.git/refs/remotes/origin/main'
+2025-11-16 17:48:21.093 [info] > git rev-parse refs/remotes/origin/main [16ms]
+2025-11-16 17:48:21.110 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-16 17:48:21.115 [info] > git status -z -uall [15ms]
+2025-11-16 17:49:03.578 [info] > git check-ignore -v -z --stdin [1ms]
+2025-11-16 17:49:19.246 [info] > git show --textconv :.env [11ms]
+2025-11-16 17:49:19.255 [info] > git ls-files --stage -- .env [10ms]
+2025-11-16 17:49:19.264 [info] > git hash-object -t tree /dev/null [10ms]
+2025-11-16 17:49:19.264 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/peaches/basic-movie-recommendation/.env.git?%7B%22path%22%3A%22%2Fhome%2Fpeaches%2Fbasic-movie-recommendation%2F.env%22%2C%22ref%22%3A%22%22%7D
+2025-11-16 17:49:19.268 [info] > git hash-object -t tree /dev/null [4ms]
+2025-11-16 17:49:19.268 [warning] [GitFileSystemProvider][stat] File not found - git:/home/peaches/basic-movie-recommendation/.env.git?%7B%22path%22%3A%22%2Fhome%2Fpeaches%2Fbasic-movie-recommendation%2F.env%22%2C%22ref%22%3A%22%22%7D
+2025-11-16 17:53:36.184 [info] > git show --textconv :uv.lock [13ms]
+2025-11-16 17:53:36.184 [info] > git ls-files --stage -- uv.lock [2ms]
+2025-11-16 17:53:36.197 [info] > git cat-file -s 2db0cd8b4caf4308b5a89e8707eddc9c7592d30a [3ms]

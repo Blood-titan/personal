@@ -1,0 +1,219 @@
+(VSCode) 2025-11-16 17:48:19.110 [INFO]: No proxy settings found
+(VSCode) 2025-11-16 17:48:21.035 [INFO]: Checking network connection...
+(VSCode) 2025-11-16 17:48:21.134 [INFO]: Creating manager directory: /tmp/26fec433-a6a2-41f9-88c6-d4abb69c8240/codeium/manager
+(VSCode) 2025-11-16 17:48:21.135 [INFO]: e03af6ebc40b844314d448f947c80b636d093049 not found, downloading language server
+(VSCode) 2025-11-16 17:48:21.154 [INFO]: No proxy settings found
+(VSCode) 2025-11-16 17:48:22.057 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-11-16 17:48:26.587 [ERROR]: User did not consent to login.
+(VSCode) 2025-11-16 17:48:33.906 [INFO]: Language server started
+2025/11/16 17:48:33 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+I1116 17:48:34.005675 101229 main.go:604] [Language Server Manager] Setting GOMAXPROCS to 4
+I1116 17:48:34.005754 101229 main.go:750] [Language Server Manager] Release 1.48.2 (e03af6ebc40b844314d448f947c80b636d093049)
+I1116 17:48:34.005768 101229 main.go:829] [Language Server Manager] Starting language server manager with pid 101229
+I1116 17:48:34.005839 101229 main.go:138] [Language Server Manager] Manager acquired its lock file /tmp/26fec433-a6a2-41f9-88c6-d4abb69c8240/codeium/manager/locks/manager.lock
+I1116 17:48:34.006433 101229 main.go:283] [Language Server Manager] Waiting for random port file in /tmp/26fec433-a6a2-41f9-88c6-d4abb69c8240/codeium/manager/child_random_port_1763295514005893425_5996160033399801423 to be created
+2025/11/16 17:48:34 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+I1116 17:48:34.122917 101250 main.go:604] Setting GOMAXPROCS to 4
+I1116 17:48:34.123082 101250 main.go:823] Starting language server process with pid 101250
+I1116 17:48:34.123107 101250 server.go:296] Language server will attempt to listen on host 127.0.0.1
+I1116 17:48:34.123283 101250 server.go:303] Language server listening on random port at 43121
+I1116 17:48:36.313407 101250 web_server.go:256] Chat Web Server listening at ws://127.0.0.1:33667
+I1116 17:48:36.446905 101250 server.go:955] Local search is enabled, will index local files.
+I1116 17:48:36.446922 101250 server.go:959] Using 4 indexer workers
+I1116 17:48:37.435864 101250 server.go:1196] Child process attempting to acquire lock file /tmp/26fec433-a6a2-41f9-88c6-d4abb69c8240/codeium/manager/locks/child_lock_1763295514005928331_1665706675057554346
+I1116 17:48:37.435919 101250 server.go:1204] Child process acquired lock file /tmp/26fec433-a6a2-41f9-88c6-d4abb69c8240/codeium/manager/locks/child_lock_1763295514005928331_1665706675057554346
+38943
+I1116 17:48:37.518090 101229 main.go:319] [Language Server Manager] Found random server port 43121
+I1116 17:48:37.518115 101229 main.go:320] [Language Server Manager] Found random lsp port 38943
+I1116 17:48:37.518129 101229 main.go:327] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:43121
+I1116 17:48:37.551678 101229 main.go:192] [Language Server Manager] Fixing language server port at 43121
+I1116 17:48:37.551710 101229 main.go:381] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:43121
+(VSCode) 2025-11-16 17:48:37.618 [INFO]: Found language server running on port 43121
+(VSCode) 2025-11-16 17:48:38.975 [INFO]: openAllTextDocuments took 1.7481560000014724ms
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+(VSCode) 2025-11-16 17:48:48.335 [ERROR]: Invalid LSP port: BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+Downloading Chromium 133.0.6943.16 (playwright build v1155) from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1155/chromium-linux.zip
+(VSCode) 2025-11-16 17:48:48.336 [ERROR]: Invalid LSP port: Downloading Chromium 133.0.6943.16 (playwright build v1155) from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1155/chromium-linux.zip
+
+|                                                                                |   0% of 163.5 MiB
+(VSCode) 2025-11-16 17:48:49.137 [ERROR]: Invalid LSP port: |                                                                                |   0% of 163.5 MiB
+
+|■■■■■■■■                                                                        |  10% of 163.5 MiB
+(VSCode) 2025-11-16 17:48:52.518 [ERROR]: Invalid LSP port: |■■■■■■■■                                                                        |  10% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■                                                                |  20% of 163.5 MiB
+(VSCode) 2025-11-16 17:48:56.264 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■                                                                |  20% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:00.087 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:03.919 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:07.711 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:11.448 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:15.835 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 163.5 MiB
+
+Error: Request to https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1155/chromium-linux.zip timed out after 30000ms
+    at ClientRequest.rejectOnTimeout (/home/peaches/.cache/ms-playwright-go/1.50.1/package/lib/utils/network.js:76:15)
+    at Object.onceWrapper (node:events:638:28)
+    at ClientRequest.emit (node:events:524:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+    at Object.onceWrapper (node:events:638:28)
+    at TLSSocket.emit (node:events:536:35)
+    at Socket._onTimeout (node:net:609:8)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+Downloading Chromium 133.0.6943.16 (playwright build v1155) from https://playwright.download.prss.microsoft.com/dbazure/download/playwright/builds/chromium/1155/chromium-linux.zip
+(VSCode) 2025-11-16 17:49:18.724 [ERROR]: Invalid LSP port: Downloading Chromium 133.0.6943.16 (playwright build v1155) from https://playwright.download.prss.microsoft.com/dbazure/download/playwright/builds/chromium/1155/chromium-linux.zip
+
+|                                                                                |   0% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:18.993 [ERROR]: Invalid LSP port: |                                                                                |   0% of 163.5 MiB
+
+|■■■■■■■■                                                                        |  10% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:22.809 [ERROR]: Invalid LSP port: |■■■■■■■■                                                                        |  10% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■                                                                |  20% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:26.801 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■                                                                |  20% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:30.310 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:34.304 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:38.402 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:42.214 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:46.023 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:49.999 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:53.515 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 163.5 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 163.5 MiB
+(VSCode) 2025-11-16 17:49:57.679 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 163.5 MiB
+
+Chromium 133.0.6943.16 (playwright build v1155) downloaded to /home/peaches/.codeium/ws-browser/chromium-1155
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+Downloading FFMPEG playwright build v1011 from https://cdn.playwright.dev/dbazure/download/playwright/builds/ffmpeg/1011/ffmpeg-linux.zip
+(VSCode) 2025-11-16 17:49:59.020 [ERROR]: Invalid LSP port: Chromium 133.0.6943.16 (playwright build v1155) downloaded to /home/peaches/.codeium/ws-browser/chromium-1155
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+Downloading FFMPEG playwright build v1011 from https://cdn.playwright.dev/dbazure/download/playwright/builds/ffmpeg/1011/ffmpeg-linux.zip
+
+|                                                                                |   0% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:00.508 [ERROR]: Invalid LSP port: |                                                                                |   0% of 2.3 MiB
+
+|■■■■■■■■                                                                        |  10% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:01.541 [ERROR]: Invalid LSP port: |■■■■■■■■                                                                        |  10% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■                                                                |  20% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:01.996 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■                                                                |  20% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:02.317 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:02.625 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:02.875 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:03.090 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:03.313 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:03.540 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:03.713 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 2.3 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 2.3 MiB
+(VSCode) 2025-11-16 17:50:03.925 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 2.3 MiB
+
+FFMPEG playwright build v1011 downloaded to /home/peaches/.codeium/ws-browser/ffmpeg-1011
+(VSCode) 2025-11-16 17:50:03.955 [ERROR]: Invalid LSP port: FFMPEG playwright build v1011 downloaded to /home/peaches/.codeium/ws-browser/ffmpeg-1011
+
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+Downloading Chromium Headless Shell 133.0.6943.16 (playwright build v1155) from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1155/chromium-headless-shell-linux.zip
+(VSCode) 2025-11-16 17:50:03.956 [ERROR]: Invalid LSP port: BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+Downloading Chromium Headless Shell 133.0.6943.16 (playwright build v1155) from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1155/chromium-headless-shell-linux.zip
+
+|                                                                                |   0% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:04.556 [ERROR]: Invalid LSP port: |                                                                                |   0% of 99.9 MiB
+
+|■■■■■■■■                                                                        |  10% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:06.325 [ERROR]: Invalid LSP port: |■■■■■■■■                                                                        |  10% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■                                                                |  20% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:08.684 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■                                                                |  20% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:11.379 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:13.478 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:16.032 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:18.168 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:20.911 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:22.726 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:25.084 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 99.9 MiB
+
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 99.9 MiB
+(VSCode) 2025-11-16 17:50:27.681 [ERROR]: Invalid LSP port: |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 99.9 MiB
+
+Chromium Headless Shell 133.0.6943.16 (playwright build v1155) downloaded to /home/peaches/.codeium/ws-browser/chromium_headless_shell-1155
+(VSCode) 2025-11-16 17:50:28.432 [ERROR]: Invalid LSP port: Chromium Headless Shell 133.0.6943.16 (playwright build v1155) downloaded to /home/peaches/.codeium/ws-browser/chromium_headless_shell-1155
+
+(VSCode) 2025-11-16 18:20:28.372 [INFO]: Disposing language server process
+(VSCode) 2025-11-16 18:20:28.372 [INFO]: Deleting manager directory: /tmp/26fec433-a6a2-41f9-88c6-d4abb69c8240/codeium/manager
+(VSCode) 2025-11-16 18:20:28.372 [INFO]: Successfully disposed language server
+W1116 18:20:28.372426 101229 main.go:142] [Language Server Manager] Got signal terminated, shutting down
+I1116 18:20:28.449030 101250 server.go:1422] Exit requested on language server process 101250
+I1116 18:20:28.449101 101250 server.go:1395] Language server shutting down
+(VSCode) 2025-11-16 18:20:28.488 [INFO]: Language server exited with code 0
+(VSCode) 2025-11-16 18:20:28.514 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:29.015 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:29.479 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:29.484 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:29.515 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:30.016 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:30.409 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:30.412 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:30.516 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:31.017 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:31.482 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:31.486 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:31.516 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:32.016 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:32.517 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:33.017 [ERROR]: [unavailable] connect ECONNREFUSED 127.0.0.1:43121
+(VSCode) 2025-11-16 18:20:33.409 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:33.411 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:33.413 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667
+(VSCode) 2025-11-16 18:20:33.415 [ERROR]: connect ECONNREFUSED 127.0.0.1:33667

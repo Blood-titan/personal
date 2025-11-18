@@ -1,0 +1,192 @@
+2025-11-16 17:43:34.469 [info] Extension host with pid 96801 started
+2025-11-16 17:43:34.469 [info] Skipping acquiring lock for /home/peaches/.config/Code/User/workspaceStorage/cf4a0faaf01c62a1ce438d2cfd8ad3a9.
+2025-11-16 17:43:34.571 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-16 17:43:34.587 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-11-16 17:43:34.612 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-16 17:43:34.616 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-16 17:43:34.644 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-16 17:43:34.733 [info] Eager extensions activated
+2025-11-16 17:43:34.736 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-16 17:43:34.805 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:43:34.806 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:43:34.909 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-16 17:43:38.878 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-11-16 17:44:52.119 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:44:52.152 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-11-16 17:44:52.253 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:44:52.607 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:44:53.529 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:44:53.533 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:44:53.564 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:44:54.077 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 17:44:54.079 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 17:48:04.100 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 17:48:04.448 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:04.449 [info] ExtensionService#_doActivateExtension ms-toolsai.datawrangler, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-11-16 17:48:04.527 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: false, activationEvent: '*', root cause: mtxr.sqltools-driver-pg
+2025-11-16 17:48:04.562 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-11-16 17:48:04.568 [info] ExtensionService#_doActivateExtension ms-python.mypy-type-checker, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:04.590 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:04.685 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:04.711 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:04.714 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:04.739 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:04.827 [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: false, activationEvent: '*'
+2025-11-16 17:48:04.895 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2025-11-16 17:48:04.902 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:04.913 [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-11-16 17:48:04.916 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:04.927 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:04.995 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:05.122 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:05.187 [info] ExtensionService#_doActivateExtension ms-python.pylint, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:05.205 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:05.517 [info] ExtensionService#_doActivateExtension vsls-contrib.codetour, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:05.526 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:05.957 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:05.976 [info] ExtensionService#_doActivateExtension iterative.dvc, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:06.047 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:06.053 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:48:07.276 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:48:08.145 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: false, activationEvent: 'workspaceContains:README.md'
+2025-11-16 17:48:08.212 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-11-16 17:48:08.215 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-pg, startup: false, activationEvent: '*'
+2025-11-16 17:48:08.216 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: false, activationEvent: '*'
+2025-11-16 17:48:08.412 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2025-11-16 17:48:09.141 [error] Error: chatParticipant must be declared in package.json: claude-code
+    at sqt.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:509:5906)
+2025-11-16 17:48:10.140 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-16 17:48:10.198 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.G [as deactivate] (/home/peaches/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64/dist/extension.js:2:681672)
+    at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+    at Array.map (<anonymous>)
+    at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+    at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+    at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 17:48:10.216 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new MR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116391)
+    at U4.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121001)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118495)
+    at zb.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:74817)
+    at Object.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:25819)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:208:16)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:145:13
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:788:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) 
+2025-11-16 17:48:10.454 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new MR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116391)
+    at U4.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121001)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118495)
+    at zb.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:74817)
+    at Object.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:25819)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:208:16)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:145:13
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:788:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) 
+2025-11-16 17:48:10.475 [error] Error: GitHubLoginFailed
+    at n9._authShowWarnings (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:935:18344)
+    at n9.getCopilotToken (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:935:16221)
+    at oH.getCopilotToken (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:472:26116)
+    at Ty._fetchModels (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:2949:4781)
+    at Ty.getAllChatModels (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:2949:2686)
+    at YG.getAllChatEndpoints (/home/peaches/.vscode/extensions/github.copilot-chat-0.32.5/dist/extension.js:2949:16238)
+2025-11-16 17:48:10.478 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new MR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116391)
+    at U4.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121001)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118495)
+    at zb.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:74817)
+    at Object.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:25819)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:208:16)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:145:13
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:788:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) 
+2025-11-16 17:48:10.498 [error] Error: Channel has been closed
+    at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+    at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+    at T.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600486)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 17:48:10.499 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+    at w.logTrace (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-languageclient/lib/common/client.js:567:33)
+    at Object.log (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-languageclient/lib/common/client.js:245:26)
+    at traceReceivedResponse (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-jsonrpc/lib/common/connection.js:805:24)
+    at handleResponse (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-jsonrpc/lib/common/connection.js:559:13)
+    at handleMessage (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-jsonrpc/lib/common/connection.js:345:13)
+    at processMessageQueue (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-jsonrpc/lib/common/connection.js:362:17)
+    at Immediate.<anonymous> (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-jsonrpc/lib/common/connection.js:334:13)
+    at processImmediate (node:internal/timers:485:21)
+2025-11-16 17:48:10.499 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+    at b.logTrace (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-languageclient/lib/common/client.js:567:33)
+    at Object.log (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-languageclient/lib/common/client.js:245:26)
+    at traceReceivedResponse (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-jsonrpc/lib/common/connection.js:805:24)
+    at handleResponse (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-jsonrpc/lib/common/connection.js:559:13)
+    at handleMessage (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-jsonrpc/lib/common/connection.js:345:13)
+    at processMessageQueue (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-jsonrpc/lib/common/connection.js:362:17)
+    at Immediate.<anonymous> (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-jsonrpc/lib/common/connection.js:334:13)
+    at processImmediate (node:internal/timers:485:21)
+2025-11-16 17:48:10.502 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new MR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116391)
+    at U4.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121001)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118495)
+    at zb.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:74817)
+    at Object.resolveProxy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:25819)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:208:16)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:145:13
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:788:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5) 
+2025-11-16 17:48:10.507 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.append (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2528)
+    at Socket.<anonymous> (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/webpack:/ruff/node_modules/vscode-languageclient/lib/node/main.js:430:80)
+    at Socket.emit (node:events:519:28)
+    at Socket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+2025-11-16 17:48:10.508 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+    at b.logOutputMessage (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/webpack:/ruff/node_modules/vscode-languageclient/lib/common/client.js:592:28)
+    at b.error (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/webpack:/ruff/node_modules/vscode-languageclient/lib/common/client.js:589:14)
+    at ChildProcess.<anonymous> (/home/peaches/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/dist/webpack:/ruff/node_modules/vscode-languageclient/lib/node/main.js:471:30)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 17:48:10.536 [error] Error: Channel has been closed
+    at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+    at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+    at g.info (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:1052200)
+    at ChildProcess.<anonymous> (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:9247)
+    at ChildProcess.emit (node:events:519:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-11-16 17:48:12.173 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+    at w.error (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-languageclient/lib/common/client.js:545:28)
+    at lsClient (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/node_modules/vscode-languageclient/lib/common/client.js:932:22)
+    at Object.t.deactivate (/home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/dist/webpack:/mypy-type-checker/src/extension.ts:112:9)
+    at async Promise.all (index 28)
+    at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9961)
+2025-11-16 17:48:12.174 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+    at b.error (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-languageclient/lib/common/client.js:545:28)
+    at lsClient (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/node_modules/vscode-languageclient/lib/common/client.js:932:22)
+    at Object.t.deactivate (/home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/dist/webpack:/pylint/src/extension.ts:112:9)
+    at async Promise.all (index 29)
+    at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9961)
+2025-11-16 17:48:12.174 [info] Extension host with pid 96801 exiting with code 0

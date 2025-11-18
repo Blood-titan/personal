@@ -1,0 +1,124 @@
+2025-11-16 17:24:44.588 [info] Extension host with pid 86044 started
+2025-11-16 17:24:44.588 [info] Skipping acquiring lock for /home/peaches/.config/Code/User/workspaceStorage/449aeecebd5c47ea2e93d70a2aa7a0ed.
+2025-11-16 17:24:44.759 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-16 17:24:44.776 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-16 17:24:44.787 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-11-16 17:24:44.813 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:24:44.819 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:24:44.849 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:24:44.975 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-16 17:24:45.125 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-16 17:24:45.138 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-16 17:24:45.170 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-16 17:24:45.253 [info] Eager extensions activated
+2025-11-16 17:24:45.256 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:24:45.257 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:24:45.268 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:24:45.372 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-11-16 17:24:59.025 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-16 17:24:59.037 [info] Extension host with pid 86044 exiting with code 0
+2025-11-16 17:24:59.678 [info] Extension host with pid 90357 started
+2025-11-16 17:24:59.678 [info] Skipping acquiring lock for /home/peaches/.config/Code/User/workspaceStorage/cf4a0faaf01c62a1ce438d2cfd8ad3a9.
+2025-11-16 17:24:59.705 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-16 17:24:59.722 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-16 17:24:59.760 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-16 17:24:59.766 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:pyproject.toml'
+2025-11-16 17:24:59.882 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: true, activationEvent: 'workspaceContains:pyproject.toml'
+2025-11-16 17:25:00.164 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-16 17:25:00.192 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-16 17:25:00.193 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-11-16 17:25:00.686 [info] Eager extensions activated
+2025-11-16 17:25:00.711 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:25:00.712 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:25:00.727 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:25:00.852 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.vscode-pylance
+2025-11-16 17:25:01.662 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-16 17:25:02.239 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2025-11-16 17:25:02.288 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-11-16 17:25:02.289 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-11-16 17:25:02.291 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-11-16 17:25:02.434 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 17:25:02.436 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 17:25:02.447 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-16 17:25:02.603 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-11-16 17:25:02.819 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onCommand:json.validate'
+2025-11-16 17:26:55.462 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:26:55.468 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-16 17:27:00.453 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-11-16 17:30:04.490 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-11-16 17:34:29.255 [error] Error: illegal state - object is disposed
+	at K3.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100686)
+	at K3.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100204)
+	at W.forgetDocument (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:7992156)
+	at h.cleanUpDocument (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:8002356)
+	at od.value (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:8001656)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at od.I [as value] (/home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/vendor.bundle.js:2:1041034)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Ky.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:25037)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 17:34:29.295 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-11-16 17:34:40.390 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-16 17:34:58.899 [info] ExtensionService#_doActivateExtension ms-toolsai.datawrangler, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2025-11-16 17:35:06.235 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-11-16 17:35:08.842 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-11-16 17:40:07.978 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-11-16 17:43:30.125 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-16 17:43:30.159 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (/home/peaches/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64/dist/extension.js:2:681672)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-16 17:43:30.163 [info] Extension host with pid 90357 exiting with code 0

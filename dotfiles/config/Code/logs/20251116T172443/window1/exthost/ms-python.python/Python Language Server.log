@@ -1,0 +1,124 @@
+2025-11-16 17:25:01.484 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.18.0)
+2025-11-16 17:25:02.180 [info] (90637) Server root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-16 17:25:02.180 [info] (90637) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-16 17:25:02.183 [info] (90637) Starting service instance "basic-movie-recommendation" for workspace "/home/peaches/basic-movie-recommendation"
+2025-11-16 17:25:02.225 [info] (90637) Starting Mcp server id:5485 ...
+2025-11-16 17:25:02.253 [info] (90637) Loading pyproject.toml file at /home/peaches/basic-movie-recommendation/pyproject.toml
+2025-11-16 17:25:02.253 [info] (90637) Pyproject file "/home/peaches/basic-movie-recommendation/pyproject.toml" has no "[tool.pyright]" section.
+2025-11-16 17:25:02.253 [info] (90637) Setting environmentName for service "basic-movie-recommendation": "3.12.12 (movie-recc venv)"
+2025-11-16 17:25:02.253 [info] (90637) Setting pythonPath for service "basic-movie-recommendation": "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+2025-11-16 17:25:02.253 [info] (90637) No include entries specified; assuming /home/peaches/basic-movie-recommendation
+2025-11-16 17:25:02.253 [info] (90637) Auto-excluding **/node_modules
+2025-11-16 17:25:02.254 [info] (90637) Auto-excluding **/__pycache__
+2025-11-16 17:25:02.254 [info] (90637) Auto-excluding **/.*
+2025-11-16 17:25:02.271 [info] (90637) Assuming Python version 3.12.12.final.0
+2025-11-16 17:25:02.436 [info] (90637) Settings have not changed. Skipping update.
+2025-11-16 17:25:02.438 [info] (90637) Found 2 source files
+2025-11-16 17:25:02.811 [info] (90637) BG: Priority queue background worker(2) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-16 17:25:02.813 [info] (90637) BG: Priority queue background worker(2) started
+2025-11-16 17:25:03.057 [info] (90637) BG: Indexer background runner(3) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-16 17:25:03.058 [info] (90637) BG: Indexing(3) started
+2025-11-16 17:25:03.293 [info] (90637) BG: scanned(3) 9 files over 1 exec env
+2025-11-16 17:25:03.385 [info] (90637) BG: indexed(3) 9 files over 1 exec env
+2025-11-16 17:25:03.386 [info] (90637) BG: Indexing finished(3).
+2025-11-16 17:25:25.917 [info] (90637) BG: Indexer background runner(4) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (refresh)
+2025-11-16 17:25:25.917 [info] (90637) BG: Indexing(4) started
+2025-11-16 17:25:26.132 [info] (90637) BG: scanned(4) 145 files over 1 exec env
+2025-11-16 17:25:27.116 [info] (90637) BG: indexed(4) 145 files over 1 exec env
+2025-11-16 17:25:27.144 [info] (90637) BG: Indexing finished(4).
+2025-11-16 17:25:28.843 [info] (90637) Starting service instance "basic-movie-recommendation" for workspace "/home/peaches/basic-movie-recommendation"
+2025-11-16 17:25:28.872 [info] (90637) Loading pyproject.toml file at /home/peaches/basic-movie-recommendation/pyproject.toml
+2025-11-16 17:25:28.873 [info] (90637) Pyproject file "/home/peaches/basic-movie-recommendation/pyproject.toml" has no "[tool.pyright]" section.
+2025-11-16 17:25:28.873 [info] (90637) Setting environmentName for service "basic-movie-recommendation": "3.12.12 (movie-recc venv)"
+2025-11-16 17:25:28.873 [info] (90637) Setting pythonPath for service "basic-movie-recommendation": "/opt/anaconda/bin/python"
+2025-11-16 17:25:28.873 [info] (90637) No include entries specified; assuming /home/peaches/basic-movie-recommendation
+2025-11-16 17:25:28.873 [info] (90637) Auto-excluding **/node_modules
+2025-11-16 17:25:28.873 [info] (90637) Auto-excluding **/__pycache__
+2025-11-16 17:25:28.873 [info] (90637) Auto-excluding **/.*
+2025-11-16 17:25:28.932 [info] (90637) Assuming Python version 3.13.5.final.0
+2025-11-16 17:25:29.021 [info] (90637) Found 2 source files
+2025-11-16 17:25:29.367 [info] (90637) BG: Priority queue background worker(6) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-16 17:25:29.368 [info] (90637) BG: Priority queue background worker(6) started
+2025-11-16 17:25:29.513 [info] (90637) BG: Indexer background runner(7) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (refresh)
+2025-11-16 17:25:29.513 [info] (90637) BG: Indexing(7) started
+2025-11-16 17:25:30.255 [info] (90637) BG: scanned(7) 535 files over 1 exec env
+2025-11-16 17:25:33.060 [info] (90637) BG: [IDX(7)] Long operation: index execution environment file:///home/peaches/basic-movie-recommendation (2640ms)
+2025-11-16 17:25:33.086 [info] (90637) BG: [IDX(7)] Long operation: index packages file:///home/peaches/basic-movie-recommendation (2684ms)
+2025-11-16 17:25:33.086 [info] (90637) BG: indexed(7) 535 files over 1 exec env
+2025-11-16 17:25:33.165 [info] (90637) BG: Indexing finished(7).
+2025-11-16 17:26:49.380 [info] (90637) Starting service instance "<default>" for workspace ""
+2025-11-16 17:26:49.407 [info] (90637) Setting environmentName for service "<default>": "3.12.12 (movie-recc venv)"
+2025-11-16 17:26:49.407 [info] (90637) Setting pythonPath for service "<default>": "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+2025-11-16 17:26:49.407 [info] (90637) No include entries specified; assuming /<default workspace root>
+2025-11-16 17:26:49.407 [info] (90637) Auto-excluding **/node_modules
+2025-11-16 17:26:49.407 [info] (90637) Auto-excluding **/__pycache__
+2025-11-16 17:26:49.407 [info] (90637) Auto-excluding **/.*
+2025-11-16 17:26:49.429 [info] (90637) Assuming Python version 3.12.12.final.0
+2025-11-16 17:26:49.468 [error] (90637) File or directory "/<default workspace root>" does not exist.
+2025-11-16 17:26:49.468 [info] (90637) No source files found.
+2025-11-16 17:26:49.864 [info] (90637) BG: Priority queue background worker(9) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-16 17:26:49.864 [info] (90637) BG: Priority queue background worker(9) started
+2025-11-16 17:26:55.565 [info] (90637) Loading pyproject.toml file at /home/peaches/basic-movie-recommendation/pyproject.toml
+2025-11-16 17:26:55.565 [info] (90637) Pyproject file "/home/peaches/basic-movie-recommendation/pyproject.toml" has no "[tool.pyright]" section.
+2025-11-16 17:26:55.565 [info] (90637) Setting environmentName for service "basic-movie-recommendation": "3.12.12 (movie-recc venv)"
+2025-11-16 17:26:55.565 [info] (90637) Setting pythonPath for service "basic-movie-recommendation": "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+2025-11-16 17:26:55.565 [info] (90637) No include entries specified; assuming /home/peaches/basic-movie-recommendation
+2025-11-16 17:26:55.566 [info] (90637) Auto-excluding **/node_modules
+2025-11-16 17:26:55.566 [info] (90637) Auto-excluding **/__pycache__
+2025-11-16 17:26:55.566 [info] (90637) Auto-excluding **/.*
+2025-11-16 17:26:55.588 [info] (90637) Assuming Python version 3.12.12.final.0
+2025-11-16 17:26:55.655 [info] (90637) Found 2 source files
+2025-11-16 17:26:55.682 [info] (90637) Loading pyproject.toml file at /home/peaches/basic-movie-recommendation/pyproject.toml
+2025-11-16 17:26:55.682 [info] (90637) Pyproject file "/home/peaches/basic-movie-recommendation/pyproject.toml" has no "[tool.pyright]" section.
+2025-11-16 17:26:55.682 [info] (90637) Setting environmentName for service "basic-movie-recommendation": "3.12.12 (movie-recc venv)"
+2025-11-16 17:26:55.682 [info] (90637) Setting pythonPath for service "basic-movie-recommendation": "/opt/anaconda/bin/python"
+2025-11-16 17:26:55.682 [info] (90637) No include entries specified; assuming /home/peaches/basic-movie-recommendation
+2025-11-16 17:26:55.682 [info] (90637) Auto-excluding **/node_modules
+2025-11-16 17:26:55.682 [info] (90637) Auto-excluding **/__pycache__
+2025-11-16 17:26:55.682 [info] (90637) Auto-excluding **/.*
+2025-11-16 17:26:55.747 [info] (90637) Assuming Python version 3.13.5.final.0
+2025-11-16 17:26:55.859 [info] (90637) Setting environmentName for service "<default>": "3.12.12 (movie-recc venv)"
+2025-11-16 17:26:55.859 [info] (90637) Setting pythonPath for service "<default>": "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+2025-11-16 17:26:55.859 [info] (90637) No include entries specified; assuming /<default workspace root>
+2025-11-16 17:26:55.859 [info] (90637) Auto-excluding **/node_modules
+2025-11-16 17:26:55.859 [info] (90637) Auto-excluding **/__pycache__
+2025-11-16 17:26:55.859 [info] (90637) Auto-excluding **/.*
+2025-11-16 17:26:55.882 [info] (90637) Assuming Python version 3.12.12.final.0
+2025-11-16 17:26:55.918 [info] (90637) Found 2 source files
+2025-11-16 17:26:55.925 [error] (90637) File or directory "/<default workspace root>" does not exist.
+2025-11-16 17:26:55.925 [info] (90637) No source files found.
+2025-11-16 17:26:56.254 [info] (90637) BG: Indexer background runner(10) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-16 17:26:56.254 [info] (90637) BG: Indexing(10) started
+2025-11-16 17:26:56.552 [info] (90637) BG: scanned(10) 145 files over 1 exec env
+2025-11-16 17:26:56.744 [info] (90637) BG: indexed(10) 145 files over 1 exec env
+2025-11-16 17:26:56.969 [info] (90637) BG: scanned(10) 535 files over 1 exec env
+2025-11-16 17:26:57.175 [info] (90637) BG: indexed(10) 535 files over 1 exec env
+2025-11-16 17:26:57.245 [info] (90637) BG: Indexing finished(10).
+2025-11-16 17:32:20.202 [info] (90637) Reloading configuration file at /home/peaches/basic-movie-recommendation/pyproject.toml
+2025-11-16 17:32:20.203 [info] (90637) Loading pyproject.toml file at /home/peaches/basic-movie-recommendation/pyproject.toml
+2025-11-16 17:32:20.203 [info] (90637) Pyproject file "/home/peaches/basic-movie-recommendation/pyproject.toml" has no "[tool.pyright]" section.
+2025-11-16 17:32:20.203 [info] (90637) Setting environmentName for service "basic-movie-recommendation": "3.12.12 (movie-recc venv)"
+2025-11-16 17:32:20.203 [info] (90637) Setting pythonPath for service "basic-movie-recommendation": "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+2025-11-16 17:32:20.203 [info] (90637) No include entries specified; assuming /home/peaches/basic-movie-recommendation
+2025-11-16 17:32:20.204 [info] (90637) Auto-excluding **/node_modules
+2025-11-16 17:32:20.204 [info] (90637) Auto-excluding **/__pycache__
+2025-11-16 17:32:20.204 [info] (90637) Auto-excluding **/.*
+2025-11-16 17:32:20.204 [info] (90637) Assuming Python version 3.12.12.final.0
+2025-11-16 17:32:20.222 [info] (90637) Reloading configuration file at /home/peaches/basic-movie-recommendation/pyproject.toml
+2025-11-16 17:32:20.222 [info] (90637) Loading pyproject.toml file at /home/peaches/basic-movie-recommendation/pyproject.toml
+2025-11-16 17:32:20.222 [info] (90637) Pyproject file "/home/peaches/basic-movie-recommendation/pyproject.toml" has no "[tool.pyright]" section.
+2025-11-16 17:32:20.222 [info] (90637) Setting environmentName for service "basic-movie-recommendation": "3.12.12 (movie-recc venv)"
+2025-11-16 17:32:20.222 [info] (90637) Setting pythonPath for service "basic-movie-recommendation": "/opt/anaconda/bin/python"
+2025-11-16 17:32:20.222 [info] (90637) No include entries specified; assuming /home/peaches/basic-movie-recommendation
+2025-11-16 17:32:20.223 [info] (90637) Auto-excluding **/node_modules
+2025-11-16 17:32:20.223 [info] (90637) Auto-excluding **/__pycache__
+2025-11-16 17:32:20.223 [info] (90637) Auto-excluding **/.*
+2025-11-16 17:32:20.223 [info] (90637) Assuming Python version 3.13.5.final.0
+2025-11-16 17:32:20.242 [info] (90637) Found 2 source files
+2025-11-16 17:32:20.245 [info] (90637) Found 2 source files
+2025-11-16 17:34:40.389 [info] (90637) Settings have not changed. Skipping update.
+2025-11-16 17:34:40.390 [info] (90637) Settings have not changed. Skipping update.
+2025-11-16 17:34:40.390 [info] (90637) Settings have not changed. Skipping update.
+2025-11-16 17:41:00.776 [info] (90637) Settings have not changed. Skipping update.
+2025-11-16 17:41:00.776 [info] (90637) Settings have not changed. Skipping update.
+2025-11-16 17:41:00.776 [info] (90637) Settings have not changed. Skipping update.

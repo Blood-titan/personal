@@ -1,6 +1,0 @@
-2025-11-11 17:30:11.121 [info] update#setState idle
-2025-11-11 17:30:41.123 [info] update#setState checking for updates
-2025-11-11 17:30:41.234 [info] update#setState idle
-2025-11-11 17:31:19.877 [info] Extension host with pid 1916 exited with code: 15, signal: unknown.
-2025-11-11 17:31:19.878 [error] [UtilityProcess id: 1, type: extensionHost, pid: 1916]: crashed with code 15 and reason 'killed'
-2025-11-11 17:31:19.887 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

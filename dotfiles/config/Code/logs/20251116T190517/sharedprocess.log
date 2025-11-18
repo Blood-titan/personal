@@ -1,0 +1,18 @@
+2025-11-16 19:05:19.469 [info] github.copilot 1.388.0 Running post uninstall script
+2025-11-16 19:05:19.558 [info] Marked extension as removed github.copilot-1.388.0
+2025-11-16 19:05:19.559 [info] Marked extension as removed github.copilot-chat-0.32.5
+2025-11-16 19:05:19.559 [info] Marked extension as removed grapecity.gc-excelviewer-4.2.64
+2025-11-16 19:05:19.559 [info] Marked extension as removed ms-edgedevtools.vscode-edge-devtools-2.1.10
+2025-11-16 19:05:19.559 [info] Marked extension as removed ms-vscode.azure-repos-0.40.0
+2025-11-16 19:05:19.559 [info] Marked extension as removed ms-vscode.powershell-2025.4.0
+2025-11-16 19:05:19.559 [info] Marked extension as removed rangav.vscode-thunder-client-2.38.4
+2025-11-16 19:05:19.559 [info] Marked extension as removed vsls-contrib.codetour-0.0.61
+2025-11-16 19:05:20.089 [info] Finished running post uninstall script github.copilot 1.388.0
+2025-11-16 19:05:20.148 [info] Deleted marked for removal extension from disk vsls-contrib.codetour /home/peaches/.vscode/extensions/vsls-contrib.codetour-0.0.61
+2025-11-16 19:05:20.151 [info] Deleted marked for removal extension from disk grapecity.gc-excelviewer /home/peaches/.vscode/extensions/grapecity.gc-excelviewer-4.2.64
+2025-11-16 19:05:20.151 [info] Deleted marked for removal extension from disk ms-vscode.azure-repos /home/peaches/.vscode/extensions/ms-vscode.azure-repos-0.40.0
+2025-11-16 19:05:20.169 [info] Deleted marked for removal extension from disk rangav.vscode-thunder-client /home/peaches/.vscode/extensions/rangav.vscode-thunder-client-2.38.4
+2025-11-16 19:05:20.169 [info] Deleted marked for removal extension from disk github.copilot-chat /home/peaches/.vscode/extensions/github.copilot-chat-0.32.5
+2025-11-16 19:05:20.169 [info] Deleted marked for removal extension from disk ms-edgedevtools.vscode-edge-devtools /home/peaches/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.10
+2025-11-16 19:05:20.169 [info] Deleted marked for removal extension from disk ms-vscode.powershell /home/peaches/.vscode/extensions/ms-vscode.powershell-2025.4.0
+2025-11-16 19:05:20.170 [info] Deleted marked for removal extension from disk github.copilot /home/peaches/.vscode/extensions/github.copilot-1.388.0

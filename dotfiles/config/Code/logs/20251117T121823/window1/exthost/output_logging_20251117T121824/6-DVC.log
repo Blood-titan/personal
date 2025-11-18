@@ -1,0 +1,8 @@
+[version: 1.2.29, 2025-11-17T06:48:28.994Z, pid: 6067] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-17T06:48:29.009Z, pid: 6067] > /bin/python -m dvc --version - FAILED with code 1 (20ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-17T06:48:29.015Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-17T06:48:29.022Z, pid: 0] > dvc --version - FAILED (11ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT

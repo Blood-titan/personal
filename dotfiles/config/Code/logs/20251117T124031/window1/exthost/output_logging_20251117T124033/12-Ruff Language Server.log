@@ -1,0 +1,10 @@
+2025-11-17 12:40:49.121563904  INFO Registering workspace: /home/peaches/mllearn/movie-recc
+2025-11-17 12:40:49.123523668  INFO Configuration file watcher successfully registered
+2025-11-17 12:41:56.224990395  WARN No settings available for file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py - falling back to default settings
+2025-11-17 12:41:56.435882368  WARN No settings available for file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py - falling back to default settings
+2025-11-17 12:41:57.983936184  WARN No settings available for file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py - falling back to default settings
+2025-11-17 12:41:58.056465737  WARN No settings available for file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py - falling back to default settings
+2025-11-17 12:41:58.947821523  WARN No settings available for file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py - falling back to default settings
+2025-11-17 12:41:59.367714482  WARN No settings available for file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py - falling back to default settings
+2025-11-17 12:42:00.519294329  WARN No settings available for file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py - falling back to default settings
+2025-11-17 12:42:01.704732702  WARN No settings available for file:///home/peaches/anaconda3/lib/python3.13/site-packages/sklearn/feature_extraction/text.py - falling back to default settings

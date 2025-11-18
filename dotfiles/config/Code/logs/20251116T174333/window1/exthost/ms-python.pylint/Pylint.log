@@ -1,0 +1,150 @@
+2025-11-16 17:48:08.946 [info] Name: Pylint
+2025-11-16 17:48:08.946 [info] Module: pylint
+2025-11-16 17:48:08.946 [info] Python extension loading
+2025-11-16 17:48:08.946 [info] Waiting for interpreter from Python extension.
+2025-11-16 17:48:08.946 [info] No interpreter found from setting pylint.interpreter
+2025-11-16 17:48:08.946 [info] Getting interpreter from ms-python.python extension for workspace /home/peaches/basic-movie-recommendation
+2025-11-16 17:48:08.946 [info] Python extension loaded
+2025-11-16 17:48:08.946 [info] Interpreter from ms-python.python extension for /home/peaches/basic-movie-recommendation: /home/peaches/basic-movie-recommendation/.venv/bin/python
+2025-11-16 17:48:08.946 [info] No interpreter found from setting pylint.interpreter
+2025-11-16 17:48:08.946 [info] Getting interpreter from ms-python.python extension for workspace /home/peaches/basic-movie-recommendation
+2025-11-16 17:48:08.946 [info] Interpreter from ms-python.python extension for /home/peaches/basic-movie-recommendation: /home/peaches/basic-movie-recommendation/.venv/bin/python
+2025-11-16 17:48:08.946 [info] Server run command: /home/peaches/basic-movie-recommendation/.venv/bin/python /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/tool/lsp_server.py
+2025-11-16 17:48:08.946 [info] Server: Start requested.
+2025-11-16 17:48:08.981 [info] CWD Server: /home/peaches/basic-movie-recommendation
+2025-11-16 17:48:08.985 [info] Settings used to run Server:
+[
+    {
+        "enabled": true,
+        "cwd": "/home/peaches/basic-movie-recommendation",
+        "workspace": "file:///home/peaches/basic-movie-recommendation",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/peaches/basic-movie-recommendation/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2025-11-16 17:48:08.989 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "enabled": true,
+    "workspace": "/home/peaches",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2025-11-16 17:48:09.025 [info] sys.path used to run Server:
+   /home/peaches/basic-movie-recommendation
+   /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/tool
+   /home/peaches/anaconda3/lib/python313.zip
+   /home/peaches/anaconda3/lib/python3.13
+   /home/peaches/anaconda3/lib/python3.13/lib-dynload
+   /home/peaches/basic-movie-recommendation/.venv/lib/python3.13/site-packages
+2025-11-16 17:48:09.034 [info] /home/peaches/basic-movie-recommendation/.venv/bin/python -m pylint --version
+2025-11-16 17:48:09.095 [info] CWD Linter: /home/peaches/basic-movie-recommendation
+2025-11-16 17:48:09.244 [info] 
+pylint 3.3.4
+astroid 3.3.8
+Python 3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:09:02) [GCC 11.2.0]
+
+
+2025-11-16 17:48:09.245 [info] Version info for linter running for /home/peaches/basic-movie-recommendation:
+pylint 3.3.4
+astroid 3.3.8
+Python 3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:09:02) [GCC 11.2.0]
+
+2025-11-16 17:48:09.245 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==3.3.4
+
+2025-11-16 17:48:09.254 [info] [Trace - 5:48:09 PM] Sending request 'textDocument/codeAction - (1)'.
+2025-11-16 17:48:09.256 [info] [Trace - 5:48:09 PM] Sending request 'textDocument/codeAction - (2)'.
+2025-11-16 17:48:09.258 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.258 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W0sZmlsZQ%3D%3D
+2025-11-16 17:48:09.259 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.259 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.259 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W1sZmlsZQ%3D%3D
+2025-11-16 17:48:09.259 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.260 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.260 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W2sZmlsZQ%3D%3D
+2025-11-16 17:48:09.290 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.292 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.292 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W3sZmlsZQ%3D%3D
+2025-11-16 17:48:09.292 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.297 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.297 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W4sZmlsZQ%3D%3D
+2025-11-16 17:48:09.298 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.298 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.298 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W5sZmlsZQ%3D%3D
+2025-11-16 17:48:09.307 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.309 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.309 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#W6sZmlsZQ%3D%3D
+2025-11-16 17:48:09.310 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.311 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.311 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X10sZmlsZQ%3D%3D
+2025-11-16 17:48:09.311 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.311 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.311 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X11sZmlsZQ%3D%3D
+2025-11-16 17:48:09.311 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.311 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.311 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X12sZmlsZQ%3D%3D
+2025-11-16 17:48:09.311 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.311 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.311 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X13sZmlsZQ%3D%3D
+2025-11-16 17:48:09.312 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.312 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.312 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X14sZmlsZQ%3D%3D
+2025-11-16 17:48:09.312 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.312 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.312 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X15sZmlsZQ%3D%3D
+2025-11-16 17:48:09.312 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.312 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.312 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X16sZmlsZQ%3D%3D
+2025-11-16 17:48:09.312 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.312 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.312 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X20sZmlsZQ%3D%3D
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.313 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X21sZmlsZQ%3D%3D
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.313 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X22sZmlsZQ%3D%3D
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.313 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X23sZmlsZQ%3D%3D
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.313 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X24sZmlsZQ%3D%3D
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'window/logMessage'.
+2025-11-16 17:48:09.313 [info] [Warn  - 5:48:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/basic-movie-recommendation/train.ipynb#X25sZmlsZQ%3D%3D
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received response 'textDocument/codeAction - (1)' in 59ms.
+2025-11-16 17:48:09.313 [info] [Trace - 5:48:09 PM] Received response 'textDocument/codeAction - (2)' in 57ms.
