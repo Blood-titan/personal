@@ -1,7 +1,0 @@
-[Unit]
-Description=Limit PipeWire Volume
-[Service]
-ExecStart=/home/peaches/.local/bin/volume-limit.sh
-Restart=always
-[Install]
-WantedBy=default.target

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if pgrep -x hyprsunset >/dev/null; then
+    pkill -x hyprsunset
+    hyprsunset -i
+    notify-send "☀️ Day mode enabled"
+else
+    hyprsunset -t 4200 -g 90 &
+    notify-send "🌙 Night mode enabled"
+fi
+

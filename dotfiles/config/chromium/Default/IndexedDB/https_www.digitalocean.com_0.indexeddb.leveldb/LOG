@@ -1,0 +1,10 @@
+2025/11/25-20:42:24.103 6ca5 Creating DB /home/peaches/.config/chromium/Default/IndexedDB/https_www.digitalocean.com_0.indexeddb.leveldb since it was missing.
+2025/11/25-20:42:24.105 6ca5 Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_www.digitalocean.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/25-20:42:24.111 6cb2 Level-0 table #5: started
+2025/11/25-20:42:24.112 6cb2 Level-0 table #5: 1775 bytes OK
+2025/11/25-20:42:24.114 6cb2 Delete type=0 #3
+2025/11/25-20:42:24.114 6ca5 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/25-20:42:24.120 6ca5 Level-0 table #7: started
+2025/11/25-20:42:24.121 6ca5 Level-0 table #7: 1588 bytes OK
+2025/11/25-20:42:24.122 6ca5 Delete type=0 #4
+2025/11/25-20:42:24.122 6ca5 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

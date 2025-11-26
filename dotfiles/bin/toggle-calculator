@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Detect GNOME Calculator window
+WIN_ID=$(hyprctl clients -j | jq -r '.[] | select(.class | test("org.gnome.Calculator")) | .address')
+
+if [ -n "$WIN_ID" ]; then
+    # If a calculator window exists, close it
+    pkill -f "gnome-calculator"
+    pkill -f "org.gnome.Calculator"
+else
+    # Otherwise, launch it centered and floating
+    hyprctl dispatch exec "[float;center]" gnome-calculator
+fi
+

@@ -177,3 +177,27 @@ window#waybar.empty #window {
     padding: 8px;
     margin: 4px 0;
 }
+/* ─── Clear & Animated Lock Key Indicator ─────────────── */
+
+#keyboard-state {
+    background-color: #202020;
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin: 4px 0;
+    font-weight: bold;
+    font-size: 14px;
+    transition: all 0.25s ease-in-out;
+}
+
+#keyboard-state.locked {
+    color: #f38ba8; /* bright pink/red when ON */
+    background-color: #313244; /* subtle highlight */
+    animation: pulse 0.6s ease-in-out;
+}
+
+#keyboard-state.unlocked {
+    color: #6c7086; /* gray when OFF */
+    background-color: #202020;
+    opacity: 0.6;
+}
+

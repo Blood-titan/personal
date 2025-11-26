@@ -1,0 +1,7 @@
+2025-11-26 19:28:14.733 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-26 19:28:14.817 [info] Started local extension host with pid 1868.
+2025-11-26 19:28:14.835 [info] Started initializing default profile extensions in extensions installation folder. file:///home/peaches/.vscode-insiders/extensions
+2025-11-26 19:28:14.925 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/peaches/.vscode-insiders/extensions
+2025-11-26 19:28:15.098 [info] MCP Registry configured: https://api.mcp.github.com
+2025-11-26 19:28:15.154 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-26 19:28:17.643 [info] [perf] Render performance baseline is 13ms

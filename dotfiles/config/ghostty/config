@@ -8,7 +8,7 @@
 ########################################
 font-family = IosevkaTerm Nerd Font
 font-size = 20
-
+theme = TokyoNight
 window-width = 180
 window-height = 45
 
