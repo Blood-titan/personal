@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+
+# Get total number of items in CopyQ
+count=$(copyq count 2>/dev/null || echo 0)
+
+# No history -> exit gracefully
+if [ "$count" -eq 0 ]; then
+    notify-send "CopyQ" "Clipboard is empty"
+    exit 0
+fi
+
+# Build menu lines in reverse order (newest first)
+menu=""
+for ((i="$count"-1; i>=0; i--)); do
+    # Read item content (truncate and sanitize newlines)
+    txt=$(copyq read "$i" 2>/dev/null | tr '\n' ' ' | sed 's/  */ /g')
+
+    # Handle empty / image / binary clips
+    if [ -z "$txt" ]; then
+        txt="[non-text item]"
+    fi
+
+    # Limit display length for Wofi
+    if [ "${#txt}" -gt 80 ]; then
+        txt="${txt:0:80}..."
+    fi
+
+    printf "%d\t%s\n" "$i" "$txt"
+done | tac | wofi --dmenu -p "Clipboard" --width 600 --height 400 | {
+    # Read selected line
+    IFS=$'\t' read -r index _rest || exit 0
+
+    # Copy selected item back to clipboard
+    if [ -n "$index" ]; then
+        copyq select "$index"
+    fi
+}
+

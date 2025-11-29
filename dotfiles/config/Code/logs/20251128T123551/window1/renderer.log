@@ -1,0 +1,52 @@
+2025-11-28 12:35:51.754 [info] Started local extension host with pid 6212.
+2025-11-28 12:35:51.888 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-11-28 12:35:51.888 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-11-28 12:35:51.888 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-11-28 12:35:52.532 [error] [Extension Host] (node:6212) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-11-28 12:35:52.799 [info] MCP Registry configured: https://api.mcp.github.com
+2025-11-28 12:35:53.440 [error] Error: Must call initialize() first.
+	at Na.assertReady (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:64:4987)
+	at Na.getSessions (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:64:2913)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15270
+2025-11-28 12:35:53.441 [error] Error: Must call initialize() first.
+	at Na.assertReady (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:64:4987)
+	at Na.getSessions (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:64:2913)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15270
+2025-11-28 12:35:55.020 [info] Settings Sync: Account status changed from uninitialized to available
+2025-11-28 12:35:55.215 [info] [perf] Render performance baseline is 18ms
+2025-11-28 12:35:56.048 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-11-28 12:35:56.275 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at Q6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64382)
+    at new cd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67762)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69200)
+    at cd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68977)
+    at d2.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:106862)
+    at Wf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Wf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106419)
+    at Session.emit (node:events:519:28)
+2025-11-28 15:07:14.599 [error] [Extension Host] FetchError: Unleash Repository error: request to https://unleash.codeium.com/api/client/features failed, reason: getaddrinfo EAI_AGAIN unleash.codeium.com
+	at ClientRequest.<anonymous> (/home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/extension.js:2:4627083)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:105:11)
+	at TLSSocket.socketErrorListener (node:_http_client:518:5)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)

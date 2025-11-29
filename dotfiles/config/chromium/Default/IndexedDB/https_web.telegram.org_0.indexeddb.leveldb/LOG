@@ -1,2 +1,3 @@
-2025/11/25-12:39:45.635 474 Creating DB /home/peaches/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb since it was missing.
-2025/11/25-12:39:45.637 474 Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/27-11:16:03.731 7cb Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/27-11:16:03.731 7cb Recovering log #3
+2025/11/27-11:16:03.736 7cb Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000003.log 

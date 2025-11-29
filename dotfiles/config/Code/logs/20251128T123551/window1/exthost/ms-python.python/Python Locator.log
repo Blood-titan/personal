@@ -1,0 +1,45 @@
+2025-11-28 12:35:53.480 [info] Starting Python Locator /home/peaches/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python-env-tools/bin/pet server
+2025-11-28 12:35:54.569 [info] Discovered manager: (Conda) /home/peaches/anaconda3/bin/conda
+2025-11-28 12:35:54.569 [info] Discovered env: /home/peaches/anaconda3/bin/python
+2025-11-28 12:35:54.577 [info] Discovered env: /bin/python
+2025-11-28 12:35:54.579 [info] Discovered env: /usr/bin/python
+2025-11-28 12:35:54.581 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-28 12:35:54.581 [info] Discovered env: /usr/sbin/python
+2025-11-28 12:35:54.584 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-28 12:35:54.584 [info] Discovered env: /sbin/python
+2025-11-28 12:35:54.587 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-28 12:35:54.587 [info] Discovered env: /usr/sbin/python3
+2025-11-28 12:35:54.589 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-28 12:35:54.589 [info] Discovered env: /sbin/python3
+2025-11-28 12:35:54.606 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-28 12:35:54.606 [info] Discovered env: /usr/sbin/python3.13
+2025-11-28 12:35:54.608 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-28 12:35:54.609 [info] Discovered env: /sbin/python3.13
+2025-11-28 12:35:54.610 [info] Locator Conda took 435.199904ms
+2025-11-28 12:35:54.611 [info] Locator Homebrew took 42.683µs
+2025-11-28 12:35:54.611 [info] Locator LinuxGlobal took 435.801954ms
+2025-11-28 12:35:54.611 [info] Locator PipEnv took 37.091µs
+2025-11-28 12:35:54.611 [info] Locator Pixi took 42.983µs
+2025-11-28 12:35:54.611 [info] Locator Poetry took 118.649µs
+2025-11-28 12:35:54.611 [info] Locator PyEnv took 375.564µs
+2025-11-28 12:35:54.611 [info] Locator Venv took 36.881µs
+2025-11-28 12:35:54.611 [info] Locator VirtualEnv took 47.171µs
+2025-11-28 12:35:54.611 [info] Locator VirtualEnvWrapper took 15.871µs
+2025-11-28 12:35:54.611 [info] Locator GlobalVirtualEnvs took 131.753µs
+2025-11-28 12:35:54.611 [info] Locator Locators took 437.478235ms
+2025-11-28 12:35:54.611 [info] Locator Path took 474.997421ms
+2025-11-28 12:35:54.611 [info] Locator Workspaces took 255.332µs
+2025-11-28 12:35:54.611 [info] Refresh completed in 475ms
+2025-11-28 12:35:54.612 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:36:25.572 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:37:16.625 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:37:47.617 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:39:09.759 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:39:51.655 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:40:23.577 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:41:25.779 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:41:59.171 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:43:06.545 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:44:09.776 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:45:10.129 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-28 12:45:49.258 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python

@@ -1,0 +1,75 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "bd35ddc1e4bf49e7dd9f3f668f15a7e8bdaa71dc06ba6b6144fb4e69dc56b76e",
+    "telemetry.devDeviceId": "942746d7-b8d7-4534-b5bd-d1f5ab4ddb8f",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/peaches/learmmml"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 50,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/peaches/learmmml": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/peaches/learmmml",
+            "backupPath": "/home/peaches/.config/Code/Backups/4cd1e25a1589f2f915c4514f7d81fa7c",
+            "uiState": {
+                "mode": 1,
+                "x": 1216,
+                "y": 62,
+                "width": 692,
+                "height": 1006,
+                "zoomLevel": 2
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#232136",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#e0def4",
+            "background": "#232136",
+            "editorBackground": "#232136",
+            "titleBarBackground": "#232136",
+            "activityBarBackground": "#232136",
+            "sideBarBackground": "#232136",
+            "statusBarBackground": "#232136",
+            "statusBarNoFolderBackground": "#232136",
+            "windowBorder": "#2a273f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "9b10c000f13b4d422cec1d859619716e": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

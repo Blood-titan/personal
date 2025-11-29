@@ -1,0 +1,6 @@
+2025/11/27-09:17:35.134 58d Creating DB /home/peaches/.config/chromium/Default/IndexedDB/https_thepiratebay0.org_0.indexeddb.leveldb since it was missing.
+2025/11/27-09:17:35.136 58d Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_thepiratebay0.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/27-09:17:35.142 58c Level-0 table #5: started
+2025/11/27-09:17:35.143 58c Level-0 table #5: 1402 bytes OK
+2025/11/27-09:17:35.144 58c Delete type=0 #3
+2025/11/27-09:17:35.144 58c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

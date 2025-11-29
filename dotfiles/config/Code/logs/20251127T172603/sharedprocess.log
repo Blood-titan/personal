@@ -1,0 +1,538 @@
+2025-11-27 17:27:04.451 [info] Getting Manifest... mechatroner.rainbow-csv
+2025-11-27 17:27:04.451 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2025-11-27 17:27:04.451 [info] Getting Manifest... vscjava.vscode-java-test
+2025-11-27 17:27:04.451 [info] Getting Manifest... vscjava.vscode-maven
+2025-11-27 17:27:04.451 [info] Getting Manifest... ms-vscode.live-server
+2025-11-27 17:27:04.451 [info] Getting Manifest... vscjava.vscode-java-pack
+2025-11-27 17:27:04.451 [info] Getting Manifest... redhat.java
+2025-11-27 17:27:04.452 [info] Getting Manifest... ms-python.python
+2025-11-27 17:27:04.452 [info] Getting Manifest... ms-python.debugpy
+2025-11-27 17:27:04.452 [info] Getting Manifest... ms-toolsai.jupyter
+2025-11-27 17:27:04.452 [info] Getting Manifest... mtxr.sqltools
+2025-11-27 17:27:04.452 [info] Getting Manifest... tomoki1207.pdf
+2025-11-27 17:27:04.452 [info] Getting Manifest... pkief.material-icon-theme
+2025-11-27 17:27:04.452 [info] Getting Manifest... akamud.vscode-theme-onedark
+2025-11-27 17:27:04.452 [info] Getting Manifest... tonybaloney.vscode-pets
+2025-11-27 17:27:04.452 [info] Getting Manifest... ms-vscode.remote-explorer
+2025-11-27 17:27:04.452 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2025-11-27 17:27:04.452 [info] Getting Manifest... usernamehw.errorlens
+2025-11-27 17:27:04.453 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2025-11-27 17:27:04.453 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-11-27 17:27:04.453 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-11-27 17:27:04.453 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2025-11-27 17:27:04.453 [info] Getting Manifest... monokai.theme-monokai-pro-vscode
+2025-11-27 17:27:04.453 [info] Getting Manifest... vscjava.vscode-java-debug
+2025-11-27 17:27:04.453 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-11-27 17:27:04.453 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2025-11-27 17:27:04.453 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2025-11-27 17:27:04.453 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2025-11-27 17:27:04.453 [info] Getting Manifest... ms-python.vscode-pylance
+2025-11-27 17:27:04.453 [info] Getting Manifest... github.copilot-chat
+2025-11-27 17:27:04.453 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-11-27 17:27:04.453 [info] Getting Manifest... dotjoshjohnson.xml
+2025-11-27 17:27:04.453 [info] Getting Manifest... oracle.oracle-java
+2025-11-27 17:27:04.453 [info] Getting Manifest... ms-toolsai.datawrangler
+2025-11-27 17:27:04.453 [info] Getting Manifest... vscjava.vscode-java-dependency
+2025-11-27 17:27:04.453 [info] Getting Manifest... kisstkondoros.vscode-gutter-preview
+2025-11-27 17:27:04.453 [info] Getting Manifest... hediet.vscode-drawio
+2025-11-27 17:27:04.453 [info] Getting Manifest... enkia.tokyo-night
+2025-11-27 17:27:04.454 [info] Getting Manifest... miguelsolorio.fluent-icons
+2025-11-27 17:27:04.454 [info] Getting Manifest... mtxr.sqltools-driver-mysql
+2025-11-27 17:27:04.454 [info] Getting Manifest... britesnow.vscode-toggle-quotes
+2025-11-27 17:27:04.454 [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+2025-11-27 17:27:04.454 [info] Getting Manifest... davidanson.vscode-markdownlint
+2025-11-27 17:27:04.454 [info] Getting Manifest... moyu.snapcode
+2025-11-27 17:27:04.454 [info] Getting Manifest... bruno-api-client.bruno
+2025-11-27 17:27:04.454 [info] Getting Manifest... humy2833.ftp-simple
+2025-11-27 17:27:04.454 [info] Getting Manifest... mhutchie.git-graph
+2025-11-27 17:27:04.454 [info] Getting Manifest... yzhang.markdown-all-in-one
+2025-11-27 17:27:04.454 [info] Getting Manifest... sidthesloth.html5-boilerplate
+2025-11-27 17:27:04.454 [info] Getting Manifest... iterative.dvc
+2025-11-27 17:27:04.454 [info] Getting Manifest... jovejonovski.ocean-green
+2025-11-27 17:27:04.454 [info] Getting Manifest... almenon.arepl
+2025-11-27 17:27:04.454 [info] Getting Manifest... christian-kohler.path-intellisense
+2025-11-27 17:27:04.454 [info] Getting Manifest... alexcvzz.vscode-sqlite
+2025-11-27 17:27:04.454 [info] Getting Manifest... tamasfe.even-better-toml
+2025-11-27 17:27:04.454 [info] Getting Manifest... bjarne.ethereal-omarchy
+2025-11-27 17:27:04.454 [info] Getting Manifest... codeium.codeium
+2025-11-27 17:27:04.454 [info] Getting Manifest... github.copilot
+2025-11-27 17:27:04.454 [info] Getting Manifest... ms-python.mypy-type-checker
+2025-11-27 17:27:04.455 [info] Getting Manifest... ms-vscode.remote-repositories
+2025-11-27 17:27:04.455 [info] Getting Manifest... github.remotehub
+2025-11-27 17:27:04.455 [info] Getting Manifest... ms-python.pylint
+2025-11-27 17:27:04.455 [info] Getting Manifest... charliermarsh.ruff
+2025-11-27 17:27:04.455 [info] Getting Manifest... helixquar.randomeverything
+2025-11-27 17:27:04.455 [info] Getting Manifest... mvllow.rose-pine
+2025-11-27 17:27:04.455 [info] Getting Manifest... google.colab
+2025-11-27 17:27:04.455 [info] Getting Manifest... ms-vscode.remote-server
+2025-11-27 17:27:04.455 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2025-11-27 17:27:04.455 [info] Getting Manifest... mtxr.sqltools-driver-pg
+2025-11-27 17:27:04.455 [info] Getting Manifest... aaron-bond.better-comments
+2025-11-27 17:27:04.455 [info] Getting Manifest... jeff-hykin.polacode-2019
+2025-11-27 17:27:04.455 [info] Getting Manifest... formulahendry.code-runner
+2025-11-27 17:27:04.455 [info] Getting Manifest... ms-ossdata.vscode-pgsql
+2025-11-27 17:27:14.656 [info] Installing extension: vscjava.vscode-java-test {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.656 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.656 [info] Installing extension: vscjava.vscode-java-dependency {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.656 [info] Installing extension: vscjava.vscode-java-debug {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.656 [info] Installing extension: vscjava.vscode-maven {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.656 [info] Installing extension: vscjava.vscode-java-pack {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.656 [info] Installing extension: ms-vscode.remote-server {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.656 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: ms-toolsai.datawrangler {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: ms-vscode.remote-repositories {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: ms-toolsai.jupyter {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: ms-toolsai.jupyter-renderers {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: mtxr.sqltools-driver-pg {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: mtxr.sqltools {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: mtxr.sqltools-driver-mysql {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: redhat.java {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: visualstudioexptteam.vscodeintellicode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: tomoki1207.pdf {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: aaron-bond.better-comments {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: kisstkondoros.vscode-gutter-preview {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: ms-vscode-remote.remote-wsl {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.657 [info] Installing extension: britesnow.vscode-toggle-quotes {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: enkia.tokyo-night {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: yzhang.markdown-all-in-one {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: moyu.snapcode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: hediet.vscode-drawio {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: dotjoshjohnson.xml {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: oracle.oracle-java {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: ms-azuretools.vscode-containers {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: ms-vscode-remote.remote-containers {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: ms-python.mypy-type-checker {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: davidanson.vscode-markdownlint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: ms-python.pylint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: charliermarsh.ruff {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.658 [info] Installing extension: helixquar.randomeverything {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: mvllow.rose-pine {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: catppuccin.catppuccin-vsc {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: tonybaloney.vscode-pets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: codeium.codeium {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: ms-python.python {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: arcticicestudio.nord-visual-studio-code {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: github.copilot {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: github.remotehub {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: bruno-api-client.bruno {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: jeff-hykin.polacode-2019 {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: google.colab {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: jovejonovski.ocean-green {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.659 [info] Installing extension: alexcvzz.vscode-sqlite {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: miguelsolorio.fluent-icons {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: ms-ossdata.vscode-pgsql {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: bjarne.ethereal-omarchy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: monokai.theme-monokai-pro-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: sidthesloth.html5-boilerplate {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: streetsidesoftware.code-spell-checker {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: humy2833.ftp-simple {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: iterative.dvc {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: akamud.vscode-theme-onedark {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: christian-kohler.path-intellisense {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.660 [info] Installing extension: tamasfe.even-better-toml {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.661 [info] Installing extension: almenon.arepl {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/peaches/.vscode/extensions/extensions.json","path":"/home/peaches/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack mechatroner.rainbow-csv
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-server
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-explorer
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack ms-toolsai.datawrangler
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-repositories
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack mtxr.sqltools-driver-pg
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack mtxr.sqltools
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack mtxr.sqltools-driver-mysql
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack ms-vscode.live-server
+2025-11-27 17:27:14.661 [info] Installing the extension without checking dependencies and pack redhat.java
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack mhutchie.git-graph
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack tomoki1207.pdf
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack aaron-bond.better-comments
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack kisstkondoros.vscode-gutter-preview
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh-edit
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack britesnow.vscode-toggle-quotes
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack enkia.tokyo-night
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack yzhang.markdown-all-in-one
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack moyu.snapcode
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack hediet.vscode-drawio
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack dotjoshjohnson.xml
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack oracle.oracle-java
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-containers
+2025-11-27 17:27:14.662 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-containers
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack ms-python.mypy-type-checker
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack davidanson.vscode-markdownlint
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack ms-python.pylint
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack charliermarsh.ruff
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack helixquar.randomeverything
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack mvllow.rose-pine
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack catppuccin.catppuccin-vsc
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack tonybaloney.vscode-pets
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack codeium.codeium
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack ms-python.vscode-python-envs
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack arcticicestudio.nord-visual-studio-code
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack github.copilot
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack github.remotehub
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack bruno-api-client.bruno
+2025-11-27 17:27:14.663 [info] Installing the extension without checking dependencies and pack github.copilot-chat
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack jeff-hykin.polacode-2019
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack google.colab
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack jovejonovski.ocean-green
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack alexcvzz.vscode-sqlite
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack miguelsolorio.fluent-icons
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack ms-ossdata.vscode-pgsql
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack bjarne.ethereal-omarchy
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack monokai.theme-monokai-pro-vscode
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack sidthesloth.html5-boilerplate
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack humy2833.ftp-simple
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack usernamehw.errorlens
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack iterative.dvc
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack akamud.vscode-theme-onedark
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack christian-kohler.path-intellisense
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack tamasfe.even-better-toml
+2025-11-27 17:27:14.664 [info] Installing the extension without checking dependencies and pack almenon.arepl
+2025-11-27 17:27:16.558 [info] Extension signature verification result for ms-vscode.remote-explorer: Success. Internal Code: 0. Executed: true. Duration: 1439ms.
+2025-11-27 17:27:16.575 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-vscode.remote-explorer-0.5.0: ms-vscode.remote-explorer
+2025-11-27 17:27:16.586 [info] Renamed to /home/peaches/.vscode/extensions/ms-vscode.remote-explorer-0.5.0
+2025-11-27 17:27:16.590 [info] Extension signature verification result for mtxr.sqltools-driver-pg: Success. Internal Code: 0. Executed: true. Duration: 1094ms.
+2025-11-27 17:27:16.605 [info] Extension signature verification result for christian-kohler.path-intellisense: Success. Internal Code: 0. Executed: true. Duration: 959ms.
+2025-11-27 17:27:16.611 [info] Extracted extension to file:///home/peaches/.vscode/extensions/mtxr.sqltools-driver-pg-0.5.7: mtxr.sqltools-driver-pg
+2025-11-27 17:27:16.613 [info] Renamed to /home/peaches/.vscode/extensions/mtxr.sqltools-driver-pg-0.5.7
+2025-11-27 17:27:16.615 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Internal Code: 0. Executed: true. Duration: 950ms.
+2025-11-27 17:27:16.633 [info] Extracted extension to file:///home/peaches/.vscode/extensions/dbaeumer.vscode-eslint-3.0.16: dbaeumer.vscode-eslint
+2025-11-27 17:27:16.635 [info] Renamed to /home/peaches/.vscode/extensions/dbaeumer.vscode-eslint-3.0.16
+2025-11-27 17:27:16.645 [info] Extracted extension to file:///home/peaches/.vscode/extensions/christian-kohler.path-intellisense-2.10.0: christian-kohler.path-intellisense
+2025-11-27 17:27:16.647 [info] Renamed to /home/peaches/.vscode/extensions/christian-kohler.path-intellisense-2.10.0
+2025-11-27 17:27:16.713 [info] Extension signature verification result for vscjava.vscode-java-dependency: Success. Internal Code: 0. Executed: true. Duration: 879ms.
+2025-11-27 17:27:16.728 [info] Extracted extension to file:///home/peaches/.vscode/extensions/vscjava.vscode-java-dependency-0.26.5: vscjava.vscode-java-dependency
+2025-11-27 17:27:16.734 [info] Renamed to /home/peaches/.vscode/extensions/vscjava.vscode-java-dependency-0.26.5
+2025-11-27 17:27:16.831 [info] Extension signature verification result for ms-vscode.live-server: Success. Internal Code: 0. Executed: true. Duration: 1115ms.
+2025-11-27 17:27:16.847 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-vscode.live-server-0.4.16: ms-vscode.live-server
+2025-11-27 17:27:16.861 [info] Renamed to /home/peaches/.vscode/extensions/ms-vscode.live-server-0.4.16
+2025-11-27 17:27:16.936 [info] Extension signature verification result for monokai.theme-monokai-pro-vscode: Success. Internal Code: 0. Executed: true. Duration: 1307ms.
+2025-11-27 17:27:16.947 [info] Extracted extension to file:///home/peaches/.vscode/extensions/monokai.theme-monokai-pro-vscode-2.0.10: monokai.theme-monokai-pro-vscode
+2025-11-27 17:27:16.949 [info] Renamed to /home/peaches/.vscode/extensions/monokai.theme-monokai-pro-vscode-2.0.10
+2025-11-27 17:27:17.026 [info] Extension signature verification result for mhutchie.git-graph: Success. Internal Code: 0. Executed: true. Duration: 398ms.
+2025-11-27 17:27:17.053 [info] Extracted extension to file:///home/peaches/.vscode/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2025-11-27 17:27:17.056 [info] Renamed to /home/peaches/.vscode/extensions/mhutchie.git-graph-1.30.0
+2025-11-27 17:27:18.231 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Internal Code: 0. Executed: true. Duration: 378ms.
+2025-11-27 17:27:18.261 [info] Extracted extension to file:///home/peaches/.vscode/extensions/mechatroner.rainbow-csv-3.23.0: mechatroner.rainbow-csv
+2025-11-27 17:27:18.273 [info] Renamed to /home/peaches/.vscode/extensions/mechatroner.rainbow-csv-3.23.0
+2025-11-27 17:27:18.844 [info] Extension signature verification result for ms-vscode.remote-repositories: Success. Internal Code: 0. Executed: true. Duration: 383ms.
+2025-11-27 17:27:18.872 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-vscode.remote-repositories-0.42.0: ms-vscode.remote-repositories
+2025-11-27 17:27:18.875 [info] Renamed to /home/peaches/.vscode/extensions/ms-vscode.remote-repositories-0.42.0
+2025-11-27 17:27:18.884 [info] Extension signature verification result for ms-vscode.remote-server: Success. Internal Code: 0. Executed: true. Duration: 387ms.
+2025-11-27 17:27:18.915 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-vscode.remote-server-1.5.3: ms-vscode.remote-server
+2025-11-27 17:27:18.917 [info] Renamed to /home/peaches/.vscode/extensions/ms-vscode.remote-server-1.5.3
+2025-11-27 17:27:19.605 [info] Extension signature verification result for mtxr.sqltools-driver-mysql: Success. Internal Code: 0. Executed: true. Duration: 375ms.
+2025-11-27 17:27:19.621 [info] Extracted extension to file:///home/peaches/.vscode/extensions/mtxr.sqltools-driver-mysql-0.6.6: mtxr.sqltools-driver-mysql
+2025-11-27 17:27:19.622 [info] Renamed to /home/peaches/.vscode/extensions/mtxr.sqltools-driver-mysql-0.6.6
+2025-11-27 17:27:19.973 [info] Extension signature verification result for mtxr.sqltools: Success. Internal Code: 0. Executed: true. Duration: 384ms.
+2025-11-27 17:27:20.004 [info] Extracted extension to file:///home/peaches/.vscode/extensions/mtxr.sqltools-0.28.5: mtxr.sqltools
+2025-11-27 17:27:20.017 [info] Renamed to /home/peaches/.vscode/extensions/mtxr.sqltools-0.28.5
+2025-11-27 17:27:20.777 [info] Extension signature verification result for mvllow.rose-pine: Success. Internal Code: 0. Executed: true. Duration: 388ms.
+2025-11-27 17:27:20.791 [info] Extracted extension to file:///home/peaches/.vscode/extensions/mvllow.rose-pine-2.15.0: mvllow.rose-pine
+2025-11-27 17:27:20.804 [info] Renamed to /home/peaches/.vscode/extensions/mvllow.rose-pine-2.15.0
+2025-11-27 17:27:20.975 [info] Extension signature verification result for vscjava.vscode-java-pack: Success. Internal Code: 0. Executed: true. Duration: 398ms.
+2025-11-27 17:27:21.024 [info] Extracted extension to file:///home/peaches/.vscode/extensions/vscjava.vscode-java-pack-0.30.5: vscjava.vscode-java-pack
+2025-11-27 17:27:21.027 [info] Renamed to /home/peaches/.vscode/extensions/vscjava.vscode-java-pack-0.30.5
+2025-11-27 17:27:21.198 [info] Extension signature verification result for arcticicestudio.nord-visual-studio-code: Success. Internal Code: 0. Executed: true. Duration: 389ms.
+2025-11-27 17:27:21.203 [info] Extracted extension to file:///home/peaches/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0: arcticicestudio.nord-visual-studio-code
+2025-11-27 17:27:21.215 [info] Renamed to /home/peaches/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0
+2025-11-27 17:27:21.343 [info] Extension signature verification result for aaron-bond.better-comments: Success. Internal Code: 0. Executed: true. Duration: 392ms.
+2025-11-27 17:27:21.353 [info] Extracted extension to file:///home/peaches/.vscode/extensions/aaron-bond.better-comments-3.0.2: aaron-bond.better-comments
+2025-11-27 17:27:21.366 [info] Renamed to /home/peaches/.vscode/extensions/aaron-bond.better-comments-3.0.2
+2025-11-27 17:27:22.137 [info] Extension signature verification result for akamud.vscode-theme-onedark: Success. Internal Code: 0. Executed: true. Duration: 6424ms.
+2025-11-27 17:27:22.141 [info] Extracted extension to file:///home/peaches/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0: akamud.vscode-theme-onedark
+2025-11-27 17:27:22.142 [info] Renamed to /home/peaches/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0
+2025-11-27 17:27:23.016 [info] Extension signature verification result for jovejonovski.ocean-green: Success. Internal Code: 0. Executed: true. Duration: 380ms.
+2025-11-27 17:27:23.021 [info] Extracted extension to file:///home/peaches/.vscode/extensions/jovejonovski.ocean-green-1.1.2: jovejonovski.ocean-green
+2025-11-27 17:27:23.022 [info] Renamed to /home/peaches/.vscode/extensions/jovejonovski.ocean-green-1.1.2
+2025-11-27 17:27:23.053 [info] Extension signature verification result for enkia.tokyo-night: Success. Internal Code: 0. Executed: true. Duration: 385ms.
+2025-11-27 17:27:23.058 [info] Extracted extension to file:///home/peaches/.vscode/extensions/enkia.tokyo-night-1.1.2: enkia.tokyo-night
+2025-11-27 17:27:23.059 [info] Renamed to /home/peaches/.vscode/extensions/enkia.tokyo-night-1.1.2
+2025-11-27 17:27:23.371 [info] Extension signature verification result for ms-vscode-remote.remote-ssh-edit: Success. Internal Code: 0. Executed: true. Duration: 381ms.
+2025-11-27 17:27:23.382 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2025-11-27 17:27:23.394 [info] Renamed to /home/peaches/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2025-11-27 17:27:24.042 [info] Extension signature verification result for yzhang.markdown-all-in-one: Success. Internal Code: 0. Executed: true. Duration: 388ms.
+2025-11-27 17:27:24.068 [info] Extracted extension to file:///home/peaches/.vscode/extensions/yzhang.markdown-all-in-one-3.6.3: yzhang.markdown-all-in-one
+2025-11-27 17:27:24.083 [info] Renamed to /home/peaches/.vscode/extensions/yzhang.markdown-all-in-one-3.6.3
+2025-11-27 17:27:24.299 [info] Extension signature verification result for kisstkondoros.vscode-gutter-preview: Success. Internal Code: 0. Executed: true. Duration: 389ms.
+2025-11-27 17:27:24.300 [info] Extension signature verification result for jeff-hykin.polacode-2019: Success. Internal Code: 0. Executed: true. Duration: 386ms.
+2025-11-27 17:27:24.307 [info] Extracted extension to file:///home/peaches/.vscode/extensions/jeff-hykin.polacode-2019-0.6.2: jeff-hykin.polacode-2019
+2025-11-27 17:27:24.308 [info] Renamed to /home/peaches/.vscode/extensions/jeff-hykin.polacode-2019-0.6.2
+2025-11-27 17:27:24.317 [info] Extracted extension to file:///home/peaches/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.32.2: kisstkondoros.vscode-gutter-preview
+2025-11-27 17:27:24.319 [info] Renamed to /home/peaches/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.32.2
+2025-11-27 17:27:24.690 [info] Extension signature verification result for davidanson.vscode-markdownlint: Success. Internal Code: 0. Executed: true. Duration: 388ms.
+2025-11-27 17:27:24.706 [info] Extracted extension to file:///home/peaches/.vscode/extensions/davidanson.vscode-markdownlint-0.60.0: davidanson.vscode-markdownlint
+2025-11-27 17:27:24.708 [info] Renamed to /home/peaches/.vscode/extensions/davidanson.vscode-markdownlint-0.60.0
+2025-11-27 17:27:25.057 [info] Extension signature verification result for vscjava.vscode-java-debug: Success. Internal Code: 0. Executed: true. Duration: 393ms.
+2025-11-27 17:27:25.078 [info] Extracted extension to file:///home/peaches/.vscode/extensions/vscjava.vscode-java-debug-0.58.3: vscjava.vscode-java-debug
+2025-11-27 17:27:25.092 [info] Renamed to /home/peaches/.vscode/extensions/vscjava.vscode-java-debug-0.58.3
+2025-11-27 17:27:25.183 [info] Extension signature verification result for britesnow.vscode-toggle-quotes: Success. Internal Code: 0. Executed: true. Duration: 385ms.
+2025-11-27 17:27:25.187 [info] Extracted extension to file:///home/peaches/.vscode/extensions/britesnow.vscode-toggle-quotes-0.3.6: britesnow.vscode-toggle-quotes
+2025-11-27 17:27:25.189 [info] Renamed to /home/peaches/.vscode/extensions/britesnow.vscode-toggle-quotes-0.3.6
+2025-11-27 17:27:25.623 [info] Extension signature verification result for vscjava.vscode-java-test: Success. Internal Code: 0. Executed: true. Duration: 388ms.
+2025-11-27 17:27:25.652 [info] Extracted extension to file:///home/peaches/.vscode/extensions/vscjava.vscode-java-test-0.43.2: vscjava.vscode-java-test
+2025-11-27 17:27:25.664 [info] Renamed to /home/peaches/.vscode/extensions/vscjava.vscode-java-test-0.43.2
+2025-11-27 17:27:26.483 [info] Extension signature verification result for google.colab: Success. Internal Code: 0. Executed: true. Duration: 391ms.
+2025-11-27 17:27:26.489 [info] Extracted extension to file:///home/peaches/.vscode/extensions/google.colab-0.1.1: google.colab
+2025-11-27 17:27:26.500 [info] Renamed to /home/peaches/.vscode/extensions/google.colab-0.1.1
+2025-11-27 17:27:27.041 [info] Extension signature verification result for usernamehw.errorlens: Success. Internal Code: 0. Executed: true. Duration: 397ms.
+2025-11-27 17:27:27.057 [info] Extracted extension to file:///home/peaches/.vscode/extensions/usernamehw.errorlens-3.26.0: usernamehw.errorlens
+2025-11-27 17:27:27.072 [info] Renamed to /home/peaches/.vscode/extensions/usernamehw.errorlens-3.26.0
+2025-11-27 17:27:27.151 [info] Extension signature verification result for miguelsolorio.fluent-icons: Success. Internal Code: 0. Executed: true. Duration: 410ms.
+2025-11-27 17:27:27.187 [info] Extracted extension to file:///home/peaches/.vscode/extensions/miguelsolorio.fluent-icons-0.0.19: miguelsolorio.fluent-icons
+2025-11-27 17:27:27.191 [info] Renamed to /home/peaches/.vscode/extensions/miguelsolorio.fluent-icons-0.0.19
+2025-11-27 17:27:27.252 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: Success. Internal Code: 0. Executed: true. Duration: 415ms.
+2025-11-27 17:27:27.275 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-vscode-remote.remote-ssh-0.120.0: ms-vscode-remote.remote-ssh
+2025-11-27 17:27:27.278 [info] Renamed to /home/peaches/.vscode/extensions/ms-vscode-remote.remote-ssh-0.120.0
+2025-11-27 17:27:28.118 [info] Extension signature verification result for ms-python.mypy-type-checker: Success. Internal Code: 0. Executed: true. Duration: 390ms.
+2025-11-27 17:27:28.256 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 391ms.
+2025-11-27 17:27:28.529 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0: ms-python.mypy-type-checker
+2025-11-27 17:27:28.536 [info] Extension signature verification result for sidthesloth.html5-boilerplate: Success. Internal Code: 0. Executed: true. Duration: 416ms.
+2025-11-27 17:27:28.551 [info] Renamed to /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0
+2025-11-27 17:27:28.573 [info] Extracted extension to file:///home/peaches/.vscode/extensions/sidthesloth.html5-boilerplate-1.1.1: sidthesloth.html5-boilerplate
+2025-11-27 17:27:28.575 [info] Renamed to /home/peaches/.vscode/extensions/sidthesloth.html5-boilerplate-1.1.1
+2025-11-27 17:27:28.638 [info] Extracted extension to file:///home/peaches/.vscode/extensions/pkief.material-icon-theme-5.29.0: pkief.material-icon-theme
+2025-11-27 17:27:28.662 [info] Renamed to /home/peaches/.vscode/extensions/pkief.material-icon-theme-5.29.0
+2025-11-27 17:27:28.937 [info] Extension signature verification result for helixquar.randomeverything: Success. Internal Code: 0. Executed: true. Duration: 390ms.
+2025-11-27 17:27:28.962 [info] Extracted extension to file:///home/peaches/.vscode/extensions/helixquar.randomeverything-0.0.3: helixquar.randomeverything
+2025-11-27 17:27:28.975 [info] Renamed to /home/peaches/.vscode/extensions/helixquar.randomeverything-0.0.3
+2025-11-27 17:27:32.353 [info] Extension signature verification result for ms-python.pylint: Success. Internal Code: 0. Executed: true. Duration: 394ms.
+2025-11-27 17:27:32.511 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0: ms-python.pylint
+2025-11-27 17:27:32.530 [info] Renamed to /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0
+2025-11-27 17:27:33.476 [info] Extension signature verification result for ms-vscode-remote.remote-wsl: Success. Internal Code: 0. Executed: true. Duration: 387ms.
+2025-11-27 17:27:33.500 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-vscode-remote.remote-wsl-0.104.3: ms-vscode-remote.remote-wsl
+2025-11-27 17:27:33.512 [info] Renamed to /home/peaches/.vscode/extensions/ms-vscode-remote.remote-wsl-0.104.3
+2025-11-27 17:27:34.345 [info] Extension signature verification result for tomoki1207.pdf: Success. Internal Code: 0. Executed: true. Duration: 376ms.
+2025-11-27 17:27:34.448 [info] Extracted extension to file:///home/peaches/.vscode/extensions/tomoki1207.pdf-1.2.2: tomoki1207.pdf
+2025-11-27 17:27:34.467 [info] Renamed to /home/peaches/.vscode/extensions/tomoki1207.pdf-1.2.2
+2025-11-27 17:27:36.023 [info] Extension signature verification result for catppuccin.catppuccin-vsc: Success. Internal Code: 0. Executed: true. Duration: 376ms.
+2025-11-27 17:27:36.029 [info] Extracted extension to file:///home/peaches/.vscode/extensions/catppuccin.catppuccin-vsc-3.18.1: catppuccin.catppuccin-vsc
+2025-11-27 17:27:36.041 [info] Renamed to /home/peaches/.vscode/extensions/catppuccin.catppuccin-vsc-3.18.1
+2025-11-27 17:27:37.249 [info] Extension signature verification result for moyu.snapcode: Success. Internal Code: 0. Executed: true. Duration: 381ms.
+2025-11-27 17:27:37.252 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Internal Code: 0. Executed: true. Duration: 383ms.
+2025-11-27 17:27:37.255 [info] Extracted extension to file:///home/peaches/.vscode/extensions/moyu.snapcode-1.1.0: moyu.snapcode
+2025-11-27 17:27:37.259 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-azuretools.vscode-docker-2.0.0: ms-azuretools.vscode-docker
+2025-11-27 17:27:37.267 [info] Renamed to /home/peaches/.vscode/extensions/moyu.snapcode-1.1.0
+2025-11-27 17:27:37.270 [info] Renamed to /home/peaches/.vscode/extensions/ms-azuretools.vscode-docker-2.0.0
+2025-11-27 17:27:39.585 [info] Extension signature verification result for bjarne.ethereal-omarchy: Success. Internal Code: 0. Executed: true. Duration: 381ms.
+2025-11-27 17:27:39.592 [info] Extracted extension to file:///home/peaches/.vscode/extensions/bjarne.ethereal-omarchy-1.0.0: bjarne.ethereal-omarchy
+2025-11-27 17:27:39.606 [info] Renamed to /home/peaches/.vscode/extensions/bjarne.ethereal-omarchy-1.0.0
+2025-11-27 17:27:40.192 [info] Extension signature verification result for formulahendry.code-runner: Success. Internal Code: 0. Executed: true. Duration: 387ms.
+2025-11-27 17:27:40.234 [info] Extracted extension to file:///home/peaches/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2025-11-27 17:27:40.250 [info] Renamed to /home/peaches/.vscode/extensions/formulahendry.code-runner-0.12.2
+2025-11-27 17:27:40.318 [info] Extension signature verification result for codeium.codeium: Success. Internal Code: 0. Executed: true. Duration: 389ms.
+2025-11-27 17:27:40.376 [info] Extracted extension to file:///home/peaches/.vscode/extensions/codeium.codeium-1.48.2: codeium.codeium
+2025-11-27 17:27:40.390 [info] Renamed to /home/peaches/.vscode/extensions/codeium.codeium-1.48.2
+2025-11-27 17:27:41.269 [info] Extension signature verification result for github.remotehub: Success. Internal Code: 0. Executed: true. Duration: 388ms.
+2025-11-27 17:27:41.286 [info] Extracted extension to file:///home/peaches/.vscode/extensions/github.remotehub-0.64.0: github.remotehub
+2025-11-27 17:27:41.288 [info] Renamed to /home/peaches/.vscode/extensions/github.remotehub-0.64.0
+2025-11-27 17:27:41.951 [info] Extension signature verification result for humy2833.ftp-simple: Success. Internal Code: 0. Executed: true. Duration: 398ms.
+2025-11-27 17:27:42.096 [info] Extracted extension to file:///home/peaches/.vscode/extensions/humy2833.ftp-simple-0.7.6: humy2833.ftp-simple
+2025-11-27 17:27:42.108 [info] Renamed to /home/peaches/.vscode/extensions/humy2833.ftp-simple-0.7.6
+2025-11-27 17:27:42.419 [info] Extension signature verification result for almenon.arepl: Success. Internal Code: 0. Executed: true. Duration: 392ms.
+2025-11-27 17:27:42.582 [info] Extracted extension to file:///home/peaches/.vscode/extensions/almenon.arepl-3.0.0: almenon.arepl
+2025-11-27 17:27:42.611 [info] Renamed to /home/peaches/.vscode/extensions/almenon.arepl-3.0.0
+2025-11-27 17:27:43.278 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 388ms.
+2025-11-27 17:27:43.345 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64: ms-python.vscode-python-envs
+2025-11-27 17:27:43.348 [info] Renamed to /home/peaches/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64
+2025-11-27 17:27:43.691 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 381ms.
+2025-11-27 17:27:43.727 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-azuretools.vscode-containers-2.3.0: ms-azuretools.vscode-containers
+2025-11-27 17:27:43.746 [info] Renamed to /home/peaches/.vscode/extensions/ms-azuretools.vscode-containers-2.3.0
+2025-11-27 17:27:44.452 [info] Extension signature verification result for streetsidesoftware.code-spell-checker: Success. Internal Code: 0. Executed: true. Duration: 379ms.
+2025-11-27 17:27:44.538 [info] Extracted extension to file:///home/peaches/.vscode/extensions/streetsidesoftware.code-spell-checker-4.3.2: streetsidesoftware.code-spell-checker
+2025-11-27 17:27:44.558 [info] Renamed to /home/peaches/.vscode/extensions/streetsidesoftware.code-spell-checker-4.3.2
+2025-11-27 17:27:47.732 [info] Extension signature verification result for alexcvzz.vscode-sqlite: Success. Internal Code: 0. Executed: true. Duration: 385ms.
+2025-11-27 17:27:47.768 [info] Extracted extension to file:///home/peaches/.vscode/extensions/alexcvzz.vscode-sqlite-0.14.1: alexcvzz.vscode-sqlite
+2025-11-27 17:27:47.780 [info] Renamed to /home/peaches/.vscode/extensions/alexcvzz.vscode-sqlite-0.14.1
+2025-11-27 17:27:49.366 [info] Extension signature verification result for ms-toolsai.jupyter-renderers: Success. Internal Code: 0. Executed: true. Duration: 404ms.
+2025-11-27 17:27:49.463 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-toolsai.jupyter-renderers-1.3.0: ms-toolsai.jupyter-renderers
+2025-11-27 17:27:49.476 [info] Renamed to /home/peaches/.vscode/extensions/ms-toolsai.jupyter-renderers-1.3.0
+2025-11-27 17:27:51.532 [info] Extension signature verification result for dotjoshjohnson.xml: Success. Internal Code: 0. Executed: true. Duration: 391ms.
+2025-11-27 17:27:51.739 [info] Extracted extension to file:///home/peaches/.vscode/extensions/dotjoshjohnson.xml-2.5.1: dotjoshjohnson.xml
+2025-11-27 17:27:51.756 [info] Renamed to /home/peaches/.vscode/extensions/dotjoshjohnson.xml-2.5.1
+2025-11-27 17:27:53.643 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 392ms.
+2025-11-27 17:27:53.840 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64: ms-python.debugpy
+2025-11-27 17:27:53.846 [info] Renamed to /home/peaches/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64
+2025-11-27 17:28:00.806 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Internal Code: 0. Executed: true. Duration: 382ms.
+2025-11-27 17:28:00.853 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-vscode-remote.remote-containers-0.431.1: ms-vscode-remote.remote-containers
+2025-11-27 17:28:00.869 [info] Renamed to /home/peaches/.vscode/extensions/ms-vscode-remote.remote-containers-0.431.1
+2025-11-27 17:28:00.895 [info] Extension signature verification result for vscjava.vscode-maven: Success. Internal Code: 0. Executed: true. Duration: 402ms.
+2025-11-27 17:28:00.971 [info] Extracted extension to file:///home/peaches/.vscode/extensions/vscjava.vscode-maven-0.45.0: vscjava.vscode-maven
+2025-11-27 17:28:00.974 [info] Renamed to /home/peaches/.vscode/extensions/vscjava.vscode-maven-0.45.0
+2025-11-27 17:28:06.596 [info] Extension signature verification result for ms-toolsai.jupyter: Success. Internal Code: 0. Executed: true. Duration: 394ms.
+2025-11-27 17:28:06.690 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64: ms-toolsai.jupyter
+2025-11-27 17:28:06.712 [info] Renamed to /home/peaches/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64
+2025-11-27 17:28:09.306 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 401ms.
+2025-11-27 17:28:09.835 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-python.python-2025.18.0-linux-x64: ms-python.python
+2025-11-27 17:28:09.882 [info] Renamed to /home/peaches/.vscode/extensions/ms-python.python-2025.18.0-linux-x64
+2025-11-27 17:28:21.342 [info] Extension signature verification result for charliermarsh.ruff: Success. Internal Code: 0. Executed: true. Duration: 396ms.
+2025-11-27 17:28:21.518 [info] Extension signature verification result for ms-toolsai.datawrangler: Success. Internal Code: 0. Executed: true. Duration: 409ms.
+2025-11-27 17:28:21.529 [info] Extracted extension to file:///home/peaches/.vscode/extensions/charliermarsh.ruff-2025.30.0-linux-x64: charliermarsh.ruff
+2025-11-27 17:28:21.545 [info] Renamed to /home/peaches/.vscode/extensions/charliermarsh.ruff-2025.30.0-linux-x64
+2025-11-27 17:28:21.771 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-toolsai.datawrangler-1.24.0: ms-toolsai.datawrangler
+2025-11-27 17:28:21.787 [info] Renamed to /home/peaches/.vscode/extensions/ms-toolsai.datawrangler-1.24.0
+2025-11-27 17:28:22.046 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 412ms.
+2025-11-27 17:28:22.224 [info] Extracted extension to file:///home/peaches/.vscode/extensions/github.copilot-chat-0.33.3: github.copilot-chat
+2025-11-27 17:28:22.241 [info] Renamed to /home/peaches/.vscode/extensions/github.copilot-chat-0.33.3
+2025-11-27 17:28:32.487 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 432ms.
+2025-11-27 17:28:34.101 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2: ms-python.vscode-pylance
+2025-11-27 17:28:34.226 [info] Renamed to /home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2
+2025-11-27 17:28:34.294 [info] Extension signature verification result for tamasfe.even-better-toml: Success. Internal Code: 0. Executed: true. Duration: 428ms.
+2025-11-27 17:28:34.511 [info] Extracted extension to file:///home/peaches/.vscode/extensions/tamasfe.even-better-toml-0.21.2: tamasfe.even-better-toml
+2025-11-27 17:28:34.513 [info] Renamed to /home/peaches/.vscode/extensions/tamasfe.even-better-toml-0.21.2
+2025-11-27 17:28:35.296 [info] Extension signature verification result for tonybaloney.vscode-pets: Success. Internal Code: 0. Executed: true. Duration: 402ms.
+2025-11-27 17:28:35.497 [info] Extracted extension to file:///home/peaches/.vscode/extensions/tonybaloney.vscode-pets-1.34.0: tonybaloney.vscode-pets
+2025-11-27 17:28:35.516 [info] Renamed to /home/peaches/.vscode/extensions/tonybaloney.vscode-pets-1.34.0
+2025-11-27 17:28:37.217 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 393ms.
+2025-11-27 17:28:37.467 [info] Extracted extension to file:///home/peaches/.vscode/extensions/github.copilot-1.388.0: github.copilot
+2025-11-27 17:28:37.481 [info] Renamed to /home/peaches/.vscode/extensions/github.copilot-1.388.0
+2025-11-27 17:28:40.204 [info] Extension signature verification result for iterative.dvc: Success. Internal Code: 0. Executed: true. Duration: 386ms.
+2025-11-27 17:28:40.336 [info] Extracted extension to file:///home/peaches/.vscode/extensions/iterative.dvc-1.2.29: iterative.dvc
+2025-11-27 17:28:40.349 [info] Renamed to /home/peaches/.vscode/extensions/iterative.dvc-1.2.29
+2025-11-27 17:28:48.504 [info] Extension signature verification result for bruno-api-client.bruno: Success. Internal Code: 0. Executed: true. Duration: 467ms.
+2025-11-27 17:28:51.181 [info] Extracted extension to file:///home/peaches/.vscode/extensions/bruno-api-client.bruno-4.4.0: bruno-api-client.bruno
+2025-11-27 17:28:51.456 [info] Renamed to /home/peaches/.vscode/extensions/bruno-api-client.bruno-4.4.0
+2025-11-27 17:29:05.700 [info] Extension signature verification result for hediet.vscode-drawio: Success. Internal Code: 0. Executed: true. Duration: 435ms.
+2025-11-27 17:29:06.529 [info] Extracted extension to file:///home/peaches/.vscode/extensions/hediet.vscode-drawio-1.9.0: hediet.vscode-drawio
+2025-11-27 17:29:06.573 [info] Renamed to /home/peaches/.vscode/extensions/hediet.vscode-drawio-1.9.0
+2025-11-27 17:29:19.515 [info] Extension signature verification result for visualstudioexptteam.vscodeintellicode: Success. Internal Code: 0. Executed: true. Duration: 457ms.
+2025-11-27 17:29:19.680 [info] Extracted extension to file:///home/peaches/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2: visualstudioexptteam.vscodeintellicode
+2025-11-27 17:29:19.694 [info] Renamed to /home/peaches/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2
+2025-11-27 17:29:57.609 [info] Extension signature verification result for redhat.java: Success. Internal Code: 0. Executed: true. Duration: 502ms.
+2025-11-27 17:29:58.425 [info] Extracted extension to file:///home/peaches/.vscode/extensions/redhat.java-1.50.0-linux-x64: redhat.java
+2025-11-27 17:29:58.446 [info] Renamed to /home/peaches/.vscode/extensions/redhat.java-1.50.0-linux-x64
+2025-11-27 17:30:00.144 [info] Extension signature verification result for ms-ossdata.vscode-pgsql: Success. Internal Code: 0. Executed: true. Duration: 549ms.
+2025-11-27 17:30:02.437 [info] Extracted extension to file:///home/peaches/.vscode/extensions/ms-ossdata.vscode-pgsql-1.12.0-linux-x64: ms-ossdata.vscode-pgsql
+2025-11-27 17:30:02.560 [info] Renamed to /home/peaches/.vscode/extensions/ms-ossdata.vscode-pgsql-1.12.0-linux-x64
+2025-11-27 17:30:11.862 [info] Extension signature verification result for oracle.oracle-java: Success. Internal Code: 0. Executed: true. Duration: 528ms.
+2025-11-27 17:30:13.313 [info] Extracted extension to file:///home/peaches/.vscode/extensions/oracle.oracle-java-24.1.2: oracle.oracle-java
+2025-11-27 17:30:13.360 [info] Renamed to /home/peaches/.vscode/extensions/oracle.oracle-java-24.1.2
+2025-11-27 17:30:13.403 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.403 [info] Extension installed successfully: mtxr.sqltools-driver-pg vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: christian-kohler.path-intellisense vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: vscjava.vscode-java-dependency vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: monokai.theme-monokai-pro-vscode vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: mhutchie.git-graph vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: mechatroner.rainbow-csv vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: ms-vscode.remote-repositories vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: ms-vscode.remote-server vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: mtxr.sqltools-driver-mysql vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.404 [info] Extension installed successfully: mtxr.sqltools vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: mvllow.rose-pine vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: vscjava.vscode-java-pack vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: aaron-bond.better-comments vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: akamud.vscode-theme-onedark vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: jovejonovski.ocean-green vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: enkia.tokyo-night vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: yzhang.markdown-all-in-one vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: jeff-hykin.polacode-2019 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: kisstkondoros.vscode-gutter-preview vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: davidanson.vscode-markdownlint vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: vscjava.vscode-java-debug vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: britesnow.vscode-toggle-quotes vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.405 [info] Extension installed successfully: vscjava.vscode-java-test vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: google.colab vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: miguelsolorio.fluent-icons vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: ms-python.mypy-type-checker vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: sidthesloth.html5-boilerplate vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: helixquar.randomeverything vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: ms-python.pylint vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: ms-vscode-remote.remote-wsl vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: tomoki1207.pdf vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: moyu.snapcode vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: bjarne.ethereal-omarchy vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: codeium.codeium vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.406 [info] Extension installed successfully: github.remotehub vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: humy2833.ftp-simple vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: almenon.arepl vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: streetsidesoftware.code-spell-checker vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: alexcvzz.vscode-sqlite vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: ms-toolsai.jupyter-renderers vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: dotjoshjohnson.xml vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: vscjava.vscode-maven vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.407 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: charliermarsh.ruff vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: ms-toolsai.datawrangler vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: tamasfe.even-better-toml vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: tonybaloney.vscode-pets vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: github.copilot vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: iterative.dvc vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: bruno-api-client.bruno vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: hediet.vscode-drawio vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: redhat.java vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: ms-ossdata.vscode-pgsql vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:30:13.408 [info] Extension installed successfully: oracle.oracle-java vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:32:52.228 [info] Uninstalling extension from the profile: bjarne.ethereal-omarchy@1.0.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:32:52.286 [info] Marked extension as removed bjarne.ethereal-omarchy-1.0.0
+2025-11-27 17:32:52.737 [info] Successfully uninstalled extension from the profile bjarne.ethereal-omarchy@1.0.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:16.462 [info] Uninstalling extension from the profile: github.copilot@1.388.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:16.463 [info] Uninstalling extension from the profile: github.copilot-chat@0.33.3 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-11-27 17:33:16.491 [info] Extensions is already requested to uninstall github.copilot
+2025-11-27 17:33:16.497 [info] Marked extension as removed github.copilot-1.388.0
+2025-11-27 17:33:16.501 [info] Marked extension as removed github.copilot-chat-0.33.3
+2025-11-27 17:33:16.803 [info] Successfully uninstalled extension from the profile github.copilot@1.388.0 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:16.803 [info] Successfully uninstalled extension from the profile github.copilot-chat@0.33.3 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:26.635 [info] Uninstalling extension from the profile: sidthesloth.html5-boilerplate@1.1.1 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:26.678 [info] Marked extension as removed sidthesloth.html5-boilerplate-1.1.1
+2025-11-27 17:33:26.997 [info] Successfully uninstalled extension from the profile sidthesloth.html5-boilerplate@1.1.1 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:50.923 [info] Uninstalling extension from the profile: monokai.theme-monokai-pro-vscode@2.0.10 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:50.963 [info] Marked extension as removed monokai.theme-monokai-pro-vscode-2.0.10
+2025-11-27 17:33:51.252 [info] Successfully uninstalled extension from the profile monokai.theme-monokai-pro-vscode@2.0.10 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:59.282 [info] Uninstalling extension from the profile: jovejonovski.ocean-green@1.1.2 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json
+2025-11-27 17:33:59.319 [info] Marked extension as removed jovejonovski.ocean-green-1.1.2
+2025-11-27 17:33:59.596 [info] Successfully uninstalled extension from the profile jovejonovski.ocean-green@1.1.2 vscode-userdata:/home/peaches/.vscode/extensions/extensions.json

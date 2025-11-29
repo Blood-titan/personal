@@ -1,0 +1,149 @@
+Visual Studio Code (1.106.3, undefined, desktop)
+Jupyter Extension Version: 2025.9.1.
+Python Extension Version: 2025.18.0.
+Python Environment Extension Version: 1.12.0.
+Pylance Extension Version: 2025.10.2.
+Platform: linux (x64).
+Home = /home/peaches
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2025.9.1
+Workspace folder ~/learmmml
+17:58:15.821 [info] Starting Kernel (Python 3 (ipykernel)) for '~/learmmml/llinr.ipynb' (disableUI=false)
+17:58:20.585 [info] https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/: Kernel started: 7ff95fec-ff33-4007-9c7b-a57d350f16db
+17:58:21.711 [error] Error in websocket [Error: Server sent no subprotocol
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:28335)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at TLSSocket.socketOnData (node:_http_client:598:11)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+17:58:22.614 [info] Started session for kernel startUsingRemoteKernelSpec:48ab4b318a8e3cca4c0445dbff8fa7d85001c339aac79bd4c313a73a10c82b1c..python3./usr/bin/python3./.-m#colab_kernel_launcher
+17:58:23.322 [info] Kernel successfully started
+17:58:23.733 [error] Widget Error: Failed to access CDN https://unpkg.com/ after 0 attempt(s), TypeError: Failed to fetch
+17:58:24.494 [error] Failed to download widget script source from (httpclient) https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/bqplot/extension.js [Error: Error downloading from https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/bqplot/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+17:58:25.104 [error] Failed to download widget script source from (httpclient) https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/anywidget/extension.js [Error: Error downloading from https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/anywidget/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+17:58:25.108 [error] Failed to download widget script source from (httpclient) https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/ipytree/extension.js [Error: Error downloading from https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/ipytree/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+17:58:25.114 [error] Failed to download widget script source from (httpclient) https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/jupyterlab-plotly/extension.js [Error: Error downloading from https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/jupyterlab-plotly/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+17:58:25.121 [error] Failed to download widget script source from (httpclient) https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/jupyter-leaflet/extension.js [Error: Error downloading from https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/jupyter-leaflet/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+17:58:25.144 [error] Failed to download widget script source from (httpclient) https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/jupyter-js-widgets/extension.js [Error: Error downloading from https://8080-m-s-170lrioqjx3dh-b.us-west3-1.prod.colab.dev/nbextensions/jupyter-js-widgets/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+18:18:32.819 [warn] Cell completed with errors [Iu [Error]: expected an indented block after function definition on line 3 (ipython-input-1891790602.py, line 4)
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'IndentationError',
+  evalue: 'expected an indented block after function definition on line 3 (ipython-input-1891790602.py, line 4)',
+  traceback: [
+    '\x1B[0;36m  File \x1B[0;32m"/tmp/ipython-input-1891790602.py"\x1B[0;36m, line \x1B[0;32m4\x1B[0m\n' +
+      '\x1B[0;31m    X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2)\x1B[0m\n' +
+      '\x1B[0m    ^\x1B[0m\n' +
+      '\x1B[0;31mIndentationError\x1B[0m\x1B[0;31m:\x1B[0m expected an indented block after function definition on line 3\n'
+  ]
+}
+18:19:12.525 [info] Too many pending requests 1 for kernel 46bbd8d5-546c-48a1-91d7-a0aeea464704, waiting for it to be ready.
+18:19:17.275 [info] Too many pending requests 1 for kernel 46bbd8d5-546c-48a1-91d7-a0aeea464704, waiting for it to be ready.
+18:19:19.306 [info] Too many pending requests 1 for kernel 46bbd8d5-546c-48a1-91d7-a0aeea464704, waiting for it to be ready.
+18:19:19.441 [info] Too many pending requests 1 for kernel 46bbd8d5-546c-48a1-91d7-a0aeea464704, waiting for it to be ready.
+18:19:19.568 [info] Too many pending requests 1 for kernel 46bbd8d5-546c-48a1-91d7-a0aeea464704, waiting for it to be ready.
+18:19:20.209 [info] Too many pending requests 1 for kernel 46bbd8d5-546c-48a1-91d7-a0aeea464704, waiting for it to be ready.
+18:21:39.165 [warn] Cell completed with errors [Iu [Error]: name 'PolynomialFeatures' is not defined
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'NameError',
+  evalue: "name 'PolynomialFeatures' is not defined",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mNameError\x1B[0m                                 Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipython-input-2144604030.py\x1B[0m in \x1B[0;36m<cell line: 0>\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[0;32mfrom\x1B[0m \x1B[0msklearn\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mpipeline\x1B[0m \x1B[0;32mimport\x1B[0m \x1B[0mPipeline\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      2\x1B[0m polynomial_regression = Pipeline([\n' +
+      '\x1B[0;32m----> 3\x1B[0;31m \x1B[0;34m(\x1B[0m\x1B[0;34m"poly_features"\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mPolynomialFeatures\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mdegree\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;36m10\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0minclude_bias\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mFalse\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m      4\x1B[0m \x1B[0;34m(\x1B[0m\x1B[0;34m"lin_reg"\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mLinearRegression\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      5\x1B[0m ])\n',
+    "\x1B[0;31mNameError\x1B[0m: name 'PolynomialFeatures' is not defined"
+  ]
+}
+18:28:37.880 [warn] Cell completed with errors [Iu [Error]: `np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'AttributeError',
+  evalue: '`np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mAttributeError\x1B[0m                            Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipython-input-3963936209.py\x1B[0m in \x1B[0;36m<cell line: 0>\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[1;32m      6\x1B[0m \x1B[0;34m(\x1B[0m\x1B[0;34m"std_scaler"\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mStandardScaler\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      7\x1B[0m ])\n' +
+      '\x1B[0;32m----> 8\x1B[0;31m sgd_reg = SGDRegressor(max_iter=1, tol=-np.infty, warm_start=True,\n' +
+      '\x1B[0m\x1B[1;32m      9\x1B[0m penalty=None, learning_rate="constant", eta0=0.0005)\n' +
+      '\x1B[1;32m     10\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/numpy/__init__.py\x1B[0m in \x1B[0;36m__getattr__\x1B[0;34m(attr)\x1B[0m\n' +
+      '\x1B[1;32m    395\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    396\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0mattr\x1B[0m \x1B[0;32min\x1B[0m \x1B[0m__expired_attributes__\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 397\x1B[0;31m             raise AttributeError(\n' +
+      '\x1B[0m\x1B[1;32m    398\x1B[0m                 \x1B[0;34mf"`np.{attr}` was removed in the NumPy 2.0 release. "\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    399\x1B[0m                 \x1B[0;34mf"{__expired_attributes__[attr]}"\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;31mAttributeError\x1B[0m: `np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.'
+  ]
+}
+18:30:41.553 [warn] Cell completed with errors [Iu [Error]: `np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'AttributeError',
+  evalue: '`np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mAttributeError\x1B[0m                            Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipython-input-3445267436.py\x1B[0m in \x1B[0;36m<cell line: 0>\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[1;32m     10\x1B[0m \x1B[0mX_train_poly_scaled\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mpoly_scaler\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mfit_transform\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_train\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m     11\x1B[0m \x1B[0mX_val_poly_scaled\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mpoly_scaler\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mtransform\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_val\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m---> 12\x1B[0;31m sgd_reg = SGDRegressor(max_iter=1, tol=-np.infty, warm_start=True,\n' +
+      '\x1B[0m\x1B[1;32m     13\x1B[0m penalty=None, learning_rate="constant", eta0=0.0005)\n' +
+      '\x1B[1;32m     14\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/numpy/__init__.py\x1B[0m in \x1B[0;36m__getattr__\x1B[0;34m(attr)\x1B[0m\n' +
+      '\x1B[1;32m    395\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    396\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0mattr\x1B[0m \x1B[0;32min\x1B[0m \x1B[0m__expired_attributes__\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 397\x1B[0;31m             raise AttributeError(\n' +
+      '\x1B[0m\x1B[1;32m    398\x1B[0m                 \x1B[0;34mf"`np.{attr}` was removed in the NumPy 2.0 release. "\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    399\x1B[0m                 \x1B[0;34mf"{__expired_attributes__[attr]}"\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;31mAttributeError\x1B[0m: `np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.'
+  ]
+}
+18:31:50.604 [warn] Cell completed with errors [Iu [Error]: `np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'AttributeError',
+  evalue: '`np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mAttributeError\x1B[0m                            Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipython-input-1387863379.py\x1B[0m in \x1B[0;36m<cell line: 0>\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[1;32m     10\x1B[0m \x1B[0mX_train_poly_scaled\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mpoly_scaler\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mfit_transform\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_train\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m     11\x1B[0m \x1B[0mX_val_poly_scaled\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mpoly_scaler\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mtransform\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_val\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m---> 12\x1B[0;31m sgd_reg = SGDRegressor(max_iter=1, tol=-np.infty, warm_start=True,\n' +
+      '\x1B[0m\x1B[1;32m     13\x1B[0m penalty=None, learning_rate="constant", eta0=0.0005)\n' +
+      '\x1B[1;32m     14\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/numpy/__init__.py\x1B[0m in \x1B[0;36m__getattr__\x1B[0;34m(attr)\x1B[0m\n' +
+      '\x1B[1;32m    395\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    396\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0mattr\x1B[0m \x1B[0;32min\x1B[0m \x1B[0m__expired_attributes__\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 397\x1B[0;31m             raise AttributeError(\n' +
+      '\x1B[0m\x1B[1;32m    398\x1B[0m                 \x1B[0;34mf"`np.{attr}` was removed in the NumPy 2.0 release. "\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    399\x1B[0m                 \x1B[0;34mf"{__expired_attributes__[attr]}"\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;31mAttributeError\x1B[0m: `np.infty` was removed in the NumPy 2.0 release. Use `np.inf` instead.'
+  ]
+}
+18:55:51.467 [info] Too many pending requests 1 for kernel 46bbd8d5-546c-48a1-91d7-a0aeea464704, waiting for it to be ready.
+18:56:53.512 [info] Too many pending requests 1 for kernel 46bbd8d5-546c-48a1-91d7-a0aeea464704, waiting for it to be ready.

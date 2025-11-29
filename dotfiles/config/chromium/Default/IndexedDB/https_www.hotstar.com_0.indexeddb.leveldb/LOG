@@ -1,0 +1,6 @@
+2025/11/27-21:51:05.226 263a Creating DB /home/peaches/.config/chromium/Default/IndexedDB/https_www.hotstar.com_0.indexeddb.leveldb since it was missing.
+2025/11/27-21:51:05.227 263a Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_www.hotstar.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/27-21:51:05.231 264c Level-0 table #5: started
+2025/11/27-21:51:05.232 264c Level-0 table #5: 776 bytes OK
+2025/11/27-21:51:05.233 264c Delete type=0 #3
+2025/11/27-21:51:05.233 2638 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

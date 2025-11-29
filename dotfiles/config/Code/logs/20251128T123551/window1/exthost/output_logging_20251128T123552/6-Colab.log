@@ -1,0 +1,31 @@
+[2025-11-28T07:05:53.348Z] [Info] Visual Studio Code: 1.106.3
+[2025-11-28T07:05:53.348Z] [Info] Remote: N/A
+[2025-11-28T07:05:53.348Z] [Info] App Host: desktop
+[2025-11-28T07:05:53.348Z] [Info] Jupyter extension version: 2025.9.1
+[2025-11-28T08:18:39.038Z] [Error] Unable to send server "keep alive" ping: Colab CPU
+                                   Error: Failed to issue request GET https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/api/kernels: Not Found
+                                   	at Ia.issueRequest (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:65:3566)
+                                   	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+                                   	at async Ia.listKernels (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:65:1945)
+                                   	at async z1.keepServerAlive (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12294)
+                                   	at async /home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12131
+                                   	at async Promise.all (index 0)
+                                   	at async z1.keepServersAlive (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12240)
+[2025-11-28T08:23:37.759Z] [Error] Unable to send server "keep alive" ping: Colab CPU
+                                   Error: Failed to issue request GET https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/api/kernels: Not Found
+                                   	at Ia.issueRequest (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:65:3566)
+                                   	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+                                   	at async Ia.listKernels (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:65:1945)
+                                   	at async z1.keepServerAlive (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12294)
+                                   	at async /home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12131
+                                   	at async Promise.all (index 0)
+                                   	at async z1.keepServersAlive (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12240)
+[2025-11-28T08:28:37.676Z] [Error] Unable to send server "keep alive" ping: Colab CPU
+                                   Error: Failed to issue request GET https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/api/kernels: Not Found
+                                   	at Ia.issueRequest (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:65:3566)
+                                   	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+                                   	at async Ia.listKernels (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:65:1945)
+                                   	at async z1.keepServerAlive (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12294)
+                                   	at async /home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12131
+                                   	at async Promise.all (index 0)
+                                   	at async z1.keepServersAlive (/home/peaches/.vscode/extensions/google.colab-0.1.1/out/extension.js:66:12240)

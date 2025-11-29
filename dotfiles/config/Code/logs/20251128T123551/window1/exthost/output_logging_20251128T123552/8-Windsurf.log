@@ -1,0 +1,324 @@
+(VSCode) 2025-11-28 12:35:54.370 [INFO]: No proxy settings found
+(VSCode) 2025-11-28 12:35:56.043 [INFO]: Checking network connection...
+(VSCode) 2025-11-28 12:35:56.086 [INFO]: Creating manager directory: /tmp/489177e7-41bc-4c56-ae07-74f3f5259363/codeium/manager
+(VSCode) 2025-11-28 12:35:56.463 [INFO]: Using cached LS with valid crc32: /home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/e03af6ebc40b844314d448f947c80b636d093049/language_server_linux_x64
+(VSCode) 2025-11-28 12:35:56.470 [INFO]: Language server started
+2025/11/28 12:35:56 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+I1128 12:35:56.587397  6811 main.go:604] [Language Server Manager] Setting GOMAXPROCS to 4
+I1128 12:35:56.587466  6811 main.go:750] [Language Server Manager] Release 1.48.2 (e03af6ebc40b844314d448f947c80b636d093049)
+I1128 12:35:56.587479  6811 main.go:829] [Language Server Manager] Starting language server manager with pid 6811
+I1128 12:35:56.587547  6811 main.go:138] [Language Server Manager] Manager acquired its lock file /tmp/489177e7-41bc-4c56-ae07-74f3f5259363/codeium/manager/locks/manager.lock
+I1128 12:35:56.587969  6811 main.go:283] [Language Server Manager] Waiting for random port file in /tmp/489177e7-41bc-4c56-ae07-74f3f5259363/codeium/manager/child_random_port_1764313556587593051_6595942058133286794 to be created
+2025/11/28 12:35:56 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+I1128 12:35:56.706045  6831 main.go:604] Setting GOMAXPROCS to 4
+I1128 12:35:56.706179  6831 main.go:823] Starting language server process with pid 6831
+I1128 12:35:56.706201  6831 server.go:296] Language server will attempt to listen on host 127.0.0.1
+I1128 12:35:56.706338  6831 server.go:303] Language server listening on random port at 34471
+(VSCode) 2025-11-28 12:35:56.980 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+I1128 12:35:58.420048  6831 web_server.go:256] Chat Web Server listening at ws://127.0.0.1:36703
+I1128 12:35:58.630999  6831 server.go:955] Local search is enabled, will index local files.
+I1128 12:35:58.631021  6831 server.go:959] Using 4 indexer workers
+I1128 12:35:59.487525  6831 server.go:1196] Child process attempting to acquire lock file /tmp/489177e7-41bc-4c56-ae07-74f3f5259363/codeium/manager/locks/child_lock_1764313556587624141_4749659186746997222
+I1128 12:35:59.487577  6831 server.go:1204] Child process acquired lock file /tmp/489177e7-41bc-4c56-ae07-74f3f5259363/codeium/manager/locks/child_lock_1764313556587624141_4749659186746997222
+33005
+I1128 12:35:59.597191  6811 main.go:319] [Language Server Manager] Found random server port 34471
+I1128 12:35:59.597230  6811 main.go:320] [Language Server Manager] Found random lsp port 33005
+I1128 12:35:59.597246  6811 main.go:327] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:34471
+I1128 12:35:59.608598  6811 main.go:192] [Language Server Manager] Fixing language server port at 34471
+I1128 12:35:59.608617  6811 main.go:381] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:34471
+(VSCode) 2025-11-28 12:35:59.700 [INFO]: Found language server running on port 34471
+(VSCode) 2025-11-28 12:35:59.875 [INFO]: openAllTextDocuments took 2.303663000000597ms
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+(VSCode) 2025-11-28 12:35:59.883 [ERROR]: Invalid LSP port: BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+(VSCode) 2025-11-28 12:35:59.883 [ERROR]: Invalid LSP port: BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+BEWARE: your OS is not officially supported by Playwright; downloading fallback build for ubuntu20.04-x64.
+
+(VSCode) 2025-11-28 12:37:18.056 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:18.213 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:18.581 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:19.204 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:19.294 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:19.562 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:21.980 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:22.148 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:22.392 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:23.931 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:24.335 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:24.722 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:25.030 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:25.336 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:25.690 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:25.790 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:26.057 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:27.299 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:32.693 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:32.928 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:34.142 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:44.293 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:44.418 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:44.663 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:44.975 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:49.057 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:49.131 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:49.351 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:49.419 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:49.697 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:50.006 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:51.411 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:51.955 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:52.115 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:52.266 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:52.469 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:53.440 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:53.582 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:53.800 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:54.021 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:54.239 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:55.493 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:55.812 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:57.829 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:37:58.463 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:00.072 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:02.163 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:02.643 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:03.377 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:03.606 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:04.119 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:04.897 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:05.477 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:05.645 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:05.872 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:09.522 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:10.551 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:10.619 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:10.957 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:17.126 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:18.610 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:18.769 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:19.023 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:19.570 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:19.697 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:20.026 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:21.054 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:21.213 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:21.423 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:22.191 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:22.353 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:22.529 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:22.805 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:23.761 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:24.450 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:24.883 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:26.902 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:27.096 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:27.736 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:27.836 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:28.190 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:32.471 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:32.630 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:41.206 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:41.750 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:41.886 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:42.847 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:43.134 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:43.917 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:44.989 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:45.418 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:45.544 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:46.100 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:46.236 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:46.547 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:47.305 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:47.465 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:48.182 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:48.596 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:53.326 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:53.577 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:53.694 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:55.128 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:55.415 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:56.791 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:38:57.329 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:02.832 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:04.444 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:08.045 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:20.345 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:20.471 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:21.770 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:22.007 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:22.413 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:22.579 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:22.780 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:30.375 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:35.338 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:36.577 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:36.933 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:37.160 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:37.602 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:37.707 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:38.069 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:38.676 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:38.768 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:40.564 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:40.810 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:40.899 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:41.450 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:41.743 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:41.988 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:42.325 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:42.629 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:43.623 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:43.766 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:43.960 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:44.077 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:44.196 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:44.289 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:44.416 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:45.058 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:45.387 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:45.461 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:45.830 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:46.157 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:47.536 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:48.120 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:48.302 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:48.458 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:48.620 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:49.153 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:51.700 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:54.313 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:55.576 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:56.411 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:56.705 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:57.026 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:57.345 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:57.582 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:39:57.793 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:00.257 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:01.300 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:01.417 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:01.628 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:02.361 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:02.918 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:06.100 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:06.465 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:06.755 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:06.940 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:08.869 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:09.071 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:09.573 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:11.401 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:16.356 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:16.607 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:18.413 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:22.384 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:24.959 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:30.786 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:33.135 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:33.485 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:34.032 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:34.520 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:34.873 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:35.032 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:37.942 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:38.372 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:39.679 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:40.335 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:55.598 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:55.791 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:55.936 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:57.125 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:57.224 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:57.479 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:57.977 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:58.297 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:59.138 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:40:59.945 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:01.006 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:01.368 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:01.743 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:01.841 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:03.780 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:04.023 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:05.544 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:06.912 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:08.757 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:09.123 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:09.835 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:09.995 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:10.464 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:27.070 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:37.157 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:37.290 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:37.527 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:37.775 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:38.753 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:39.101 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:39.331 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:39.567 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:39.847 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:40.539 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:42.168 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:43.105 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:45.884 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:46.219 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:46.946 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:47.548 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:49.023 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:49.348 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:50.017 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:50.335 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:50.802 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:54.343 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:54.669 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:55.380 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:55.632 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:55.860 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:41:56.656 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:22.592 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:23.570 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:26.362 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:26.826 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:33.964 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:36.343 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:38.710 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:41.552 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:42.003 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:43.012 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:43.645 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:43.862 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:48.678 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:48.888 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:49.066 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:49.242 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:49.561 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:50.998 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:51.182 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:51.808 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:55.679 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:56.008 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:56.373 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:56.799 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:57.929 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:58.116 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:58.292 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:58.495 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:58.756 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:42:58.941 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:20.136 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:20.921 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:26.443 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:27.069 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:28.967 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:29.633 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:32.905 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:37.232 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:37.459 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:37.671 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:43:37.889 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:44:10.617 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:44:26.617 [WARN]: User not logged in
+(VSCode) 2025-11-28 12:45:49.914 [WARN]: User not logged in

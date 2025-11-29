@@ -1,0 +1,14 @@
+2025-11-27 17:38:06.838 [info] github.copilot 1.388.0 Running post uninstall script
+2025-11-27 17:38:06.877 [info] Marked extension as removed bjarne.ethereal-omarchy-1.0.0
+2025-11-27 17:38:06.877 [info] Marked extension as removed github.copilot-1.388.0
+2025-11-27 17:38:06.878 [info] Marked extension as removed github.copilot-chat-0.33.3
+2025-11-27 17:38:06.878 [info] Marked extension as removed jovejonovski.ocean-green-1.1.2
+2025-11-27 17:38:06.878 [info] Marked extension as removed monokai.theme-monokai-pro-vscode-2.0.10
+2025-11-27 17:38:06.878 [info] Marked extension as removed sidthesloth.html5-boilerplate-1.1.1
+2025-11-27 17:38:07.382 [info] Finished running post uninstall script github.copilot 1.388.0
+2025-11-27 17:38:07.390 [info] Deleted marked for removal extension from disk bjarne.ethereal-omarchy /home/peaches/.vscode/extensions/bjarne.ethereal-omarchy-1.0.0
+2025-11-27 17:38:07.390 [info] Deleted marked for removal extension from disk jovejonovski.ocean-green /home/peaches/.vscode/extensions/jovejonovski.ocean-green-1.1.2
+2025-11-27 17:38:07.390 [info] Deleted marked for removal extension from disk monokai.theme-monokai-pro-vscode /home/peaches/.vscode/extensions/monokai.theme-monokai-pro-vscode-2.0.10
+2025-11-27 17:38:07.390 [info] Deleted marked for removal extension from disk sidthesloth.html5-boilerplate /home/peaches/.vscode/extensions/sidthesloth.html5-boilerplate-1.1.1
+2025-11-27 17:38:07.415 [info] Deleted marked for removal extension from disk github.copilot /home/peaches/.vscode/extensions/github.copilot-1.388.0
+2025-11-27 17:38:07.457 [info] Deleted marked for removal extension from disk github.copilot-chat /home/peaches/.vscode/extensions/github.copilot-chat-0.33.3

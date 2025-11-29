@@ -1,2 +1,3 @@
-2025/11/25-12:36:21.145 484 Creating DB /home/peaches/.config/chromium/Default/Sync Extension Settings/jplgfhpmjnbigmhklmmbgecoobifkmpa since it was missing.
-2025/11/25-12:36:21.160 484 Reusing MANIFEST /home/peaches/.config/chromium/Default/Sync Extension Settings/jplgfhpmjnbigmhklmmbgecoobifkmpa/MANIFEST-000001
+2025/11/27-11:16:01.225 7b6 Reusing MANIFEST /home/peaches/.config/chromium/Default/Sync Extension Settings/jplgfhpmjnbigmhklmmbgecoobifkmpa/MANIFEST-000001
+2025/11/27-11:16:01.225 7b6 Recovering log #3
+2025/11/27-11:16:01.228 7b6 Reusing old log /home/peaches/.config/chromium/Default/Sync Extension Settings/jplgfhpmjnbigmhklmmbgecoobifkmpa/000003.log 

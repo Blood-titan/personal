@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+copyq list | wofi --dmenu -p "Clipboard" | xargs -I{} copyq select {}
+

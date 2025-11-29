@@ -1,28 +1,41 @@
-2025/11/25-11:34:32.295 48a Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/25-11:34:32.295 48a Recovering log #27
-2025/11/25-11:34:32.300 48a Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000027.log 
-2025/11/25-11:34:40.643 488 Level-0 table #32: started
-2025/11/25-11:34:40.656 488 Level-0 table #32: 1287790 bytes OK
-2025/11/25-11:34:40.658 488 Delete type=0 #27
-2025/11/25-11:34:40.746 496 Compacting 1@1 + 1@2 files
-2025/11/25-11:34:40.754 496 Generated table #33@1: 4391 keys, 262810 bytes
-2025/11/25-11:34:40.754 496 Compacted 1@1 + 1@2 files => 262810 bytes
-2025/11/25-11:34:40.755 496 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/11/25-11:34:46.356 488 Level-0 table #35: started
-2025/11/25-11:34:46.372 488 Level-0 table #35: 944896 bytes OK
-2025/11/25-11:34:46.374 488 Delete type=2 #29
-2025/11/25-11:34:46.374 488 Delete type=0 #31
-2025/11/25-11:34:46.374 488 Delete type=2 #32
-2025/11/25-11:34:46.612 497 Compacting 1@1 + 1@2 files
-2025/11/25-11:34:46.637 497 Generated table #36@1: 11240 keys, 624625 bytes
-2025/11/25-11:34:46.637 497 Compacted 1@1 + 1@2 files => 624625 bytes
-2025/11/25-11:34:46.640 497 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/11/25-11:34:46.640 497 Delete type=2 #33
-2025/11/25-11:34:46.640 497 Delete type=2 #35
-2025/11/25-11:34:49.989 48a Level-0 table #38: started
-2025/11/25-11:34:50.006 48a Level-0 table #38: 1000584 bytes OK
-2025/11/25-11:34:50.008 48a Delete type=0 #34
-2025/11/25-11:34:50.087 48a Compacting 1@1 + 1@2 files
-2025/11/25-11:34:50.102 48a Generated table #39@1: 17906 keys, 965352 bytes
-2025/11/25-11:34:50.102 48a Compacted 1@1 + 1@2 files => 965352 bytes
-2025/11/25-11:34:50.104 48a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/28-19:04:24.835 52a Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/28-19:04:24.836 52a Recovering log #37
+2025/11/28-19:04:24.844 52a Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000037.log 
+2025/11/28-19:04:24.844 52a Delete type=2 #36
+2025/11/28-19:04:24.844 52a Delete type=2 #38
+2025/11/28-19:04:30.093 52a Level-0 table #42: started
+2025/11/28-19:04:30.108 52a Level-0 table #42: 1999634 bytes OK
+2025/11/28-19:04:30.110 52a Delete type=0 #37
+2025/11/28-19:04:30.129 540 Compacting 1@1 + 1@2 files
+2025/11/28-19:04:30.149 540 Generated table #43@1: 19298 keys, 1097332 bytes
+2025/11/28-19:04:30.149 540 Compacted 1@1 + 1@2 files => 1097332 bytes
+2025/11/28-19:04:30.150 540 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/28-19:04:36.026 53e Level-0 table #45: started
+2025/11/28-19:04:36.042 53e Level-0 table #45: 1040733 bytes OK
+2025/11/28-19:04:36.043 53e Delete type=2 #39
+2025/11/28-19:04:36.043 53e Delete type=0 #41
+2025/11/28-19:04:36.043 53e Delete type=2 #42
+2025/11/28-19:04:36.060 52c Compacting 1@1 + 1@2 files
+2025/11/28-19:04:36.086 52c Generated table #46@1: 26123 keys, 1422273 bytes
+2025/11/28-19:04:36.086 52c Compacted 1@1 + 1@2 files => 1422273 bytes
+2025/11/28-19:04:36.087 52c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/28-19:06:42.139 52c Level-0 table #48: started
+2025/11/28-19:06:42.165 52c Level-0 table #48: 1463330 bytes OK
+2025/11/28-19:06:42.170 52c Delete type=2 #43
+2025/11/28-19:06:42.170 52c Delete type=0 #44
+2025/11/28-19:06:42.170 52c Delete type=2 #45
+2025/11/28-19:06:43.934 52c Compacting 1@1 + 1@2 files
+2025/11/28-19:06:43.968 52c Generated table #49@1: 30931 keys, 1677858 bytes
+2025/11/28-19:06:43.968 52c Compacted 1@1 + 1@2 files => 1677858 bytes
+2025/11/28-19:06:43.971 52c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/28-19:06:43.971 52c Delete type=2 #46
+2025/11/28-19:06:43.971 52c Delete type=2 #48
+2025/11/28-19:13:17.052 52c Level-0 table #51: started
+2025/11/28-19:13:17.079 52c Level-0 table #51: 2565812 bytes OK
+2025/11/28-19:13:17.082 52c Delete type=0 #47
+2025/11/28-19:13:24.474 52a Compacting 1@1 + 1@2 files
+2025/11/28-19:13:24.513 52a Generated table #52@1: 30886 keys, 1598853 bytes
+2025/11/28-19:13:24.513 52a Compacted 1@1 + 1@2 files => 1598853 bytes
+2025/11/28-19:13:24.515 52a compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/28-19:13:24.516 52a Delete type=2 #49
+2025/11/28-19:13:24.516 52a Delete type=2 #51

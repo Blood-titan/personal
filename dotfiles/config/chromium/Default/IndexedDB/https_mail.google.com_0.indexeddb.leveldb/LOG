@@ -1,6 +1,12 @@
-2025/11/24-10:38:12.078 4e2 Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/24-10:38:12.078 4e2 Recovering log #3
-2025/11/24-10:38:12.082 4e2 Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
-2025/11/24-10:38:32.045 4e0 Level-0 table #5: started
-2025/11/24-10:38:32.076 4e0 Level-0 table #5: 3219140 bytes OK
-2025/11/24-10:38:32.078 4e0 Delete type=0 #3
+2025/11/27-21:47:50.737 263a Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/27-21:47:50.738 263a Recovering log #4
+2025/11/27-21:47:50.741 263a Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/11/27-21:48:03.791 2638 Level-0 table #8: started
+2025/11/27-21:48:03.818 2638 Level-0 table #8: 3216393 bytes OK
+2025/11/27-21:48:03.820 2638 Delete type=0 #4
+2025/11/27-21:48:05.610 2638 Compacting 1@1 + 1@2 files
+2025/11/27-21:48:05.629 2638 Generated table #9@1: 222 keys, 971196 bytes
+2025/11/27-21:48:05.629 2638 Compacted 1@1 + 1@2 files => 971196 bytes
+2025/11/27-21:48:05.632 2638 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/27-21:48:05.632 2638 Delete type=2 #5
+2025/11/27-21:48:05.632 2638 Delete type=2 #8

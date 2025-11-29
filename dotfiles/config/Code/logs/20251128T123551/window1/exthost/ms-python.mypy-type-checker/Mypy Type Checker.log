@@ -1,0 +1,83 @@
+2025-11-28 12:35:54.493 [info] Name: Mypy Type Checker
+2025-11-28 12:35:54.493 [info] Module: mypy
+2025-11-28 12:35:54.493 [info] Python extension loading
+2025-11-28 12:35:54.493 [info] Waiting for interpreter from Python extension.
+2025-11-28 12:35:55.724 [info] Python extension loaded
+2025-11-28 12:35:55.778 [info] Server run command: /home/peaches/anaconda3/bin/python /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py
+2025-11-28 12:35:55.779 [info] Server: Start requested.
+2025-11-28 12:35:56.135 [info] CWD Server: /home/peaches/learmmml
+2025-11-28 12:35:56.136 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/peaches/learmmml",
+        "workspace": "file:///home/peaches/learmmml",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/peaches/anaconda3/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false,
+        "daemonStatusFile": ""
+    }
+]
+
+2025-11-28 12:35:56.136 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/peaches",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false,
+    "daemonStatusFile": ""
+}
+
+2025-11-28 12:35:56.136 [info] sys.path used to run Server:
+   /home/peaches/learmmml
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool
+   /home/peaches/anaconda3/lib/python312.zip
+   /home/peaches/anaconda3/lib/python3.12
+   /home/peaches/anaconda3/lib/python3.12/lib-dynload
+   /home/peaches/anaconda3/lib/python3.12/site-packages
+2025-11-28 12:35:56.136 [info] /home/peaches/anaconda3/bin/python -m mypy --version
+2025-11-28 12:35:56.136 [info] CWD Server: /home/peaches/learmmml
+2025-11-28 12:35:56.286 [info] 
+mypy 1.15.0 (compiled: no)
+
+
+2025-11-28 12:35:56.287 [info] Version info for linter running for /home/peaches/learmmml:
+mypy 1.15.0 (compiled: no)
+
+2025-11-28 12:35:56.287 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.15.0
+
+2025-11-28 12:35:56.291 [info] /home/peaches/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py:165: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2025-11-28 12:35:56.292 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.292 [info] /home/peaches/anaconda3/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/peaches/learmmml/mai.py
+2025-11-28 12:35:56.292 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.292 [info] CWD Server: /home/peaches/learmmml
+2025-11-28 12:35:56.452 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.452 [info] file:///home/peaches/learmmml/mai.py :
+
+2025-11-28 12:35:56.453 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.

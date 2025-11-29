@@ -1,0 +1,202 @@
+2025-11-27 17:52:38.423 [info] Name: Pylint
+2025-11-27 17:52:38.423 [info] Module: pylint
+2025-11-27 17:52:38.423 [info] Python extension loading
+2025-11-27 17:52:38.423 [info] Waiting for interpreter from Python extension.
+2025-11-27 17:52:39.179 [info] No interpreter found from setting pylint.interpreter
+2025-11-27 17:52:39.179 [info] Getting interpreter from ms-python.python extension for workspace /home/peaches/learmmml
+2025-11-27 17:52:39.179 [info] Python extension loaded
+2025-11-27 17:52:39.184 [info] Interpreter from ms-python.python extension for /home/peaches/learmmml: /home/peaches/anaconda3/bin/python
+2025-11-27 17:52:39.185 [info] No interpreter found from setting pylint.interpreter
+2025-11-27 17:52:39.185 [info] Getting interpreter from ms-python.python extension for workspace /home/peaches/learmmml
+2025-11-27 17:52:39.192 [info] Interpreter from ms-python.python extension for /home/peaches/learmmml: /home/peaches/anaconda3/bin/python
+2025-11-27 17:52:39.225 [info] Server run command: /home/peaches/anaconda3/bin/python /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/tool/lsp_server.py
+2025-11-27 17:52:39.225 [info] Server: Start requested.
+2025-11-27 17:52:39.596 [info] CWD Server: /home/peaches/learmmml
+2025-11-27 17:52:39.597 [info] Settings used to run Server:
+[
+    {
+        "enabled": true,
+        "cwd": "/home/peaches/learmmml",
+        "workspace": "file:///home/peaches/learmmml",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/peaches/anaconda3/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2025-11-27 17:52:39.598 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "enabled": true,
+    "workspace": "/home/peaches",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2025-11-27 17:52:39.598 [info] sys.path used to run Server:
+   /home/peaches/learmmml
+   /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/tool
+   /home/peaches/anaconda3/lib/python312.zip
+   /home/peaches/anaconda3/lib/python3.12
+   /home/peaches/anaconda3/lib/python3.12/lib-dynload
+   /home/peaches/anaconda3/lib/python3.12/site-packages
+2025-11-27 17:52:39.599 [info] /home/peaches/anaconda3/bin/python -m pylint --version
+2025-11-27 17:52:39.599 [info] CWD Linter: /home/peaches/learmmml
+2025-11-27 17:52:39.733 [info] 
+pylint 3.3.4
+astroid 3.3.8
+Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:27:36) [GCC 11.2.0]
+
+
+2025-11-27 17:52:39.733 [info] Version info for linter running for /home/peaches/learmmml:
+pylint 3.3.4
+astroid 3.3.8
+Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:27:36) [GCC 11.2.0]
+
+2025-11-27 17:52:39.733 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==3.3.4
+
+2025-11-27 17:52:39.747 [info] [Trace - 5:52:39 PM] Received notification 'window/logMessage'.
+2025-11-27 17:52:39.747 [info] /home/peaches/anaconda3/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/peaches/learmmml/mai.py
+2025-11-27 17:52:39.748 [info] [Trace - 5:52:39 PM] Sending request 'textDocument/codeAction - (1)'.
+2025-11-27 17:52:39.748 [info] [Trace - 5:52:39 PM] Received notification 'window/logMessage'.
+2025-11-27 17:52:39.748 [info] CWD Linter: /home/peaches/learmmml
+2025-11-27 17:52:40.174 [info] [Trace - 5:52:40 PM] Sending notification '$/cancelRequest'.
+2025-11-27 17:52:40.174 [info] [Trace - 5:52:40 PM] Sending request 'textDocument/codeAction - (2)'.
+2025-11-27 17:52:42.653 [info] [Trace - 5:52:42 PM] Received notification 'window/logMessage'.
+2025-11-27 17:52:42.653 [info] file:///home/peaches/learmmml/mai.py :
+[
+    {
+        "type": "convention",
+        "module": "mai",
+        "obj": "",
+        "line": 7,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "mai.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "mai",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "mai.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    }
+]
+
+2025-11-27 17:52:42.654 [info] [Trace - 5:52:42 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-27 17:52:42.816 [info] [Trace - 5:52:42 PM] Received response 'textDocument/codeAction - (1)' in 3068ms.
+2025-11-27 17:52:42.817 [info] [Trace - 5:52:42 PM] Received response 'textDocument/codeAction - (2)' in 2643ms.
+2025-11-27 17:52:42.907 [info] [Trace - 5:52:42 PM] Sending request 'textDocument/codeAction - (3)'.
+2025-11-27 17:52:42.908 [info] [Trace - 5:52:42 PM] Received response 'textDocument/codeAction - (3)' in 1ms.
+2025-11-27 17:53:09.984 [info] /home/peaches/anaconda3/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/peaches/learmmml/mai.py
+2025-11-27 17:53:09.984 [info] CWD Linter: /home/peaches/learmmml
+2025-11-27 17:53:12.541 [info] file:///home/peaches/learmmml/mai.py :
+[
+    {
+        "type": "convention",
+        "module": "mai",
+        "obj": "",
+        "line": 8,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "mai.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "mai",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "mai.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    }
+]
+
+2025-11-27 17:53:51.495 [info] /home/peaches/anaconda3/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/peaches/learmmml/mai.py
+2025-11-27 17:53:51.495 [info] CWD Linter: /home/peaches/learmmml
+2025-11-27 17:53:54.654 [info] file:///home/peaches/learmmml/mai.py :
+[
+    {
+        "type": "convention",
+        "module": "mai",
+        "obj": "",
+        "line": 8,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "mai.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "mai",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "mai.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    }
+]
+
+2025-11-27 17:58:13.413 [info] [Warn  - 5:58:13 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W0sZmlsZQ%3D%3D
+2025-11-27 17:58:15.797 [info] [Warn  - 5:58:15 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W1sZmlsZQ%3D%3D
+2025-11-27 18:01:28.538 [info] [Warn  - 6:01:28 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W2sZmlsZQ%3D%3D
+2025-11-27 18:03:30.433 [info] [Warn  - 6:03:30 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W3sZmlsZQ%3D%3D
+2025-11-27 18:03:48.033 [info] [Warn  - 6:03:48 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W4sZmlsZQ%3D%3D
+2025-11-27 18:18:32.499 [info] [Warn  - 6:18:32 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W5sZmlsZQ%3D%3D
+2025-11-27 18:20:10.591 [info] [Warn  - 6:20:10 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W6sZmlsZQ%3D%3D
+2025-11-27 18:21:38.770 [info] [Warn  - 6:21:38 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X10sZmlsZQ%3D%3D
+2025-11-27 18:28:37.594 [info] [Warn  - 6:28:37 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X11sZmlsZQ%3D%3D

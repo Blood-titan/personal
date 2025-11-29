@@ -1,0 +1,73 @@
+2025-11-27 17:38:09.808 [info] (Client) Pylance client (2025.10.2) started with python extension (2025.18.0)
+2025-11-27 17:38:10.528 [info] (55231) Server root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist
+2025-11-27 17:38:10.528 [info] (55231) Pylance language server 2025.10.2 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-27 17:38:10.566 [info] (55231) Starting Mcp server id:5967 ...
+2025-11-27 17:38:39.708 [info] (Client) Pylance client (2025.10.2) started with python extension (2025.18.0)
+2025-11-27 17:38:40.503 [info] (62956) Server root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist
+2025-11-27 17:38:40.504 [info] (62956) Pylance language server 2025.10.2 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-27 17:38:40.507 [info] (62956) Starting service instance "learmmml" for workspace "/home/peaches/learmmml"
+2025-11-27 17:38:40.569 [info] (62956) Starting Mcp server id:5872 ...
+2025-11-27 17:38:40.594 [info] (62956) Setting environmentName for service "learmmml": "3.13.7 (global)"
+2025-11-27 17:38:40.594 [info] (62956) Setting pythonPath for service "learmmml": "/bin/python"
+2025-11-27 17:38:40.595 [info] (62956) No include entries specified; assuming /home/peaches/learmmml
+2025-11-27 17:38:40.595 [info] (62956) Auto-excluding **/node_modules
+2025-11-27 17:38:40.595 [info] (62956) Auto-excluding **/__pycache__
+2025-11-27 17:38:40.595 [info] (62956) Auto-excluding **/.*
+2025-11-27 17:38:40.612 [info] (62956) Assuming Python version 3.13.7.final.0
+2025-11-27 17:38:40.659 [info] (62956) Settings have not changed. Skipping update.
+2025-11-27 17:38:40.660 [info] (62956) No source files found.
+2025-11-27 17:38:41.059 [info] (62956) BG: Priority queue background worker(2) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist
+2025-11-27 17:38:41.059 [info] (62956) BG: Priority queue background worker(2) started
+2025-11-27 17:38:51.038 [info] (62956) BG: Indexer background runner(3) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist (index)
+2025-11-27 17:38:51.038 [info] (62956) BG: Indexing(3) started
+2025-11-27 17:38:51.203 [info] (62956) BG: scanned(3) 42 files over 1 exec env
+2025-11-27 17:38:51.509 [info] (62956) BG: indexed(3) 42 files over 1 exec env
+2025-11-27 17:38:51.515 [info] (62956) BG: Indexing finished(3).
+2025-11-27 17:38:58.051 [info] (62956) Found 1 source file
+2025-11-27 17:43:32.884 [info] (62956) Setting environmentName for service "learmmml": "3.12.7 (base conda)"
+2025-11-27 17:43:32.884 [info] (62956) Setting pythonPath for service "learmmml": "/home/peaches/anaconda3/bin/python"
+2025-11-27 17:43:32.884 [info] (62956) No include entries specified; assuming /home/peaches/learmmml
+2025-11-27 17:43:32.884 [info] (62956) Auto-excluding **/node_modules
+2025-11-27 17:43:32.884 [info] (62956) Auto-excluding **/__pycache__
+2025-11-27 17:43:32.884 [info] (62956) Auto-excluding **/.*
+2025-11-27 17:43:32.909 [info] (62956) Assuming Python version 3.12.7.final.0
+2025-11-27 17:43:33.244 [info] (62956) Found 1 source file
+2025-11-27 17:43:33.445 [info] (62956) BG: Indexer background runner(4) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist (index)
+2025-11-27 17:43:33.445 [info] (62956) BG: Indexing(4) started
+2025-11-27 17:43:33.816 [info] (62956) BG: scanned(4) 513 files over 1 exec env
+2025-11-27 17:43:36.298 [info] (62956) BG: [IDX(4)] Long operation: index execution environment file:///home/peaches/learmmml (2319ms)
+2025-11-27 17:43:36.324 [info] (62956) BG: [IDX(4)] Long operation: index packages file:///home/peaches/learmmml (2357ms)
+2025-11-27 17:43:36.324 [info] (62956) BG: indexed(4) 513 files over 1 exec env
+2025-11-27 17:43:36.393 [info] (62956) BG: Indexing finished(4).
+2025-11-27 17:44:28.288 [info] (62956) Starting service instance "<default>" for workspace ""
+2025-11-27 17:44:28.316 [info] (62956) Setting environmentName for service "<default>": "3.12.7 (base conda)"
+2025-11-27 17:44:28.316 [info] (62956) Setting pythonPath for service "<default>": "/home/peaches/anaconda3/bin/python"
+2025-11-27 17:44:28.317 [info] (62956) No include entries specified; assuming /<default workspace root>
+2025-11-27 17:44:28.317 [info] (62956) Auto-excluding **/node_modules
+2025-11-27 17:44:28.317 [info] (62956) Auto-excluding **/__pycache__
+2025-11-27 17:44:28.317 [info] (62956) Auto-excluding **/.*
+2025-11-27 17:44:28.338 [info] (62956) Assuming Python version 3.12.7.final.0
+2025-11-27 17:44:28.379 [error] (62956) File or directory "/<default workspace root>" does not exist.
+2025-11-27 17:44:28.379 [info] (62956) No source files found.
+2025-11-27 17:44:28.737 [info] (62956) BG: Priority queue background worker(6) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist
+2025-11-27 17:44:28.738 [info] (62956) BG: Priority queue background worker(6) started
+2025-11-27 17:49:55.039 [info] (62956) BG: Indexer background runner(7) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist (refresh)
+2025-11-27 17:49:55.039 [info] (62956) BG: Indexing(7) started
+2025-11-27 17:49:55.424 [info] (62956) BG: scanned(7) 513 files over 1 exec env
+2025-11-27 17:49:55.856 [info] (62956) BG: indexed(7) 513 files over 1 exec env
+2025-11-27 17:49:55.915 [info] (62956) BG: Indexing finished(7).
+2025-11-27 17:51:46.913 [info] (62956) BG: Indexer background runner(8) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist (refresh)
+2025-11-27 17:51:46.913 [info] (62956) BG: Indexing(8) started
+2025-11-27 17:51:47.291 [info] (62956) BG: scanned(8) 532 files over 1 exec env
+2025-11-27 17:51:47.725 [info] (62956) BG: indexed(8) 532 files over 1 exec env
+2025-11-27 17:51:47.798 [info] (62956) BG: Indexing finished(8).
+2025-11-27 17:51:54.291 [info] (62956) BG: Indexer background runner(9) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist (refresh)
+2025-11-27 17:51:54.291 [info] (62956) BG: Indexing(9) started
+2025-11-27 17:51:54.634 [info] (62956) BG: scanned(9) 532 files over 1 exec env
+2025-11-27 17:51:54.811 [info] (62956) BG: indexed(9) 532 files over 1 exec env
+2025-11-27 17:51:54.872 [info] (62956) BG: Indexing finished(9).
+2025-11-27 17:52:01.847 [info] (62956) BG: Indexer background runner(10) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist (refresh)
+2025-11-27 17:52:01.847 [info] (62956) BG: Indexing(10) started
+2025-11-27 17:52:02.194 [info] (62956) BG: scanned(10) 532 files over 1 exec env
+2025-11-27 17:52:02.357 [info] (62956) BG: indexed(10) 532 files over 1 exec env
+2025-11-27 17:52:02.425 [info] (62956) BG: Indexing finished(10).

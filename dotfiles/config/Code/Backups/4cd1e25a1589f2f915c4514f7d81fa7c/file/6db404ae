@@ -1,0 +1,14 @@
+file:///home/peaches/learmmml/mai.py {"mtime":1764246231479,"ctime":1764245337710,"size":147,"etag":"3f800akng4n","orphaned":false,"typeId":""}
+import numpy as np
+import matplotlib.pyplot as plt
+
+X = 2 * np.random.rand(100,1)
+y = 4+3 * X +np.random.randn(100,1)
+
+X_b = np.c_[np.ones((100,1)),X]
+theta_best = np.linalg.inv(X_b.T.dot(X_b)).dot(X_b.T).dot(y)
+
+
+
+plt.plot(X,y,".")
+plt.show()

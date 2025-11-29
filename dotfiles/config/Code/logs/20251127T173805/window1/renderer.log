@@ -1,0 +1,52 @@
+2025-11-27 17:38:06.538 [info] Started local extension host with pid 54882.
+2025-11-27 17:38:06.748 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-11-27 17:38:06.749 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-11-27 17:38:06.749 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-11-27 17:38:07.435 [info] MCP Registry configured: https://api.mcp.github.com
+2025-11-27 17:38:07.994 [error] [Extension Host] (node:54882) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-11-27 17:38:08.853 [info] Settings Sync: Account status changed from uninitialized to available
+2025-11-27 17:38:09.109 [info] [perf] Render performance baseline is 13ms
+2025-11-27 17:38:09.809 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at Q6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64382)
+    at new cd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67762)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69200)
+    at cd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68977)
+    at d2.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:106862)
+    at Wf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Wf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at ta.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106419)
+    at Session.emit (node:events:519:28)
+2025-11-27 17:38:10.459 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-11-27 17:38:32.653 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-27 17:38:32.718 [info] Started local extension host with pid 62447.
+2025-11-27 17:38:33.303 [info] MCP Registry configured: https://api.mcp.github.com
+2025-11-27 17:38:33.774 [info] Settings Sync: Account status changed from uninitialized to available
+2025-11-27 17:38:35.344 [info] [perf] Render performance baseline is 13ms
+2025-11-27 17:38:37.550 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-11-27 17:38:37.550 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-11-27 17:38:37.550 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-11-27 17:38:38.347 [error] [Extension Host] (node:62447) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-11-27 17:38:39.108 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-27 17:38:40.076 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-11-27 17:38:40.719 [error] Activating extension 'redhat.java' failed: Please download and install a JDK to compile your project. You can configure your projects with different JDKs by the setting ['java.configuration.runtimes'](https://github.com/redhat-developer/vscode-java/wiki/JDK-Requirements#java.configuration.runtimes).
+2025-11-27 17:38:45.651 [error] Activating extension 'redhat.java' failed: Please download and install a JDK to compile your project. You can configure your projects with different JDKs by the setting ['java.configuration.runtimes'](https://github.com/redhat-developer/vscode-java/wiki/JDK-Requirements#java.configuration.runtimes).
+2025-11-27 17:45:31.430 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-27 17:50:56.277 [error] [Extension Host] FetchError: Unleash Repository error: Response timeout while trying to fetch https://unleash.codeium.com/api/client/features (over 2000ms)
+	at Timeout.<anonymous> (/home/peaches/.vscode/extensions/codeium.codeium-1.48.2/dist/extension.js:2:4618823)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)

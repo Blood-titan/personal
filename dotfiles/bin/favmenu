@@ -1,0 +1,57 @@
+#!/usr/bin/env bash
+
+apps="$(cat <<EOF
+  Firefox
+  Terminal
+  Files
+  VSCode
+  Theme Toggle
+  Power Profile
+  GPU Monitor (nvtop)
+  System Monitor (btop)
+  Lock
+󰍃  Logout
+  Reboot
+  Poweroff
+EOF
+)"
+
+choice=$(echo "$apps" | wofi --dmenu -p "Favorites")
+
+case "$choice" in
+  *Firefox*)
+    firefox & ;;
+  *Terminal*)
+    alacritty & ;;
+  *Files*)
+    nemo & ;;
+  *VSCode*)
+    code & ;;
+  *Theme\ Toggle*)
+    # your dark/light script
+    ~/.local/bin/toggle-theme.sh & ;;
+  *Power\ Profile*)
+    # your power profiles / GPU-aware script
+    ~/.local/bin/power-profile-menu.sh & ;;
+  *GPU\ Monitor*)
+    alacritty -e nvtop & ;;
+  *System\ Monitor*)
+    alacritty -e btop & ;;
+  *Lock*)
+    # pick your locker; example with swaylock-effects:
+    # swaylock-effects -S -f -e -k -l -u
+    ~/.local/bin/lock.sh & ;;
+  *Logout*)
+    confirm=$(printf "No\nYes" | wofi --dmenu -p "Logout Hyprland?")
+    [ "$confirm" = "Yes" ] && hyprctl dispatch exit
+    ;;
+  *Reboot*)
+    confirm=$(printf "No\nYes" | wofi --dmenu -p "Reboot?")
+    [ "$confirm" = "Yes" ] && systemctl reboot
+    ;;
+  *Poweroff*)
+    confirm=$(printf "No\nYes" | wofi --dmenu -p "Poweroff?")
+    [ "$confirm" = "Yes" ] && systemctl poweroff
+    ;;
+esac
+

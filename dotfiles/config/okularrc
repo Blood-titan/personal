@@ -1,0 +1,13 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Recent Files]
+File1[$e]=$HOME/resume/resume.pdf
+Name1[$e]=resume.pdf
+
+[UiSettings]
+ColorScheme=BreezeDark

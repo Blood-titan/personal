@@ -1,7 +1,7 @@
-2025/11/26-21:07:20.459 3839 Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/26-21:07:20.460 3839 Recovering log #23
-2025/11/26-21:07:20.460 3839 Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000023.log 
-2025/11/26-21:07:20.969 3827 Compacting 1@1 + 1@2 files
-2025/11/26-21:07:20.972 3827 Generated table #26@1: 622 keys, 92704 bytes
-2025/11/26-21:07:20.973 3827 Compacted 1@1 + 1@2 files => 92704 bytes
-2025/11/26-21:07:20.974 3827 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/28-20:35:50.317 37eb Reusing MANIFEST /home/peaches/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/28-20:35:50.317 37eb Recovering log #33
+2025/11/28-20:35:50.318 37eb Reusing old log /home/peaches/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000033.log 
+2025/11/28-20:35:50.334 37ff Compacting 1@1 + 1@2 files
+2025/11/28-20:35:50.337 37ff Generated table #36@1: 736 keys, 92748 bytes
+2025/11/28-20:35:50.337 37ff Compacted 1@1 + 1@2 files => 92748 bytes
+2025/11/28-20:35:50.338 37ff compacted to: files[ 0 0 1 0 0 0 0 ]

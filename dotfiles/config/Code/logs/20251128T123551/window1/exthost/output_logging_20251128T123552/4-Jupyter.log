@@ -1,0 +1,433 @@
+Visual Studio Code (1.106.3, undefined, desktop)
+Jupyter Extension Version: 2025.9.1.
+Python Extension Version: 2025.18.0.
+Python Environment Extension Version: 1.12.0.
+Pylance Extension Version: 2025.10.2.
+Platform: linux (x64).
+Home = /home/peaches
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2025.9.1
+Workspace folder ~/learmmml
+12:36:28.375 [info] Starting Kernel (Python 3 (ipykernel)) for '~/learmmml/llinr.ipynb' (disableUI=false)
+12:36:32.480 [info] https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/: Kernel started: 0cad9eeb-5bd2-4842-b3ab-5c78c9cd1d09
+12:36:32.866 [error] Error in websocket [Error: Server sent no subprotocol
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:28335)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at TLSSocket.socketOnData (node:_http_client:598:11)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+12:36:40.986 [info] Started session for kernel startUsingRemoteKernelSpec:327e8fd5f5d8bfdb5c483de678a07f86d9a04a5a67003ab147959f1a5958eb4e..python3./usr/bin/python3./.-m#colab_kernel_launcher
+12:36:41.589 [info] Kernel successfully started
+12:36:41.993 [error] Widget Error: Failed to access CDN https://unpkg.com/ after 0 attempt(s), TypeError: Failed to fetch
+12:36:42.967 [error] Failed to download widget script source from (httpclient) https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/jupyterlab-plotly/extension.js [Error: Error downloading from https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/jupyterlab-plotly/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+12:36:43.523 [error] Failed to download widget script source from (httpclient) https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/bqplot/extension.js [Error: Error downloading from https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/bqplot/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+12:36:43.524 [error] Failed to download widget script source from (httpclient) https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/ipytree/extension.js [Error: Error downloading from https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/ipytree/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+12:36:43.525 [error] Failed to download widget script source from (httpclient) https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/jupyter-js-widgets/extension.js [Error: Error downloading from https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/jupyter-js-widgets/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+12:36:43.538 [error] Failed to download widget script source from (httpclient) https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/anywidget/extension.js [Error: Error downloading from https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/anywidget/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+12:36:43.645 [error] Failed to download widget script source from (httpclient) https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/jupyter-leaflet/extension.js [Error: Error downloading from https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/nbextensions/jupyter-leaflet/extension.js: Not Found
+	at b0.getWidgetScriptSourceUsingHttpClient (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:309:112135)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+12:36:49.857 [warn] Cell completed with errors [Iu [Error]: invalid syntax. Perhaps you forgot a comma? (ipython-input-820806554.py, line 6)
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'SyntaxError',
+  evalue: 'invalid syntax. Perhaps you forgot a comma? (ipython-input-820806554.py, line 6)',
+  traceback: [
+    '\x1B[0;36m  File \x1B[0;32m"/tmp/ipython-input-820806554.py"\x1B[0;36m, line \x1B[0;32m6\x1B[0m\n' +
+      '\x1B[0;31m    y=(iris[])\x1B[0m\n' +
+      '\x1B[0m       ^\x1B[0m\n' +
+      '\x1B[0;31mSyntaxError\x1B[0m\x1B[0;31m:\x1B[0m invalid syntax. Perhaps you forgot a comma?\n'
+  ]
+}
+12:37:19.242 [info] Too many pending requests 1 for kernel 87d732a0-253c-4822-84c0-95f5e88a85f4, waiting for it to be ready.
+12:37:19.510 [info] Too many pending requests 1 for kernel 87d732a0-253c-4822-84c0-95f5e88a85f4, waiting for it to be ready.
+12:37:35.298 [warn] Cell completed with errors [Iu [Error]: 'traget'
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'KeyError',
+  evalue: "'traget'",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mKeyError\x1B[0m                                  Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipython-input-1983062343.py\x1B[0m in \x1B[0;36m<cell line: 0>\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[1;32m      4\x1B[0m \x1B[0miris\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mdatasets\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mload_iris\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      5\x1B[0m \x1B[0mX\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0miris\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m"data"\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;36m3\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m----> 6\x1B[0;31m \x1B[0my\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0miris\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m"traget"\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m==\x1B[0m\x1B[0;36m2\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/sklearn/utils/_bunch.py\x1B[0m in \x1B[0;36m__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m     40\x1B[0m                 \x1B[0mFutureWarning\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m     41\x1B[0m             )\n' +
+      '\x1B[0;32m---> 42\x1B[0;31m         \x1B[0;32mreturn\x1B[0m \x1B[0msuper\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m__getitem__\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m     43\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m     44\x1B[0m     \x1B[0;32mdef\x1B[0m \x1B[0m_set_deprecated\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mvalue\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m*\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mnew_key\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mdeprecated_key\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mwarning_message\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    "\x1B[0;31mKeyError\x1B[0m: 'traget'"
+  ]
+}
+12:39:10.077 [warn] Cell completed with errors [Iu [Error]: invalid syntax (ipython-input-4193316952.py, line 1)
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'SyntaxError',
+  evalue: 'invalid syntax (ipython-input-4193316952.py, line 1)',
+  traceback: [
+    '\x1B[0;36m  File \x1B[0;32m"/tmp/ipython-input-4193316952.py"\x1B[0;36m, line \x1B[0;32m1\x1B[0m\n' +
+      '\x1B[0;31m    form sklearn.linear_model import LogisticRegression\x1B[0m\n' +
+      '\x1B[0m         ^\x1B[0m\n' +
+      '\x1B[0;31mSyntaxError\x1B[0m\x1B[0;31m:\x1B[0m invalid syntax\n'
+  ]
+}
+12:41:11.415 [warn] Cell completed with errors [Iu [Error]: X has 1 features, but LogisticRegression is expecting 3 features as input.
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'ValueError',
+  evalue: 'X has 1 features, but LogisticRegression is expecting 3 features as input.',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mValueError\x1B[0m                                Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipython-input-1456691238.py\x1B[0m in \x1B[0;36m<cell line: 0>\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[0mX_new\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mnp\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mlinspace\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;36m3\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;36m1000\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mreshape\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m-\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m----> 2\x1B[0;31m \x1B[0my_proba\x1B[0m \x1B[0;34m=\x1B[0m\x1B[0mlog_reg\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mpredict_proba\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_new\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/sklearn/linear_model/_logistic.py\x1B[0m in \x1B[0;36mpredict_proba\x1B[0;34m(self, X)\x1B[0m\n' +
+      '\x1B[1;32m   1426\x1B[0m         )\n' +
+      '\x1B[1;32m   1427\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0movr\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 1428\x1B[0;31m             \x1B[0;32mreturn\x1B[0m \x1B[0msuper\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_predict_proba_lr\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m   1429\x1B[0m         \x1B[0;32melse\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1430\x1B[0m             \x1B[0mdecision\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mdecision_function\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/sklearn/linear_model/_base.py\x1B[0m in \x1B[0;36m_predict_proba_lr\x1B[0;34m(self, X)\x1B[0m\n' +
+      '\x1B[1;32m    387\x1B[0m         \x1B[0mmulticlass\x1B[0m \x1B[0;32mis\x1B[0m \x1B[0mhandled\x1B[0m \x1B[0mby\x1B[0m \x1B[0mnormalizing\x1B[0m \x1B[0mthat\x1B[0m \x1B[0mover\x1B[0m \x1B[0mall\x1B[0m \x1B[0mclasses\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    388\x1B[0m         """\n' +
+      '\x1B[0;32m--> 389\x1B[0;31m         \x1B[0mprob\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mdecision_function\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m    390\x1B[0m         \x1B[0mexpit\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mprob\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mout\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mprob\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    391\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0mprob\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mndim\x1B[0m \x1B[0;34m==\x1B[0m \x1B[0;36m1\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/sklearn/linear_model/_base.py\x1B[0m in \x1B[0;36mdecision_function\x1B[0;34m(self, X)\x1B[0m\n' +
+      '\x1B[1;32m    349\x1B[0m         \x1B[0mxp\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0m_\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mget_namespace\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    350\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 351\x1B[0;31m         \x1B[0mX\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mvalidate_data\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mX\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0maccept_sparse\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;34m"csr"\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mreset\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mFalse\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m    352\x1B[0m         \x1B[0mscores\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0msafe_sparse_dot\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mcoef_\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mT\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mdense_output\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mTrue\x1B[0m\x1B[0;34m)\x1B[0m \x1B[0;34m+\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mintercept_\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    353\x1B[0m         return (\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py\x1B[0m in \x1B[0;36mvalidate_data\x1B[0;34m(_estimator, X, y, reset, validate_separately, skip_check_array, **check_params)\x1B[0m\n' +
+      '\x1B[1;32m   2963\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   2964\x1B[0m     \x1B[0;32mif\x1B[0m \x1B[0;32mnot\x1B[0m \x1B[0mno_val_X\x1B[0m \x1B[0;32mand\x1B[0m \x1B[0mcheck_params\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mget\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0;34m"ensure_2d"\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;32mTrue\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 2965\x1B[0;31m         \x1B[0m_check_n_features\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0m_estimator\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mX\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mreset\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mreset\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m   2966\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   2967\x1B[0m     \x1B[0;32mreturn\x1B[0m \x1B[0mout\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py\x1B[0m in \x1B[0;36m_check_n_features\x1B[0;34m(estimator, X, reset)\x1B[0m\n' +
+      '\x1B[1;32m   2827\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   2828\x1B[0m     \x1B[0;32mif\x1B[0m \x1B[0mn_features\x1B[0m \x1B[0;34m!=\x1B[0m \x1B[0mestimator\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mn_features_in_\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 2829\x1B[0;31m         raise ValueError(\n' +
+      '\x1B[0m\x1B[1;32m   2830\x1B[0m             \x1B[0;34mf"X has {n_features} features, but {estimator.__class__.__name__} "\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   2831\x1B[0m             \x1B[0;34mf"is expecting {estimator.n_features_in_} features as input."\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;31mValueError\x1B[0m: X has 1 features, but LogisticRegression is expecting 3 features as input.'
+  ]
+}
+12:43:39.278 [warn] Cell completed with errors [Iu [Error]: Line2D.set() got an unexpected keyword argument 'lable'
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'AttributeError',
+  evalue: "Line2D.set() got an unexpected keyword argument 'lable'",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mAttributeError\x1B[0m                            Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipython-input-1021881430.py\x1B[0m in \x1B[0;36m<cell line: 0>\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0;31m \x1B[0mplt\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mplot\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_new\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0my_proba\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m"g--"\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0mlable\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;34m"irirsdhf"\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m      2\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m      3\x1B[0m \x1B[0mplt\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mplot\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_new\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0my_proba\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m"b-"\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0mlable\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;34m"not irirsdhf"\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/pyplot.py\x1B[0m in \x1B[0;36mplot\x1B[0;34m(scalex, scaley, data, *args, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m   3827\x1B[0m     \x1B[0;34m**\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3828\x1B[0m ) -> list[Line2D]:\n' +
+      '\x1B[0;32m-> 3829\x1B[0;31m     return gca().plot(\n' +
+      '\x1B[0m\x1B[1;32m   3830\x1B[0m         \x1B[0;34m*\x1B[0m\x1B[0margs\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3831\x1B[0m         \x1B[0mscalex\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mscalex\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_axes.py\x1B[0m in \x1B[0;36mplot\x1B[0;34m(self, scalex, scaley, data, *args, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m   1775\x1B[0m         """\n' +
+      '\x1B[1;32m   1776\x1B[0m         \x1B[0mkwargs\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mcbook\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mnormalize_kwargs\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mmlines\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mLine2D\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 1777\x1B[0;31m         \x1B[0mlines\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0;34m[\x1B[0m\x1B[0;34m*\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_get_lines\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m*\x1B[0m\x1B[0margs\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mdata\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mdata\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m**\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m   1778\x1B[0m         \x1B[0;32mfor\x1B[0m \x1B[0mline\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mlines\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1779\x1B[0m             \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0madd_line\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mline\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_base.py\x1B[0m in \x1B[0;36m__call__\x1B[0;34m(self, axes, data, return_kwargs, *args, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m    295\x1B[0m                 \x1B[0mthis\x1B[0m \x1B[0;34m+=\x1B[0m \x1B[0margs\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    296\x1B[0m                 \x1B[0margs\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0margs\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 297\x1B[0;31m             yield from self._plot_args(\n' +
+      '\x1B[0m\x1B[1;32m    298\x1B[0m                 \x1B[0maxes\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mthis\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mkwargs\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mambiguous_fmt_datakey\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mambiguous_fmt_datakey\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    299\x1B[0m                 \x1B[0mreturn_kwargs\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mreturn_kwargs\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_base.py\x1B[0m in \x1B[0;36m_plot_args\x1B[0;34m(self, axes, tup, kwargs, return_kwargs, ambiguous_fmt_datakey)\x1B[0m\n' +
+      '\x1B[1;32m    544\x1B[0m             \x1B[0;32mreturn\x1B[0m \x1B[0mlist\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mresult\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    545\x1B[0m         \x1B[0;32melse\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 546\x1B[0;31m             \x1B[0;32mreturn\x1B[0m \x1B[0;34m[\x1B[0m\x1B[0ml\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m \x1B[0;32mfor\x1B[0m \x1B[0ml\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mresult\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m    547\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    548\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_base.py\x1B[0m in \x1B[0;36m<genexpr>\x1B[0;34m(.0)\x1B[0m\n' +
+      '\x1B[1;32m    537\x1B[0m                 f"data, but found {len(label)} for {n_datasets} datasets.")\n' +
+      '\x1B[1;32m    538\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 539\x1B[0;31m         result = (make_artist(axes, x[:, j % ncx], y[:, j % ncy], kw,\n' +
+      "\x1B[0m\x1B[1;32m    540\x1B[0m                               {**kwargs, 'label': label})\n" +
+      '\x1B[1;32m    541\x1B[0m                   for j, label in enumerate(labels))\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_base.py\x1B[0m in \x1B[0;36m_make_line\x1B[0;34m(self, axes, x, y, kw, kwargs)\x1B[0m\n' +
+      "\x1B[1;32m    336\x1B[0m         \x1B[0mkw\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0;34m{\x1B[0m\x1B[0;34m**\x1B[0m\x1B[0mkw\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m**\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m}\x1B[0m  \x1B[0;31m# Don't modify the original kw.\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n" +
+      '\x1B[1;32m    337\x1B[0m         \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_setdefaults\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_getdefaults\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkw\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mkw\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 338\x1B[0;31m         \x1B[0mseg\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mmlines\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mLine2D\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mx\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0my\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m**\x1B[0m\x1B[0mkw\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m    339\x1B[0m         \x1B[0;32mreturn\x1B[0m \x1B[0mseg\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mkw\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    340\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/lines.py\x1B[0m in \x1B[0;36m__init__\x1B[0;34m(self, xdata, ydata, linewidth, linestyle, color, gapcolor, marker, markersize, markeredgewidth, markeredgecolor, markerfacecolor, markerfacecoloralt, fillstyle, antialiased, dash_capstyle, solid_capstyle, dash_joinstyle, solid_joinstyle, pickradius, drawstyle, markevery, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m    405\x1B[0m         \x1B[0;31m# update kwargs before updating data to give the caller a\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    406\x1B[0m         \x1B[0;31m# chance to init axes (and hence unit support)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 407\x1B[0;31m         \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_internal_update\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m    408\x1B[0m         \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mpickradius\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mpickradius\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    409\x1B[0m         \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mind_offset\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0;36m0\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/artist.py\x1B[0m in \x1B[0;36m_internal_update\x1B[0;34m(self, kwargs)\x1B[0m\n' +
+      '\x1B[1;32m   1231\x1B[0m         \x1B[0mThe\x1B[0m \x1B[0mlack\x1B[0m \x1B[0mof\x1B[0m \x1B[0mprenormalization\x1B[0m \x1B[0;32mis\x1B[0m \x1B[0mto\x1B[0m \x1B[0mmaintain\x1B[0m \x1B[0mbackcompatibility\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1232\x1B[0m         """\n' +
+      '\x1B[0;32m-> 1233\x1B[0;31m         return self._update_props(\n' +
+      '\x1B[0m\x1B[1;32m   1234\x1B[0m             \x1B[0mkwargs\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m"{cls.__name__}.set() got an unexpected keyword argument "\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1235\x1B[0m             "{prop_name!r}")\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/artist.py\x1B[0m in \x1B[0;36m_update_props\x1B[0;34m(self, props, errfmt)\x1B[0m\n' +
+      '\x1B[1;32m   1204\x1B[0m                     \x1B[0mfunc\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mgetattr\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34mf"set_{k}"\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;32mNone\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1205\x1B[0m                     \x1B[0;32mif\x1B[0m \x1B[0;32mnot\x1B[0m \x1B[0mcallable\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mfunc\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 1206\x1B[0;31m                         raise AttributeError(\n' +
+      '\x1B[0m\x1B[1;32m   1207\x1B[0m                             \x1B[0merrfmt\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mformat\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mcls\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mtype\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mprop_name\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mk\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1208\x1B[0m                             name=k)\n',
+    "\x1B[0;31mAttributeError\x1B[0m: Line2D.set() got an unexpected keyword argument 'lable'"
+  ]
+}
+12:44:12.358 [warn] Cell completed with errors [Iu [Error]: Line2D.set() got an unexpected keyword argument 'lable'
+	at n.execute (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:302:4958)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)] {
+  ename: 'AttributeError',
+  evalue: "Line2D.set() got an unexpected keyword argument 'lable'",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mAttributeError\x1B[0m                            Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipython-input-4132921017.py\x1B[0m in \x1B[0;36m<cell line: 0>\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[0;32m----> 1\x1B[0;31m \x1B[0mplt\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mplot\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_new\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0my_proba\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m"g--"\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0mlable\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;34m"irirsdhf"\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m      2\x1B[0m \x1B[0mplt\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mplot\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mX_new\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0my_proba\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m"b-"\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0mlable\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;34m"not irirsdhf"\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/pyplot.py\x1B[0m in \x1B[0;36mplot\x1B[0;34m(scalex, scaley, data, *args, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m   3827\x1B[0m     \x1B[0;34m**\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3828\x1B[0m ) -> list[Line2D]:\n' +
+      '\x1B[0;32m-> 3829\x1B[0;31m     return gca().plot(\n' +
+      '\x1B[0m\x1B[1;32m   3830\x1B[0m         \x1B[0;34m*\x1B[0m\x1B[0margs\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3831\x1B[0m         \x1B[0mscalex\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mscalex\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_axes.py\x1B[0m in \x1B[0;36mplot\x1B[0;34m(self, scalex, scaley, data, *args, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m   1775\x1B[0m         """\n' +
+      '\x1B[1;32m   1776\x1B[0m         \x1B[0mkwargs\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mcbook\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mnormalize_kwargs\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mmlines\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mLine2D\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 1777\x1B[0;31m         \x1B[0mlines\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0;34m[\x1B[0m\x1B[0;34m*\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_get_lines\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m*\x1B[0m\x1B[0margs\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mdata\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mdata\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m**\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m   1778\x1B[0m         \x1B[0;32mfor\x1B[0m \x1B[0mline\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mlines\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1779\x1B[0m             \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0madd_line\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mline\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_base.py\x1B[0m in \x1B[0;36m__call__\x1B[0;34m(self, axes, data, return_kwargs, *args, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m    295\x1B[0m                 \x1B[0mthis\x1B[0m \x1B[0;34m+=\x1B[0m \x1B[0margs\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    296\x1B[0m                 \x1B[0margs\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0margs\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m1\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 297\x1B[0;31m             yield from self._plot_args(\n' +
+      '\x1B[0m\x1B[1;32m    298\x1B[0m                 \x1B[0maxes\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mthis\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mkwargs\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mambiguous_fmt_datakey\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mambiguous_fmt_datakey\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    299\x1B[0m                 \x1B[0mreturn_kwargs\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mreturn_kwargs\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_base.py\x1B[0m in \x1B[0;36m_plot_args\x1B[0;34m(self, axes, tup, kwargs, return_kwargs, ambiguous_fmt_datakey)\x1B[0m\n' +
+      '\x1B[1;32m    544\x1B[0m             \x1B[0;32mreturn\x1B[0m \x1B[0mlist\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mresult\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    545\x1B[0m         \x1B[0;32melse\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 546\x1B[0;31m             \x1B[0;32mreturn\x1B[0m \x1B[0;34m[\x1B[0m\x1B[0ml\x1B[0m\x1B[0;34m[\x1B[0m\x1B[0;36m0\x1B[0m\x1B[0;34m]\x1B[0m \x1B[0;32mfor\x1B[0m \x1B[0ml\x1B[0m \x1B[0;32min\x1B[0m \x1B[0mresult\x1B[0m\x1B[0;34m]\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m    547\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    548\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_base.py\x1B[0m in \x1B[0;36m<genexpr>\x1B[0;34m(.0)\x1B[0m\n' +
+      '\x1B[1;32m    537\x1B[0m                 f"data, but found {len(label)} for {n_datasets} datasets.")\n' +
+      '\x1B[1;32m    538\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 539\x1B[0;31m         result = (make_artist(axes, x[:, j % ncx], y[:, j % ncy], kw,\n' +
+      "\x1B[0m\x1B[1;32m    540\x1B[0m                               {**kwargs, 'label': label})\n" +
+      '\x1B[1;32m    541\x1B[0m                   for j, label in enumerate(labels))\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/axes/_base.py\x1B[0m in \x1B[0;36m_make_line\x1B[0;34m(self, axes, x, y, kw, kwargs)\x1B[0m\n' +
+      "\x1B[1;32m    336\x1B[0m         \x1B[0mkw\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0;34m{\x1B[0m\x1B[0;34m**\x1B[0m\x1B[0mkw\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m**\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m}\x1B[0m  \x1B[0;31m# Don't modify the original kw.\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n" +
+      '\x1B[1;32m    337\x1B[0m         \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_setdefaults\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_getdefaults\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkw\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mkw\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 338\x1B[0;31m         \x1B[0mseg\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mmlines\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mLine2D\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mx\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0my\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m**\x1B[0m\x1B[0mkw\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m    339\x1B[0m         \x1B[0;32mreturn\x1B[0m \x1B[0mseg\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mkw\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    340\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/lines.py\x1B[0m in \x1B[0;36m__init__\x1B[0;34m(self, xdata, ydata, linewidth, linestyle, color, gapcolor, marker, markersize, markeredgewidth, markeredgecolor, markerfacecolor, markerfacecoloralt, fillstyle, antialiased, dash_capstyle, solid_capstyle, dash_joinstyle, solid_joinstyle, pickradius, drawstyle, markevery, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m    405\x1B[0m         \x1B[0;31m# update kwargs before updating data to give the caller a\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    406\x1B[0m         \x1B[0;31m# chance to init axes (and hence unit support)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m--> 407\x1B[0;31m         \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_internal_update\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkwargs\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m    408\x1B[0m         \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mpickradius\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mpickradius\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m    409\x1B[0m         \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mind_offset\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0;36m0\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/artist.py\x1B[0m in \x1B[0;36m_internal_update\x1B[0;34m(self, kwargs)\x1B[0m\n' +
+      '\x1B[1;32m   1231\x1B[0m         \x1B[0mThe\x1B[0m \x1B[0mlack\x1B[0m \x1B[0mof\x1B[0m \x1B[0mprenormalization\x1B[0m \x1B[0;32mis\x1B[0m \x1B[0mto\x1B[0m \x1B[0mmaintain\x1B[0m \x1B[0mbackcompatibility\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1232\x1B[0m         """\n' +
+      '\x1B[0;32m-> 1233\x1B[0;31m         return self._update_props(\n' +
+      '\x1B[0m\x1B[1;32m   1234\x1B[0m             \x1B[0mkwargs\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34m"{cls.__name__}.set() got an unexpected keyword argument "\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1235\x1B[0m             "{prop_name!r}")\n',
+    '\x1B[0;32m/usr/local/lib/python3.12/dist-packages/matplotlib/artist.py\x1B[0m in \x1B[0;36m_update_props\x1B[0;34m(self, props, errfmt)\x1B[0m\n' +
+      '\x1B[1;32m   1204\x1B[0m                     \x1B[0mfunc\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mgetattr\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;34mf"set_{k}"\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0;32mNone\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1205\x1B[0m                     \x1B[0;32mif\x1B[0m \x1B[0;32mnot\x1B[0m \x1B[0mcallable\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mfunc\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 1206\x1B[0;31m                         raise AttributeError(\n' +
+      '\x1B[0m\x1B[1;32m   1207\x1B[0m                             \x1B[0merrfmt\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mformat\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mcls\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mtype\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mprop_name\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0mk\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   1208\x1B[0m                             name=k)\n',
+    "\x1B[0;31mAttributeError\x1B[0m: Line2D.set() got an unexpected keyword argument 'lable'"
+  ]
+}
+13:46:45.819 [error] Error in websocket: (404) Not Found, undefined, Headers = {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-length":"0","date":"Fri, 28 Nov 2025 08:16:45 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","via":"1.1 google","sec-websocket-accept":"AX30dlca8JsPg5zoWW1/kINeYtU=","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","connection":"close"}
+13:46:45.820 [error] Error in websocket [Error: Unexpected server response: 404
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:27794)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:716:27)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:121:17)
+	at TLSSocket.socketOnData (node:_http_client:558:22)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+13:46:48.643 [error] Error in websocket: (404) Not Found, undefined, Headers = {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-length":"0","date":"Fri, 28 Nov 2025 08:16:48 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","via":"1.1 google","sec-websocket-accept":"ecjk+qzjQQhSbhoTHdVP9T5erP8=","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","connection":"close"}
+13:46:48.643 [error] Error in websocket [Error: Unexpected server response: 404
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:27794)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:716:27)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:121:17)
+	at TLSSocket.socketOnData (node:_http_client:558:22)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+13:46:50.459 [error] Error in websocket: (404) Not Found, undefined, Headers = {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-length":"0","date":"Fri, 28 Nov 2025 08:16:50 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","via":"1.1 google","sec-websocket-accept":"R8QJIfUStog4sSz8wPPUzgJR+T0=","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","connection":"close"}
+13:46:50.459 [error] Error in websocket [Error: Unexpected server response: 404
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:27794)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:716:27)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:121:17)
+	at TLSSocket.socketOnData (node:_http_client:558:22)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+13:46:56.541 [error] Error in websocket: (404) Not Found, undefined, Headers = {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-length":"0","date":"Fri, 28 Nov 2025 08:16:56 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","via":"1.1 google","sec-websocket-accept":"vSv1/xwI70OHyHjkE3/gpjlj+eM=","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","connection":"close"}
+13:46:56.541 [error] Error in websocket [Error: Unexpected server response: 404
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:27794)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:716:27)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:121:17)
+	at TLSSocket.socketOnData (node:_http_client:558:22)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+13:47:02.547 [error] Error in websocket: (404) Not Found, undefined, Headers = {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-length":"0","date":"Fri, 28 Nov 2025 08:17:02 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","via":"1.1 google","sec-websocket-accept":"eJ3ebbCASBT4MuFgQ/4uDpTloUM=","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","connection":"close"}
+13:47:02.547 [error] Error in websocket [Error: Unexpected server response: 404
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:27794)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:716:27)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:121:17)
+	at TLSSocket.socketOnData (node:_http_client:558:22)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+13:47:18.347 [error] Error in websocket: (404) Not Found, undefined, Headers = {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-length":"0","date":"Fri, 28 Nov 2025 08:17:13 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","via":"1.1 google","sec-websocket-accept":"2ErdDzOctcaetnaKC8o0yXlDYcg=","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","connection":"close"}
+13:47:18.347 [error] Error in websocket [Error: Unexpected server response: 404
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:27794)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:716:27)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:121:17)
+	at TLSSocket.socketOnData (node:_http_client:558:22)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+13:48:15.933 [error] Error in websocket: (404) Not Found, undefined, Headers = {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-length":"0","date":"Fri, 28 Nov 2025 08:18:15 GMT","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","via":"1.1 google","sec-websocket-accept":"ghMvuEhEOTOMrIS5y0AACXsMbNM=","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","connection":"close"}
+13:48:15.934 [error] Error in websocket [Error: Unexpected server response: 404
+	at ClientRequest.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:24:27794)
+	at ClientRequest.emit (node:events:531:35)
+	at ClientRequest.emit (node:domain:489:12)
+	at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:716:27)
+	at HTTPParser.parserOnHeadersComplete (node:_http_common:121:17)
+	at TLSSocket.socketOnData (node:_http_client:558:22)
+	at TLSSocket.emit (node:events:519:28)
+	at TLSSocket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:189:23)]
+13:48:17.043 [info] Dispose Kernel '~/learmmml/llinr.ipynb' associated with '~/learmmml/llinr.ipynb'
+13:48:19.579 [error] Error fetching kernels from https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/ (Colab CPU): [i [Error]: Invalid response: 404 Not Found
+	at i.create (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/node_modules/@jupyterlab/services/index.js:11:722)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async Object.Of [as listRunning] (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/node_modules/@jupyterlab/services/index.js:11:43000)
+	at async n.getRunningKernels (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:181:23081)
+	at async Promise.all (index 0)
+	at async G_.listKernelsFromConnection (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:279:19660)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:279:18393] {
+  response: t [Response] {
+    size: 0,
+    timeout: 0,
+    [Symbol(Body internals)]: { body: [PassThrough], disturbed: true, error: null },
+    [Symbol(Response internals)]: {
+      url: 'https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/api/kernels?1764317899046',
+      status: 404,
+      statusText: 'Not Found',
+      headers: [t [Headers]],
+      counter: 0
+    }
+  },
+  traceback: ''
+}
+13:48:20.399 [error] Jupyter Lab Helper:getKernelSpecs failure:  [Error: Poll (@jupyterlab/services:KernelSpecManager#specs) is disposed.
+	at i.dispose (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/node_modules/@jupyterlab/services/index.js:11:35847)
+	at Kr.dispose (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/node_modules/@jupyterlab/services/index.js:11:75387)
+	at ~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:181:22619
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+13:48:22.950 [error] Error fetching kernels from https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/ (Colab CPU): [i [Error]: Invalid response: 404 Not Found
+	at i.create (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/node_modules/@jupyterlab/services/index.js:11:722)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async Object.Of [as listRunning] (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/node_modules/@jupyterlab/services/index.js:11:43000)
+	at async n.getRunningKernels (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:181:23081)
+	at async Promise.all (index 0)
+	at async G_.listKernelsFromConnection (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:279:19660)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:279:18393] {
+  response: t [Response] {
+    size: 0,
+    timeout: 0,
+    [Symbol(Body internals)]: { body: [PassThrough], disturbed: true, error: null },
+    [Symbol(Response internals)]: {
+      url: 'https://8080-m-s-1oytndujwgft5-c.us-west4-2.prod.colab.dev/api/kernels?1764317902384',
+      status: 404,
+      statusText: 'Not Found',
+      headers: [t [Headers]],
+      counter: 0
+    }
+  },
+  traceback: ''
+}
+13:48:23.653 [error] Jupyter Lab Helper:getKernelSpecs failure:  [Error: Poll (@jupyterlab/services:KernelSpecManager#specs) is disposed.
+	at i.dispose (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/node_modules/@jupyterlab/services/index.js:11:35847)
+	at Kr.dispose (~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/node_modules/@jupyterlab/services/index.js:11:75387)
+	at ~/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64/dist/extension.node.js:181:22619
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+13:48:23.653 [warn] Could not fetch kernels from the remote server, falling back to cache: Error: Invalid response: 404 Not Found
+13:48:24.236 [warn] Disposing old controller startUsingRemoteKernelSpec:'327e8fd5f5d8bfdb5c483de678a07f86d9a04a5a67003ab147959f1a5958eb4e..julia./usr/local/bin/julia././usr/local/bin/julia#-i#--color=yes#-e#import ijulia; ijulia.run_kernel()#{connection_file}' for view = 'jupyter-notebook'
+13:48:24.236 [warn] Disposing old controller startUsingRemoteKernelSpec:'327e8fd5f5d8bfdb5c483de678a07f86d9a04a5a67003ab147959f1a5958eb4e..julia./usr/local/bin/julia././usr/local/bin/julia#-i#--color=yes#-e#import ijulia; ijulia.run_kernel()#{connection_file} (Interactive)' for view = 'interactive'
+13:48:24.237 [warn] Disposing old controller startUsingRemoteKernelSpec:'327e8fd5f5d8bfdb5c483de678a07f86d9a04a5a67003ab147959f1a5958eb4e..python3./usr/bin/python3./.-m#colab_kernel_launcher (Interactive)' for view = 'interactive'
+13:48:24.237 [warn] Disposing old controller startUsingRemoteKernelSpec:'327e8fd5f5d8bfdb5c483de678a07f86d9a04a5a67003ab147959f1a5958eb4e..ir./usr/lib/R/bin/R././usr/lib/r/bin/r#--slave#-e#irkernel::main()#--args#{connection_file}' for view = 'jupyter-notebook'
+13:48:24.237 [warn] Disposing old controller startUsingRemoteKernelSpec:'327e8fd5f5d8bfdb5c483de678a07f86d9a04a5a67003ab147959f1a5958eb4e..ir./usr/lib/R/bin/R././usr/lib/r/bin/r#--slave#-e#irkernel::main()#--args#{connection_file} (Interactive)' for view = 'interactive'
+13:48:24.237 [warn] Deleting controller 327e8fd5f5d8bfdb5c483de678a07f86d9a04a5a67003ab147959f1a5958eb4e..python3./usr/bin/python3./.-m#colab_kernel_launcher as it is associated with a connection that has been deleted startUsingRemoteKernelSpec:327e8fd5f5d8bfdb5c483de678a07f86d9a04a5a67003ab147959f1a5958eb4e..python3./usr/bin/python3./.-m#colab_kernel_launcher

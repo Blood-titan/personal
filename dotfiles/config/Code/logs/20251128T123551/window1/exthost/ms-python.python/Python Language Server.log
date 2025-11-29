@@ -1,0 +1,873 @@
+2025-11-28 12:35:56.278 [info] (Client) Pylance client (2025.10.2) started with python extension (2025.18.0)
+2025-11-28 12:35:57.070 [info] (6796) Server root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist
+2025-11-28 12:35:57.070 [info] (6796) Pylance language server 2025.10.2 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-28 12:35:57.074 [info] (6796) Starting service instance "learmmml" for workspace "/home/peaches/learmmml"
+2025-11-28 12:35:57.143 [info] (6796) Starting Mcp server id:3404 ...
+2025-11-28 12:35:57.161 [info] (6796) Setting environmentName for service "learmmml": "3.12.7 (base conda)"
+2025-11-28 12:35:57.161 [info] (6796) Setting pythonPath for service "learmmml": "/home/peaches/anaconda3/bin/python"
+2025-11-28 12:35:57.161 [info] (6796) No include entries specified; assuming /home/peaches/learmmml
+2025-11-28 12:35:57.161 [info] (6796) Auto-excluding **/node_modules
+2025-11-28 12:35:57.161 [info] (6796) Auto-excluding **/__pycache__
+2025-11-28 12:35:57.161 [info] (6796) Auto-excluding **/.*
+2025-11-28 12:35:57.178 [info] (6796) Assuming Python version 3.12.7.final.0
+2025-11-28 12:35:57.250 [info] (6796) Settings have not changed. Skipping update.
+2025-11-28 12:35:57.510 [info] (6796) Found 1 source file
+2025-11-28 12:35:57.647 [info] (6796) BG: Priority queue background worker(2) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist
+2025-11-28 12:35:57.648 [info] (6796) BG: Priority queue background worker(2) started
+2025-11-28 12:35:57.754 [info] (6796) BG: Indexer background runner(3) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist (index)
+2025-11-28 12:35:57.754 [info] (6796) BG: Indexing(3) started
+2025-11-28 12:35:58.288 [info] (6796) BG: scanned(3) 532 files over 1 exec env
+2025-11-28 12:35:58.552 [info] (6796) BG: indexed(3) 532 files over 1 exec env
+2025-11-28 12:35:58.639 [info] (6796) BG: Indexing finished(3).
+2025-11-28 12:39:49.126 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:51.652 [info] (6796) Starting service instance "<default>" for workspace ""
+2025-11-28 12:39:51.680 [info] (6796) Setting environmentName for service "<default>": "3.12.7 (base conda)"
+2025-11-28 12:39:51.681 [info] (6796) Setting pythonPath for service "<default>": "/home/peaches/anaconda3/bin/python"
+2025-11-28 12:39:51.681 [info] (6796) No include entries specified; assuming /<default workspace root>
+2025-11-28 12:39:51.681 [info] (6796) Auto-excluding **/node_modules
+2025-11-28 12:39:51.681 [info] (6796) Auto-excluding **/__pycache__
+2025-11-28 12:39:51.681 [info] (6796) Auto-excluding **/.*
+2025-11-28 12:39:51.702 [info] (6796) Assuming Python version 3.12.7.final.0
+2025-11-28 12:39:51.741 [error] (6796) File or directory "/<default workspace root>" does not exist.
+2025-11-28 12:39:51.741 [info] (6796) No source files found.
+2025-11-28 12:39:52.120 [info] (6796) BG: Priority queue background worker(5) root directory: file:///home/peaches/.vscode/extensions/ms-python.vscode-pylance-2025.10.2/dist
+2025-11-28 12:39:52.121 [info] (6796) BG: Priority queue background worker(5) started
+2025-11-28 12:39:54.397 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.403 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.408 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.414 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.418 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.424 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.433 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.438 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.442 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.447 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.451 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.455 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.459 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.464 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.468 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:54.473 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.658 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.662 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.667 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.671 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.677 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.683 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.687 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.692 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.696 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.702 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.706 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.710 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.714 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.719 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.723 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:55.732 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.493 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.498 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.502 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.507 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.511 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.516 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.520 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.525 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.530 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.534 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.539 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.543 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.547 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.552 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.556 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.561 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.787 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.791 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.795 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.799 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.804 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.808 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.812 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.817 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.821 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.825 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.829 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.833 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.837 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.841 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.845 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:56.849 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.107 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.111 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.115 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.119 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.123 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.127 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.131 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.136 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.139 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.144 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.147 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.152 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.155 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.160 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.163 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.168 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.427 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.431 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.435 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.439 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.443 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.447 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.451 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.455 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.459 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.464 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.468 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.472 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.476 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.481 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.485 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.490 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.664 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.669 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.673 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.677 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.682 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.687 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.690 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.695 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.698 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.703 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.708 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.712 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.717 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.722 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.726 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.730 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.875 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.879 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.883 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.887 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.891 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.895 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.899 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.903 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.907 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.911 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.915 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.919 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.923 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.927 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.931 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:39:57.936 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.340 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.345 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.349 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.353 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.357 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.361 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.365 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.369 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.373 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.377 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.381 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.385 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.389 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.393 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.397 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:00.401 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.499 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.503 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.507 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.512 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.515 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.520 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.526 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.532 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.536 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.543 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.550 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.556 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.561 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.566 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.570 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.575 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.711 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.715 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.719 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.723 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.727 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.732 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.736 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.741 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.744 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.749 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.753 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.757 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.761 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.766 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.770 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:01.774 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.444 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.448 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.452 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.456 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.460 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.465 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.469 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.474 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.478 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.483 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.488 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.492 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.497 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.502 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.506 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.511 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:02.999 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.003 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.008 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.012 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.016 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.020 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.024 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.029 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.034 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.038 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.042 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.047 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.052 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.056 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.060 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:40:03.065 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.
+2025-11-28 12:45:11.733 [info] (6796) 
+*Warning*: Pylance failed to parse docstring at offset 2105
+
+ Outputting literal text instead.

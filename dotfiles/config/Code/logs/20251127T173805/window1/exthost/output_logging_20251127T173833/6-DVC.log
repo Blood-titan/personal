@@ -1,0 +1,2176 @@
+[version: 1.2.29, 2025-11-27T12:08:40.546Z, pid: 63013] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:08:40.571Z, pid: 63013] > /bin/python -m dvc --version - FAILED with code 1 (30ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:08:40.578Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:08:40.579Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:08:45.587Z, pid: 63088] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:08:45.597Z, pid: 63088] > /bin/python -m dvc --version - FAILED with code 1 (16ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:08:45.602Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:08:45.603Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:08:50.670Z, pid: 63096] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:08:50.873Z, pid: 63096] > /bin/python -m dvc --version - FAILED with code 1 (208ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:08:50.880Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:08:50.905Z, pid: 0] > dvc --version - FAILED (31ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:08:55.911Z, pid: 63165] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:08:55.920Z, pid: 63165] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:08:55.925Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:08:55.926Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:00.930Z, pid: 63171] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:00.941Z, pid: 63171] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:00.946Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:00.947Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:05.954Z, pid: 63173] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:05.963Z, pid: 63173] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:05.968Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:05.969Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:10.974Z, pid: 63175] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:10.984Z, pid: 63175] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:10.989Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:10.990Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:15.997Z, pid: 63187] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:16.006Z, pid: 63187] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:16.011Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:16.012Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:21.017Z, pid: 63190] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:21.026Z, pid: 63190] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:21.031Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:21.032Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:26.038Z, pid: 63206] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:26.047Z, pid: 63206] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:26.052Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:26.053Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:31.059Z, pid: 63209] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:31.068Z, pid: 63209] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:31.074Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:31.074Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:36.081Z, pid: 63211] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:36.090Z, pid: 63211] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:36.095Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:36.096Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:41.102Z, pid: 63215] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:41.110Z, pid: 63215] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:41.115Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:41.116Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:46.122Z, pid: 63217] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:46.131Z, pid: 63217] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:46.136Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:46.136Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:51.142Z, pid: 63221] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:51.150Z, pid: 63221] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:51.155Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:51.156Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:09:56.162Z, pid: 63223] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:56.171Z, pid: 63223] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:09:56.176Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:09:56.176Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:01.182Z, pid: 63319] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:01.191Z, pid: 63319] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:01.196Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:01.197Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:06.203Z, pid: 63335] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:06.212Z, pid: 63335] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:06.218Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:06.219Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:11.223Z, pid: 63404] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:11.232Z, pid: 63404] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:11.237Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:11.237Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:16.242Z, pid: 63433] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:16.251Z, pid: 63433] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:16.256Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:16.256Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:21.264Z, pid: 63476] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:21.275Z, pid: 63476] > /bin/python -m dvc --version - FAILED with code 1 (18ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:21.281Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:21.281Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:26.287Z, pid: 63567] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:26.296Z, pid: 63567] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:26.300Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:26.301Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:31.308Z, pid: 63573] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:31.317Z, pid: 63573] > /bin/python -m dvc --version - FAILED with code 1 (16ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:31.322Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:31.322Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:36.328Z, pid: 63615] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:36.337Z, pid: 63615] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:36.342Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:36.343Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:41.348Z, pid: 63687] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:41.357Z, pid: 63687] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:41.361Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:41.362Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:46.369Z, pid: 63698] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:46.377Z, pid: 63698] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:46.382Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:46.383Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:51.388Z, pid: 63913] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:51.397Z, pid: 63913] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:51.402Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:51.403Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:10:56.408Z, pid: 63917] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:56.417Z, pid: 63917] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:10:56.422Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:10:56.423Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:01.429Z, pid: 63919] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:01.438Z, pid: 63919] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:01.443Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:01.444Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:06.451Z, pid: 63921] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:06.460Z, pid: 63921] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:06.465Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:06.466Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:11.472Z, pid: 63926] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:11.480Z, pid: 63926] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:11.485Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:11.486Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:16.491Z, pid: 63928] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:16.500Z, pid: 63928] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:16.506Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:16.507Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:21.514Z, pid: 64048] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:21.523Z, pid: 64048] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:21.528Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:21.529Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:26.535Z, pid: 64065] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:26.543Z, pid: 64065] > /bin/python -m dvc --version - FAILED with code 1 (13ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:26.548Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:26.549Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:31.555Z, pid: 64072] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:31.566Z, pid: 64072] > /bin/python -m dvc --version - FAILED with code 1 (16ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:31.571Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:31.571Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:36.578Z, pid: 64092] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:36.587Z, pid: 64092] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:36.593Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:36.593Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:41.600Z, pid: 64112] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:41.608Z, pid: 64112] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:41.613Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:41.614Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:46.620Z, pid: 64130] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:46.629Z, pid: 64130] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:46.634Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:46.634Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:51.640Z, pid: 64141] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:51.649Z, pid: 64141] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:51.654Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:51.654Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:11:56.661Z, pid: 64187] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:56.672Z, pid: 64187] > /bin/python -m dvc --version - FAILED with code 1 (17ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:11:56.677Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:11:56.678Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:01.683Z, pid: 64255] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:01.692Z, pid: 64255] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:01.697Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:01.697Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:06.703Z, pid: 64257] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:06.712Z, pid: 64257] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:06.717Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:06.717Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:11.723Z, pid: 64273] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:11.732Z, pid: 64273] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:11.736Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:11.737Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:16.744Z, pid: 64303] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:16.752Z, pid: 64303] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:16.758Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:16.758Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:21.763Z, pid: 64332] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:21.773Z, pid: 64332] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:21.778Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:21.779Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:26.784Z, pid: 64369] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:26.793Z, pid: 64369] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:26.798Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:26.799Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:31.805Z, pid: 64388] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:31.815Z, pid: 64388] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:31.821Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:31.821Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:36.826Z, pid: 64391] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:36.835Z, pid: 64391] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:36.841Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:36.841Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:41.846Z, pid: 64404] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:41.856Z, pid: 64404] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:41.862Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:41.862Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:46.868Z, pid: 64406] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:46.876Z, pid: 64406] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:46.881Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:46.882Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:51.887Z, pid: 64412] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:51.896Z, pid: 64412] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:51.901Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:51.902Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:12:56.908Z, pid: 64414] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:56.917Z, pid: 64414] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:12:56.922Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:12:56.923Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:01.930Z, pid: 64423] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:01.939Z, pid: 64423] > /bin/python -m dvc --version - FAILED with code 1 (16ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:01.944Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:01.944Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:06.951Z, pid: 64548] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:06.960Z, pid: 64548] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:06.966Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:06.967Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:11.973Z, pid: 64553] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:11.982Z, pid: 64553] > /bin/python -m dvc --version - FAILED with code 1 (15ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:11.987Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:11.988Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:16.993Z, pid: 64576] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:17.003Z, pid: 64576] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:17.007Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:17.008Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:22.013Z, pid: 64581] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:22.022Z, pid: 64581] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:22.027Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:22.028Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:27.034Z, pid: 64602] > /bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:27.043Z, pid: 64602] > /bin/python -m dvc --version - FAILED with code 1 (14ms)
+/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:27.048Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:27.049Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:31.526Z, pid: 64728] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:31.536Z, pid: 64728] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:31.541Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:31.542Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:32.056Z, pid: 64736] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:32.067Z, pid: 64736] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:32.072Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:32.074Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:36.547Z, pid: 64789] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:36.557Z, pid: 64789] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:36.561Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:36.562Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:37.080Z, pid: 64791] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:37.089Z, pid: 64791] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:37.094Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:37.095Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:41.568Z, pid: 64794] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:41.579Z, pid: 64794] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (17ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:41.583Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:41.584Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:42.101Z, pid: 64796] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:42.111Z, pid: 64796] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:42.116Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:42.117Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:46.589Z, pid: 64798] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:46.601Z, pid: 64798] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:46.607Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:46.608Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:47.123Z, pid: 64800] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:47.133Z, pid: 64800] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:47.137Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:47.138Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:51.613Z, pid: 64804] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:51.623Z, pid: 64804] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:51.627Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:51.628Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:52.143Z, pid: 64806] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:52.152Z, pid: 64806] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:52.157Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:52.158Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:56.634Z, pid: 64808] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:56.643Z, pid: 64808] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:56.648Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:56.649Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:13:57.165Z, pid: 64810] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:57.175Z, pid: 64810] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:13:57.179Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:13:57.180Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:01.655Z, pid: 64812] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:01.666Z, pid: 64812] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:01.671Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:01.672Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:02.185Z, pid: 64814] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:02.194Z, pid: 64814] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:02.199Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:02.199Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:06.677Z, pid: 64817] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:06.687Z, pid: 64817] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:06.691Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:06.692Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:07.205Z, pid: 64819] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:07.214Z, pid: 64819] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:07.219Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:07.219Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:11.699Z, pid: 64823] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:11.709Z, pid: 64823] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:11.714Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:11.715Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:12.224Z, pid: 64825] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:12.234Z, pid: 64825] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:12.239Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:12.239Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:16.721Z, pid: 64827] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:16.730Z, pid: 64827] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:16.735Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:16.736Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:17.244Z, pid: 64829] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:17.253Z, pid: 64829] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:17.258Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:17.259Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:21.741Z, pid: 64831] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:21.751Z, pid: 64831] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:21.755Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:21.756Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:22.264Z, pid: 64833] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:22.274Z, pid: 64833] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:22.278Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:22.278Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:26.761Z, pid: 64835] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:26.770Z, pid: 64835] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:26.775Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:26.775Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:27.283Z, pid: 64837] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:27.293Z, pid: 64837] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:27.300Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:27.301Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:31.780Z, pid: 64849] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:31.790Z, pid: 64849] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:31.795Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:31.796Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:32.306Z, pid: 64851] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:32.316Z, pid: 64851] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:32.321Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:32.322Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:36.802Z, pid: 64854] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:36.812Z, pid: 64854] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:36.817Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:36.818Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:37.327Z, pid: 64856] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:37.336Z, pid: 64856] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:37.341Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:37.342Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:41.823Z, pid: 64864] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:41.833Z, pid: 64864] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:41.837Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:41.838Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:42.346Z, pid: 64866] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:42.356Z, pid: 64866] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:42.360Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:42.361Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:46.843Z, pid: 64876] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:46.852Z, pid: 64876] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:46.857Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:46.858Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:47.366Z, pid: 64878] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:47.376Z, pid: 64878] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:47.380Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:47.381Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:51.864Z, pid: 64882] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:51.873Z, pid: 64882] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:51.878Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:51.878Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:52.387Z, pid: 64884] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:52.397Z, pid: 64884] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:52.401Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:52.402Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:56.884Z, pid: 64894] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:56.894Z, pid: 64894] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:56.898Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:56.899Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:14:57.407Z, pid: 64896] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:57.416Z, pid: 64896] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:14:57.420Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:14:57.421Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:01.905Z, pid: 64903] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:01.915Z, pid: 64903] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:01.919Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:01.920Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:02.426Z, pid: 64905] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:02.436Z, pid: 64905] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:02.440Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:02.441Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:06.926Z, pid: 64907] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:06.936Z, pid: 64907] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:06.941Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:06.942Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:07.448Z, pid: 64909] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:07.458Z, pid: 64909] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:07.463Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:07.464Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:11.948Z, pid: 64914] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:11.957Z, pid: 64914] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:11.962Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:11.962Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:12.471Z, pid: 64916] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:12.482Z, pid: 64916] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (17ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:12.487Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:12.487Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:16.968Z, pid: 64920] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:16.979Z, pid: 64920] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:16.985Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:16.985Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:17.491Z, pid: 64923] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:17.503Z, pid: 64923] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:17.508Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:17.509Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:21.990Z, pid: 64941] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:22.000Z, pid: 64941] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:22.004Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:22.005Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:22.514Z, pid: 64943] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:22.523Z, pid: 64943] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:22.528Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:22.529Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:27.010Z, pid: 64945] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:27.021Z, pid: 64945] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:27.026Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:27.027Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:27.534Z, pid: 64947] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:27.547Z, pid: 64947] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:27.553Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:27.554Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:32.032Z, pid: 64953] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:32.041Z, pid: 64953] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:32.047Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:32.048Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:32.559Z, pid: 64955] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:32.570Z, pid: 64955] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:32.574Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:32.575Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:37.054Z, pid: 64957] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:37.063Z, pid: 64957] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:37.068Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:37.069Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:37.579Z, pid: 64959] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:37.588Z, pid: 64959] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:37.593Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:37.593Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:42.073Z, pid: 64964] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:42.083Z, pid: 64964] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:42.088Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:42.089Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:42.598Z, pid: 64966] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:42.608Z, pid: 64966] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:42.613Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:42.614Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:47.094Z, pid: 64968] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:47.103Z, pid: 64968] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:47.108Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:47.109Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:47.619Z, pid: 64970] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:47.629Z, pid: 64970] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:47.633Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:47.634Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:52.114Z, pid: 64974] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:52.124Z, pid: 64974] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:52.129Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:52.129Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:52.640Z, pid: 64976] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:52.649Z, pid: 64976] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:52.654Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:52.655Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:57.134Z, pid: 64980] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:57.143Z, pid: 64980] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:57.147Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:57.148Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:15:57.661Z, pid: 64982] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:57.670Z, pid: 64982] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:15:57.674Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:15:57.675Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:02.154Z, pid: 64987] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:02.164Z, pid: 64987] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:02.168Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:02.169Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:02.681Z, pid: 65064] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:02.690Z, pid: 65064] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:02.695Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:02.696Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:07.174Z, pid: 65356] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:07.184Z, pid: 65356] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:07.189Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:07.190Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:07.701Z, pid: 65358] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:07.711Z, pid: 65358] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:07.715Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:07.716Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:12.195Z, pid: 65369] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:12.205Z, pid: 65369] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:12.209Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:12.210Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:12.720Z, pid: 65371] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:12.731Z, pid: 65371] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:12.735Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:12.736Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:17.216Z, pid: 65397] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:17.228Z, pid: 65397] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (17ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:17.232Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:17.233Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:17.744Z, pid: 65400] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:17.755Z, pid: 65400] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:17.759Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:17.760Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:22.239Z, pid: 65402] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:22.248Z, pid: 65402] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:22.253Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:22.254Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:22.765Z, pid: 65404] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:22.774Z, pid: 65404] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:22.779Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:22.780Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:27.259Z, pid: 65408] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:27.269Z, pid: 65408] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:27.274Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:27.275Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:27.785Z, pid: 65410] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:27.794Z, pid: 65410] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:27.799Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:27.800Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:32.281Z, pid: 65525] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:32.290Z, pid: 65525] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:32.295Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:32.295Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:32.805Z, pid: 65527] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:32.815Z, pid: 65527] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:32.819Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:32.820Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:37.303Z, pid: 65543] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:37.313Z, pid: 65543] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:37.318Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:37.319Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:37.826Z, pid: 65546] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:37.835Z, pid: 65546] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:37.839Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:37.840Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:42.324Z, pid: 65561] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:42.336Z, pid: 65561] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:42.341Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:42.342Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:42.848Z, pid: 65563] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:42.858Z, pid: 65563] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:42.863Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:42.863Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:47.347Z, pid: 65565] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:47.358Z, pid: 65565] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:47.363Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:47.363Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:47.868Z, pid: 65567] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:47.878Z, pid: 65567] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:47.883Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:47.884Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:52.369Z, pid: 65571] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:52.379Z, pid: 65571] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:52.384Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:52.384Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:52.889Z, pid: 65573] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:52.899Z, pid: 65573] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:52.903Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:52.904Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:57.389Z, pid: 65575] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:57.399Z, pid: 65575] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:57.404Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:57.404Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:16:57.910Z, pid: 65577] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:57.920Z, pid: 65577] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:16:57.924Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:16:57.925Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:02.410Z, pid: 65579] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:02.419Z, pid: 65579] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:02.423Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:02.424Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:02.930Z, pid: 65581] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:02.940Z, pid: 65581] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:02.944Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:02.944Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:07.429Z, pid: 65583] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:07.440Z, pid: 65583] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:07.445Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:07.446Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:07.949Z, pid: 65585] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:07.959Z, pid: 65585] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:07.963Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:07.964Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:12.451Z, pid: 65588] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:12.461Z, pid: 65588] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:12.466Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:12.467Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:12.969Z, pid: 65590] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:12.978Z, pid: 65590] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:12.985Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:12.986Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:17.472Z, pid: 65592] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:17.481Z, pid: 65592] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:17.486Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:17.487Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:17.992Z, pid: 65594] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:18.002Z, pid: 65594] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:18.008Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:18.008Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:22.493Z, pid: 65596] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:22.503Z, pid: 65596] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:22.508Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:22.509Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:23.013Z, pid: 65598] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:23.024Z, pid: 65598] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:23.029Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:23.030Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:27.514Z, pid: 65600] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:27.524Z, pid: 65600] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:27.529Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:27.530Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:28.035Z, pid: 65602] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:28.045Z, pid: 65602] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:28.050Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:28.051Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:32.535Z, pid: 65624] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:32.545Z, pid: 65624] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:32.550Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:32.551Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:33.056Z, pid: 65626] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:33.066Z, pid: 65626] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:33.071Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:33.072Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:37.556Z, pid: 65743] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:37.566Z, pid: 65743] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:37.570Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:37.571Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:38.078Z, pid: 65745] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:38.088Z, pid: 65745] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:38.092Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:38.093Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:42.577Z, pid: 65862] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:42.586Z, pid: 65862] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:42.591Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:42.592Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:43.099Z, pid: 65864] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:43.109Z, pid: 65864] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:43.113Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:43.114Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:47.599Z, pid: 65875] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:47.608Z, pid: 65875] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:47.613Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:47.613Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:48.120Z, pid: 65882] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:48.129Z, pid: 65882] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:48.133Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:48.134Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:52.620Z, pid: 65997] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:52.629Z, pid: 65997] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:52.633Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:52.634Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:53.142Z, pid: 65999] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:53.152Z, pid: 65999] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:53.156Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:53.157Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:57.639Z, pid: 66010] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:57.650Z, pid: 66010] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:57.655Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:57.656Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:17:58.162Z, pid: 66012] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:58.172Z, pid: 66012] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:17:58.177Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:17:58.178Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:02.662Z, pid: 66051] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:02.672Z, pid: 66051] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:02.676Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:02.677Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:03.184Z, pid: 66058] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:03.194Z, pid: 66058] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:03.199Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:03.199Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:07.682Z, pid: 66073] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:07.691Z, pid: 66073] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:07.696Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:07.696Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:08.203Z, pid: 66075] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:08.213Z, pid: 66075] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:08.218Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:08.219Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:12.700Z, pid: 66098] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:12.709Z, pid: 66098] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:12.714Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:12.714Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:13.224Z, pid: 66104] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:13.234Z, pid: 66104] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:13.239Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:13.239Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:17.719Z, pid: 66128] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:17.729Z, pid: 66128] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:17.734Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:17.734Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:18.245Z, pid: 66130] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:18.254Z, pid: 66130] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:18.259Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:18.260Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:22.739Z, pid: 66132] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:22.748Z, pid: 66132] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:22.753Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:22.754Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:23.265Z, pid: 66134] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:23.275Z, pid: 66134] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:23.279Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:23.280Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:27.760Z, pid: 66138] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:27.770Z, pid: 66138] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:27.774Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:27.775Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:28.286Z, pid: 66140] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:28.295Z, pid: 66140] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:28.299Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:28.300Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:32.781Z, pid: 66442] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:32.792Z, pid: 66442] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:32.798Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:32.799Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:33.305Z, pid: 66447] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:33.316Z, pid: 66447] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:33.321Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:33.321Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:37.805Z, pid: 66459] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:37.815Z, pid: 66459] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:37.819Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:37.820Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:38.326Z, pid: 66461] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:38.336Z, pid: 66461] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:38.341Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:38.342Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:42.826Z, pid: 66475] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:42.836Z, pid: 66475] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:42.841Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:42.842Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:43.349Z, pid: 66477] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:43.358Z, pid: 66477] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:43.362Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:43.363Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:47.848Z, pid: 68392] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:47.857Z, pid: 68392] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:47.862Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:47.862Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:48.370Z, pid: 68394] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:48.379Z, pid: 68394] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:48.383Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:48.384Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:52.867Z, pid: 69630] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:52.877Z, pid: 69630] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:52.882Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:52.883Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:53.389Z, pid: 69668] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:53.399Z, pid: 69668] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:53.404Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:53.405Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:57.888Z, pid: 69700] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:57.897Z, pid: 69700] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:57.902Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:57.903Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:18:58.411Z, pid: 69702] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:58.420Z, pid: 69702] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:18:58.425Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:18:58.426Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:02.909Z, pid: 69706] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:02.919Z, pid: 69706] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:02.923Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:02.924Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:03.431Z, pid: 69708] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:03.441Z, pid: 69708] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:03.448Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:03.448Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:07.930Z, pid: 69894] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:07.940Z, pid: 69894] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:07.944Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:07.945Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:08.454Z, pid: 69904] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:08.465Z, pid: 69904] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:08.470Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:08.470Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:12.949Z, pid: 70017] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:12.959Z, pid: 70017] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:12.964Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:12.965Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:13.476Z, pid: 70019] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:13.485Z, pid: 70019] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:13.490Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:13.491Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:17.968Z, pid: 70030] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:17.977Z, pid: 70030] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (13ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:17.982Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:17.983Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:18.497Z, pid: 70032] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:18.507Z, pid: 70032] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:18.511Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:18.512Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:22.989Z, pid: 70050] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:23.000Z, pid: 70050] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:23.004Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:23.005Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:23.517Z, pid: 70056] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:23.526Z, pid: 70056] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:23.530Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:23.531Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:28.011Z, pid: 70076] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:28.021Z, pid: 70076] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:28.025Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:28.026Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:28.536Z, pid: 70079] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:28.546Z, pid: 70079] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:28.551Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:28.552Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:33.031Z, pid: 70081] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:33.041Z, pid: 70081] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:33.046Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:33.047Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:33.558Z, pid: 70083] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:33.568Z, pid: 70083] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:33.572Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:33.573Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:38.054Z, pid: 70085] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:38.064Z, pid: 70085] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:38.068Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:38.069Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:38.578Z, pid: 70087] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:38.588Z, pid: 70087] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:38.593Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:38.594Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:43.076Z, pid: 70095] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:43.086Z, pid: 70095] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:43.090Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:43.091Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:43.598Z, pid: 70099] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:43.608Z, pid: 70099] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:43.613Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:43.613Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:48.096Z, pid: 70107] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:48.106Z, pid: 70107] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:48.111Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:48.111Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:48.620Z, pid: 70115] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:48.628Z, pid: 70115] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:48.634Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:48.635Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:53.117Z, pid: 70136] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:53.127Z, pid: 70136] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:53.132Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:53.133Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:53.639Z, pid: 70138] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:53.649Z, pid: 70138] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:53.655Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:53.656Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:58.139Z, pid: 70143] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:58.148Z, pid: 70143] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:58.153Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:58.154Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:19:58.661Z, pid: 70145] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:58.671Z, pid: 70145] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:19:58.675Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:19:58.676Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:03.160Z, pid: 70153] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:03.170Z, pid: 70153] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:03.176Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:03.177Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:03.682Z, pid: 70155] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:03.693Z, pid: 70155] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:03.700Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:03.701Z, pid: 0] > dvc --version - FAILED (8ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:08.182Z, pid: 70157] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:08.193Z, pid: 70157] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:08.198Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:08.199Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:08.707Z, pid: 70159] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:08.716Z, pid: 70159] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:08.722Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:08.723Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:13.204Z, pid: 70179] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:13.213Z, pid: 70179] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:13.221Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:13.222Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:13.729Z, pid: 70183] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:13.739Z, pid: 70183] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:13.744Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:13.745Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:18.228Z, pid: 70189] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:18.238Z, pid: 70189] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:18.242Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:18.243Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:18.751Z, pid: 70191] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:18.762Z, pid: 70191] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:18.770Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:18.770Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:23.250Z, pid: 70194] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:23.261Z, pid: 70194] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (17ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:23.266Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:23.267Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:23.777Z, pid: 70196] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:23.789Z, pid: 70196] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:23.794Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:23.795Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:28.273Z, pid: 70198] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:28.283Z, pid: 70198] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:28.291Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:28.292Z, pid: 0] > dvc --version - FAILED (8ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:28.802Z, pid: 70200] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:28.814Z, pid: 70200] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:28.821Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:28.822Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:33.298Z, pid: 70202] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:33.307Z, pid: 70202] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:33.312Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:33.312Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:33.827Z, pid: 70205] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:33.837Z, pid: 70205] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:33.841Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:33.842Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:38.317Z, pid: 70207] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:38.327Z, pid: 70207] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:38.332Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:38.333Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:38.848Z, pid: 70210] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:38.857Z, pid: 70210] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:38.862Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:38.863Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:43.341Z, pid: 70212] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:43.352Z, pid: 70212] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:43.358Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:43.358Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:43.868Z, pid: 70214] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:43.878Z, pid: 70214] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:43.884Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:43.885Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:48.363Z, pid: 70216] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:48.374Z, pid: 70216] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:48.379Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:48.380Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:48.890Z, pid: 70220] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:48.899Z, pid: 70220] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:48.904Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:48.905Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:53.387Z, pid: 70227] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:53.398Z, pid: 70227] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (17ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:53.405Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:53.406Z, pid: 0] > dvc --version - FAILED (8ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:53.912Z, pid: 70229] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:53.921Z, pid: 70229] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:53.926Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:53.927Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:58.411Z, pid: 70232] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:58.422Z, pid: 70232] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:58.428Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:58.429Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:20:58.936Z, pid: 70234] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:58.946Z, pid: 70234] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:20:58.953Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:20:58.954Z, pid: 0] > dvc --version - FAILED (8ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:03.436Z, pid: 70236] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:03.446Z, pid: 70236] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:03.451Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:03.451Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:03.961Z, pid: 70238] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:03.972Z, pid: 70238] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (17ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:03.978Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:03.979Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:08.458Z, pid: 70240] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:08.469Z, pid: 70240] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (17ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:08.476Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:08.476Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:08.984Z, pid: 70242] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:08.994Z, pid: 70242] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:08.998Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:08.999Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:13.481Z, pid: 70244] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:13.491Z, pid: 70244] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:13.495Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:13.496Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:14.005Z, pid: 70246] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:14.017Z, pid: 70246] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:14.022Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:14.022Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:18.501Z, pid: 70248] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:18.511Z, pid: 70248] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:18.517Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:18.518Z, pid: 0] > dvc --version - FAILED (7ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:19.028Z, pid: 70250] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:19.039Z, pid: 70250] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:19.044Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:19.044Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:23.525Z, pid: 70252] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:23.536Z, pid: 70252] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:23.541Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:23.542Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:24.052Z, pid: 70254] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:24.063Z, pid: 70254] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (18ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:24.068Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:24.069Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:28.548Z, pid: 70256] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:28.558Z, pid: 70256] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:28.565Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:28.566Z, pid: 0] > dvc --version - FAILED (8ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:29.074Z, pid: 70258] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:29.083Z, pid: 70258] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:29.088Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:29.089Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:33.571Z, pid: 70261] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:33.581Z, pid: 70261] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:33.586Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:33.586Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:34.095Z, pid: 70263] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:34.104Z, pid: 70263] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:34.109Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:34.109Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:38.591Z, pid: 70266] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:38.601Z, pid: 70266] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:38.605Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:38.606Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:39.114Z, pid: 70269] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:39.124Z, pid: 70269] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:39.129Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:39.129Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:43.611Z, pid: 70279] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:43.620Z, pid: 70279] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:43.625Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:43.626Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:44.134Z, pid: 70281] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:44.144Z, pid: 70281] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:44.148Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:44.149Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:48.632Z, pid: 70336] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:48.642Z, pid: 70336] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (16ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:48.648Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:48.649Z, pid: 0] > dvc --version - FAILED (6ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:49.155Z, pid: 70340] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:49.164Z, pid: 70340] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:49.169Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:49.170Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:53.654Z, pid: 70342] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:53.663Z, pid: 70342] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:53.668Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:53.669Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:54.176Z, pid: 70345] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:54.185Z, pid: 70345] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:54.190Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:54.191Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:58.674Z, pid: 70349] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:58.683Z, pid: 70349] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:58.688Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:58.688Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:21:59.197Z, pid: 70351] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:59.206Z, pid: 70351] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:21:59.211Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:21:59.211Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:03.693Z, pid: 70356] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:03.703Z, pid: 70356] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:03.707Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:03.708Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:04.218Z, pid: 70358] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:04.227Z, pid: 70358] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:04.231Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:04.232Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:08.714Z, pid: 70360] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:08.723Z, pid: 70360] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:08.727Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:08.728Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:09.238Z, pid: 70362] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:09.247Z, pid: 70362] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:09.252Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:09.252Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:13.733Z, pid: 70364] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:13.743Z, pid: 70364] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:13.747Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:13.748Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:14.258Z, pid: 70366] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:14.267Z, pid: 70366] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:14.271Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:14.272Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:18.752Z, pid: 70369] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:18.762Z, pid: 70369] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (14ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:18.767Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:18.767Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:19.279Z, pid: 70371] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:19.290Z, pid: 70371] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (17ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:19.295Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:19.296Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:23.773Z, pid: 70381] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:23.782Z, pid: 70381] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:23.786Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:23.787Z, pid: 0] > dvc --version - FAILED (5ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT
+[version: 1.2.29, 2025-11-27T12:22:24.302Z, pid: 70383] > /home/peaches/anaconda3/bin/python -m dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:24.311Z, pid: 70383] > /home/peaches/anaconda3/bin/python -m dvc --version - FAILED with code 1 (15ms)
+/home/peaches/anaconda3/bin/python: No module named dvc
+
+[version: 1.2.29, 2025-11-27T12:22:24.316Z, pid: 0] > dvc --version - INITIALIZED
+[version: 1.2.29, 2025-11-27T12:22:24.316Z, pid: 0] > dvc --version - FAILED (4ms)
+Command failed with ENOENT: dvc --version
+spawn dvc ENOENT

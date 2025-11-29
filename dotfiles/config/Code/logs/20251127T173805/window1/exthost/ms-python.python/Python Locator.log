@@ -1,0 +1,106 @@
+2025-11-27 17:38:08.845 [info] Starting Python Locator /home/peaches/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python-env-tools/bin/pet server
+2025-11-27 17:38:08.867 [info] Discovered env: /usr/bin/python
+2025-11-27 17:38:08.872 [info] Discovered env: /bin/python
+2025-11-27 17:38:08.873 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:08.873 [info] Discovered env: /sbin/python
+2025-11-27 17:38:08.873 [info] Discovered manager: (Conda) /home/peaches/anaconda3/bin/conda
+2025-11-27 17:38:08.873 [info] Discovered env: /home/peaches/anaconda3/bin/python
+2025-11-27 17:38:08.874 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:08.874 [info] Discovered env: /usr/sbin/python
+2025-11-27 17:38:08.874 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:08.874 [info] Discovered env: /sbin/python3
+2025-11-27 17:38:08.874 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:08.874 [info] Discovered env: /usr/sbin/python3
+2025-11-27 17:38:08.874 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:08.874 [info] Discovered env: /sbin/python3.13
+2025-11-27 17:38:08.875 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:08.875 [info] Discovered env: /usr/sbin/python3.13
+2025-11-27 17:38:08.875 [info] Locator Conda took 225.778344ms
+2025-11-27 17:38:08.875 [info] Locator Homebrew took 59.139µs
+2025-11-27 17:38:08.875 [info] Locator LinuxGlobal took 219.42033ms
+2025-11-27 17:38:08.875 [info] Locator PipEnv took 9.357µs
+2025-11-27 17:38:08.875 [info] Locator Pixi took 19.055µs
+2025-11-27 17:38:08.875 [info] Locator Poetry took 57.798µs
+2025-11-27 17:38:08.875 [info] Locator PyEnv took 124.1µs
+2025-11-27 17:38:08.875 [info] Locator Venv took 55.633µs
+2025-11-27 17:38:08.875 [info] Locator VirtualEnv took 120.864µs
+2025-11-27 17:38:08.875 [info] Locator VirtualEnvWrapper took 15.489µs
+2025-11-27 17:38:08.875 [info] Locator GlobalVirtualEnvs took 87.142µs
+2025-11-27 17:38:08.875 [info] Locator Locators took 225.990236ms
+2025-11-27 17:38:08.875 [info] Locator Path took 247.784753ms
+2025-11-27 17:38:08.875 [info] Locator Workspaces took 1.002µs
+2025-11-27 17:38:08.875 [info] Refresh completed in 247ms
+2025-11-27 17:38:08.886 [info] Resolved Python Environment /usr/bin/python
+2025-11-27 17:38:38.745 [info] Starting Python Locator /home/peaches/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python-env-tools/bin/pet server
+2025-11-27 17:38:38.788 [info] Discovered env: /bin/python
+2025-11-27 17:38:38.789 [info] Discovered env: /usr/bin/python
+2025-11-27 17:38:38.789 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:38.789 [info] Discovered env: /usr/sbin/python
+2025-11-27 17:38:38.794 [info] Resolved Python Environment /usr/bin/python
+2025-11-27 17:38:38.799 [info] Discovered manager: (Conda) /home/peaches/anaconda3/bin/conda
+2025-11-27 17:38:38.800 [info] Discovered env: /home/peaches/anaconda3/bin/python
+2025-11-27 17:38:38.801 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:38.801 [info] Discovered env: /usr/sbin/python3
+2025-11-27 17:38:38.801 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:38.802 [info] Discovered env: /sbin/python
+2025-11-27 17:38:38.811 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:38.812 [info] Discovered env: /sbin/python3
+2025-11-27 17:38:38.812 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:38.812 [info] Discovered env: /usr/sbin/python3.13
+2025-11-27 17:38:38.819 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:38:38.819 [info] Discovered env: /sbin/python3.13
+2025-11-27 17:38:38.820 [info] Locator Conda took 66.680535ms
+2025-11-27 17:38:38.820 [info] Locator Homebrew took 218.335µs
+2025-11-27 17:38:38.820 [info] Locator LinuxGlobal took 53.210656ms
+2025-11-27 17:38:38.820 [info] Locator PipEnv took 24.225µs
+2025-11-27 17:38:38.820 [info] Locator Pixi took 59µs
+2025-11-27 17:38:38.820 [info] Locator Poetry took 140.902µs
+2025-11-27 17:38:38.820 [info] Locator PyEnv took 218.435µs
+2025-11-27 17:38:38.820 [info] Locator Venv took 56.314µs
+2025-11-27 17:38:38.820 [info] Locator VirtualEnv took 45.955µs
+2025-11-27 17:38:38.820 [info] Locator VirtualEnvWrapper took 12.974µs
+2025-11-27 17:38:38.820 [info] Locator GlobalVirtualEnvs took 117.347µs
+2025-11-27 17:38:38.820 [info] Locator Locators took 66.964822ms
+2025-11-27 17:38:38.820 [info] Locator Path took 86.905781ms
+2025-11-27 17:38:38.820 [info] Locator Workspaces took 319.583µs
+2025-11-27 17:38:38.820 [info] Refresh completed in 87ms
+2025-11-27 17:38:38.846 [info] Resolved Python Environment /bin/python
+2025-11-27 17:39:59.187 [info] Resolved Python Environment /bin/python
+2025-11-27 17:43:29.418 [info] Discovered env: /bin/python
+2025-11-27 17:43:29.421 [info] Discovered env: /usr/bin/python
+2025-11-27 17:43:29.421 [info] Resolved Python Environment /bin/python
+2025-11-27 17:43:29.422 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:43:29.422 [info] Discovered env: /usr/sbin/python
+2025-11-27 17:43:29.431 [info] Discovered manager: (Conda) /home/peaches/anaconda3/bin/conda
+2025-11-27 17:43:29.432 [info] Discovered env: /home/peaches/anaconda3/bin/python
+2025-11-27 17:43:29.432 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:43:29.432 [info] Discovered env: /sbin/python
+2025-11-27 17:43:29.433 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:43:29.433 [info] Discovered env: /usr/sbin/python3
+2025-11-27 17:43:29.441 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:43:29.441 [info] Discovered env: /sbin/python3
+2025-11-27 17:43:29.444 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:43:29.444 [info] Discovered env: /usr/sbin/python3.13
+2025-11-27 17:43:29.449 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-11-27 17:43:29.449 [info] Discovered env: /sbin/python3.13
+2025-11-27 17:43:29.450 [info] Locator Conda took 61.244034ms
+2025-11-27 17:43:29.450 [info] Locator Homebrew took 40.737µs
+2025-11-27 17:43:29.450 [info] Locator LinuxGlobal took 50.390104ms
+2025-11-27 17:43:29.450 [info] Locator PipEnv took 12.423µs
+2025-11-27 17:43:29.450 [info] Locator Pixi took 48.572µs
+2025-11-27 17:43:29.450 [info] Locator Poetry took 94.137µs
+2025-11-27 17:43:29.450 [info] Locator PyEnv took 104.627µs
+2025-11-27 17:43:29.450 [info] Locator Venv took 38.111µs
+2025-11-27 17:43:29.450 [info] Locator VirtualEnv took 23.264µs
+2025-11-27 17:43:29.450 [info] Locator VirtualEnvWrapper took 13.174µs
+2025-11-27 17:43:29.450 [info] Locator GlobalVirtualEnvs took 54.903µs
+2025-11-27 17:43:29.450 [info] Locator Locators took 61.40131ms
+2025-11-27 17:43:29.450 [info] Locator Path took 80.026803ms
+2025-11-27 17:43:29.450 [info] Locator Workspaces took 363.734µs
+2025-11-27 17:43:29.450 [info] Refresh completed in 80ms
+2025-11-27 17:43:31.504 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-27 17:44:28.294 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-27 17:46:02.362 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-27 17:47:34.630 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-27 17:48:28.905 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python
+2025-11-27 17:49:04.766 [info] Resolved Python Environment /home/peaches/anaconda3/bin/python

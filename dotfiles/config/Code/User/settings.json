@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Rosé Pine Moon",
+    "workbench.activityBar.location": "top",
+    "notebook.confirmDeleteRunningCell": false,
+    "redhat.telemetry.enabled": true,
+    "terminal.integrated.inheritEnv": false,
+}

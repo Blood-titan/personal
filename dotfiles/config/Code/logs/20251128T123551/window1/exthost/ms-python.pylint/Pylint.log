@@ -1,0 +1,1085 @@
+2025-11-28 12:35:54.493 [info] Name: Pylint
+2025-11-28 12:35:54.493 [info] Module: pylint
+2025-11-28 12:35:54.493 [info] Python extension loading
+2025-11-28 12:35:54.493 [info] Waiting for interpreter from Python extension.
+2025-11-28 12:35:55.723 [info] No interpreter found from setting pylint.interpreter
+2025-11-28 12:35:55.723 [info] Getting interpreter from ms-python.python extension for workspace /home/peaches/learmmml
+2025-11-28 12:35:55.724 [info] Python extension loaded
+2025-11-28 12:35:55.727 [info] Interpreter from ms-python.python extension for /home/peaches/learmmml: /home/peaches/anaconda3/bin/python
+2025-11-28 12:35:55.728 [info] No interpreter found from setting pylint.interpreter
+2025-11-28 12:35:55.728 [info] Getting interpreter from ms-python.python extension for workspace /home/peaches/learmmml
+2025-11-28 12:35:55.734 [info] Interpreter from ms-python.python extension for /home/peaches/learmmml: /home/peaches/anaconda3/bin/python
+2025-11-28 12:35:55.765 [info] Server run command: /home/peaches/anaconda3/bin/python /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/tool/lsp_server.py
+2025-11-28 12:35:55.766 [info] Server: Start requested.
+2025-11-28 12:35:56.123 [info] CWD Server: /home/peaches/learmmml
+2025-11-28 12:35:56.123 [info] Settings used to run Server:
+[
+    {
+        "enabled": true,
+        "cwd": "/home/peaches/learmmml",
+        "workspace": "file:///home/peaches/learmmml",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/peaches/anaconda3/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2025-11-28 12:35:56.123 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "enabled": true,
+    "workspace": "/home/peaches",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2025-11-28 12:35:56.123 [info] sys.path used to run Server:
+   /home/peaches/learmmml
+   /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/libs
+   /home/peaches/.vscode/extensions/ms-python.pylint-2025.2.0/bundled/tool
+   /home/peaches/anaconda3/lib/python312.zip
+   /home/peaches/anaconda3/lib/python3.12
+   /home/peaches/anaconda3/lib/python3.12/lib-dynload
+   /home/peaches/anaconda3/lib/python3.12/site-packages
+2025-11-28 12:35:56.125 [info] /home/peaches/anaconda3/bin/python -m pylint --version
+2025-11-28 12:35:56.125 [info] CWD Linter: /home/peaches/learmmml
+2025-11-28 12:35:56.250 [info] 
+pylint 3.3.4
+astroid 3.3.8
+Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:27:36) [GCC 11.2.0]
+
+
+2025-11-28 12:35:56.251 [info] Version info for linter running for /home/peaches/learmmml:
+pylint 3.3.4
+astroid 3.3.8
+Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:27:36) [GCC 11.2.0]
+
+2025-11-28 12:35:56.251 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==3.3.4
+
+2025-11-28 12:35:56.274 [info] [Trace - 12:35:56 PM] Sending request 'textDocument/codeAction - (1)'.
+2025-11-28 12:35:56.286 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.286 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W0sZmlsZQ%3D%3D
+2025-11-28 12:35:56.287 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.287 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.287 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W1sZmlsZQ%3D%3D
+2025-11-28 12:35:56.287 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.288 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.288 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W2sZmlsZQ%3D%3D
+2025-11-28 12:35:56.289 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.290 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W3sZmlsZQ%3D%3D
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.290 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W4sZmlsZQ%3D%3D
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.290 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W5sZmlsZQ%3D%3D
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.290 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#W6sZmlsZQ%3D%3D
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.290 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X10sZmlsZQ%3D%3D
+2025-11-28 12:35:56.290 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.291 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.291 [info] [Warn  - 12:35:56 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X11sZmlsZQ%3D%3D
+2025-11-28 12:35:56.291 [info] [Trace - 12:35:56 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:56.291 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.291 [info] /home/peaches/anaconda3/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/peaches/learmmml/mai.py
+2025-11-28 12:35:56.291 [info] [Trace - 12:35:56 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:56.291 [info] CWD Linter: /home/peaches/learmmml
+2025-11-28 12:35:57.103 [info] [Trace - 12:35:57 PM] Sending notification '$/cancelRequest'.
+2025-11-28 12:35:57.104 [info] [Trace - 12:35:57 PM] Sending request 'textDocument/codeAction - (2)'.
+2025-11-28 12:35:58.777 [info] [Trace - 12:35:58 PM] Sending request 'textDocument/codeAction - (3)'.
+2025-11-28 12:35:58.777 [info] [Trace - 12:35:58 PM] Sending notification '$/cancelRequest'.
+2025-11-28 12:35:58.971 [info] [Trace - 12:35:58 PM] Received notification 'window/logMessage'.
+2025-11-28 12:35:58.971 [info] file:///home/peaches/learmmml/mai.py :
+[
+    {
+        "type": "convention",
+        "module": "mai",
+        "obj": "",
+        "line": 13,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "mai.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "mai",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "mai.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    }
+]
+
+2025-11-28 12:35:58.971 [info] [Trace - 12:35:58 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:35:58.974 [info] [Trace - 12:35:58 PM] Received response 'textDocument/codeAction - (1)' in 2700ms.
+2025-11-28 12:35:58.975 [info] [Trace - 12:35:58 PM] Received response 'textDocument/codeAction - (2)' in 1871ms.
+2025-11-28 12:35:58.975 [info] [Trace - 12:35:58 PM] Received response 'textDocument/codeAction - (3)' in 198ms.
+2025-11-28 12:36:02.502 [info] [Trace - 12:36:02 PM] Sending request 'textDocument/codeAction - (4)'.
+2025-11-28 12:36:02.504 [info] [Trace - 12:36:02 PM] Received response 'textDocument/codeAction - (4)' in 2ms.
+2025-11-28 12:36:25.825 [info] [Trace - 12:36:25 PM] Sending request 'textDocument/codeAction - (5)'.
+2025-11-28 12:36:25.827 [info] [Trace - 12:36:25 PM] Sending request 'textDocument/codeAction - (6)'.
+2025-11-28 12:36:25.828 [info] [Trace - 12:36:25 PM] Received response 'textDocument/codeAction - (5)' in 3ms.
+2025-11-28 12:36:25.828 [info] [Trace - 12:36:25 PM] Received response 'textDocument/codeAction - (6)' in 1ms.
+2025-11-28 12:36:28.647 [info] [Trace - 12:36:28 PM] Sending request 'textDocument/codeAction - (7)'.
+2025-11-28 12:36:28.648 [info] [Trace - 12:36:28 PM] Sending request 'textDocument/codeAction - (8)'.
+2025-11-28 12:36:28.650 [info] [Trace - 12:36:28 PM] Received response 'textDocument/codeAction - (7)' in 3ms.
+2025-11-28 12:36:28.650 [info] [Trace - 12:36:28 PM] Received response 'textDocument/codeAction - (8)' in 2ms.
+2025-11-28 12:36:42.763 [info] [Trace - 12:36:42 PM] Sending request 'textDocument/codeAction - (9)'.
+2025-11-28 12:36:42.764 [info] [Trace - 12:36:42 PM] Sending request 'textDocument/codeAction - (10)'.
+2025-11-28 12:36:42.766 [info] [Trace - 12:36:42 PM] Received response 'textDocument/codeAction - (9)' in 3ms.
+2025-11-28 12:36:42.767 [info] [Trace - 12:36:42 PM] Received response 'textDocument/codeAction - (10)' in 3ms.
+2025-11-28 12:36:43.507 [info] [Trace - 12:36:43 PM] Sending request 'textDocument/codeAction - (11)'.
+2025-11-28 12:36:43.508 [info] [Trace - 12:36:43 PM] Sending request 'textDocument/codeAction - (12)'.
+2025-11-28 12:36:43.509 [info] [Trace - 12:36:43 PM] Received response 'textDocument/codeAction - (11)' in 2ms.
+2025-11-28 12:36:43.510 [info] [Trace - 12:36:43 PM] Received response 'textDocument/codeAction - (12)' in 2ms.
+2025-11-28 12:36:44.468 [info] [Trace - 12:36:44 PM] Sending request 'textDocument/codeAction - (13)'.
+2025-11-28 12:36:44.469 [info] [Trace - 12:36:44 PM] Sending request 'textDocument/codeAction - (14)'.
+2025-11-28 12:36:44.469 [info] [Trace - 12:36:44 PM] Received response 'textDocument/codeAction - (13)' in 1ms.
+2025-11-28 12:36:44.470 [info] [Trace - 12:36:44 PM] Received response 'textDocument/codeAction - (14)' in 1ms.
+2025-11-28 12:36:46.658 [info] [Trace - 12:36:46 PM] Sending request 'textDocument/codeAction - (15)'.
+2025-11-28 12:36:46.659 [info] [Trace - 12:36:46 PM] Sending request 'textDocument/codeAction - (16)'.
+2025-11-28 12:36:46.660 [info] [Trace - 12:36:46 PM] Received response 'textDocument/codeAction - (15)' in 2ms.
+2025-11-28 12:36:46.660 [info] [Trace - 12:36:46 PM] Received response 'textDocument/codeAction - (16)' in 1ms.
+2025-11-28 12:36:47.767 [info] [Trace - 12:36:47 PM] Sending request 'textDocument/codeAction - (17)'.
+2025-11-28 12:36:47.768 [info] [Trace - 12:36:47 PM] Sending request 'textDocument/codeAction - (18)'.
+2025-11-28 12:36:47.769 [info] [Trace - 12:36:47 PM] Received response 'textDocument/codeAction - (17)' in 2ms.
+2025-11-28 12:36:47.769 [info] [Trace - 12:36:47 PM] Received response 'textDocument/codeAction - (18)' in 1ms.
+2025-11-28 12:36:48.330 [info] [Trace - 12:36:48 PM] Sending request 'textDocument/codeAction - (19)'.
+2025-11-28 12:36:48.331 [info] [Trace - 12:36:48 PM] Sending request 'textDocument/codeAction - (20)'.
+2025-11-28 12:36:48.332 [info] [Trace - 12:36:48 PM] Received response 'textDocument/codeAction - (19)' in 2ms.
+2025-11-28 12:36:48.332 [info] [Trace - 12:36:48 PM] Received response 'textDocument/codeAction - (20)' in 1ms.
+2025-11-28 12:36:48.598 [info] [Trace - 12:36:48 PM] Sending request 'textDocument/codeAction - (21)'.
+2025-11-28 12:36:48.599 [info] [Trace - 12:36:48 PM] Sending request 'textDocument/codeAction - (22)'.
+2025-11-28 12:36:48.600 [info] [Trace - 12:36:48 PM] Received response 'textDocument/codeAction - (21)' in 2ms.
+2025-11-28 12:36:48.600 [info] [Trace - 12:36:48 PM] Received response 'textDocument/codeAction - (22)' in 1ms.
+2025-11-28 12:36:49.102 [info] [Trace - 12:36:49 PM] Sending request 'textDocument/codeAction - (23)'.
+2025-11-28 12:36:49.103 [info] [Trace - 12:36:49 PM] Sending request 'textDocument/codeAction - (24)'.
+2025-11-28 12:36:49.104 [info] [Trace - 12:36:49 PM] Received response 'textDocument/codeAction - (23)' in 2ms.
+2025-11-28 12:36:49.104 [info] [Trace - 12:36:49 PM] Received response 'textDocument/codeAction - (24)' in 1ms.
+2025-11-28 12:36:50.127 [info] [Trace - 12:36:50 PM] Sending request 'textDocument/codeAction - (25)'.
+2025-11-28 12:36:50.128 [info] [Trace - 12:36:50 PM] Sending request 'textDocument/codeAction - (26)'.
+2025-11-28 12:36:50.130 [info] [Trace - 12:36:50 PM] Received response 'textDocument/codeAction - (25)' in 3ms.
+2025-11-28 12:36:50.130 [info] [Trace - 12:36:50 PM] Received response 'textDocument/codeAction - (26)' in 2ms.
+2025-11-28 12:37:16.540 [info] [Trace - 12:37:16 PM] Sending request 'textDocument/codeAction - (27)'.
+2025-11-28 12:37:16.542 [info] [Trace - 12:37:16 PM] Received response 'textDocument/codeAction - (27)' in 2ms.
+2025-11-28 12:37:17.999 [info] [Trace - 12:37:17 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:18.161 [info] [Trace - 12:37:18 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:18.412 [info] [Trace - 12:37:18 PM] Sending request 'textDocument/codeAction - (28)'.
+2025-11-28 12:37:18.414 [info] [Trace - 12:37:18 PM] Received response 'textDocument/codeAction - (28)' in 2ms.
+2025-11-28 12:37:18.672 [info] [Trace - 12:37:18 PM] Sending request 'textDocument/codeAction - (29)'.
+2025-11-28 12:37:18.674 [info] [Trace - 12:37:18 PM] Received response 'textDocument/codeAction - (29)' in 2ms.
+2025-11-28 12:37:19.149 [info] [Trace - 12:37:19 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:19.241 [info] [Trace - 12:37:19 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:19.501 [info] [Trace - 12:37:19 PM] Sending request 'textDocument/codeAction - (30)'.
+2025-11-28 12:37:19.502 [info] [Trace - 12:37:19 PM] Received response 'textDocument/codeAction - (30)' in 1ms.
+2025-11-28 12:37:19.509 [info] [Trace - 12:37:19 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:20.017 [info] [Trace - 12:37:20 PM] Sending request 'textDocument/codeAction - (31)'.
+2025-11-28 12:37:20.018 [info] [Trace - 12:37:20 PM] Received response 'textDocument/codeAction - (31)' in 1ms.
+2025-11-28 12:37:21.928 [info] [Trace - 12:37:21 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:22.097 [info] [Trace - 12:37:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:22.341 [info] [Trace - 12:37:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:22.890 [info] [Trace - 12:37:22 PM] Sending request 'textDocument/codeAction - (32)'.
+2025-11-28 12:37:22.891 [info] [Trace - 12:37:22 PM] Received response 'textDocument/codeAction - (32)' in 1ms.
+2025-11-28 12:37:23.875 [info] [Trace - 12:37:23 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:24.425 [info] [Trace - 12:37:24 PM] Sending request 'textDocument/codeAction - (33)'.
+2025-11-28 12:37:24.427 [info] [Trace - 12:37:24 PM] Received response 'textDocument/codeAction - (33)' in 2ms.
+2025-11-28 12:37:24.669 [info] [Trace - 12:37:24 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:25.210 [info] [Trace - 12:37:25 PM] Sending request 'textDocument/codeAction - (34)'.
+2025-11-28 12:37:25.211 [info] [Trace - 12:37:25 PM] Received response 'textDocument/codeAction - (34)' in 1ms.
+2025-11-28 12:37:25.284 [info] [Trace - 12:37:25 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:25.947 [info] [Trace - 12:37:25 PM] Sending request 'textDocument/codeAction - (35)'.
+2025-11-28 12:37:25.948 [info] [Trace - 12:37:25 PM] Received response 'textDocument/codeAction - (35)' in 1ms.
+2025-11-28 12:37:26.787 [info] [Trace - 12:37:26 PM] Sending request 'textDocument/codeAction - (36)'.
+2025-11-28 12:37:26.789 [info] [Trace - 12:37:26 PM] Received response 'textDocument/codeAction - (36)' in 2ms.
+2025-11-28 12:37:27.248 [info] [Trace - 12:37:27 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:27.507 [info] [Trace - 12:37:27 PM] Sending request 'textDocument/codeAction - (37)'.
+2025-11-28 12:37:27.508 [info] [Trace - 12:37:27 PM] Received response 'textDocument/codeAction - (37)' in 1ms.
+2025-11-28 12:37:27.759 [info] [Trace - 12:37:27 PM] Sending request 'textDocument/codeAction - (38)'.
+2025-11-28 12:37:27.761 [info] [Trace - 12:37:27 PM] Received response 'textDocument/codeAction - (38)' in 2ms.
+2025-11-28 12:37:28.060 [info] [Trace - 12:37:28 PM] Sending request 'textDocument/codeAction - (39)'.
+2025-11-28 12:37:28.062 [info] [Trace - 12:37:28 PM] Received response 'textDocument/codeAction - (39)' in 2ms.
+2025-11-28 12:37:28.981 [info] [Trace - 12:37:28 PM] Sending request 'textDocument/codeAction - (40)'.
+2025-11-28 12:37:28.982 [info] [Trace - 12:37:28 PM] Received response 'textDocument/codeAction - (40)' in 1ms.
+2025-11-28 12:37:30.927 [info] [Trace - 12:37:30 PM] Sending request 'textDocument/codeAction - (41)'.
+2025-11-28 12:37:30.928 [info] [Trace - 12:37:30 PM] Received response 'textDocument/codeAction - (41)' in 1ms.
+2025-11-28 12:37:32.642 [info] [Trace - 12:37:32 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:32.876 [info] [Trace - 12:37:32 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:33.134 [info] [Trace - 12:37:33 PM] Sending request 'textDocument/codeAction - (42)'.
+2025-11-28 12:37:33.135 [info] [Trace - 12:37:33 PM] Received response 'textDocument/codeAction - (42)' in 1ms.
+2025-11-28 12:37:33.416 [info] [Trace - 12:37:33 PM] Sending request 'textDocument/codeAction - (43)'.
+2025-11-28 12:37:33.418 [info] [Trace - 12:37:33 PM] Received response 'textDocument/codeAction - (43)' in 2ms.
+2025-11-28 12:37:34.090 [info] [Trace - 12:37:34 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:34.597 [info] [Trace - 12:37:34 PM] Sending request 'textDocument/codeAction - (44)'.
+2025-11-28 12:37:34.598 [info] [Trace - 12:37:34 PM] Received response 'textDocument/codeAction - (44)' in 1ms.
+2025-11-28 12:37:34.767 [info] [Trace - 12:37:34 PM] Sending notification 'textDocument/didOpen'.
+2025-11-28 12:37:34.770 [info] [Trace - 12:37:34 PM] Received notification 'window/logMessage'.
+2025-11-28 12:37:34.770 [info] [Warn  - 12:37:34 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X12sZmlsZQ%3D%3D
+2025-11-28 12:37:34.770 [info] [Trace - 12:37:34 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:37:35.067 [info] [Trace - 12:37:35 PM] Sending request 'textDocument/codeAction - (45)'.
+2025-11-28 12:37:35.069 [info] [Trace - 12:37:35 PM] Received response 'textDocument/codeAction - (45)' in 2ms.
+2025-11-28 12:37:35.577 [info] [Trace - 12:37:35 PM] Sending request 'textDocument/codeAction - (46)'.
+2025-11-28 12:37:35.578 [info] [Trace - 12:37:35 PM] Received response 'textDocument/codeAction - (46)' in 1ms.
+2025-11-28 12:37:42.907 [info] [Trace - 12:37:42 PM] Sending request 'textDocument/codeAction - (47)'.
+2025-11-28 12:37:42.908 [info] [Trace - 12:37:42 PM] Received response 'textDocument/codeAction - (47)' in 1ms.
+2025-11-28 12:37:43.447 [info] [Trace - 12:37:43 PM] Sending request 'textDocument/codeAction - (48)'.
+2025-11-28 12:37:43.449 [info] [Trace - 12:37:43 PM] Received response 'textDocument/codeAction - (48)' in 2ms.
+2025-11-28 12:37:44.242 [info] [Trace - 12:37:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:44.367 [info] [Trace - 12:37:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:44.612 [info] [Trace - 12:37:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:44.868 [info] [Trace - 12:37:44 PM] Sending request 'textDocument/codeAction - (49)'.
+2025-11-28 12:37:44.870 [info] [Trace - 12:37:44 PM] Received response 'textDocument/codeAction - (49)' in 2ms.
+2025-11-28 12:37:44.924 [info] [Trace - 12:37:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:45.182 [info] [Trace - 12:37:45 PM] Sending request 'textDocument/codeAction - (50)'.
+2025-11-28 12:37:45.182 [info] [Trace - 12:37:45 PM] Received response 'textDocument/codeAction - (50)' in 0ms.
+2025-11-28 12:37:49.006 [info] [Trace - 12:37:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:49.080 [info] [Trace - 12:37:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:49.300 [info] [Trace - 12:37:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:49.555 [info] [Trace - 12:37:49 PM] Sending request 'textDocument/codeAction - (51)'.
+2025-11-28 12:37:49.557 [info] [Trace - 12:37:49 PM] Received response 'textDocument/codeAction - (51)' in 2ms.
+2025-11-28 12:37:49.645 [info] [Trace - 12:37:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:49.902 [info] [Trace - 12:37:49 PM] Sending request 'textDocument/codeAction - (52)'.
+2025-11-28 12:37:49.904 [info] [Trace - 12:37:49 PM] Received response 'textDocument/codeAction - (52)' in 2ms.
+2025-11-28 12:37:50.198 [info] [Trace - 12:37:50 PM] Sending request 'textDocument/codeAction - (53)'.
+2025-11-28 12:37:50.199 [info] [Trace - 12:37:50 PM] Received response 'textDocument/codeAction - (53)' in 1ms.
+2025-11-28 12:37:51.340 [info] [Trace - 12:37:51 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:51.345 [info] [Trace - 12:37:51 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:51.360 [info] [Trace - 12:37:51 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:51.904 [info] [Trace - 12:37:51 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:52.064 [info] [Trace - 12:37:52 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:52.215 [info] [Trace - 12:37:52 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:52.418 [info] [Trace - 12:37:52 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:53.389 [info] [Trace - 12:37:53 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:53.531 [info] [Trace - 12:37:53 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:53.742 [info] [Trace - 12:37:53 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:53.969 [info] [Trace - 12:37:53 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:54.188 [info] [Trace - 12:37:54 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:55.428 [info] [Trace - 12:37:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:55.972 [info] [Trace - 12:37:55 PM] Sending request 'textDocument/codeAction - (54)'.
+2025-11-28 12:37:55.974 [info] [Trace - 12:37:55 PM] Received response 'textDocument/codeAction - (54)' in 2ms.
+2025-11-28 12:37:57.771 [info] [Trace - 12:37:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:58.315 [info] [Trace - 12:37:58 PM] Sending request 'textDocument/codeAction - (55)'.
+2025-11-28 12:37:58.316 [info] [Trace - 12:37:58 PM] Received response 'textDocument/codeAction - (55)' in 1ms.
+2025-11-28 12:37:58.412 [info] [Trace - 12:37:58 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:37:58.961 [info] [Trace - 12:37:58 PM] Sending request 'textDocument/codeAction - (56)'.
+2025-11-28 12:37:58.962 [info] [Trace - 12:37:58 PM] Received response 'textDocument/codeAction - (56)' in 1ms.
+2025-11-28 12:38:00.021 [info] [Trace - 12:38:00 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:00.566 [info] [Trace - 12:38:00 PM] Sending request 'textDocument/codeAction - (57)'.
+2025-11-28 12:38:00.568 [info] [Trace - 12:38:00 PM] Received response 'textDocument/codeAction - (57)' in 2ms.
+2025-11-28 12:38:02.112 [info] [Trace - 12:38:02 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:02.592 [info] [Trace - 12:38:02 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:03.136 [info] [Trace - 12:38:03 PM] Sending request 'textDocument/codeAction - (58)'.
+2025-11-28 12:38:03.138 [info] [Trace - 12:38:03 PM] Received response 'textDocument/codeAction - (58)' in 2ms.
+2025-11-28 12:38:03.326 [info] [Trace - 12:38:03 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:03.555 [info] [Trace - 12:38:03 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:04.069 [info] [Trace - 12:38:04 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:04.610 [info] [Trace - 12:38:04 PM] Sending request 'textDocument/codeAction - (59)'.
+2025-11-28 12:38:04.612 [info] [Trace - 12:38:04 PM] Received response 'textDocument/codeAction - (59)' in 2ms.
+2025-11-28 12:38:04.845 [info] [Trace - 12:38:04 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:05.385 [info] [Trace - 12:38:05 PM] Sending request 'textDocument/codeAction - (60)'.
+2025-11-28 12:38:05.387 [info] [Trace - 12:38:05 PM] Received response 'textDocument/codeAction - (60)' in 2ms.
+2025-11-28 12:38:05.426 [info] [Trace - 12:38:05 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:05.595 [info] [Trace - 12:38:05 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:05.821 [info] [Trace - 12:38:05 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:06.365 [info] [Trace - 12:38:06 PM] Sending request 'textDocument/codeAction - (61)'.
+2025-11-28 12:38:06.366 [info] [Trace - 12:38:06 PM] Received response 'textDocument/codeAction - (61)' in 1ms.
+2025-11-28 12:38:09.472 [info] [Trace - 12:38:09 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:10.012 [info] [Trace - 12:38:10 PM] Sending request 'textDocument/codeAction - (62)'.
+2025-11-28 12:38:10.014 [info] [Trace - 12:38:10 PM] Received response 'textDocument/codeAction - (62)' in 2ms.
+2025-11-28 12:38:10.500 [info] [Trace - 12:38:10 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:10.568 [info] [Trace - 12:38:10 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:10.906 [info] [Trace - 12:38:10 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:13.397 [info] [Trace - 12:38:13 PM] Sending request 'textDocument/codeAction - (63)'.
+2025-11-28 12:38:13.398 [info] [Trace - 12:38:13 PM] Received response 'textDocument/codeAction - (63)' in 1ms.
+2025-11-28 12:38:14.278 [info] [Trace - 12:38:14 PM] Sending request 'textDocument/codeAction - (64)'.
+2025-11-28 12:38:14.280 [info] [Trace - 12:38:14 PM] Received response 'textDocument/codeAction - (64)' in 2ms.
+2025-11-28 12:38:14.789 [info] [Trace - 12:38:14 PM] Sending request 'textDocument/codeAction - (65)'.
+2025-11-28 12:38:14.790 [info] [Trace - 12:38:14 PM] Received response 'textDocument/codeAction - (65)' in 1ms.
+2025-11-28 12:38:17.075 [info] [Trace - 12:38:17 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:17.618 [info] [Trace - 12:38:17 PM] Sending request 'textDocument/codeAction - (66)'.
+2025-11-28 12:38:17.619 [info] [Trace - 12:38:17 PM] Received response 'textDocument/codeAction - (66)' in 1ms.
+2025-11-28 12:38:17.872 [info] [Trace - 12:38:17 PM] Sending request 'textDocument/codeAction - (67)'.
+2025-11-28 12:38:17.873 [info] [Trace - 12:38:17 PM] Received response 'textDocument/codeAction - (67)' in 1ms.
+2025-11-28 12:38:18.558 [info] [Trace - 12:38:18 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:18.718 [info] [Trace - 12:38:18 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:18.972 [info] [Trace - 12:38:18 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:19.481 [info] [Trace - 12:38:19 PM] Sending request 'textDocument/codeAction - (68)'.
+2025-11-28 12:38:19.482 [info] [Trace - 12:38:19 PM] Received response 'textDocument/codeAction - (68)' in 1ms.
+2025-11-28 12:38:19.519 [info] [Trace - 12:38:19 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:19.646 [info] [Trace - 12:38:19 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:19.975 [info] [Trace - 12:38:19 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:20.517 [info] [Trace - 12:38:20 PM] Sending request 'textDocument/codeAction - (69)'.
+2025-11-28 12:38:20.518 [info] [Trace - 12:38:20 PM] Received response 'textDocument/codeAction - (69)' in 1ms.
+2025-11-28 12:38:21.003 [info] [Trace - 12:38:21 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:21.162 [info] [Trace - 12:38:21 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:21.372 [info] [Trace - 12:38:21 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:21.913 [info] [Trace - 12:38:21 PM] Sending request 'textDocument/codeAction - (70)'.
+2025-11-28 12:38:21.914 [info] [Trace - 12:38:21 PM] Received response 'textDocument/codeAction - (70)' in 1ms.
+2025-11-28 12:38:22.140 [info] [Trace - 12:38:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:22.301 [info] [Trace - 12:38:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:22.478 [info] [Trace - 12:38:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:22.738 [info] [Trace - 12:38:22 PM] Sending request 'textDocument/codeAction - (71)'.
+2025-11-28 12:38:22.739 [info] [Trace - 12:38:22 PM] Received response 'textDocument/codeAction - (71)' in 1ms.
+2025-11-28 12:38:22.757 [info] [Trace - 12:38:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:23.265 [info] [Trace - 12:38:23 PM] Sending request 'textDocument/codeAction - (72)'.
+2025-11-28 12:38:23.267 [info] [Trace - 12:38:23 PM] Received response 'textDocument/codeAction - (72)' in 2ms.
+2025-11-28 12:38:23.708 [info] [Trace - 12:38:23 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:24.247 [info] [Trace - 12:38:24 PM] Sending request 'textDocument/codeAction - (73)'.
+2025-11-28 12:38:24.249 [info] [Trace - 12:38:24 PM] Received response 'textDocument/codeAction - (73)' in 2ms.
+2025-11-28 12:38:24.399 [info] [Trace - 12:38:24 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:24.940 [info] [Trace - 12:38:24 PM] Sending request 'textDocument/codeAction - (74)'.
+2025-11-28 12:38:24.941 [info] [Trace - 12:38:24 PM] Received response 'textDocument/codeAction - (74)' in 1ms.
+2025-11-28 12:38:26.850 [info] [Trace - 12:38:26 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:27.044 [info] [Trace - 12:38:27 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:27.586 [info] [Trace - 12:38:27 PM] Sending request 'textDocument/codeAction - (75)'.
+2025-11-28 12:38:27.587 [info] [Trace - 12:38:27 PM] Received response 'textDocument/codeAction - (75)' in 1ms.
+2025-11-28 12:38:27.685 [info] [Trace - 12:38:27 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:27.786 [info] [Trace - 12:38:27 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:28.139 [info] [Trace - 12:38:28 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:28.397 [info] [Trace - 12:38:28 PM] Sending request 'textDocument/codeAction - (76)'.
+2025-11-28 12:38:28.399 [info] [Trace - 12:38:28 PM] Received response 'textDocument/codeAction - (76)' in 2ms.
+2025-11-28 12:38:28.688 [info] [Trace - 12:38:28 PM] Sending request 'textDocument/codeAction - (77)'.
+2025-11-28 12:38:28.689 [info] [Trace - 12:38:28 PM] Received response 'textDocument/codeAction - (77)' in 1ms.
+2025-11-28 12:38:32.420 [info] [Trace - 12:38:32 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:32.579 [info] [Trace - 12:38:32 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:33.124 [info] [Trace - 12:38:33 PM] Sending request 'textDocument/codeAction - (78)'.
+2025-11-28 12:38:33.125 [info] [Trace - 12:38:33 PM] Received response 'textDocument/codeAction - (78)' in 2ms.
+2025-11-28 12:38:41.153 [info] [Trace - 12:38:41 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:41.694 [info] [Trace - 12:38:41 PM] Sending request 'textDocument/codeAction - (79)'.
+2025-11-28 12:38:41.696 [info] [Trace - 12:38:41 PM] Received response 'textDocument/codeAction - (79)' in 2ms.
+2025-11-28 12:38:41.700 [info] [Trace - 12:38:41 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:41.835 [info] [Trace - 12:38:41 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:42.375 [info] [Trace - 12:38:42 PM] Sending request 'textDocument/codeAction - (80)'.
+2025-11-28 12:38:42.376 [info] [Trace - 12:38:42 PM] Received response 'textDocument/codeAction - (80)' in 1ms.
+2025-11-28 12:38:42.796 [info] [Trace - 12:38:42 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:43.083 [info] [Trace - 12:38:43 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:43.866 [info] [Trace - 12:38:43 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:44.406 [info] [Trace - 12:38:44 PM] Sending request 'textDocument/codeAction - (81)'.
+2025-11-28 12:38:44.408 [info] [Trace - 12:38:44 PM] Received response 'textDocument/codeAction - (81)' in 2ms.
+2025-11-28 12:38:44.938 [info] [Trace - 12:38:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:45.367 [info] [Trace - 12:38:45 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:45.493 [info] [Trace - 12:38:45 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:46.037 [info] [Trace - 12:38:46 PM] Sending request 'textDocument/codeAction - (82)'.
+2025-11-28 12:38:46.038 [info] [Trace - 12:38:46 PM] Received response 'textDocument/codeAction - (82)' in 1ms.
+2025-11-28 12:38:46.049 [info] [Trace - 12:38:46 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:46.185 [info] [Trace - 12:38:46 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:46.495 [info] [Trace - 12:38:46 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:47.035 [info] [Trace - 12:38:47 PM] Sending request 'textDocument/codeAction - (83)'.
+2025-11-28 12:38:47.037 [info] [Trace - 12:38:47 PM] Received response 'textDocument/codeAction - (83)' in 2ms.
+2025-11-28 12:38:47.255 [info] [Trace - 12:38:47 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:47.415 [info] [Trace - 12:38:47 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:47.954 [info] [Trace - 12:38:47 PM] Sending request 'textDocument/codeAction - (84)'.
+2025-11-28 12:38:47.956 [info] [Trace - 12:38:47 PM] Received response 'textDocument/codeAction - (84)' in 2ms.
+2025-11-28 12:38:48.132 [info] [Trace - 12:38:48 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:48.545 [info] [Trace - 12:38:48 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:49.084 [info] [Trace - 12:38:49 PM] Sending request 'textDocument/codeAction - (85)'.
+2025-11-28 12:38:49.086 [info] [Trace - 12:38:49 PM] Received response 'textDocument/codeAction - (85)' in 2ms.
+2025-11-28 12:38:50.437 [info] [Trace - 12:38:50 PM] Sending request 'textDocument/codeAction - (86)'.
+2025-11-28 12:38:50.439 [info] [Trace - 12:38:50 PM] Received response 'textDocument/codeAction - (86)' in 2ms.
+2025-11-28 12:38:53.275 [info] [Trace - 12:38:53 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:53.527 [info] [Trace - 12:38:53 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:54.036 [info] [Trace - 12:38:54 PM] Sending request 'textDocument/codeAction - (87)'.
+2025-11-28 12:38:54.038 [info] [Trace - 12:38:54 PM] Received response 'textDocument/codeAction - (87)' in 1ms.
+2025-11-28 12:38:55.069 [info] [Trace - 12:38:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:55.364 [info] [Trace - 12:38:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:55.901 [info] [Trace - 12:38:55 PM] Sending request 'textDocument/codeAction - (88)'.
+2025-11-28 12:38:55.902 [info] [Trace - 12:38:55 PM] Received response 'textDocument/codeAction - (88)' in 1ms.
+2025-11-28 12:38:56.738 [info] [Trace - 12:38:56 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:57.278 [info] [Trace - 12:38:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:38:57.821 [info] [Trace - 12:38:57 PM] Sending request 'textDocument/codeAction - (89)'.
+2025-11-28 12:38:57.822 [info] [Trace - 12:38:57 PM] Received response 'textDocument/codeAction - (89)' in 1ms.
+2025-11-28 12:39:02.446 [info] [Trace - 12:39:02 PM] Sending request 'textDocument/codeAction - (90)'.
+2025-11-28 12:39:02.447 [info] [Trace - 12:39:02 PM] Received response 'textDocument/codeAction - (90)' in 1ms.
+2025-11-28 12:39:02.780 [info] [Trace - 12:39:02 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:03.336 [info] [Trace - 12:39:03 PM] Sending request 'textDocument/codeAction - (91)'.
+2025-11-28 12:39:03.337 [info] [Trace - 12:39:03 PM] Received response 'textDocument/codeAction - (91)' in 1ms.
+2025-11-28 12:39:04.395 [info] [Trace - 12:39:04 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:04.935 [info] [Trace - 12:39:04 PM] Sending request 'textDocument/codeAction - (92)'.
+2025-11-28 12:39:04.937 [info] [Trace - 12:39:04 PM] Received response 'textDocument/codeAction - (92)' in 1ms.
+2025-11-28 12:39:07.622 [info] [Trace - 12:39:07 PM] Sending request 'textDocument/codeAction - (93)'.
+2025-11-28 12:39:07.623 [info] [Trace - 12:39:07 PM] Received response 'textDocument/codeAction - (93)' in 1ms.
+2025-11-28 12:39:07.992 [info] [Trace - 12:39:07 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:08.545 [info] [Trace - 12:39:08 PM] Sending request 'textDocument/codeAction - (94)'.
+2025-11-28 12:39:08.547 [info] [Trace - 12:39:08 PM] Received response 'textDocument/codeAction - (94)' in 2ms.
+2025-11-28 12:39:09.734 [info] [Trace - 12:39:09 PM] Sending notification 'textDocument/didOpen'.
+2025-11-28 12:39:09.736 [info] [Trace - 12:39:09 PM] Received notification 'window/logMessage'.
+2025-11-28 12:39:09.736 [info] [Warn  - 12:39:09 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X13sZmlsZQ%3D%3D
+2025-11-28 12:39:09.736 [info] [Trace - 12:39:09 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:39:10.344 [info] [Trace - 12:39:10 PM] Sending request 'textDocument/codeAction - (95)'.
+2025-11-28 12:39:10.346 [info] [Trace - 12:39:10 PM] Received response 'textDocument/codeAction - (95)' in 2ms.
+2025-11-28 12:39:15.123 [info] [Trace - 12:39:15 PM] Sending notification 'textDocument/didOpen'.
+2025-11-28 12:39:15.124 [info] [Trace - 12:39:15 PM] Received notification 'window/logMessage'.
+2025-11-28 12:39:15.124 [info] [Warn  - 12:39:15 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X14sZmlsZQ%3D%3D
+2025-11-28 12:39:15.124 [info] [Trace - 12:39:15 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:39:15.662 [info] [Trace - 12:39:15 PM] Sending request 'textDocument/codeAction - (96)'.
+2025-11-28 12:39:15.663 [info] [Trace - 12:39:15 PM] Received response 'textDocument/codeAction - (96)' in 1ms.
+2025-11-28 12:39:19.165 [info] [Trace - 12:39:19 PM] Sending request 'textDocument/codeAction - (97)'.
+2025-11-28 12:39:19.167 [info] [Trace - 12:39:19 PM] Received response 'textDocument/codeAction - (97)' in 2ms.
+2025-11-28 12:39:19.518 [info] [Trace - 12:39:19 PM] Sending request 'textDocument/codeAction - (98)'.
+2025-11-28 12:39:19.520 [info] [Trace - 12:39:19 PM] Received response 'textDocument/codeAction - (98)' in 2ms.
+2025-11-28 12:39:20.257 [info] [Trace - 12:39:20 PM] Sending request 'textDocument/codeAction - (99)'.
+2025-11-28 12:39:20.259 [info] [Trace - 12:39:20 PM] Received response 'textDocument/codeAction - (99)' in 2ms.
+2025-11-28 12:39:20.294 [info] [Trace - 12:39:20 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:20.421 [info] [Trace - 12:39:20 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:20.962 [info] [Trace - 12:39:20 PM] Sending request 'textDocument/codeAction - (100)'.
+2025-11-28 12:39:20.964 [info] [Trace - 12:39:20 PM] Received response 'textDocument/codeAction - (100)' in 2ms.
+2025-11-28 12:39:21.719 [info] [Trace - 12:39:21 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:21.956 [info] [Trace - 12:39:21 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:22.498 [info] [Trace - 12:39:22 PM] Sending request 'textDocument/codeAction - (101)'.
+2025-11-28 12:39:22.499 [info] [Trace - 12:39:22 PM] Received response 'textDocument/codeAction - (101)' in 1ms.
+2025-11-28 12:39:22.521 [info] [Trace - 12:39:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:22.698 [info] [Trace - 12:39:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:23.245 [info] [Trace - 12:39:23 PM] Sending request 'textDocument/codeAction - (102)'.
+2025-11-28 12:39:23.247 [info] [Trace - 12:39:23 PM] Received response 'textDocument/codeAction - (102)' in 2ms.
+2025-11-28 12:39:23.817 [info] [Trace - 12:39:23 PM] Sending request 'textDocument/codeAction - (103)'.
+2025-11-28 12:39:23.818 [info] [Trace - 12:39:23 PM] Received response 'textDocument/codeAction - (103)' in 1ms.
+2025-11-28 12:39:24.077 [info] [Trace - 12:39:24 PM] Sending request 'textDocument/codeAction - (104)'.
+2025-11-28 12:39:24.079 [info] [Trace - 12:39:24 PM] Received response 'textDocument/codeAction - (104)' in 2ms.
+2025-11-28 12:39:30.322 [info] [Trace - 12:39:30 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:30.574 [info] [Trace - 12:39:30 PM] Sending request 'textDocument/codeAction - (105)'.
+2025-11-28 12:39:30.576 [info] [Trace - 12:39:30 PM] Received response 'textDocument/codeAction - (105)' in 2ms.
+2025-11-28 12:39:30.829 [info] [Trace - 12:39:30 PM] Sending request 'textDocument/codeAction - (106)'.
+2025-11-28 12:39:30.830 [info] [Trace - 12:39:30 PM] Received response 'textDocument/codeAction - (106)' in 1ms.
+2025-11-28 12:39:35.287 [info] [Trace - 12:39:35 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:35.537 [info] [Trace - 12:39:35 PM] Sending request 'textDocument/codeAction - (107)'.
+2025-11-28 12:39:35.539 [info] [Trace - 12:39:35 PM] Received response 'textDocument/codeAction - (107)' in 2ms.
+2025-11-28 12:39:36.526 [info] [Trace - 12:39:36 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:36.784 [info] [Trace - 12:39:36 PM] Sending request 'textDocument/codeAction - (108)'.
+2025-11-28 12:39:36.785 [info] [Trace - 12:39:36 PM] Received response 'textDocument/codeAction - (108)' in 1ms.
+2025-11-28 12:39:37.070 [info] [Trace - 12:39:37 PM] Sending request 'textDocument/codeAction - (109)'.
+2025-11-28 12:39:37.072 [info] [Trace - 12:39:37 PM] Received response 'textDocument/codeAction - (109)' in 2ms.
+2025-11-28 12:39:37.099 [info] [Trace - 12:39:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:37.360 [info] [Trace - 12:39:37 PM] Sending request 'textDocument/codeAction - (110)'.
+2025-11-28 12:39:37.362 [info] [Trace - 12:39:37 PM] Received response 'textDocument/codeAction - (110)' in 2ms.
+2025-11-28 12:39:37.546 [info] [Trace - 12:39:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:37.655 [info] [Trace - 12:39:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:37.913 [info] [Trace - 12:39:37 PM] Sending request 'textDocument/codeAction - (111)'.
+2025-11-28 12:39:37.914 [info] [Trace - 12:39:37 PM] Received response 'textDocument/codeAction - (111)' in 1ms.
+2025-11-28 12:39:38.018 [info] [Trace - 12:39:38 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:38.625 [info] [Trace - 12:39:38 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:38.717 [info] [Trace - 12:39:38 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:40.513 [info] [Trace - 12:39:40 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:40.757 [info] [Trace - 12:39:40 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:40.759 [info] [Trace - 12:39:40 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:41.299 [info] [Trace - 12:39:41 PM] Sending request 'textDocument/codeAction - (112)'.
+2025-11-28 12:39:41.300 [info] [Trace - 12:39:41 PM] Received response 'textDocument/codeAction - (112)' in 1ms.
+2025-11-28 12:39:41.399 [info] [Trace - 12:39:41 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:41.692 [info] [Trace - 12:39:41 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:41.937 [info] [Trace - 12:39:41 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:42.274 [info] [Trace - 12:39:42 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:42.582 [info] [Trace - 12:39:42 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:42.835 [info] [Trace - 12:39:42 PM] Sending request 'textDocument/codeAction - (113)'.
+2025-11-28 12:39:42.836 [info] [Trace - 12:39:42 PM] Received response 'textDocument/codeAction - (113)' in 1ms.
+2025-11-28 12:39:43.125 [info] [Trace - 12:39:43 PM] Sending request 'textDocument/codeAction - (114)'.
+2025-11-28 12:39:43.126 [info] [Trace - 12:39:43 PM] Received response 'textDocument/codeAction - (114)' in 1ms.
+2025-11-28 12:39:43.573 [info] [Trace - 12:39:43 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:43.714 [info] [Trace - 12:39:43 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:43.910 [info] [Trace - 12:39:43 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:44.027 [info] [Trace - 12:39:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:44.146 [info] [Trace - 12:39:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:44.238 [info] [Trace - 12:39:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:44.365 [info] [Trace - 12:39:44 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:44.905 [info] [Trace - 12:39:44 PM] Sending request 'textDocument/codeAction - (115)'.
+2025-11-28 12:39:44.907 [info] [Trace - 12:39:44 PM] Received response 'textDocument/codeAction - (115)' in 2ms.
+2025-11-28 12:39:45.007 [info] [Trace - 12:39:45 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:45.264 [info] [Trace - 12:39:45 PM] Sending request 'textDocument/codeAction - (116)'.
+2025-11-28 12:39:45.266 [info] [Trace - 12:39:45 PM] Received response 'textDocument/codeAction - (116)' in 2ms.
+2025-11-28 12:39:45.410 [info] [Trace - 12:39:45 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:45.670 [info] [Trace - 12:39:45 PM] Sending request 'textDocument/codeAction - (117)'.
+2025-11-28 12:39:45.671 [info] [Trace - 12:39:45 PM] Received response 'textDocument/codeAction - (117)' in 1ms.
+2025-11-28 12:39:45.949 [info] [Trace - 12:39:45 PM] Sending request 'textDocument/codeAction - (118)'.
+2025-11-28 12:39:45.951 [info] [Trace - 12:39:45 PM] Received response 'textDocument/codeAction - (118)' in 2ms.
+2025-11-28 12:39:46.093 [info] [Trace - 12:39:46 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:46.599 [info] [Trace - 12:39:46 PM] Sending request 'textDocument/codeAction - (119)'.
+2025-11-28 12:39:46.600 [info] [Trace - 12:39:46 PM] Received response 'textDocument/codeAction - (119)' in 1ms.
+2025-11-28 12:39:47.485 [info] [Trace - 12:39:47 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:47.743 [info] [Trace - 12:39:47 PM] Sending request 'textDocument/codeAction - (120)'.
+2025-11-28 12:39:47.744 [info] [Trace - 12:39:47 PM] Received response 'textDocument/codeAction - (120)' in 1ms.
+2025-11-28 12:39:48.021 [info] [Trace - 12:39:48 PM] Sending request 'textDocument/codeAction - (121)'.
+2025-11-28 12:39:48.022 [info] [Trace - 12:39:48 PM] Received response 'textDocument/codeAction - (121)' in 1ms.
+2025-11-28 12:39:48.065 [info] [Trace - 12:39:48 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:48.251 [info] [Trace - 12:39:48 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:48.502 [info] [Trace - 12:39:48 PM] Sending request 'textDocument/codeAction - (122)'.
+2025-11-28 12:39:48.503 [info] [Trace - 12:39:48 PM] Received response 'textDocument/codeAction - (122)' in 1ms.
+2025-11-28 12:39:48.563 [info] [Trace - 12:39:48 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:48.814 [info] [Trace - 12:39:48 PM] Sending request 'textDocument/codeAction - (123)'.
+2025-11-28 12:39:48.815 [info] [Trace - 12:39:48 PM] Received response 'textDocument/codeAction - (123)' in 1ms.
+2025-11-28 12:39:49.101 [info] [Trace - 12:39:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:49.352 [info] [Trace - 12:39:49 PM] Sending request 'textDocument/codeAction - (124)'.
+2025-11-28 12:39:49.354 [info] [Trace - 12:39:49 PM] Received response 'textDocument/codeAction - (124)' in 2ms.
+2025-11-28 12:39:51.649 [info] [Trace - 12:39:51 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:51.906 [info] [Trace - 12:39:51 PM] Sending request 'textDocument/codeAction - (125)'.
+2025-11-28 12:39:51.908 [info] [Trace - 12:39:51 PM] Received response 'textDocument/codeAction - (125)' in 2ms.
+2025-11-28 12:39:54.260 [info] [Trace - 12:39:54 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:54.512 [info] [Trace - 12:39:54 PM] Sending request 'textDocument/codeAction - (126)'.
+2025-11-28 12:39:54.514 [info] [Trace - 12:39:54 PM] Received response 'textDocument/codeAction - (126)' in 2ms.
+2025-11-28 12:39:55.524 [info] [Trace - 12:39:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:55.775 [info] [Trace - 12:39:55 PM] Sending request 'textDocument/codeAction - (127)'.
+2025-11-28 12:39:55.777 [info] [Trace - 12:39:55 PM] Received response 'textDocument/codeAction - (127)' in 2ms.
+2025-11-28 12:39:56.359 [info] [Trace - 12:39:56 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:56.610 [info] [Trace - 12:39:56 PM] Sending request 'textDocument/codeAction - (128)'.
+2025-11-28 12:39:56.611 [info] [Trace - 12:39:56 PM] Received response 'textDocument/codeAction - (128)' in 1ms.
+2025-11-28 12:39:56.654 [info] [Trace - 12:39:56 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:56.905 [info] [Trace - 12:39:56 PM] Sending request 'textDocument/codeAction - (129)'.
+2025-11-28 12:39:56.906 [info] [Trace - 12:39:56 PM] Received response 'textDocument/codeAction - (129)' in 1ms.
+2025-11-28 12:39:56.975 [info] [Trace - 12:39:56 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:57.226 [info] [Trace - 12:39:57 PM] Sending request 'textDocument/codeAction - (130)'.
+2025-11-28 12:39:57.227 [info] [Trace - 12:39:57 PM] Received response 'textDocument/codeAction - (130)' in 1ms.
+2025-11-28 12:39:57.294 [info] [Trace - 12:39:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:57.531 [info] [Trace - 12:39:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:57.742 [info] [Trace - 12:39:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:39:57.993 [info] [Trace - 12:39:57 PM] Sending request 'textDocument/codeAction - (131)'.
+2025-11-28 12:39:57.994 [info] [Trace - 12:39:57 PM] Received response 'textDocument/codeAction - (131)' in 1ms.
+2025-11-28 12:40:00.204 [info] [Trace - 12:40:00 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:00.206 [info] [Trace - 12:40:00 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:00.457 [info] [Trace - 12:40:00 PM] Sending request 'textDocument/codeAction - (132)'.
+2025-11-28 12:40:00.459 [info] [Trace - 12:40:00 PM] Received response 'textDocument/codeAction - (132)' in 2ms.
+2025-11-28 12:40:01.249 [info] [Trace - 12:40:01 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:01.366 [info] [Trace - 12:40:01 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:01.579 [info] [Trace - 12:40:01 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:01.835 [info] [Trace - 12:40:01 PM] Sending request 'textDocument/codeAction - (133)'.
+2025-11-28 12:40:01.836 [info] [Trace - 12:40:01 PM] Received response 'textDocument/codeAction - (133)' in 1ms.
+2025-11-28 12:40:02.120 [info] [Trace - 12:40:02 PM] Sending request 'textDocument/codeAction - (134)'.
+2025-11-28 12:40:02.122 [info] [Trace - 12:40:02 PM] Received response 'textDocument/codeAction - (134)' in 2ms.
+2025-11-28 12:40:02.310 [info] [Trace - 12:40:02 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:02.820 [info] [Trace - 12:40:02 PM] Sending request 'textDocument/codeAction - (135)'.
+2025-11-28 12:40:02.821 [info] [Trace - 12:40:02 PM] Received response 'textDocument/codeAction - (135)' in 1ms.
+2025-11-28 12:40:02.867 [info] [Trace - 12:40:02 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:03.118 [info] [Trace - 12:40:03 PM] Sending request 'textDocument/codeAction - (136)'.
+2025-11-28 12:40:03.119 [info] [Trace - 12:40:03 PM] Received response 'textDocument/codeAction - (136)' in 1ms.
+2025-11-28 12:40:03.870 [info] [Trace - 12:40:03 PM] Sending request 'textDocument/codeAction - (137)'.
+2025-11-28 12:40:03.871 [info] [Trace - 12:40:03 PM] Received response 'textDocument/codeAction - (137)' in 1ms.
+2025-11-28 12:40:06.047 [info] [Trace - 12:40:06 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:06.307 [info] [Trace - 12:40:06 PM] Sending request 'textDocument/codeAction - (138)'.
+2025-11-28 12:40:06.308 [info] [Trace - 12:40:06 PM] Received response 'textDocument/codeAction - (138)' in 1ms.
+2025-11-28 12:40:06.587 [info] [Trace - 12:40:06 PM] Sending request 'textDocument/codeAction - (139)'.
+2025-11-28 12:40:06.589 [info] [Trace - 12:40:06 PM] Received response 'textDocument/codeAction - (139)' in 2ms.
+2025-11-28 12:40:06.619 [info] [Trace - 12:40:06 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:06.704 [info] [Trace - 12:40:06 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:06.955 [info] [Trace - 12:40:06 PM] Sending request 'textDocument/codeAction - (140)'.
+2025-11-28 12:40:06.956 [info] [Trace - 12:40:06 PM] Received response 'textDocument/codeAction - (140)' in 1ms.
+2025-11-28 12:40:07.462 [info] [Trace - 12:40:07 PM] Sending request 'textDocument/codeAction - (141)'.
+2025-11-28 12:40:07.463 [info] [Trace - 12:40:07 PM] Received response 'textDocument/codeAction - (141)' in 1ms.
+2025-11-28 12:40:09.522 [info] [Trace - 12:40:09 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:09.774 [info] [Trace - 12:40:09 PM] Sending request 'textDocument/codeAction - (142)'.
+2025-11-28 12:40:09.775 [info] [Trace - 12:40:09 PM] Received response 'textDocument/codeAction - (142)' in 1ms.
+2025-11-28 12:40:11.348 [info] [Trace - 12:40:11 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:11.599 [info] [Trace - 12:40:11 PM] Sending request 'textDocument/codeAction - (143)'.
+2025-11-28 12:40:11.601 [info] [Trace - 12:40:11 PM] Received response 'textDocument/codeAction - (143)' in 1ms.
+2025-11-28 12:40:16.304 [info] [Trace - 12:40:16 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:16.556 [info] [Trace - 12:40:16 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:16.819 [info] [Trace - 12:40:16 PM] Sending request 'textDocument/codeAction - (144)'.
+2025-11-28 12:40:16.820 [info] [Trace - 12:40:16 PM] Received response 'textDocument/codeAction - (144)' in 1ms.
+2025-11-28 12:40:18.362 [info] [Trace - 12:40:18 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:18.612 [info] [Trace - 12:40:18 PM] Sending request 'textDocument/codeAction - (145)'.
+2025-11-28 12:40:18.613 [info] [Trace - 12:40:18 PM] Received response 'textDocument/codeAction - (145)' in 1ms.
+2025-11-28 12:40:22.333 [info] [Trace - 12:40:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:22.584 [info] [Trace - 12:40:22 PM] Sending request 'textDocument/codeAction - (146)'.
+2025-11-28 12:40:22.585 [info] [Trace - 12:40:22 PM] Received response 'textDocument/codeAction - (146)' in 1ms.
+2025-11-28 12:40:23.549 [info] [Trace - 12:40:23 PM] Sending notification 'textDocument/didOpen'.
+2025-11-28 12:40:23.552 [info] [Trace - 12:40:23 PM] Received notification 'window/logMessage'.
+2025-11-28 12:40:23.552 [info] [Warn  - 12:40:23 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X15sZmlsZQ%3D%3D
+2025-11-28 12:40:23.552 [info] [Trace - 12:40:23 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:40:24.906 [info] [Trace - 12:40:24 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:28.270 [info] [Trace - 12:40:28 PM] Sending request 'textDocument/codeAction - (147)'.
+2025-11-28 12:40:28.271 [info] [Trace - 12:40:28 PM] Received response 'textDocument/codeAction - (147)' in 1ms.
+2025-11-28 12:40:30.662 [info] [Trace - 12:40:30 PM] Sending request 'textDocument/codeAction - (148)'.
+2025-11-28 12:40:30.664 [info] [Trace - 12:40:30 PM] Received response 'textDocument/codeAction - (148)' in 1ms.
+2025-11-28 12:40:30.733 [info] [Trace - 12:40:30 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:33.084 [info] [Trace - 12:40:33 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:33.335 [info] [Trace - 12:40:33 PM] Sending request 'textDocument/codeAction - (149)'.
+2025-11-28 12:40:33.336 [info] [Trace - 12:40:33 PM] Received response 'textDocument/codeAction - (149)' in 1ms.
+2025-11-28 12:40:33.970 [info] [Trace - 12:40:33 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:34.226 [info] [Trace - 12:40:34 PM] Sending request 'textDocument/codeAction - (150)'.
+2025-11-28 12:40:34.227 [info] [Trace - 12:40:34 PM] Received response 'textDocument/codeAction - (150)' in 1ms.
+2025-11-28 12:40:34.458 [info] [Trace - 12:40:34 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:34.715 [info] [Trace - 12:40:34 PM] Sending request 'textDocument/codeAction - (151)'.
+2025-11-28 12:40:34.717 [info] [Trace - 12:40:34 PM] Received response 'textDocument/codeAction - (151)' in 2ms.
+2025-11-28 12:40:34.822 [info] [Trace - 12:40:34 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:34.981 [info] [Trace - 12:40:34 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:35.239 [info] [Trace - 12:40:35 PM] Sending request 'textDocument/codeAction - (152)'.
+2025-11-28 12:40:35.240 [info] [Trace - 12:40:35 PM] Received response 'textDocument/codeAction - (152)' in 1ms.
+2025-11-28 12:40:35.523 [info] [Trace - 12:40:35 PM] Sending request 'textDocument/codeAction - (153)'.
+2025-11-28 12:40:35.524 [info] [Trace - 12:40:35 PM] Received response 'textDocument/codeAction - (153)' in 1ms.
+2025-11-28 12:40:37.892 [info] [Trace - 12:40:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:38.152 [info] [Trace - 12:40:38 PM] Sending request 'textDocument/codeAction - (154)'.
+2025-11-28 12:40:38.153 [info] [Trace - 12:40:38 PM] Received response 'textDocument/codeAction - (154)' in 1ms.
+2025-11-28 12:40:38.327 [info] [Trace - 12:40:38 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:38.580 [info] [Trace - 12:40:38 PM] Sending request 'textDocument/codeAction - (155)'.
+2025-11-28 12:40:38.582 [info] [Trace - 12:40:38 PM] Received response 'textDocument/codeAction - (155)' in 2ms.
+2025-11-28 12:40:38.877 [info] [Trace - 12:40:38 PM] Sending request 'textDocument/codeAction - (156)'.
+2025-11-28 12:40:38.878 [info] [Trace - 12:40:38 PM] Received response 'textDocument/codeAction - (156)' in 1ms.
+2025-11-28 12:40:39.627 [info] [Trace - 12:40:39 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:40.285 [info] [Trace - 12:40:40 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:40.544 [info] [Trace - 12:40:40 PM] Sending request 'textDocument/codeAction - (157)'.
+2025-11-28 12:40:40.545 [info] [Trace - 12:40:40 PM] Received response 'textDocument/codeAction - (157)' in 1ms.
+2025-11-28 12:40:40.826 [info] [Trace - 12:40:40 PM] Sending request 'textDocument/codeAction - (158)'.
+2025-11-28 12:40:40.827 [info] [Trace - 12:40:40 PM] Received response 'textDocument/codeAction - (158)' in 1ms.
+2025-11-28 12:40:55.547 [info] [Trace - 12:40:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:55.723 [info] [Trace - 12:40:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:55.740 [info] [Trace - 12:40:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:56.283 [info] [Trace - 12:40:56 PM] Sending request 'textDocument/codeAction - (159)'.
+2025-11-28 12:40:56.285 [info] [Trace - 12:40:56 PM] Received response 'textDocument/codeAction - (159)' in 2ms.
+2025-11-28 12:40:57.074 [info] [Trace - 12:40:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:57.174 [info] [Trace - 12:40:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:57.433 [info] [Trace - 12:40:57 PM] Sending request 'textDocument/codeAction - (160)'.
+2025-11-28 12:40:57.434 [info] [Trace - 12:40:57 PM] Received response 'textDocument/codeAction - (160)' in 1ms.
+2025-11-28 12:40:57.727 [info] [Trace - 12:40:57 PM] Sending request 'textDocument/codeAction - (161)'.
+2025-11-28 12:40:57.728 [info] [Trace - 12:40:57 PM] Received response 'textDocument/codeAction - (161)' in 1ms.
+2025-11-28 12:40:57.926 [info] [Trace - 12:40:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:58.184 [info] [Trace - 12:40:58 PM] Sending request 'textDocument/codeAction - (162)'.
+2025-11-28 12:40:58.186 [info] [Trace - 12:40:58 PM] Received response 'textDocument/codeAction - (162)' in 2ms.
+2025-11-28 12:40:58.470 [info] [Trace - 12:40:58 PM] Sending request 'textDocument/codeAction - (163)'.
+2025-11-28 12:40:58.471 [info] [Trace - 12:40:58 PM] Received response 'textDocument/codeAction - (163)' in 1ms.
+2025-11-28 12:40:59.073 [info] [Trace - 12:40:59 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:40:59.332 [info] [Trace - 12:40:59 PM] Sending request 'textDocument/codeAction - (164)'.
+2025-11-28 12:40:59.333 [info] [Trace - 12:40:59 PM] Received response 'textDocument/codeAction - (164)' in 1ms.
+2025-11-28 12:40:59.615 [info] [Trace - 12:40:59 PM] Sending request 'textDocument/codeAction - (165)'.
+2025-11-28 12:40:59.617 [info] [Trace - 12:40:59 PM] Received response 'textDocument/codeAction - (165)' in 2ms.
+2025-11-28 12:40:59.893 [info] [Trace - 12:40:59 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:00.403 [info] [Trace - 12:41:00 PM] Sending request 'textDocument/codeAction - (166)'.
+2025-11-28 12:41:00.404 [info] [Trace - 12:41:00 PM] Received response 'textDocument/codeAction - (166)' in 1ms.
+2025-11-28 12:41:00.954 [info] [Trace - 12:41:00 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:01.216 [info] [Trace - 12:41:01 PM] Sending request 'textDocument/codeAction - (167)'.
+2025-11-28 12:41:01.217 [info] [Trace - 12:41:01 PM] Received response 'textDocument/codeAction - (167)' in 1ms.
+2025-11-28 12:41:01.283 [info] [Trace - 12:41:01 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:01.540 [info] [Trace - 12:41:01 PM] Sending request 'textDocument/codeAction - (168)'.
+2025-11-28 12:41:01.541 [info] [Trace - 12:41:01 PM] Received response 'textDocument/codeAction - (168)' in 1ms.
+2025-11-28 12:41:01.680 [info] [Trace - 12:41:01 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:01.789 [info] [Trace - 12:41:01 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:02.048 [info] [Trace - 12:41:02 PM] Sending request 'textDocument/codeAction - (169)'.
+2025-11-28 12:41:02.050 [info] [Trace - 12:41:02 PM] Received response 'textDocument/codeAction - (169)' in 2ms.
+2025-11-28 12:41:05.493 [info] [Trace - 12:41:05 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:05.756 [info] [Trace - 12:41:05 PM] Sending request 'textDocument/codeAction - (170)'.
+2025-11-28 12:41:05.758 [info] [Trace - 12:41:05 PM] Received response 'textDocument/codeAction - (170)' in 2ms.
+2025-11-28 12:41:06.859 [info] [Trace - 12:41:06 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:07.118 [info] [Trace - 12:41:07 PM] Sending request 'textDocument/codeAction - (171)'.
+2025-11-28 12:41:07.120 [info] [Trace - 12:41:07 PM] Received response 'textDocument/codeAction - (171)' in 2ms.
+2025-11-28 12:41:08.705 [info] [Trace - 12:41:08 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:08.963 [info] [Trace - 12:41:08 PM] Sending request 'textDocument/codeAction - (172)'.
+2025-11-28 12:41:08.965 [info] [Trace - 12:41:08 PM] Received response 'textDocument/codeAction - (172)' in 2ms.
+2025-11-28 12:41:10.413 [info] [Trace - 12:41:10 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:10.672 [info] [Trace - 12:41:10 PM] Sending request 'textDocument/codeAction - (173)'.
+2025-11-28 12:41:10.673 [info] [Trace - 12:41:10 PM] Received response 'textDocument/codeAction - (173)' in 1ms.
+2025-11-28 12:41:11.716 [info] [Trace - 12:41:11 PM] Sending request 'textDocument/codeAction - (174)'.
+2025-11-28 12:41:11.718 [info] [Trace - 12:41:11 PM] Received response 'textDocument/codeAction - (174)' in 2ms.
+2025-11-28 12:41:18.915 [info] [Trace - 12:41:18 PM] Sending request 'textDocument/codeAction - (175)'.
+2025-11-28 12:41:18.916 [info] [Trace - 12:41:18 PM] Received response 'textDocument/codeAction - (175)' in 1ms.
+2025-11-28 12:41:19.167 [info] [Trace - 12:41:19 PM] Sending request 'textDocument/codeAction - (176)'.
+2025-11-28 12:41:19.168 [info] [Trace - 12:41:19 PM] Received response 'textDocument/codeAction - (176)' in 1ms.
+2025-11-28 12:41:19.182 [info] [Trace - 12:41:19 PM] Sending request 'textDocument/codeAction - (177)'.
+2025-11-28 12:41:19.183 [info] [Trace - 12:41:19 PM] Received response 'textDocument/codeAction - (177)' in 1ms.
+2025-11-28 12:41:21.270 [info] [Trace - 12:41:21 PM] Sending request 'textDocument/codeAction - (178)'.
+2025-11-28 12:41:21.271 [info] [Trace - 12:41:21 PM] Received response 'textDocument/codeAction - (178)' in 1ms.
+2025-11-28 12:41:21.301 [info] [Trace - 12:41:21 PM] Sending request 'textDocument/codeAction - (179)'.
+2025-11-28 12:41:21.302 [info] [Trace - 12:41:21 PM] Received response 'textDocument/codeAction - (179)' in 1ms.
+2025-11-28 12:41:21.549 [info] [Trace - 12:41:21 PM] Sending request 'textDocument/codeAction - (180)'.
+2025-11-28 12:41:21.551 [info] [Trace - 12:41:21 PM] Received response 'textDocument/codeAction - (180)' in 2ms.
+2025-11-28 12:41:21.556 [info] [Trace - 12:41:21 PM] Sending request 'textDocument/codeAction - (181)'.
+2025-11-28 12:41:21.557 [info] [Trace - 12:41:21 PM] Received response 'textDocument/codeAction - (181)' in 1ms.
+2025-11-28 12:41:21.800 [info] [Trace - 12:41:21 PM] Sending request 'textDocument/codeAction - (182)'.
+2025-11-28 12:41:21.801 [info] [Trace - 12:41:21 PM] Received response 'textDocument/codeAction - (182)' in 1ms.
+2025-11-28 12:41:21.803 [info] [Trace - 12:41:21 PM] Sending request 'textDocument/codeAction - (183)'.
+2025-11-28 12:41:21.804 [info] [Trace - 12:41:21 PM] Received response 'textDocument/codeAction - (183)' in 1ms.
+2025-11-28 12:41:26.030 [info] [Trace - 12:41:26 PM] Sending request 'textDocument/codeAction - (184)'.
+2025-11-28 12:41:26.031 [info] [Trace - 12:41:26 PM] Received response 'textDocument/codeAction - (184)' in 1ms.
+2025-11-28 12:41:27.019 [info] [Trace - 12:41:27 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:27.270 [info] [Trace - 12:41:27 PM] Sending request 'textDocument/codeAction - (185)'.
+2025-11-28 12:41:27.271 [info] [Trace - 12:41:27 PM] Received response 'textDocument/codeAction - (185)' in 1ms.
+2025-11-28 12:41:32.821 [info] [Trace - 12:41:32 PM] Sending request 'textDocument/codeAction - (186)'.
+2025-11-28 12:41:32.823 [info] [Trace - 12:41:32 PM] Received response 'textDocument/codeAction - (186)' in 2ms.
+2025-11-28 12:41:33.932 [info] [Trace - 12:41:33 PM] Sending request 'textDocument/codeAction - (187)'.
+2025-11-28 12:41:33.933 [info] [Trace - 12:41:33 PM] Received response 'textDocument/codeAction - (187)' in 1ms.
+2025-11-28 12:41:34.916 [info] [Trace - 12:41:34 PM] Sending request 'textDocument/codeAction - (188)'.
+2025-11-28 12:41:34.917 [info] [Trace - 12:41:34 PM] Received response 'textDocument/codeAction - (188)' in 1ms.
+2025-11-28 12:41:35.184 [info] [Trace - 12:41:35 PM] Sending request 'textDocument/codeAction - (189)'.
+2025-11-28 12:41:35.185 [info] [Trace - 12:41:35 PM] Received response 'textDocument/codeAction - (189)' in 2ms.
+2025-11-28 12:41:35.218 [info] [Trace - 12:41:35 PM] Sending request 'textDocument/codeAction - (190)'.
+2025-11-28 12:41:35.219 [info] [Trace - 12:41:35 PM] Received response 'textDocument/codeAction - (190)' in 1ms.
+2025-11-28 12:41:35.469 [info] [Trace - 12:41:35 PM] Sending request 'textDocument/codeAction - (191)'.
+2025-11-28 12:41:35.470 [info] [Trace - 12:41:35 PM] Received response 'textDocument/codeAction - (191)' in 1ms.
+2025-11-28 12:41:35.483 [info] [Trace - 12:41:35 PM] Sending request 'textDocument/codeAction - (192)'.
+2025-11-28 12:41:35.483 [info] [Trace - 12:41:35 PM] Received response 'textDocument/codeAction - (192)' in 0ms.
+2025-11-28 12:41:37.106 [info] [Trace - 12:41:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:37.240 [info] [Trace - 12:41:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:37.497 [info] [Trace - 12:41:37 PM] Sending request 'textDocument/codeAction - (193)'.
+2025-11-28 12:41:37.498 [info] [Trace - 12:41:37 PM] Received response 'textDocument/codeAction - (193)' in 1ms.
+2025-11-28 12:41:37.696 [info] [Trace - 12:41:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:38.205 [info] [Trace - 12:41:38 PM] Sending request 'textDocument/codeAction - (194)'.
+2025-11-28 12:41:38.206 [info] [Trace - 12:41:38 PM] Received response 'textDocument/codeAction - (194)' in 1ms.
+2025-11-28 12:41:38.701 [info] [Trace - 12:41:38 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:38.961 [info] [Trace - 12:41:38 PM] Sending request 'textDocument/codeAction - (195)'.
+2025-11-28 12:41:38.963 [info] [Trace - 12:41:38 PM] Received response 'textDocument/codeAction - (195)' in 2ms.
+2025-11-28 12:41:39.242 [info] [Trace - 12:41:39 PM] Sending request 'textDocument/codeAction - (196)'.
+2025-11-28 12:41:39.243 [info] [Trace - 12:41:39 PM] Received response 'textDocument/codeAction - (196)' in 1ms.
+2025-11-28 12:41:39.272 [info] [Trace - 12:41:39 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:39.509 [info] [Trace - 12:41:39 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:39.760 [info] [Trace - 12:41:39 PM] Sending request 'textDocument/codeAction - (197)'.
+2025-11-28 12:41:39.761 [info] [Trace - 12:41:39 PM] Received response 'textDocument/codeAction - (197)' in 1ms.
+2025-11-28 12:41:39.795 [info] [Trace - 12:41:39 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:40.047 [info] [Trace - 12:41:40 PM] Sending request 'textDocument/codeAction - (198)'.
+2025-11-28 12:41:40.048 [info] [Trace - 12:41:40 PM] Received response 'textDocument/codeAction - (198)' in 1ms.
+2025-11-28 12:41:40.487 [info] [Trace - 12:41:40 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:40.739 [info] [Trace - 12:41:40 PM] Sending request 'textDocument/codeAction - (199)'.
+2025-11-28 12:41:40.740 [info] [Trace - 12:41:40 PM] Received response 'textDocument/codeAction - (199)' in 1ms.
+2025-11-28 12:41:42.117 [info] [Trace - 12:41:42 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:43.052 [info] [Trace - 12:41:43 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:43.303 [info] [Trace - 12:41:43 PM] Sending request 'textDocument/codeAction - (200)'.
+2025-11-28 12:41:43.304 [info] [Trace - 12:41:43 PM] Received response 'textDocument/codeAction - (200)' in 1ms.
+2025-11-28 12:41:45.833 [info] [Trace - 12:41:45 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:46.084 [info] [Trace - 12:41:46 PM] Sending request 'textDocument/codeAction - (201)'.
+2025-11-28 12:41:46.085 [info] [Trace - 12:41:46 PM] Received response 'textDocument/codeAction - (201)' in 1ms.
+2025-11-28 12:41:47.496 [info] [Trace - 12:41:47 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:47.748 [info] [Trace - 12:41:47 PM] Sending request 'textDocument/codeAction - (202)'.
+2025-11-28 12:41:47.749 [info] [Trace - 12:41:47 PM] Received response 'textDocument/codeAction - (202)' in 1ms.
+2025-11-28 12:41:48.970 [info] [Trace - 12:41:48 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:49.228 [info] [Trace - 12:41:49 PM] Sending request 'textDocument/codeAction - (203)'.
+2025-11-28 12:41:49.229 [info] [Trace - 12:41:49 PM] Received response 'textDocument/codeAction - (203)' in 1ms.
+2025-11-28 12:41:49.511 [info] [Trace - 12:41:49 PM] Sending request 'textDocument/codeAction - (204)'.
+2025-11-28 12:41:49.512 [info] [Trace - 12:41:49 PM] Received response 'textDocument/codeAction - (204)' in 2ms.
+2025-11-28 12:41:49.966 [info] [Trace - 12:41:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:50.225 [info] [Trace - 12:41:50 PM] Sending request 'textDocument/codeAction - (205)'.
+2025-11-28 12:41:50.226 [info] [Trace - 12:41:50 PM] Received response 'textDocument/codeAction - (205)' in 1ms.
+2025-11-28 12:41:50.481 [info] [Trace - 12:41:50 PM] Sending request 'textDocument/codeAction - (206)'.
+2025-11-28 12:41:50.483 [info] [Trace - 12:41:50 PM] Received response 'textDocument/codeAction - (206)' in 2ms.
+2025-11-28 12:41:50.750 [info] [Trace - 12:41:50 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:51.001 [info] [Trace - 12:41:51 PM] Sending request 'textDocument/codeAction - (207)'.
+2025-11-28 12:41:51.003 [info] [Trace - 12:41:51 PM] Received response 'textDocument/codeAction - (207)' in 2ms.
+2025-11-28 12:41:54.291 [info] [Trace - 12:41:54 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:54.543 [info] [Trace - 12:41:54 PM] Sending request 'textDocument/codeAction - (208)'.
+2025-11-28 12:41:54.544 [info] [Trace - 12:41:54 PM] Received response 'textDocument/codeAction - (208)' in 1ms.
+2025-11-28 12:41:56.605 [info] [Trace - 12:41:56 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:41:56.865 [info] [Trace - 12:41:56 PM] Sending request 'textDocument/codeAction - (209)'.
+2025-11-28 12:41:56.867 [info] [Trace - 12:41:56 PM] Received response 'textDocument/codeAction - (209)' in 2ms.
+2025-11-28 12:41:59.152 [info] [Trace - 12:41:59 PM] Sending notification 'textDocument/didOpen'.
+2025-11-28 12:41:59.153 [info] [Trace - 12:41:59 PM] Received notification 'window/logMessage'.
+2025-11-28 12:41:59.154 [info] [Warn  - 12:41:59 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X16sZmlsZQ%3D%3D
+2025-11-28 12:41:59.154 [info] [Trace - 12:41:59 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:41:59.454 [info] [Trace - 12:41:59 PM] Sending request 'textDocument/codeAction - (210)'.
+2025-11-28 12:41:59.455 [info] [Trace - 12:41:59 PM] Sending request 'textDocument/codeAction - (211)'.
+2025-11-28 12:41:59.455 [info] [Trace - 12:41:59 PM] Received response 'textDocument/codeAction - (210)' in 1ms.
+2025-11-28 12:41:59.456 [info] [Trace - 12:41:59 PM] Received response 'textDocument/codeAction - (211)' in 1ms.
+2025-11-28 12:41:59.870 [info] [Trace - 12:41:59 PM] Sending request 'textDocument/codeAction - (212)'.
+2025-11-28 12:41:59.872 [info] [Trace - 12:41:59 PM] Received response 'textDocument/codeAction - (212)' in 2ms.
+2025-11-28 12:42:12.169 [info] [Trace - 12:42:12 PM] Sending request 'textDocument/codeAction - (213)'.
+2025-11-28 12:42:12.171 [info] [Trace - 12:42:12 PM] Received response 'textDocument/codeAction - (213)' in 2ms.
+2025-11-28 12:42:12.478 [info] [Trace - 12:42:12 PM] Sending request 'textDocument/codeAction - (214)'.
+2025-11-28 12:42:12.480 [info] [Trace - 12:42:12 PM] Received response 'textDocument/codeAction - (214)' in 2ms.
+2025-11-28 12:42:14.944 [info] [Trace - 12:42:14 PM] Sending request 'textDocument/codeAction - (215)'.
+2025-11-28 12:42:14.945 [info] [Trace - 12:42:14 PM] Received response 'textDocument/codeAction - (215)' in 1ms.
+2025-11-28 12:42:15.559 [info] [Trace - 12:42:15 PM] Sending request 'textDocument/codeAction - (216)'.
+2025-11-28 12:42:15.561 [info] [Trace - 12:42:15 PM] Received response 'textDocument/codeAction - (216)' in 2ms.
+2025-11-28 12:42:16.512 [info] [Trace - 12:42:16 PM] Sending request 'textDocument/codeAction - (217)'.
+2025-11-28 12:42:16.514 [info] [Trace - 12:42:16 PM] Received response 'textDocument/codeAction - (217)' in 2ms.
+2025-11-28 12:42:16.824 [info] [Trace - 12:42:16 PM] Sending request 'textDocument/codeAction - (218)'.
+2025-11-28 12:42:16.826 [info] [Trace - 12:42:16 PM] Received response 'textDocument/codeAction - (218)' in 2ms.
+2025-11-28 12:42:17.254 [info] [Trace - 12:42:17 PM] Sending request 'textDocument/codeAction - (219)'.
+2025-11-28 12:42:17.256 [info] [Trace - 12:42:17 PM] Received response 'textDocument/codeAction - (219)' in 2ms.
+2025-11-28 12:42:17.744 [info] [Trace - 12:42:17 PM] Sending request 'textDocument/codeAction - (220)'.
+2025-11-28 12:42:17.746 [info] [Trace - 12:42:17 PM] Received response 'textDocument/codeAction - (220)' in 2ms.
+2025-11-28 12:42:19.196 [info] [Trace - 12:42:19 PM] Sending request 'textDocument/codeAction - (221)'.
+2025-11-28 12:42:19.197 [info] [Trace - 12:42:19 PM] Received response 'textDocument/codeAction - (221)' in 1ms.
+2025-11-28 12:42:19.576 [info] [Trace - 12:42:19 PM] Sending request 'textDocument/codeAction - (222)'.
+2025-11-28 12:42:19.577 [info] [Trace - 12:42:19 PM] Received response 'textDocument/codeAction - (222)' in 1ms.
+2025-11-28 12:42:19.862 [info] [Trace - 12:42:19 PM] Sending request 'textDocument/codeAction - (223)'.
+2025-11-28 12:42:19.864 [info] [Trace - 12:42:19 PM] Received response 'textDocument/codeAction - (223)' in 2ms.
+2025-11-28 12:42:22.516 [info] [Trace - 12:42:22 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:22.781 [info] [Trace - 12:42:22 PM] Sending request 'textDocument/codeAction - (224)'.
+2025-11-28 12:42:22.783 [info] [Trace - 12:42:22 PM] Received response 'textDocument/codeAction - (224)' in 2ms.
+2025-11-28 12:42:23.312 [info] [Trace - 12:42:23 PM] Sending request 'textDocument/codeAction - (225)'.
+2025-11-28 12:42:23.313 [info] [Trace - 12:42:23 PM] Received response 'textDocument/codeAction - (225)' in 1ms.
+2025-11-28 12:42:23.518 [info] [Trace - 12:42:23 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:23.778 [info] [Trace - 12:42:23 PM] Sending request 'textDocument/codeAction - (226)'.
+2025-11-28 12:42:23.780 [info] [Trace - 12:42:23 PM] Received response 'textDocument/codeAction - (226)' in 2ms.
+2025-11-28 12:42:24.046 [info] [Trace - 12:42:24 PM] Sending request 'textDocument/codeAction - (227)'.
+2025-11-28 12:42:24.047 [info] [Trace - 12:42:24 PM] Received response 'textDocument/codeAction - (227)' in 1ms.
+2025-11-28 12:42:26.311 [info] [Trace - 12:42:26 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:26.568 [info] [Trace - 12:42:26 PM] Sending request 'textDocument/codeAction - (228)'.
+2025-11-28 12:42:26.570 [info] [Trace - 12:42:26 PM] Received response 'textDocument/codeAction - (228)' in 2ms.
+2025-11-28 12:42:26.775 [info] [Trace - 12:42:26 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:27.031 [info] [Trace - 12:42:27 PM] Sending request 'textDocument/codeAction - (229)'.
+2025-11-28 12:42:27.033 [info] [Trace - 12:42:27 PM] Received response 'textDocument/codeAction - (229)' in 2ms.
+2025-11-28 12:42:27.909 [info] [Trace - 12:42:27 PM] Sending request 'textDocument/codeAction - (230)'.
+2025-11-28 12:42:27.911 [info] [Trace - 12:42:27 PM] Received response 'textDocument/codeAction - (230)' in 2ms.
+2025-11-28 12:42:33.147 [info] [Trace - 12:42:33 PM] Sending request 'textDocument/codeAction - (231)'.
+2025-11-28 12:42:33.148 [info] [Trace - 12:42:33 PM] Received response 'textDocument/codeAction - (231)' in 1ms.
+2025-11-28 12:42:33.912 [info] [Trace - 12:42:33 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:34.414 [info] [Trace - 12:42:34 PM] Sending request 'textDocument/codeAction - (232)'.
+2025-11-28 12:42:34.415 [info] [Trace - 12:42:34 PM] Received response 'textDocument/codeAction - (232)' in 2ms.
+2025-11-28 12:42:34.742 [info] [Trace - 12:42:34 PM] Sending request 'textDocument/codeAction - (233)'.
+2025-11-28 12:42:34.743 [info] [Trace - 12:42:34 PM] Received response 'textDocument/codeAction - (233)' in 1ms.
+2025-11-28 12:42:35.139 [info] [Trace - 12:42:35 PM] Sending request 'textDocument/codeAction - (234)'.
+2025-11-28 12:42:35.141 [info] [Trace - 12:42:35 PM] Received response 'textDocument/codeAction - (234)' in 2ms.
+2025-11-28 12:42:35.502 [info] [Trace - 12:42:35 PM] Sending request 'textDocument/codeAction - (235)'.
+2025-11-28 12:42:35.503 [info] [Trace - 12:42:35 PM] Received response 'textDocument/codeAction - (235)' in 1ms.
+2025-11-28 12:42:35.805 [info] [Trace - 12:42:35 PM] Sending request 'textDocument/codeAction - (236)'.
+2025-11-28 12:42:35.807 [info] [Trace - 12:42:35 PM] Received response 'textDocument/codeAction - (236)' in 2ms.
+2025-11-28 12:42:36.292 [info] [Trace - 12:42:36 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:36.549 [info] [Trace - 12:42:36 PM] Sending request 'textDocument/codeAction - (237)'.
+2025-11-28 12:42:36.551 [info] [Trace - 12:42:36 PM] Received response 'textDocument/codeAction - (237)' in 2ms.
+2025-11-28 12:42:36.969 [info] [Trace - 12:42:36 PM] Sending request 'textDocument/codeAction - (238)'.
+2025-11-28 12:42:36.970 [info] [Trace - 12:42:36 PM] Received response 'textDocument/codeAction - (238)' in 1ms.
+2025-11-28 12:42:37.407 [info] [Trace - 12:42:37 PM] Sending request 'textDocument/codeAction - (239)'.
+2025-11-28 12:42:37.409 [info] [Trace - 12:42:37 PM] Received response 'textDocument/codeAction - (239)' in 2ms.
+2025-11-28 12:42:38.659 [info] [Trace - 12:42:38 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:38.915 [info] [Trace - 12:42:38 PM] Sending request 'textDocument/codeAction - (240)'.
+2025-11-28 12:42:38.916 [info] [Trace - 12:42:38 PM] Received response 'textDocument/codeAction - (240)' in 1ms.
+2025-11-28 12:42:41.501 [info] [Trace - 12:42:41 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:41.757 [info] [Trace - 12:42:41 PM] Sending request 'textDocument/codeAction - (241)'.
+2025-11-28 12:42:41.758 [info] [Trace - 12:42:41 PM] Received response 'textDocument/codeAction - (241)' in 1ms.
+2025-11-28 12:42:42.959 [info] [Trace - 12:42:42 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:43.220 [info] [Trace - 12:42:43 PM] Sending request 'textDocument/codeAction - (242)'.
+2025-11-28 12:42:43.221 [info] [Trace - 12:42:43 PM] Received response 'textDocument/codeAction - (242)' in 1ms.
+2025-11-28 12:42:43.593 [info] [Trace - 12:42:43 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:43.811 [info] [Trace - 12:42:43 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:44.068 [info] [Trace - 12:42:44 PM] Sending request 'textDocument/codeAction - (243)'.
+2025-11-28 12:42:44.069 [info] [Trace - 12:42:44 PM] Received response 'textDocument/codeAction - (243)' in 1ms.
+2025-11-28 12:42:45.487 [info] [Trace - 12:42:45 PM] Sending request 'textDocument/codeAction - (244)'.
+2025-11-28 12:42:45.488 [info] [Trace - 12:42:45 PM] Received response 'textDocument/codeAction - (244)' in 1ms.
+2025-11-28 12:42:47.317 [info] [Trace - 12:42:47 PM] Sending request 'textDocument/codeAction - (245)'.
+2025-11-28 12:42:47.318 [info] [Trace - 12:42:47 PM] Received response 'textDocument/codeAction - (245)' in 1ms.
+2025-11-28 12:42:47.830 [info] [Trace - 12:42:47 PM] Sending request 'textDocument/codeAction - (246)'.
+2025-11-28 12:42:47.832 [info] [Trace - 12:42:47 PM] Received response 'textDocument/codeAction - (246)' in 2ms.
+2025-11-28 12:42:48.627 [info] [Trace - 12:42:48 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:48.837 [info] [Trace - 12:42:48 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:49.014 [info] [Trace - 12:42:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:49.270 [info] [Trace - 12:42:49 PM] Sending request 'textDocument/codeAction - (247)'.
+2025-11-28 12:42:49.271 [info] [Trace - 12:42:49 PM] Received response 'textDocument/codeAction - (247)' in 1ms.
+2025-11-28 12:42:49.487 [info] [Trace - 12:42:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:49.745 [info] [Trace - 12:42:49 PM] Sending request 'textDocument/codeAction - (248)'.
+2025-11-28 12:42:49.746 [info] [Trace - 12:42:49 PM] Received response 'textDocument/codeAction - (248)' in 1ms.
+2025-11-28 12:42:50.038 [info] [Trace - 12:42:50 PM] Sending request 'textDocument/codeAction - (249)'.
+2025-11-28 12:42:50.040 [info] [Trace - 12:42:50 PM] Received response 'textDocument/codeAction - (249)' in 1ms.
+2025-11-28 12:42:50.946 [info] [Trace - 12:42:50 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:51.131 [info] [Trace - 12:42:51 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:51.394 [info] [Trace - 12:42:51 PM] Sending request 'textDocument/codeAction - (250)'.
+2025-11-28 12:42:51.395 [info] [Trace - 12:42:51 PM] Received response 'textDocument/codeAction - (250)' in 1ms.
+2025-11-28 12:42:51.681 [info] [Trace - 12:42:51 PM] Sending request 'textDocument/codeAction - (251)'.
+2025-11-28 12:42:51.683 [info] [Trace - 12:42:51 PM] Received response 'textDocument/codeAction - (251)' in 2ms.
+2025-11-28 12:42:51.757 [info] [Trace - 12:42:51 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:52.016 [info] [Trace - 12:42:52 PM] Sending request 'textDocument/codeAction - (252)'.
+2025-11-28 12:42:52.017 [info] [Trace - 12:42:52 PM] Received response 'textDocument/codeAction - (252)' in 1ms.
+2025-11-28 12:42:52.302 [info] [Trace - 12:42:52 PM] Sending request 'textDocument/codeAction - (253)'.
+2025-11-28 12:42:52.303 [info] [Trace - 12:42:52 PM] Received response 'textDocument/codeAction - (253)' in 1ms.
+2025-11-28 12:42:55.627 [info] [Trace - 12:42:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:55.886 [info] [Trace - 12:42:55 PM] Sending request 'textDocument/codeAction - (254)'.
+2025-11-28 12:42:55.888 [info] [Trace - 12:42:55 PM] Received response 'textDocument/codeAction - (254)' in 2ms.
+2025-11-28 12:42:55.956 [info] [Trace - 12:42:55 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:56.212 [info] [Trace - 12:42:56 PM] Sending request 'textDocument/codeAction - (255)'.
+2025-11-28 12:42:56.213 [info] [Trace - 12:42:56 PM] Received response 'textDocument/codeAction - (255)' in 1ms.
+2025-11-28 12:42:56.998 [info] [Trace - 12:42:56 PM] Sending request 'textDocument/codeAction - (256)'.
+2025-11-28 12:42:57.000 [info] [Trace - 12:42:57 PM] Received response 'textDocument/codeAction - (256)' in 2ms.
+2025-11-28 12:42:57.877 [info] [Trace - 12:42:57 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:58.065 [info] [Trace - 12:42:58 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:58.241 [info] [Trace - 12:42:58 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:58.444 [info] [Trace - 12:42:58 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:58.704 [info] [Trace - 12:42:58 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:58.865 [info] [Trace - 12:42:58 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:58.873 [info] [Trace - 12:42:58 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:58.893 [info] [Trace - 12:42:58 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:42:59.169 [info] [Trace - 12:42:59 PM] Sending request 'textDocument/codeAction - (257)'.
+2025-11-28 12:42:59.170 [info] [Trace - 12:42:59 PM] Received response 'textDocument/codeAction - (257)' in 1ms.
+2025-11-28 12:43:00.042 [info] [Trace - 12:43:00 PM] Sending request 'textDocument/codeAction - (258)'.
+2025-11-28 12:43:00.043 [info] [Trace - 12:43:00 PM] Received response 'textDocument/codeAction - (258)' in 1ms.
+2025-11-28 12:43:01.510 [info] [Trace - 12:43:01 PM] Sending request 'textDocument/codeAction - (259)'.
+2025-11-28 12:43:01.512 [info] [Trace - 12:43:01 PM] Received response 'textDocument/codeAction - (259)' in 2ms.
+2025-11-28 12:43:03.313 [info] [Trace - 12:43:03 PM] Sending request 'textDocument/codeAction - (260)'.
+2025-11-28 12:43:03.314 [info] [Trace - 12:43:03 PM] Received response 'textDocument/codeAction - (260)' in 1ms.
+2025-11-28 12:43:04.117 [info] [Trace - 12:43:04 PM] Sending request 'textDocument/codeAction - (261)'.
+2025-11-28 12:43:04.119 [info] [Trace - 12:43:04 PM] Received response 'textDocument/codeAction - (261)' in 2ms.
+2025-11-28 12:43:04.393 [info] [Trace - 12:43:04 PM] Sending request 'textDocument/codeAction - (262)'.
+2025-11-28 12:43:04.394 [info] [Trace - 12:43:04 PM] Sending request 'textDocument/codeAction - (263)'.
+2025-11-28 12:43:04.395 [info] [Trace - 12:43:04 PM] Received response 'textDocument/codeAction - (262)' in 2ms.
+2025-11-28 12:43:04.396 [info] [Trace - 12:43:04 PM] Received response 'textDocument/codeAction - (263)' in 2ms.
+2025-11-28 12:43:06.807 [info] [Trace - 12:43:06 PM] Sending request 'textDocument/codeAction - (264)'.
+2025-11-28 12:43:06.808 [info] [Trace - 12:43:06 PM] Sending request 'textDocument/codeAction - (265)'.
+2025-11-28 12:43:06.808 [info] [Trace - 12:43:06 PM] Received response 'textDocument/codeAction - (264)' in 1ms.
+2025-11-28 12:43:06.809 [info] [Trace - 12:43:06 PM] Received response 'textDocument/codeAction - (265)' in 1ms.
+2025-11-28 12:43:07.411 [info] [Trace - 12:43:07 PM] Sending request 'textDocument/codeAction - (266)'.
+2025-11-28 12:43:07.412 [info] [Trace - 12:43:07 PM] Sending request 'textDocument/codeAction - (267)'.
+2025-11-28 12:43:07.412 [info] [Trace - 12:43:07 PM] Received response 'textDocument/codeAction - (266)' in 1ms.
+2025-11-28 12:43:07.413 [info] [Trace - 12:43:07 PM] Received response 'textDocument/codeAction - (267)' in 1ms.
+2025-11-28 12:43:08.623 [info] [Trace - 12:43:08 PM] Sending request 'textDocument/codeAction - (268)'.
+2025-11-28 12:43:08.624 [info] [Trace - 12:43:08 PM] Received response 'textDocument/codeAction - (268)' in 1ms.
+2025-11-28 12:43:10.292 [info] [Trace - 12:43:10 PM] Sending request 'textDocument/codeAction - (269)'.
+2025-11-28 12:43:10.294 [info] [Trace - 12:43:10 PM] Received response 'textDocument/codeAction - (269)' in 2ms.
+2025-11-28 12:43:12.316 [info] [Trace - 12:43:12 PM] Sending request 'textDocument/codeAction - (270)'.
+2025-11-28 12:43:12.317 [info] [Trace - 12:43:12 PM] Received response 'textDocument/codeAction - (270)' in 1ms.
+2025-11-28 12:43:12.999 [info] [Trace - 12:43:12 PM] Sending request 'textDocument/codeAction - (271)'.
+2025-11-28 12:43:13.001 [info] [Trace - 12:43:13 PM] Received response 'textDocument/codeAction - (271)' in 2ms.
+2025-11-28 12:43:13.936 [info] [Trace - 12:43:13 PM] Sending request 'textDocument/codeAction - (272)'.
+2025-11-28 12:43:13.938 [info] [Trace - 12:43:13 PM] Received response 'textDocument/codeAction - (272)' in 2ms.
+2025-11-28 12:43:15.985 [info] [Trace - 12:43:15 PM] Sending request 'textDocument/codeAction - (273)'.
+2025-11-28 12:43:15.986 [info] [Trace - 12:43:15 PM] Received response 'textDocument/codeAction - (273)' in 1ms.
+2025-11-28 12:43:17.066 [info] [Trace - 12:43:17 PM] Sending request 'textDocument/codeAction - (274)'.
+2025-11-28 12:43:17.068 [info] [Trace - 12:43:17 PM] Received response 'textDocument/codeAction - (274)' in 2ms.
+2025-11-28 12:43:19.057 [info] [Trace - 12:43:19 PM] Sending request 'textDocument/codeAction - (275)'.
+2025-11-28 12:43:19.058 [info] [Trace - 12:43:19 PM] Received response 'textDocument/codeAction - (275)' in 1ms.
+2025-11-28 12:43:20.082 [info] [Trace - 12:43:20 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:20.869 [info] [Trace - 12:43:20 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:21.132 [info] [Trace - 12:43:21 PM] Sending request 'textDocument/codeAction - (276)'.
+2025-11-28 12:43:21.133 [info] [Trace - 12:43:21 PM] Received response 'textDocument/codeAction - (276)' in 1ms.
+2025-11-28 12:43:23.115 [info] [Trace - 12:43:23 PM] Sending request 'textDocument/codeAction - (277)'.
+2025-11-28 12:43:23.116 [info] [Trace - 12:43:23 PM] Received response 'textDocument/codeAction - (277)' in 1ms.
+2025-11-28 12:43:23.579 [info] [Trace - 12:43:23 PM] Sending request 'textDocument/codeAction - (278)'.
+2025-11-28 12:43:23.581 [info] [Trace - 12:43:23 PM] Received response 'textDocument/codeAction - (278)' in 2ms.
+2025-11-28 12:43:25.102 [info] [Trace - 12:43:25 PM] Sending request 'textDocument/codeAction - (279)'.
+2025-11-28 12:43:25.104 [info] [Trace - 12:43:25 PM] Received response 'textDocument/codeAction - (279)' in 2ms.
+2025-11-28 12:43:26.392 [info] [Trace - 12:43:26 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:26.649 [info] [Trace - 12:43:26 PM] Sending request 'textDocument/codeAction - (280)'.
+2025-11-28 12:43:26.650 [info] [Trace - 12:43:26 PM] Received response 'textDocument/codeAction - (280)' in 1ms.
+2025-11-28 12:43:27.018 [info] [Trace - 12:43:27 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:27.275 [info] [Trace - 12:43:27 PM] Sending request 'textDocument/codeAction - (281)'.
+2025-11-28 12:43:27.276 [info] [Trace - 12:43:27 PM] Received response 'textDocument/codeAction - (281)' in 1ms.
+2025-11-28 12:43:28.237 [info] [Trace - 12:43:28 PM] Sending request 'textDocument/codeAction - (282)'.
+2025-11-28 12:43:28.239 [info] [Trace - 12:43:28 PM] Received response 'textDocument/codeAction - (282)' in 2ms.
+2025-11-28 12:43:28.916 [info] [Trace - 12:43:28 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:29.175 [info] [Trace - 12:43:29 PM] Sending request 'textDocument/codeAction - (283)'.
+2025-11-28 12:43:29.176 [info] [Trace - 12:43:29 PM] Received response 'textDocument/codeAction - (283)' in 1ms.
+2025-11-28 12:43:29.582 [info] [Trace - 12:43:29 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:29.838 [info] [Trace - 12:43:29 PM] Sending request 'textDocument/codeAction - (284)'.
+2025-11-28 12:43:29.840 [info] [Trace - 12:43:29 PM] Received response 'textDocument/codeAction - (284)' in 2ms.
+2025-11-28 12:43:32.279 [info] [Trace - 12:43:32 PM] Sending request 'textDocument/codeAction - (285)'.
+2025-11-28 12:43:32.280 [info] [Trace - 12:43:32 PM] Received response 'textDocument/codeAction - (285)' in 1ms.
+2025-11-28 12:43:32.855 [info] [Trace - 12:43:32 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:33.112 [info] [Trace - 12:43:33 PM] Sending request 'textDocument/codeAction - (286)'.
+2025-11-28 12:43:33.113 [info] [Trace - 12:43:33 PM] Received response 'textDocument/codeAction - (286)' in 1ms.
+2025-11-28 12:43:33.990 [info] [Trace - 12:43:33 PM] Sending request 'textDocument/codeAction - (287)'.
+2025-11-28 12:43:33.991 [info] [Trace - 12:43:33 PM] Received response 'textDocument/codeAction - (287)' in 1ms.
+2025-11-28 12:43:34.711 [info] [Trace - 12:43:34 PM] Sending request 'textDocument/codeAction - (288)'.
+2025-11-28 12:43:34.713 [info] [Trace - 12:43:34 PM] Received response 'textDocument/codeAction - (288)' in 2ms.
+2025-11-28 12:43:35.271 [info] [Trace - 12:43:35 PM] Sending request 'textDocument/codeAction - (289)'.
+2025-11-28 12:43:35.272 [info] [Trace - 12:43:35 PM] Received response 'textDocument/codeAction - (289)' in 1ms.
+2025-11-28 12:43:36.536 [info] [Trace - 12:43:36 PM] Sending request 'textDocument/codeAction - (290)'.
+2025-11-28 12:43:36.537 [info] [Trace - 12:43:36 PM] Received response 'textDocument/codeAction - (290)' in 1ms.
+2025-11-28 12:43:37.180 [info] [Trace - 12:43:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:37.408 [info] [Trace - 12:43:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:37.619 [info] [Trace - 12:43:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:37.838 [info] [Trace - 12:43:37 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:43:38.096 [info] [Trace - 12:43:38 PM] Sending request 'textDocument/codeAction - (291)'.
+2025-11-28 12:43:38.097 [info] [Trace - 12:43:38 PM] Received response 'textDocument/codeAction - (291)' in 1ms.
+2025-11-28 12:43:41.193 [info] [Trace - 12:43:41 PM] Sending request 'textDocument/codeAction - (292)'.
+2025-11-28 12:43:41.195 [info] [Trace - 12:43:41 PM] Received response 'textDocument/codeAction - (292)' in 2ms.
+2025-11-28 12:43:42.888 [info] [Trace - 12:43:42 PM] Sending request 'textDocument/codeAction - (293)'.
+2025-11-28 12:43:42.889 [info] [Trace - 12:43:42 PM] Received response 'textDocument/codeAction - (293)' in 1ms.
+2025-11-28 12:43:43.156 [info] [Trace - 12:43:43 PM] Sending request 'textDocument/codeAction - (294)'.
+2025-11-28 12:43:43.157 [info] [Trace - 12:43:43 PM] Sending request 'textDocument/codeAction - (295)'.
+2025-11-28 12:43:43.158 [info] [Trace - 12:43:43 PM] Received response 'textDocument/codeAction - (294)' in 2ms.
+2025-11-28 12:43:43.158 [info] [Trace - 12:43:43 PM] Received response 'textDocument/codeAction - (295)' in 1ms.
+2025-11-28 12:44:10.564 [info] [Trace - 12:44:10 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:44:10.826 [info] [Trace - 12:44:10 PM] Sending request 'textDocument/codeAction - (296)'.
+2025-11-28 12:44:10.827 [info] [Trace - 12:44:10 PM] Received response 'textDocument/codeAction - (296)' in 1ms.
+2025-11-28 12:44:12.203 [info] [Trace - 12:44:12 PM] Sending request 'textDocument/codeAction - (297)'.
+2025-11-28 12:44:12.204 [info] [Trace - 12:44:12 PM] Received response 'textDocument/codeAction - (297)' in 1ms.
+2025-11-28 12:44:13.321 [info] [Trace - 12:44:13 PM] Sending request 'textDocument/codeAction - (298)'.
+2025-11-28 12:44:13.323 [info] [Trace - 12:44:13 PM] Received response 'textDocument/codeAction - (298)' in 2ms.
+2025-11-28 12:44:16.701 [info] [Trace - 12:44:16 PM] Sending request 'textDocument/codeAction - (299)'.
+2025-11-28 12:44:16.703 [info] [Trace - 12:44:16 PM] Received response 'textDocument/codeAction - (299)' in 2ms.
+2025-11-28 12:44:16.968 [info] [Trace - 12:44:16 PM] Sending request 'textDocument/codeAction - (300)'.
+2025-11-28 12:44:16.969 [info] [Trace - 12:44:16 PM] Sending request 'textDocument/codeAction - (301)'.
+2025-11-28 12:44:16.970 [info] [Trace - 12:44:16 PM] Received response 'textDocument/codeAction - (300)' in 2ms.
+2025-11-28 12:44:16.970 [info] [Trace - 12:44:16 PM] Received response 'textDocument/codeAction - (301)' in 1ms.
+2025-11-28 12:44:24.621 [info] [Trace - 12:44:24 PM] Sending request 'textDocument/codeAction - (302)'.
+2025-11-28 12:44:24.622 [info] [Trace - 12:44:24 PM] Received response 'textDocument/codeAction - (302)' in 1ms.
+2025-11-28 12:44:24.803 [info] [Trace - 12:44:24 PM] Sending request 'textDocument/codeAction - (303)'.
+2025-11-28 12:44:24.804 [info] [Trace - 12:44:24 PM] Received response 'textDocument/codeAction - (303)' in 1ms.
+2025-11-28 12:44:25.928 [info] [Trace - 12:44:25 PM] Sending request 'textDocument/codeAction - (304)'.
+2025-11-28 12:44:25.930 [info] [Trace - 12:44:25 PM] Received response 'textDocument/codeAction - (304)' in 2ms.
+2025-11-28 12:44:26.564 [info] [Trace - 12:44:26 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:44:26.828 [info] [Trace - 12:44:26 PM] Sending request 'textDocument/codeAction - (305)'.
+2025-11-28 12:44:26.828 [info] [Trace - 12:44:26 PM] Received response 'textDocument/codeAction - (305)' in 0ms.
+2025-11-28 12:44:28.161 [info] [Trace - 12:44:28 PM] Sending request 'textDocument/codeAction - (306)'.
+2025-11-28 12:44:28.162 [info] [Trace - 12:44:28 PM] Received response 'textDocument/codeAction - (306)' in 1ms.
+2025-11-28 12:44:28.964 [info] [Trace - 12:44:28 PM] Sending request 'textDocument/codeAction - (307)'.
+2025-11-28 12:44:28.966 [info] [Trace - 12:44:28 PM] Received response 'textDocument/codeAction - (307)' in 2ms.
+2025-11-28 12:44:29.229 [info] [Trace - 12:44:29 PM] Sending request 'textDocument/codeAction - (308)'.
+2025-11-28 12:44:29.230 [info] [Trace - 12:44:29 PM] Received response 'textDocument/codeAction - (308)' in 1ms.
+2025-11-28 12:44:31.804 [info] [Trace - 12:44:31 PM] Sending request 'textDocument/codeAction - (309)'.
+2025-11-28 12:44:31.805 [info] [Trace - 12:44:31 PM] Received response 'textDocument/codeAction - (309)' in 1ms.
+2025-11-28 12:44:32.060 [info] [Trace - 12:44:32 PM] Sending request 'textDocument/codeAction - (310)'.
+2025-11-28 12:44:32.061 [info] [Trace - 12:44:32 PM] Sending request 'textDocument/codeAction - (311)'.
+2025-11-28 12:44:32.062 [info] [Trace - 12:44:32 PM] Received response 'textDocument/codeAction - (310)' in 2ms.
+2025-11-28 12:44:32.062 [info] [Trace - 12:44:32 PM] Received response 'textDocument/codeAction - (311)' in 1ms.
+2025-11-28 12:44:43.341 [info] [Trace - 12:44:43 PM] Sending request 'textDocument/codeAction - (312)'.
+2025-11-28 12:44:43.342 [info] [Trace - 12:44:43 PM] Received response 'textDocument/codeAction - (312)' in 1ms.
+2025-11-28 12:45:10.127 [info] [Trace - 12:45:10 PM] Sending request 'textDocument/codeAction - (313)'.
+2025-11-28 12:45:10.129 [info] [Trace - 12:45:10 PM] Received response 'textDocument/codeAction - (313)' in 1ms.
+2025-11-28 12:45:10.394 [info] [Trace - 12:45:10 PM] Sending request 'textDocument/codeAction - (314)'.
+2025-11-28 12:45:10.395 [info] [Trace - 12:45:10 PM] Sending request 'textDocument/codeAction - (315)'.
+2025-11-28 12:45:10.396 [info] [Trace - 12:45:10 PM] Received response 'textDocument/codeAction - (314)' in 2ms.
+2025-11-28 12:45:10.396 [info] [Trace - 12:45:10 PM] Received response 'textDocument/codeAction - (315)' in 1ms.
+2025-11-28 12:45:10.487 [info] [Trace - 12:45:10 PM] Sending request 'textDocument/codeAction - (316)'.
+2025-11-28 12:45:10.488 [info] [Trace - 12:45:10 PM] Received response 'textDocument/codeAction - (316)' in 1ms.
+2025-11-28 12:45:10.738 [info] [Trace - 12:45:10 PM] Sending request 'textDocument/codeAction - (317)'.
+2025-11-28 12:45:10.739 [info] [Trace - 12:45:10 PM] Received response 'textDocument/codeAction - (317)' in 1ms.
+2025-11-28 12:45:10.750 [info] [Trace - 12:45:10 PM] Sending request 'textDocument/codeAction - (318)'.
+2025-11-28 12:45:10.751 [info] [Trace - 12:45:10 PM] Sending request 'textDocument/codeAction - (319)'.
+2025-11-28 12:45:10.752 [info] [Trace - 12:45:10 PM] Received response 'textDocument/codeAction - (318)' in 2ms.
+2025-11-28 12:45:10.752 [info] [Trace - 12:45:10 PM] Received response 'textDocument/codeAction - (319)' in 1ms.
+2025-11-28 12:45:37.918 [info] [Trace - 12:45:37 PM] Sending request 'textDocument/codeAction - (320)'.
+2025-11-28 12:45:37.919 [info] [Trace - 12:45:37 PM] Sending request 'textDocument/codeAction - (321)'.
+2025-11-28 12:45:37.920 [info] [Trace - 12:45:37 PM] Received response 'textDocument/codeAction - (320)' in 2ms.
+2025-11-28 12:45:37.921 [info] [Trace - 12:45:37 PM] Received response 'textDocument/codeAction - (321)' in 2ms.
+2025-11-28 12:45:48.720 [info] [Trace - 12:45:48 PM] Sending request 'textDocument/codeAction - (322)'.
+2025-11-28 12:45:48.721 [info] [Trace - 12:45:48 PM] Sending request 'textDocument/codeAction - (323)'.
+2025-11-28 12:45:48.722 [info] [Trace - 12:45:48 PM] Received response 'textDocument/codeAction - (322)' in 2ms.
+2025-11-28 12:45:48.722 [info] [Trace - 12:45:48 PM] Received response 'textDocument/codeAction - (323)' in 1ms.
+2025-11-28 12:45:49.862 [info] [Trace - 12:45:49 PM] Sending notification 'textDocument/didChange'.
+2025-11-28 12:45:50.113 [info] [Trace - 12:45:50 PM] Sending request 'textDocument/codeAction - (324)'.
+2025-11-28 12:45:50.114 [info] [Trace - 12:45:50 PM] Received response 'textDocument/codeAction - (324)' in 1ms.
+2025-11-28 12:45:50.345 [info] [Trace - 12:45:50 PM] Sending notification 'textDocument/didOpen'.
+2025-11-28 12:45:50.347 [info] [Trace - 12:45:50 PM] Received notification 'window/logMessage'.
+2025-11-28 12:45:50.347 [info] [Warn  - 12:45:50 PM] Skipping notebook cells [Not Supported]: vscode-notebook-cell:/home/peaches/learmmml/llinr.ipynb#X20sZmlsZQ%3D%3D
+2025-11-28 12:45:50.347 [info] [Trace - 12:45:50 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-11-28 12:45:50.645 [info] [Trace - 12:45:50 PM] Sending request 'textDocument/codeAction - (325)'.
+2025-11-28 12:45:50.646 [info] [Trace - 12:45:50 PM] Received response 'textDocument/codeAction - (325)' in 1ms.
+2025-11-28 12:46:03.086 [info] [Trace - 12:46:03 PM] Sending request 'textDocument/codeAction - (326)'.
+2025-11-28 12:46:03.088 [info] [Trace - 12:46:03 PM] Received response 'textDocument/codeAction - (326)' in 2ms.
+2025-11-28 12:46:03.351 [info] [Trace - 12:46:03 PM] Sending request 'textDocument/codeAction - (327)'.
+2025-11-28 12:46:03.352 [info] [Trace - 12:46:03 PM] Sending request 'textDocument/codeAction - (328)'.
+2025-11-28 12:46:03.353 [info] [Trace - 12:46:03 PM] Received response 'textDocument/codeAction - (327)' in 2ms.
+2025-11-28 12:46:03.353 [info] [Trace - 12:46:03 PM] Received response 'textDocument/codeAction - (328)' in 1ms.
+2025-11-28 12:46:03.635 [info] [Trace - 12:46:03 PM] Sending request 'textDocument/codeAction - (329)'.
+2025-11-28 12:46:03.635 [info] [Trace - 12:46:03 PM] Sending request 'textDocument/codeAction - (330)'.
+2025-11-28 12:46:03.636 [info] [Trace - 12:46:03 PM] Received response 'textDocument/codeAction - (329)' in 1ms.
+2025-11-28 12:46:03.636 [info] [Trace - 12:46:03 PM] Received response 'textDocument/codeAction - (330)' in 1ms.

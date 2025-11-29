@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/peaches/.config/Code/User/workspaceStorage/9b10c000f13b4d422cec1d859619716e/redhat.java/.363f79d77db2a62543bec25ec186637bd84e94b0-audit.json",
+    "files": [
+        {
+            "date": 1764245319678,
+            "name": "/home/peaches/.config/Code/User/workspaceStorage/9b10c000f13b4d422cec1d859619716e/redhat.java/client.log.2025-11-27",
+            "hash": "352b084beb3235f58cebb15d34b3e4fde6ac14fa31b4d8b45ec70f8013db1a3a"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,39 @@
+2025-11-27 17:52:37.050 [info] Native locator: Refresh started
+2025-11-27 17:52:37.055 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-27 17:52:37.055 [info] Conda not found on PATH, skipping: /home/peaches/anaconda3/bin/conda
+2025-11-27 17:52:37.055 [info] You can set the path to conda using the setting: `python.condaPath` if you want to use a different conda binary
+2025-11-27 17:52:37.058 [info] Native locator: Refresh finished in 302 ms
+2025-11-27 17:52:37.115 [info] Native locator: Refresh started
+2025-11-27 17:52:37.137 [info] > conda info --json
+2025-11-27 17:52:37.554 [info] > pyenv which python
+2025-11-27 17:52:37.554 [info] cwd: .
+2025-11-27 17:52:37.565 [info] > ~/.conda/bin/conda info --json
+2025-11-27 17:52:37.569 [info] > ~/anaconda3/bin/conda info --json
+2025-11-27 17:52:39.009 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-27 17:52:39.009 [info] Conda not found on PATH, skipping: /home/peaches/anaconda3/bin/conda
+2025-11-27 17:52:39.009 [info] You can set the path to conda using the setting: `python.condaPath` if you want to use a different conda binary
+2025-11-27 17:52:39.011 [info] Native locator: Refresh finished in 1896 ms
+2025-11-27 17:52:39.176 [info] Python interpreter path: ~/anaconda3/bin/python
+2025-11-27 17:52:40.156 [info] Starting Pylance language server.
+2025-11-27 17:52:44.900 [info] Discover tests for workspace name: undefined - uri: /home/peaches/.config/Code/User/settings.json
+2025-11-27 17:52:46.020 [info] Native locator: Refresh started
+2025-11-27 17:52:46.087 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-27 17:52:46.087 [info] Conda not found on PATH, skipping: /home/peaches/anaconda3/bin/conda
+2025-11-27 17:52:46.087 [info] You can set the path to conda using the setting: `python.condaPath` if you want to use a different conda binary
+2025-11-27 17:52:46.106 [info] Native locator: Refresh finished in 86 ms
+2025-11-27 17:52:49.823 [info] CreateEnv Trigger - Skipping for /home/peaches/learmmml/mai.py
+2025-11-27 17:52:49.897 [info] Using interpreter path: /home/peaches/anaconda3/bin/python
+2025-11-27 17:52:49.897 [info] Using single source command: source /home/peaches/anaconda3/bin/activate base
+2025-11-27 17:52:49.898 [info] Send text to terminal: source /home/peaches/anaconda3/bin/activate base
+2025-11-27 17:52:50.899 [info] Send text to terminal: /home/peaches/anaconda3/bin/python /home/peaches/learmmml/mai.py
+2025-11-27 17:53:10.232 [info] Discover tests for workspace name: learmmml - uri: /home/peaches/learmmml/mai.py
+2025-11-27 17:53:51.744 [info] Discover tests for workspace name: learmmml - uri: /home/peaches/learmmml/mai.py
+2025-11-27 17:57:11.380 [info] Native locator: Refresh started
+2025-11-27 17:57:11.462 [info] Conda environment manager found at: /home/peaches/anaconda3/bin/conda
+2025-11-27 17:57:11.463 [info] Conda not found on PATH, skipping: /home/peaches/anaconda3/bin/conda
+2025-11-27 17:57:11.463 [info] You can set the path to conda using the setting: `python.condaPath` if you want to use a different conda binary
+2025-11-27 17:57:11.465 [info] Native locator: Refresh finished in 86 ms
+2025-11-27 18:32:24.383 [info] Using interpreter path: /home/peaches/anaconda3/bin/python
+2025-11-27 18:32:24.468 [info] > ~/anaconda3/bin/conda info --json
+2025-11-27 18:32:25.917 [info] Using single source command: source /home/peaches/anaconda3/bin/activate base
+2025-11-27 18:32:25.918 [info] Send text to terminal: source /home/peaches/anaconda3/bin/activate base

@@ -112,7 +112,7 @@
     "custom/launcher": {
         "format": " 󰣇 ",
         "tooltip": false,
-        "on-click": "wofi -c ~/.config/wofi/config -I"
+        "on-click": "~/.local/bin/favmenu"
     },
     "custom/power": {
         "format": "  ",
@@ -124,7 +124,7 @@
         "format": "{volume}% {icon}  ",
         "format-bluetooth": "{icon} {volume}%",
         "format-muted": "muted ",
-        "on-click": "pavucontrol",
+        "on-click": "wiremix",
         "format-icons": {
             "headphones": "",
             "handsfree": "",
@@ -153,6 +153,7 @@
         "format-charging": "󰂄 {capacity}%",
         "format-pluged": "󱟦 {capacity}%",
         "format-full": "󰁹 {capacity}%",
+        "on-click": "~/.local/bin/power-profile-menu.sh",
         "format-icons": [
             "󰂎",
             "󰁺",
